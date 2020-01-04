@@ -1,0 +1,1233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transcript>
+  <text start="0" dur="3.87">[Music]</text>
+  <text start="0.29" dur="5.29">&lt;font color="#E5E5E5"&gt;all right we&amp;#39;re&lt;/font&gt;&lt;font color="#CCCCCC"&gt; on&lt;/font&gt;&lt;font color="#E5E5E5"&gt; this is Dustin&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Nemo&amp;#39;s&lt;/font&gt;</text>
+  <text start="3.87" dur="3.84">of&lt;font color="#CCCCCC"&gt; destiny&lt;/font&gt;&lt;font color="#E5E5E5"&gt; moose calm welcome back&lt;/font&gt;</text>
+  <text start="5.58" dur="4.53">&lt;font color="#E5E5E5"&gt;everyone&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I am joined by the&lt;/font&gt;</text>
+  <text start="7.71" dur="4.259">epistemologies&lt;font color="#E5E5E5"&gt; you guys if maybe&lt;/font&gt;</text>
+  <text start="10.11" dur="4.14">&lt;font color="#E5E5E5"&gt;remember them I did a short interview&lt;/font&gt;</text>
+  <text start="11.969" dur="4.441">&lt;font color="#CCCCCC"&gt;with them a while back heavy into&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the&lt;/font&gt;</text>
+  <text start="14.25" dur="3.66">&lt;font color="#E5E5E5"&gt;logic and&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the thinking and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; we&amp;#39;re gonna&lt;/font&gt;</text>
+  <text start="16.41" dur="4.5">talk a little bit about you know</text>
+  <text start="17.91" dur="4.32">decentralization and and you guys I&amp;#39;m</text>
+  <text start="20.91" dur="3.029">gonna let you&lt;font color="#E5E5E5"&gt; just kind of run with it&lt;/font&gt;</text>
+  <text start="22.23" dur="4.76">at&lt;font color="#CCCCCC"&gt; first and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; just ask&lt;/font&gt;&lt;font color="#CCCCCC"&gt; questions&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and&lt;/font&gt;</text>
+  <text start="23.939" dur="6.66">bounce around some&lt;font color="#E5E5E5"&gt; ideas with you great&lt;/font&gt;</text>
+  <text start="26.99" dur="7.51">so I think what we wanted&lt;font color="#E5E5E5"&gt; to talk about&lt;/font&gt;</text>
+  <text start="30.599" dur="6.441">&lt;font color="#E5E5E5"&gt;decentralization&lt;/font&gt;&lt;font color="#CCCCCC"&gt; we&amp;#39;re both computer&lt;/font&gt;</text>
+  <text start="34.5" dur="5.76">scientists&lt;font color="#CCCCCC"&gt; and we both&lt;/font&gt;&lt;font color="#E5E5E5"&gt; are programmers&lt;/font&gt;</text>
+  <text start="37.04" dur="5.109">&lt;font color="#E5E5E5"&gt;particularly in the web space and so we&lt;/font&gt;</text>
+  <text start="40.26" dur="4.79">kind of first have first-hand knowledge</text>
+  <text start="42.149" dur="5.401">of what sort&lt;font color="#E5E5E5"&gt; of decentralized&lt;/font&gt;</text>
+  <text start="45.05" dur="5.29">&lt;font color="#E5E5E5"&gt;communities and how and how&lt;/font&gt;&lt;font color="#CCCCCC"&gt; they kind of&lt;/font&gt;</text>
+  <text start="47.55" dur="6.18">work in&lt;font color="#E5E5E5"&gt; the computer science industry&lt;/font&gt;</text>
+  <text start="50.34" dur="7.379">&lt;font color="#E5E5E5"&gt;there&amp;#39;s the there&amp;#39;s this idea&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of open&lt;/font&gt;</text>
+  <text start="53.73" dur="8.009">&lt;font color="#E5E5E5"&gt;source&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and open source is essentially&lt;/font&gt;</text>
+  <text start="57.719" dur="6.151">meaning that whatever&lt;font color="#E5E5E5"&gt; can be built or&lt;/font&gt;</text>
+  <text start="61.739" dur="5.431">their hits people release sort of the</text>
+  <text start="63.87" dur="8.84">the building plans&lt;font color="#E5E5E5"&gt; the the blueprints to&lt;/font&gt;</text>
+  <text start="67.17" dur="8.01">build&lt;font color="#E5E5E5"&gt; what&lt;/font&gt;&lt;font color="#CCCCCC"&gt; they a website or a program&lt;/font&gt;</text>
+  <text start="72.71" dur="5.589">that other engineers can look at that</text>
+  <text start="75.18" dur="5.579">&lt;font color="#CCCCCC"&gt;and then be able&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to recreate that&lt;/font&gt;</text>
+  <text start="78.299" dur="4.11">&lt;font color="#E5E5E5"&gt;building and then add stuff on top of&lt;/font&gt;</text>
+  <text start="80.759" dur="3.72">that and&lt;font color="#E5E5E5"&gt; that&amp;#39;s kind of how the computer&lt;/font&gt;</text>
+  <text start="82.409" dur="5.451">science industry&lt;font color="#E5E5E5"&gt; has has existed for&lt;/font&gt;</text>
+  <text start="84.479" dur="6.361">quite&lt;font color="#E5E5E5"&gt; some&lt;/font&gt;&lt;font color="#CCCCCC"&gt; time and that&amp;#39;s where&lt;/font&gt;</text>
+  <text start="87.86" dur="5.68">decentralization&lt;font color="#E5E5E5"&gt; how that&amp;#39;s kind of&lt;/font&gt;</text>
+  <text start="90.84" dur="5.22">worked in is because&lt;font color="#E5E5E5"&gt; nobody owns these&lt;/font&gt;</text>
+  <text start="93.54" dur="4.8">ideas or these blueprints&lt;font color="#CCCCCC"&gt; there&lt;/font&gt;&lt;font color="#E5E5E5"&gt; are&lt;/font&gt;</text>
+  <text start="96.06" dur="5.34">proprietary&lt;font color="#E5E5E5"&gt; things but they always seem&lt;/font&gt;</text>
+  <text start="98.34" dur="6.779">to fall behind&lt;font color="#E5E5E5"&gt; because just the sheer&lt;/font&gt;</text>
+  <text start="101.4" dur="6.63">staggering might of the progress made</text>
+  <text start="105.119" dur="5.221">from having all these&lt;font color="#E5E5E5"&gt; copies of copies&lt;/font&gt;</text>
+  <text start="108.03" dur="5.49">&lt;font color="#CCCCCC"&gt;and everything continually be improved&lt;/font&gt;</text>
+  <text start="110.34" dur="5.629">on no large no company no matter&lt;font color="#E5E5E5"&gt; how&lt;/font&gt;</text>
+  <text start="113.52" dur="4.98">large it is can really&lt;font color="#CCCCCC"&gt; compete with it&lt;/font&gt;</text>
+  <text start="115.969" dur="4.18">&lt;font color="#CCCCCC"&gt;open source just like the queue and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; on&lt;/font&gt;</text>
+  <text start="118.5" dur="3.75">open source&lt;font color="#E5E5E5"&gt; investigation stuff like&lt;/font&gt;</text>
+  <text start="120.149" dur="2.57">open source&lt;font color="#CCCCCC"&gt; hivemind it&amp;#39;s a powerful&lt;/font&gt;</text>
+  <text start="122.25" dur="3.36">&lt;font color="#CCCCCC"&gt;thing&lt;/font&gt;</text>
+  <text start="122.719" dur="7.391">exactly&lt;font color="#E5E5E5"&gt; that&amp;#39;s&lt;/font&gt;&lt;font color="#CCCCCC"&gt; actually an example of it&lt;/font&gt;</text>
+  <text start="125.61" dur="8.17">yes I see&lt;font color="#E5E5E5"&gt; it as a&lt;/font&gt;&lt;font color="#CCCCCC"&gt; three-step process&lt;/font&gt;</text>
+  <text start="130.11" dur="6.28">where you&amp;#39;re&lt;font color="#CCCCCC"&gt; copying some information&lt;/font&gt;</text>
+  <text start="133.78" dur="3.539">from the&lt;font color="#E5E5E5"&gt; community you&amp;#39;re solving&lt;/font&gt;&lt;font color="#CCCCCC"&gt; a&lt;/font&gt;</text>
+  <text start="136.39" dur="3.21">problem&lt;font color="#E5E5E5"&gt; with it&lt;/font&gt;</text>
+  <text start="137.319" dur="6.631">right in front of&lt;font color="#E5E5E5"&gt; you and then you share&lt;/font&gt;</text>
+  <text start="139.6" dur="9.14">back the solution&lt;font color="#E5E5E5"&gt; so it&amp;#39;s you know copy&lt;/font&gt;</text>
+  <text start="143.95" dur="7.68">solve share&lt;font color="#CCCCCC"&gt; as a iterating cycle&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and&lt;/font&gt;</text>
+  <text start="148.74" dur="5.26">this is&lt;font color="#E5E5E5"&gt; something that you see in&lt;/font&gt;</text>
+  <text start="151.63" dur="7.77">software and&lt;font color="#E5E5E5"&gt; it&amp;#39;s something that you see&lt;/font&gt;</text>
+  <text start="154" dur="9.42">&lt;font color="#CCCCCC"&gt;in on&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the boards for all the open source&lt;/font&gt;</text>
+  <text start="159.4" dur="5.97">intelligence gathering&lt;font color="#E5E5E5"&gt; yeah it actually&lt;/font&gt;</text>
+  <text start="163.42" dur="5.099">&lt;font color="#E5E5E5"&gt;does&lt;/font&gt;&lt;font color="#CCCCCC"&gt; a really&lt;/font&gt;&lt;font color="#E5E5E5"&gt; good job of building&lt;/font&gt;</text>
+  <text start="165.37" dur="6.36">&lt;font color="#CCCCCC"&gt;knowledge just because all of these&lt;/font&gt;</text>
+  <text start="168.519" dur="5.491">&lt;font color="#CCCCCC"&gt;mines&lt;/font&gt;&lt;font color="#E5E5E5"&gt; are going at it in parallel yeah&lt;/font&gt;</text>
+  <text start="171.73" dur="4.289">and it&lt;font color="#CCCCCC"&gt; really&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you&lt;/font&gt;&lt;font color="#CCCCCC"&gt; know&lt;/font&gt;&lt;font color="#E5E5E5"&gt; it allows every&lt;/font&gt;</text>
+  <text start="174.01" dur="4.17">person&lt;font color="#E5E5E5"&gt; to contribute what&lt;/font&gt;&lt;font color="#CCCCCC"&gt; they can like&lt;/font&gt;</text>
+  <text start="176.019" dur="4.531">I get you know I get all&lt;font color="#E5E5E5"&gt; sorts of&lt;/font&gt;</text>
+  <text start="178.18" dur="4.68">messages&lt;font color="#E5E5E5"&gt; from you know not&lt;/font&gt;&lt;font color="#CCCCCC"&gt; necessarily&lt;/font&gt;</text>
+  <text start="180.55" dur="4.469">like&lt;font color="#E5E5E5"&gt; the deep researchers of things&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and&lt;/font&gt;</text>
+  <text start="182.86" dur="3.599">politics but you&lt;font color="#CCCCCC"&gt; know they&amp;#39;ll bring me&lt;/font&gt;</text>
+  <text start="185.019" dur="3.781">like a first-hand account&lt;font color="#CCCCCC"&gt; of something&lt;/font&gt;</text>
+  <text start="186.459" dur="4.711">&lt;font color="#E5E5E5"&gt;that was relevant that they were missing&lt;/font&gt;</text>
+  <text start="188.8" dur="4.019">&lt;font color="#CCCCCC"&gt;that maybe a part of you know and and&lt;/font&gt;</text>
+  <text start="191.17" dur="3.899">then we&lt;font color="#E5E5E5"&gt; have some of&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the Pareto&lt;/font&gt;</text>
+  <text start="192.819" dur="5.161">principle&lt;font color="#E5E5E5"&gt; guys who are out&lt;/font&gt;&lt;font color="#CCCCCC"&gt; there you&lt;/font&gt;</text>
+  <text start="195.069" dur="4.2">know&lt;font color="#E5E5E5"&gt; doing&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the heavy heavy research and&lt;/font&gt;</text>
+  <text start="197.98" dur="5.069">compiling all this stuff together and</text>
+  <text start="199.269" dur="6.261">&lt;font color="#E5E5E5"&gt;then making it digestible for people you&lt;/font&gt;</text>
+  <text start="203.049" dur="5.761">know&lt;font color="#E5E5E5"&gt; and I&amp;#39;m a big fan&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of that kind of&lt;/font&gt;</text>
+  <text start="205.53" dur="5.59">kind of&lt;font color="#CCCCCC"&gt; Napoleon Hill called the&lt;/font&gt;</text>
+  <text start="208.81" dur="4.05">mastermind group&lt;font color="#E5E5E5"&gt; but just putting&lt;/font&gt;</text>
+  <text start="211.12" dur="4.589">people&amp;#39;s brains together&lt;font color="#E5E5E5"&gt; the power is&lt;/font&gt;</text>
+  <text start="212.86" dur="5.159">greater&lt;font color="#E5E5E5"&gt; than the sum&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the parts&lt;/font&gt;&lt;font color="#CCCCCC"&gt; ya&lt;/font&gt;</text>
+  <text start="215.709" dur="5.151">&lt;font color="#CCCCCC"&gt;know we&amp;#39;re&lt;/font&gt;&lt;font color="#E5E5E5"&gt; in the in this process does&lt;/font&gt;</text>
+  <text start="218.019" dur="6.84">someone&amp;#39;s identity matter as much&lt;font color="#E5E5E5"&gt; as&lt;/font&gt;</text>
+  <text start="220.86" dur="8.02">just following that&lt;font color="#E5E5E5"&gt; three-step cycle the&lt;/font&gt;</text>
+  <text start="224.859" dur="8.19">the expert might come in as a source of</text>
+  <text start="228.88" dur="8.22">good explanations&lt;font color="#E5E5E5"&gt; but the fact that they&lt;/font&gt;</text>
+  <text start="233.049" dur="7.621">are an&lt;font color="#E5E5E5"&gt; expert doesn&amp;#39;t really matter as&lt;/font&gt;</text>
+  <text start="237.1" dur="5.49">much&lt;font color="#E5E5E5"&gt; as the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; explanation itself so that&amp;#39;s&lt;/font&gt;</text>
+  <text start="240.67" dur="4.439">why you have&lt;font color="#CCCCCC"&gt; all these&lt;/font&gt;&lt;font color="#E5E5E5"&gt; add-ons on the&lt;/font&gt;</text>
+  <text start="242.59" dur="4.17">board&lt;font color="#E5E5E5"&gt; able&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to work together and&lt;/font&gt;</text>
+  <text start="245.109" dur="3.171">&lt;font color="#E5E5E5"&gt;contribute&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to each other without really&lt;/font&gt;</text>
+  <text start="246.76" dur="3.81">even&lt;font color="#E5E5E5"&gt; knowing who they&amp;#39;re working with&lt;/font&gt;</text>
+  <text start="248.28" dur="5.32">&lt;font color="#E5E5E5"&gt;and it doesn&amp;#39;t really matter I mean Q&lt;/font&gt;</text>
+  <text start="250.57" dur="6.15">himself is an&lt;font color="#CCCCCC"&gt; anonymous source&lt;/font&gt;&lt;font color="#E5E5E5"&gt; who&amp;#39;s&lt;/font&gt;</text>
+  <text start="253.6" dur="8.16">able&lt;font color="#E5E5E5"&gt; to demonstrate&lt;/font&gt;&lt;font color="#CCCCCC"&gt; his knowledge&lt;/font&gt;&lt;font color="#E5E5E5"&gt; just&lt;/font&gt;</text>
+  <text start="256.72" dur="6.509">by&lt;font color="#E5E5E5"&gt; posting in a certain way it&amp;#39;s the&lt;/font&gt;</text>
+  <text start="261.76" dur="4.86">content that matters</text>
+  <text start="263.229" dur="4.391">so whenever you see&lt;font color="#E5E5E5"&gt; someone trying to&lt;/font&gt;</text>
+  <text start="266.62" dur="3.85">&lt;font color="#E5E5E5"&gt;disc&lt;/font&gt;</text>
+  <text start="267.62" dur="4.74">&lt;font color="#CCCCCC"&gt;credit queue it seems&lt;/font&gt;&lt;font color="#E5E5E5"&gt; like the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the brunt&lt;/font&gt;</text>
+  <text start="270.47" dur="3.36">of their argument goes after the</text>
+  <text start="272.36" dur="4.44">identity of&lt;font color="#CCCCCC"&gt; queue&lt;/font&gt;</text>
+  <text start="273.83" dur="4.14">oh yeah that&amp;#39;s all&lt;font color="#E5E5E5"&gt; of it&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that&amp;#39;s 99% of&lt;/font&gt;</text>
+  <text start="276.8" dur="3.03">it there&amp;#39;s a few&lt;font color="#CCCCCC"&gt; people that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; play with&lt;/font&gt;</text>
+  <text start="277.97" dur="4.59">the technical&lt;font color="#CCCCCC"&gt; jargon and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and try to&lt;/font&gt;</text>
+  <text start="279.83" dur="4.92">confuse the muddy the waters but and I</text>
+  <text start="282.56" dur="4.26">think&lt;font color="#CCCCCC"&gt; I like that it the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; anonymous thing&lt;/font&gt;</text>
+  <text start="284.75" dur="3.33">takes the ego out of it&lt;font color="#E5E5E5"&gt; and and imagine&lt;/font&gt;</text>
+  <text start="286.82" dur="4.17">that&amp;#39;s I don&amp;#39;t&lt;font color="#E5E5E5"&gt; know if that&amp;#39;s the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; same&lt;/font&gt;</text>
+  <text start="288.08" dur="5.04">&lt;font color="#CCCCCC"&gt;in like the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the decentralized&lt;/font&gt;&lt;font color="#CCCCCC"&gt; you know&lt;/font&gt;</text>
+  <text start="290.99" dur="5.19">computing&lt;font color="#E5E5E5"&gt; in computer design world but&lt;/font&gt;</text>
+  <text start="293.12" dur="6.03">yeah yeah it&lt;font color="#E5E5E5"&gt; is actually&lt;/font&gt;</text>
+  <text start="296.18" dur="4.109">it really&lt;font color="#E5E5E5"&gt; is&lt;/font&gt;&lt;font color="#CCCCCC"&gt; people very rarely get&lt;/font&gt;</text>
+  <text start="299.15" dur="3.239">attached</text>
+  <text start="300.289" dur="4.19">maybe&lt;font color="#E5E5E5"&gt; maybe at some point they get&lt;/font&gt;</text>
+  <text start="302.389" dur="4.53">attached to&lt;font color="#E5E5E5"&gt; maybe a company&lt;/font&gt;</text>
+  <text start="304.479" dur="5.051">&lt;font color="#CCCCCC"&gt;personalities sort of personalities but&lt;/font&gt;</text>
+  <text start="306.919" dur="7.411">&lt;font color="#E5E5E5"&gt;it&amp;#39;s it&amp;#39;s fairly rare like you know&lt;/font&gt;</text>
+  <text start="309.53" dur="6.93">there are&lt;font color="#E5E5E5"&gt; celebrities inside the yeah&lt;/font&gt;</text>
+  <text start="314.33" dur="4.709">yeah but I understand what&lt;font color="#E5E5E5"&gt; you mean yeah&lt;/font&gt;</text>
+  <text start="316.46" dur="5.82">that&amp;#39;s&lt;font color="#E5E5E5"&gt; it&amp;#39;s fairly rare and it&amp;#39;s in the&lt;/font&gt;</text>
+  <text start="319.039" dur="5.19">celebrity isn&amp;#39;t&lt;font color="#E5E5E5"&gt; as impactful like it&amp;#39;s&lt;/font&gt;</text>
+  <text start="322.28" dur="5.31">not&lt;font color="#E5E5E5"&gt; like George Clooney saying something&lt;/font&gt;</text>
+  <text start="324.229" dur="5.041">it&amp;#39;s like&lt;font color="#E5E5E5"&gt; this guy who is&lt;/font&gt;&lt;font color="#CCCCCC"&gt; well-known to&lt;/font&gt;</text>
+  <text start="327.59" dur="3.48">&lt;font color="#E5E5E5"&gt;be really good at this specific thing&lt;/font&gt;</text>
+  <text start="329.27" dur="3.75">says something about&lt;font color="#E5E5E5"&gt; that specific thing&lt;/font&gt;</text>
+  <text start="331.07" dur="4.71">&lt;font color="#E5E5E5"&gt;and people&lt;/font&gt;&lt;font color="#CCCCCC"&gt; are like oh that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; must be that&lt;/font&gt;</text>
+  <text start="333.02" dur="4.709">&lt;font color="#E5E5E5"&gt;must be buddies&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that must be&lt;/font&gt;&lt;font color="#E5E5E5"&gt; write that&lt;/font&gt;</text>
+  <text start="335.78" dur="4.08">that&amp;#39;s that&amp;#39;s my thing with McAfee&lt;font color="#E5E5E5"&gt; like&lt;/font&gt;</text>
+  <text start="337.729" dur="4.291">&lt;font color="#E5E5E5"&gt;I I like him&lt;/font&gt;&lt;font color="#CCCCCC"&gt; because of his arguments&lt;/font&gt;</text>
+  <text start="339.86" dur="3.69">&lt;font color="#CCCCCC"&gt;you&lt;/font&gt;&lt;font color="#E5E5E5"&gt; know I&amp;#39;ve been talking&lt;/font&gt;&lt;font color="#CCCCCC"&gt; about is his&lt;/font&gt;</text>
+  <text start="342.02" dur="3.78">bit fee wallet and it&amp;#39;s how it&amp;#39;s</text>
+  <text start="343.55" dur="6.06">supposedly unhackable and everything and</text>
+  <text start="345.8" dur="5.28">coming from him that&lt;font color="#E5E5E5"&gt; is a bold claim and&lt;/font&gt;</text>
+  <text start="349.61" dur="3.2">something I could actually&lt;font color="#E5E5E5"&gt; believe no&lt;/font&gt;</text>
+  <text start="351.08" dur="4.95">one else saying that I would believe&lt;font color="#E5E5E5"&gt; but&lt;/font&gt;</text>
+  <text start="352.81" dur="6.82">I&amp;#39;m pretty&lt;font color="#CCCCCC"&gt; sure we&amp;#39;ll get hacked&lt;/font&gt;&lt;font color="#E5E5E5"&gt; but&lt;/font&gt;&lt;font color="#CCCCCC"&gt; I&lt;/font&gt;</text>
+  <text start="356.03" dur="5.31">don&amp;#39;t know&lt;font color="#E5E5E5"&gt; exactly what it might be it&lt;/font&gt;</text>
+  <text start="359.63" dur="2.94">might&lt;font color="#CCCCCC"&gt; be something&lt;/font&gt;&lt;font color="#E5E5E5"&gt; around it yeah&lt;/font&gt;</text>
+  <text start="361.34" dur="3.359">there&amp;#39;s there might be an unhackable</text>
+  <text start="362.57" dur="5.64">core of sorts kind of like how</text>
+  <text start="364.699" dur="6.121">&lt;font color="#E5E5E5"&gt;cryptocurrencies work in&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Pasadena&lt;/font&gt;</text>
+  <text start="368.21" dur="4.86">currencies are still hackable&lt;font color="#CCCCCC"&gt; you can&lt;/font&gt;</text>
+  <text start="370.82" dur="6.569">have for&lt;font color="#E5E5E5"&gt; instance with Bitcoin right now&lt;/font&gt;</text>
+  <text start="373.07" dur="7.319">if you owned 51% of the of the&lt;font color="#E5E5E5"&gt; critter&lt;/font&gt;</text>
+  <text start="377.389" dur="5.821">&lt;font color="#E5E5E5"&gt;the bitcoins&lt;/font&gt;&lt;font color="#CCCCCC"&gt; you would be able&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to make&lt;/font&gt;</text>
+  <text start="380.389" dur="5.371">determine determinations on&lt;font color="#E5E5E5"&gt; you know&lt;/font&gt;</text>
+  <text start="383.21" dur="4.23">whether&lt;font color="#E5E5E5"&gt; or&lt;/font&gt;&lt;font color="#CCCCCC"&gt; not then what&amp;#39;s owned by what&lt;/font&gt;</text>
+  <text start="385.76" dur="3.779">so you could essentially once you own</text>
+  <text start="387.44" dur="6.42">51% you can take over&lt;font color="#E5E5E5"&gt; the whole&lt;/font&gt;</text>
+  <text start="389.539" dur="7.821">blockchain but the&lt;font color="#E5E5E5"&gt; likelihood is it not&lt;/font&gt;</text>
+  <text start="393.86" dur="7.109">that 51%&lt;font color="#E5E5E5"&gt; of the no it&amp;#39;s not the pool oh&lt;/font&gt;</text>
+  <text start="397.36" dur="6.729">it&amp;#39;s the the miners it&amp;#39;s the hash</text>
+  <text start="400.969" dur="4.91">yeah yeah yeah so if you owned 51% of&lt;font color="#CCCCCC"&gt; a&lt;/font&gt;</text>
+  <text start="404.089" dur="4.76">&lt;font color="#E5E5E5"&gt;minor that&amp;#39;s even&lt;/font&gt;&lt;font color="#CCCCCC"&gt; more ridiculous&lt;/font&gt;&lt;font color="#E5E5E5"&gt; so&lt;/font&gt;</text>
+  <text start="405.879" dur="5.62">very concentrated is a problem&lt;font color="#E5E5E5"&gt; yeah&lt;/font&gt;</text>
+  <text start="408.849" dur="4.57">&lt;font color="#E5E5E5"&gt;that&amp;#39;s a known problem it&amp;#39;s it&amp;#39;s well&lt;/font&gt;</text>
+  <text start="411.499" dur="6.861">written about but you know&lt;font color="#E5E5E5"&gt; it&amp;#39;s every&lt;/font&gt;</text>
+  <text start="413.419" dur="8.191">every system can be abused&lt;font color="#CCCCCC"&gt; you know like&lt;/font&gt;</text>
+  <text start="418.36" dur="6.129">&lt;font color="#CCCCCC"&gt;there every system has&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; make some kind&lt;/font&gt;</text>
+  <text start="421.61" dur="5.129">&lt;font color="#CCCCCC"&gt;of assumptions on what you know in order&lt;/font&gt;</text>
+  <text start="424.489" dur="5.69">to do its work yeah&lt;font color="#E5E5E5"&gt; and those&lt;/font&gt;</text>
+  <text start="426.739" dur="3.44">assumptions can&lt;font color="#E5E5E5"&gt; be gamed&lt;/font&gt;</text>
+  <text start="430.239" dur="5.32">&lt;font color="#CCCCCC"&gt;so it&amp;#39;s looking for&lt;/font&gt;&lt;font color="#E5E5E5"&gt; it I mean there&amp;#39;s&lt;/font&gt;</text>
+  <text start="433.819" dur="3.96">better systems and worse systems but</text>
+  <text start="435.559" dur="8.52">it&amp;#39;s not like&lt;font color="#E5E5E5"&gt; any system is unhackable&lt;/font&gt;</text>
+  <text start="437.779" dur="8.73">and&lt;font color="#E5E5E5"&gt; in every way it&amp;#39;s the best choice&lt;/font&gt;</text>
+  <text start="444.079" dur="4.92">I&amp;#39;ve seen it&lt;font color="#E5E5E5"&gt; it&amp;#39;s far better I&amp;#39;m having&lt;/font&gt;</text>
+  <text start="446.509" dur="6.63">my money in a bank I think&lt;font color="#CCCCCC"&gt; oh&lt;/font&gt;&lt;font color="#E5E5E5"&gt; could be&lt;/font&gt;</text>
+  <text start="448.999" dur="7.59">yeah I mean it works for&lt;font color="#E5E5E5"&gt; further look is&lt;/font&gt;</text>
+  <text start="453.139" dur="6.57">&lt;font color="#E5E5E5"&gt;that is that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; there&amp;#39;s still&lt;/font&gt;&lt;font color="#E5E5E5"&gt; like you&lt;/font&gt;</text>
+  <text start="456.589" dur="5.79">could have something that&amp;#39;s&lt;font color="#E5E5E5"&gt; ran by you&lt;/font&gt;</text>
+  <text start="459.709" dur="3.03">know some massive string of numbers and</text>
+  <text start="462.379" dur="2.7">letters</text>
+  <text start="462.739" dur="4.32">that&amp;#39;s your password and it&amp;#39;s double</text>
+  <text start="465.079" dur="5.64">&lt;font color="#E5E5E5"&gt;encrypted and it has all these extra&lt;/font&gt;</text>
+  <text start="467.059" dur="5.4">things&lt;font color="#E5E5E5"&gt; but if somebody torches the&lt;/font&gt;</text>
+  <text start="470.719" dur="3.57">information out&lt;font color="#CCCCCC"&gt; of you they can still&lt;/font&gt;</text>
+  <text start="472.459" dur="3.87">get&lt;font color="#CCCCCC"&gt; into your computer they&lt;/font&gt;&lt;font color="#E5E5E5"&gt; can still&lt;/font&gt;</text>
+  <text start="474.289" dur="5.1">&lt;font color="#E5E5E5"&gt;get&lt;/font&gt;&lt;font color="#CCCCCC"&gt; into your you know whatever secure&lt;/font&gt;</text>
+  <text start="476.329" dur="5.04">thing that you have built it so long as</text>
+  <text start="479.389" dur="2.61">they have&lt;font color="#E5E5E5"&gt; you there to guide them&lt;/font&gt;</text>
+  <text start="481.369" dur="2.85">&lt;font color="#CCCCCC"&gt;through it&lt;/font&gt;</text>
+  <text start="481.999" dur="4.92">right&lt;font color="#E5E5E5"&gt; there are ways around&lt;/font&gt;&lt;font color="#CCCCCC"&gt; this&lt;/font&gt;&lt;font color="#E5E5E5"&gt; like&lt;/font&gt;</text>
+  <text start="484.219" dur="4.891">all that hacking&lt;font color="#CCCCCC"&gt; no&lt;/font&gt;&lt;font color="#E5E5E5"&gt; yeah no well it&amp;#39;s&lt;/font&gt;</text>
+  <text start="486.919" dur="4.62">fun well I mean it&amp;#39;s funny what people</text>
+  <text start="489.11" dur="6.389">call hacking&lt;font color="#E5E5E5"&gt; because&lt;/font&gt;&lt;font color="#CCCCCC"&gt; oh yeah they&lt;/font&gt;&lt;font color="#E5E5E5"&gt; were&lt;/font&gt;</text>
+  <text start="491.539" dur="8.071">calling&lt;font color="#E5E5E5"&gt; DDoS&lt;/font&gt;&lt;font color="#CCCCCC"&gt; inge hack&lt;/font&gt;&lt;font color="#E5E5E5"&gt; which isn&amp;#39;t that&lt;/font&gt;</text>
+  <text start="495.499" dur="8.611">not&lt;font color="#CCCCCC"&gt; alex jones that&amp;#39;s not a hack at all&lt;/font&gt;</text>
+  <text start="499.61" dur="6.659">that&amp;#39;s&lt;font color="#E5E5E5"&gt; DDoS it&amp;#39;s an attack for sure but&lt;/font&gt;</text>
+  <text start="504.11" dur="4.379">it&amp;#39;s external&lt;font color="#E5E5E5"&gt; and they&amp;#39;ve never even&lt;/font&gt;</text>
+  <text start="506.269" dur="4.47">touched the files or change the state of</text>
+  <text start="508.489" dur="3.45">anything they just&lt;font color="#E5E5E5"&gt; overwhelm it&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that&amp;#39;s&lt;/font&gt;</text>
+  <text start="510.739" dur="4.02">when they&amp;#39;re trying&lt;font color="#E5E5E5"&gt; to shut down their&lt;/font&gt;</text>
+  <text start="511.939" dur="5.25">service provider right link right&lt;font color="#E5E5E5"&gt; okay&lt;/font&gt;</text>
+  <text start="514.759" dur="4.62">&lt;font color="#E5E5E5"&gt;yeah they&amp;#39;re trying&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to hit it&amp;#39;s it&amp;#39;s&lt;/font&gt;</text>
+  <text start="517.189" dur="4.111">upper&lt;font color="#E5E5E5"&gt; limit on what it can handle it so&lt;/font&gt;</text>
+  <text start="519.379" dur="4.47">they&amp;#39;re trying to overwhelm it&lt;font color="#E5E5E5"&gt; so they&lt;/font&gt;</text>
+  <text start="521.3" dur="5.43">get a bunch of a&lt;font color="#E5E5E5"&gt; botnet which is a&lt;/font&gt;</text>
+  <text start="523.849" dur="4.92">series of&lt;font color="#CCCCCC"&gt; are of may be compromised&lt;/font&gt;</text>
+  <text start="526.73" dur="4.979">&lt;font color="#E5E5E5"&gt;maybe uncompromised machines that have a&lt;/font&gt;</text>
+  <text start="528.769" dur="5.731">lot&lt;font color="#E5E5E5"&gt; of processing power&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to just go to&lt;/font&gt;</text>
+  <text start="531.709" dur="3.151">that site you know millions&lt;font color="#E5E5E5"&gt; and billions&lt;/font&gt;</text>
+  <text start="534.5" dur="2.579">of</text>
+  <text start="534.86" dur="4.83">&lt;font color="#CCCCCC"&gt;time&amp;#39;s&lt;/font&gt;&lt;font color="#E5E5E5"&gt; all at the same time&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and the&lt;/font&gt;</text>
+  <text start="537.079" dur="5.94">server which is a single&lt;font color="#E5E5E5"&gt; point of&lt;/font&gt;</text>
+  <text start="539.69" dur="6.51">&lt;font color="#E5E5E5"&gt;failure will fail and people&lt;/font&gt;&lt;font color="#CCCCCC"&gt; are getting&lt;/font&gt;</text>
+  <text start="543.019" dur="5.611">confused&lt;font color="#E5E5E5"&gt; by this the splash screen&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the&lt;/font&gt;</text>
+  <text start="546.2" dur="4.41">sort&lt;font color="#E5E5E5"&gt; of screen that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Infowars put up&lt;/font&gt;</text>
+  <text start="548.63" dur="6.06">afterwards and&lt;font color="#E5E5E5"&gt; saying oh this it must&lt;/font&gt;</text>
+  <text start="550.61" dur="5.849">mean&lt;font color="#CCCCCC"&gt; that he didn&amp;#39;t&lt;/font&gt;&lt;font color="#E5E5E5"&gt; he hacked himself&lt;/font&gt;</text>
+  <text start="554.69" dur="5.04">for something&lt;font color="#E5E5E5"&gt; he still has donated for&lt;/font&gt;</text>
+  <text start="556.459" dur="6.69">show kind of&lt;font color="#E5E5E5"&gt; thing but that just what&lt;/font&gt;</text>
+  <text start="559.73" dur="6.359">&lt;font color="#CCCCCC"&gt;that is is they&amp;#39;ve set up a proxy&lt;/font&gt;&lt;font color="#E5E5E5"&gt; so&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the&lt;/font&gt;</text>
+  <text start="563.149" dur="6.361">main server will just route to a static</text>
+  <text start="566.089" dur="5.701">page which the&lt;font color="#E5E5E5"&gt; server&amp;#39;s can handle&lt;/font&gt;&lt;font color="#CCCCCC"&gt; super&lt;/font&gt;</text>
+  <text start="569.51" dur="4.949">&lt;font color="#CCCCCC"&gt;fast&lt;/font&gt;&lt;font color="#E5E5E5"&gt; rather than like a full complex&lt;/font&gt;</text>
+  <text start="571.79" dur="5.13">site&lt;font color="#E5E5E5"&gt; they they handle just like a basic&lt;/font&gt;</text>
+  <text start="574.459" dur="5.281">HTML&lt;font color="#CCCCCC"&gt; page&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and&lt;/font&gt;&lt;font color="#CCCCCC"&gt; say here you&lt;/font&gt;&lt;font color="#E5E5E5"&gt; go&lt;/font&gt;</text>
+  <text start="576.92" dur="4.62">and it has&lt;font color="#E5E5E5"&gt; links and has the donate and&lt;/font&gt;</text>
+  <text start="579.74" dur="6.21">it has those sorts&lt;font color="#CCCCCC"&gt; of things it&amp;#39;s looks&lt;/font&gt;</text>
+  <text start="581.54" dur="7.289">better than a server error page&lt;font color="#CCCCCC"&gt; yeah&lt;/font&gt;</text>
+  <text start="585.95" dur="4.74">server&lt;font color="#CCCCCC"&gt; error page and oh&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and you can see&lt;/font&gt;</text>
+  <text start="588.829" dur="4.771">this&lt;font color="#E5E5E5"&gt; with like 404 pages that&amp;#39;s kind of&lt;/font&gt;</text>
+  <text start="590.69" dur="4.769">the same idea&lt;font color="#CCCCCC"&gt; right so we would we would&lt;/font&gt;</text>
+  <text start="593.6" dur="5.489">&lt;font color="#E5E5E5"&gt;reasonably assume&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that Q should know&lt;/font&gt;</text>
+  <text start="595.459" dur="4.62">better than&lt;font color="#E5E5E5"&gt; then to think you know he&lt;/font&gt;</text>
+  <text start="599.089" dur="2.401">would know these things&lt;font color="#E5E5E5"&gt; that you&amp;#39;re&lt;/font&gt;</text>
+  <text start="600.079" dur="4.231">saying&lt;font color="#E5E5E5"&gt; or at least someone on his team&lt;/font&gt;</text>
+  <text start="601.49" dur="4.68">&lt;font color="#E5E5E5"&gt;would yeah and Q someone on yeah have&lt;/font&gt;</text>
+  <text start="604.31" dur="4.649">you guys seen that&lt;font color="#E5E5E5"&gt; newer post that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; just&lt;/font&gt;</text>
+  <text start="606.17" dur="5.099">came out&lt;font color="#E5E5E5"&gt; yeah actors will be actors as&lt;/font&gt;</text>
+  <text start="608.959" dur="5.521">&lt;font color="#E5E5E5"&gt;they only&lt;/font&gt;&lt;font color="#CCCCCC"&gt; actors will act that will act&lt;/font&gt;</text>
+  <text start="611.269" dur="7.291">&lt;font color="#E5E5E5"&gt;how do you interpret that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; cuz well maybe&lt;/font&gt;</text>
+  <text start="614.48" dur="5.37">call out Alex Jones&lt;font color="#E5E5E5"&gt; yeah no no um what&lt;/font&gt;</text>
+  <text start="618.56" dur="5.339">&lt;font color="#CCCCCC"&gt;we&amp;#39;re saying is that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; this isn&amp;#39;t&lt;/font&gt;</text>
+  <text start="619.85" dur="8.609">&lt;font color="#E5E5E5"&gt;necessarily&lt;/font&gt;&lt;font color="#CCCCCC"&gt; evidence that he&amp;#39;s putting&lt;/font&gt;</text>
+  <text start="623.899" dur="6.661">&lt;font color="#E5E5E5"&gt;on&lt;/font&gt;&lt;font color="#CCCCCC"&gt; his own show but&lt;/font&gt;&lt;font color="#E5E5E5"&gt; it we&amp;#39;re not saying&lt;/font&gt;</text>
+  <text start="628.459" dur="4.38">&lt;font color="#E5E5E5"&gt;that it&amp;#39;s he&amp;#39;s not putting on his own&lt;/font&gt;</text>
+  <text start="630.56" dur="4.5">show I actually kind&lt;font color="#E5E5E5"&gt; of I wouldn&amp;#39;t be&lt;/font&gt;</text>
+  <text start="632.839" dur="4.971">surprised if&lt;font color="#E5E5E5"&gt; he is acting&lt;/font&gt;&lt;font color="#CCCCCC"&gt; here that this&lt;/font&gt;</text>
+  <text start="635.06" dur="4.5">whole attack is contrived and</text>
+  <text start="637.81" dur="4.6">orchestrated&lt;font color="#E5E5E5"&gt; with the rest of the&lt;/font&gt;</text>
+  <text start="639.56" dur="5.279">&lt;font color="#E5E5E5"&gt;mainstream&lt;/font&gt;&lt;font color="#CCCCCC"&gt; media a DDoS attack is&lt;/font&gt;&lt;font color="#E5E5E5"&gt; not&lt;/font&gt;</text>
+  <text start="642.41" dur="5.07">hard&lt;font color="#E5E5E5"&gt; to pull off&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and a single person can&lt;/font&gt;</text>
+  <text start="644.839" dur="5.461">pull it off&lt;font color="#E5E5E5"&gt; if they just know you know&lt;/font&gt;</text>
+  <text start="647.48" dur="6.479">&lt;font color="#E5E5E5"&gt;if they know the right places to go&lt;/font&gt;</text>
+  <text start="650.3" dur="6.09">right you&lt;font color="#CCCCCC"&gt; can you can hire a botnet&lt;/font&gt;&lt;font color="#E5E5E5"&gt; they&lt;/font&gt;</text>
+  <text start="653.959" dur="3.511">&lt;font color="#CCCCCC"&gt;they are for&lt;/font&gt;&lt;font color="#E5E5E5"&gt; sale and I know I know Alex&lt;/font&gt;</text>
+  <text start="656.39" dur="2.73">Jones&lt;font color="#CCCCCC"&gt; have been&lt;/font&gt;&lt;font color="#E5E5E5"&gt; dealing with that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; for&lt;/font&gt;</text>
+  <text start="657.47" dur="5.04">years&lt;font color="#CCCCCC"&gt; and he&amp;#39;s&lt;/font&gt;&lt;font color="#E5E5E5"&gt; got basically&lt;/font&gt;&lt;font color="#CCCCCC"&gt; like the&lt;/font&gt;</text>
+  <text start="659.12" dur="6.779">best&lt;font color="#E5E5E5"&gt; on the planet&lt;/font&gt;&lt;font color="#CCCCCC"&gt; instant so it&amp;#39;s&lt;/font&gt;</text>
+  <text start="662.51" dur="4.889">something&lt;font color="#E5E5E5"&gt; big but even in the lake back&lt;/font&gt;</text>
+  <text start="665.899" dur="2.701">we&amp;#39;ll get out of&lt;font color="#CCCCCC"&gt; it back to the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; topic&lt;/font&gt;</text>
+  <text start="667.399" dur="2.791">but&lt;font color="#E5E5E5"&gt; the context of how they&lt;/font&gt;</text>
+  <text start="668.6" dur="3.419">said that I&amp;#39;m&lt;font color="#CCCCCC"&gt; not even sure that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that&lt;/font&gt;</text>
+  <text start="670.19" dur="3.6">means that&lt;font color="#E5E5E5"&gt; they&amp;#39;re talking about Alex&lt;/font&gt;</text>
+  <text start="672.019" dur="3.481">like maybe they mean&lt;font color="#E5E5E5"&gt; bad actors&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and then&lt;/font&gt;</text>
+  <text start="673.79" dur="5.25">talking&lt;font color="#E5E5E5"&gt; about NBC immediately after I&lt;/font&gt;</text>
+  <text start="675.5" dur="8.009">don&amp;#39;t know yeah&lt;font color="#E5E5E5"&gt; yeah it&amp;#39;s it&amp;#39;s&lt;/font&gt;</text>
+  <text start="679.04" dur="6.539">interesting&lt;font color="#CCCCCC"&gt; Alex&lt;/font&gt;&lt;font color="#E5E5E5"&gt; Jones is a little uh he&lt;/font&gt;</text>
+  <text start="683.509" dur="4.531">&lt;font color="#CCCCCC"&gt;he&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that he&amp;#39;s an&lt;/font&gt;&lt;font color="#CCCCCC"&gt; interesting character&lt;/font&gt;</text>
+  <text start="685.579" dur="4.801">and&lt;font color="#E5E5E5"&gt; it&amp;#39;s it&amp;#39;s difficult to really&lt;/font&gt;</text>
+  <text start="688.04" dur="4.62">because he&amp;#39;s gonna run for&lt;font color="#E5E5E5"&gt; so long it&amp;#39;s&lt;/font&gt;</text>
+  <text start="690.38" dur="4.92">difficult to peg him down&lt;font color="#CCCCCC"&gt; cuz he&amp;#39;s been&lt;/font&gt;</text>
+  <text start="692.66" dur="5.58">back and&lt;font color="#E5E5E5"&gt; forth on and a few things like&lt;/font&gt;</text>
+  <text start="695.3" dur="5.519">well he&amp;#39;s but&lt;font color="#CCCCCC"&gt; he&amp;#39;s big enough&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that he&amp;#39;s&lt;/font&gt;</text>
+  <text start="698.24" dur="5.43">kind of a&lt;font color="#E5E5E5"&gt; target so yeah it&amp;#39;s a target&lt;/font&gt;</text>
+  <text start="700.819" dur="6.421">&lt;font color="#E5E5E5"&gt;for leverage not just&lt;/font&gt;&lt;font color="#CCCCCC"&gt; DD OSS&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and&lt;/font&gt;&lt;font color="#CCCCCC"&gt; not&lt;/font&gt;</text>
+  <text start="703.67" dur="6.39">&lt;font color="#E5E5E5"&gt;just trolls but also big money coming in&lt;/font&gt;</text>
+  <text start="707.24" dur="5.67">trying&lt;font color="#E5E5E5"&gt; to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; influence as well I mean&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I&amp;#39;m&lt;/font&gt;</text>
+  <text start="710.06" dur="3.48">I&amp;#39;m pointing&lt;font color="#CCCCCC"&gt; to his apology to James&lt;/font&gt;</text>
+  <text start="712.91" dur="5.099">&lt;font color="#CCCCCC"&gt;Ellis&lt;/font&gt;</text>
+  <text start="713.54" dur="7.89">&lt;font color="#CCCCCC"&gt;mm-hmm as&lt;/font&gt;&lt;font color="#E5E5E5"&gt; a sign that yeah yeah he&amp;#39;s got&lt;/font&gt;</text>
+  <text start="718.009" dur="6.51">some&lt;font color="#CCCCCC"&gt; other leverage put on him he may be&lt;/font&gt;</text>
+  <text start="721.43" dur="6">compromised&lt;font color="#CCCCCC"&gt; it&amp;#39;s that you know that&lt;/font&gt;</text>
+  <text start="724.519" dur="5.82">would&lt;font color="#E5E5E5"&gt; plus the context of coming out&lt;/font&gt;</text>
+  <text start="727.43" dur="4.829">against&lt;font color="#CCCCCC"&gt; Q&lt;/font&gt;&lt;font color="#E5E5E5"&gt; plus the you know I&amp;#39;m gonna&lt;/font&gt;</text>
+  <text start="730.339" dur="3.331">&lt;font color="#E5E5E5"&gt;call it just a clear&lt;/font&gt;&lt;font color="#CCCCCC"&gt; limey I can&amp;#39;t prove&lt;/font&gt;</text>
+  <text start="732.259" dur="3.361">he&amp;#39;s lying&lt;font color="#CCCCCC"&gt; I can&amp;#39;t prove&lt;/font&gt;&lt;font color="#E5E5E5"&gt; he didn&amp;#39;t go&lt;/font&gt;</text>
+  <text start="733.67" dur="6.18">have go talk to&lt;font color="#E5E5E5"&gt; people&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that were playing&lt;/font&gt;</text>
+  <text start="735.62" dur="5.88">&lt;font color="#CCCCCC"&gt;golf with Q but you know&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I can&amp;#39;t prove&lt;/font&gt;</text>
+  <text start="739.85" dur="4.95">he didn&amp;#39;t&lt;font color="#E5E5E5"&gt; talk&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to Q on the phone but I&lt;/font&gt;</text>
+  <text start="741.5" dur="5.85">don&amp;#39;t&lt;font color="#E5E5E5"&gt; believe it did and you know he was&lt;/font&gt;</text>
+  <text start="744.8" dur="4.589">gotten us results and that&amp;#39;s linked to</text>
+  <text start="747.35" dur="4.71">&lt;font color="#CCCCCC"&gt;Trump and I trust Trump more than I do&lt;/font&gt;</text>
+  <text start="749.389" dur="5.281">Alex Jones at this point right&lt;font color="#E5E5E5"&gt; right&lt;/font&gt;</text>
+  <text start="752.06" dur="6.66">yeah that makes sense&lt;font color="#E5E5E5"&gt; it&amp;#39;s hard&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to trust&lt;/font&gt;</text>
+  <text start="754.67" dur="6.899">Alex Jones&lt;font color="#CCCCCC"&gt; I mean even if I like a lot&lt;/font&gt;</text>
+  <text start="758.72" dur="5.27">of&lt;font color="#E5E5E5"&gt; his memes&lt;/font&gt;&lt;font color="#CCCCCC"&gt; I use it I used to like&lt;/font&gt;</text>
+  <text start="761.569" dur="6.061">&lt;font color="#E5E5E5"&gt;look up to the sky like like not quite&lt;/font&gt;</text>
+  <text start="763.99" dur="5.079">&lt;font color="#CCCCCC"&gt;like&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; stood for you&lt;/font&gt;&lt;font color="#E5E5E5"&gt; know like I grew&lt;/font&gt;</text>
+  <text start="767.63" dur="4.41">&lt;font color="#CCCCCC"&gt;up&lt;/font&gt;&lt;font color="#E5E5E5"&gt; on the internet and this guy was my&lt;/font&gt;</text>
+  <text start="769.069" dur="6.27">hero&lt;font color="#E5E5E5"&gt; yes he had a he had&lt;/font&gt;&lt;font color="#CCCCCC"&gt; a time where he&lt;/font&gt;</text>
+  <text start="772.04" dur="4.739">&lt;font color="#CCCCCC"&gt;was&lt;/font&gt;&lt;font color="#E5E5E5"&gt; filling a niche for sure yeah well&lt;/font&gt;</text>
+  <text start="775.339" dur="2.43">either way&lt;font color="#CCCCCC"&gt; trust him or not&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you got&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to&lt;/font&gt;</text>
+  <text start="776.779" dur="3.781">pay attention&lt;font color="#CCCCCC"&gt; to him&lt;/font&gt;&lt;font color="#E5E5E5"&gt; because he&amp;#39;s a&lt;/font&gt;</text>
+  <text start="777.769" dur="4.32">player but oh yeah&lt;font color="#E5E5E5"&gt; oh yeah&lt;/font&gt;&lt;font color="#CCCCCC"&gt; um sorry to&lt;/font&gt;</text>
+  <text start="780.56" dur="3.959">&lt;font color="#CCCCCC"&gt;get off the topic back&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to the visa&lt;/font&gt;&lt;font color="#CCCCCC"&gt; wall&lt;/font&gt;</text>
+  <text start="782.089" dur="4.021">well it kind of is on&lt;font color="#E5E5E5"&gt; topic don&amp;#39;t&lt;/font&gt;&lt;font color="#CCCCCC"&gt; yeah&lt;/font&gt;</text>
+  <text start="784.519" dur="5.49">because&lt;font color="#E5E5E5"&gt; we&amp;#39;re talking&lt;/font&gt;&lt;font color="#CCCCCC"&gt; about&lt;/font&gt;</text>
+  <text start="786.11" dur="6.18">centralization being a putting&lt;font color="#E5E5E5"&gt; putting&lt;/font&gt;</text>
+  <text start="790.009" dur="4.95">&lt;font color="#E5E5E5"&gt;on&lt;/font&gt;&lt;font color="#CCCCCC"&gt; bull&amp;#39;s-eye on your back right so Alex&lt;/font&gt;</text>
+  <text start="792.29" dur="5.609">Jones is&lt;font color="#E5E5E5"&gt; a centralized figure people can&lt;/font&gt;</text>
+  <text start="794.959" dur="5.911">put pressure on Alex Jones&lt;font color="#E5E5E5"&gt; it&amp;#39;s harder&lt;/font&gt;</text>
+  <text start="797.899" dur="4.111">to put&lt;font color="#E5E5E5"&gt; pressure on cue nobody knows who&lt;/font&gt;</text>
+  <text start="800.87" dur="3">&lt;font color="#CCCCCC"&gt;Q is&lt;/font&gt;</text>
+  <text start="802.01" dur="3.9">&lt;font color="#E5E5E5"&gt;wherever don&amp;#39;t know if you don&amp;#39;t know&lt;/font&gt;</text>
+  <text start="803.87" dur="4.77">who&lt;font color="#CCCCCC"&gt; Q is how can&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you put&lt;/font&gt;&lt;font color="#CCCCCC"&gt; pressure on&lt;/font&gt;</text>
+  <text start="805.91" dur="5.4">them or then on top&lt;font color="#CCCCCC"&gt; of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that the Rando is&lt;/font&gt;</text>
+  <text start="808.64" dur="6.78">on the&lt;font color="#CCCCCC"&gt; Internet yeah it knows who they&lt;/font&gt;</text>
+  <text start="811.31" dur="8.04">are and&lt;font color="#CCCCCC"&gt; the trip code hack&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that is is&lt;/font&gt;</text>
+  <text start="815.42" dur="6.48">cosmetic&lt;font color="#CCCCCC"&gt; yeah&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and he cured already&lt;/font&gt;&lt;font color="#CCCCCC"&gt; set&lt;/font&gt;</text>
+  <text start="819.35" dur="4.44">&lt;font color="#E5E5E5"&gt;up you know means he was expecting it&lt;/font&gt;</text>
+  <text start="821.9" dur="5.97">and was kind&lt;font color="#CCCCCC"&gt; of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; a&lt;/font&gt;&lt;font color="#CCCCCC"&gt; setup&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I think right&lt;/font&gt;</text>
+  <text start="823.79" dur="7.2">&lt;font color="#E5E5E5"&gt;yeah yeah&lt;/font&gt;&lt;font color="#CCCCCC"&gt; cuz&lt;/font&gt;&lt;font color="#E5E5E5"&gt; what I the way I took it&lt;/font&gt;</text>
+  <text start="827.87" dur="5.64">was that all&lt;font color="#E5E5E5"&gt; of these alt media figures&lt;/font&gt;</text>
+  <text start="830.99" dur="4.65">were using&lt;font color="#E5E5E5"&gt; that against him mmm right&lt;/font&gt;</text>
+  <text start="833.51" dur="3.66">right&lt;font color="#E5E5E5"&gt; as of course the MSM we&amp;#39;re coming&lt;/font&gt;</text>
+  <text start="835.64" dur="3.09">&lt;font color="#E5E5E5"&gt;out and&lt;/font&gt;&lt;font color="#CCCCCC"&gt; attacking&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and doing their&lt;/font&gt;</text>
+  <text start="837.17" dur="3.48">censorship&lt;font color="#E5E5E5"&gt; and everything else all of it&lt;/font&gt;</text>
+  <text start="838.73" dur="5.61">kind of hit&lt;font color="#CCCCCC"&gt; it&lt;/font&gt;&lt;font color="#E5E5E5"&gt; once but now the alt&lt;/font&gt;</text>
+  <text start="840.65" dur="5.19">media&lt;font color="#CCCCCC"&gt; figures kind of looks stupid you&lt;/font&gt;</text>
+  <text start="844.34" dur="3.72">know I&amp;#39;m&lt;font color="#E5E5E5"&gt; thinking that maybe it&amp;#39;s the&lt;/font&gt;</text>
+  <text start="845.84" dur="5.7">time&lt;font color="#CCCCCC"&gt; to switch from just&lt;/font&gt;&lt;font color="#E5E5E5"&gt; focusing on the&lt;/font&gt;</text>
+  <text start="848.06" dur="6.78">MSM and&lt;font color="#E5E5E5"&gt; start purging are fakes yeah&lt;/font&gt;</text>
+  <text start="851.54" dur="5.79">could be&lt;font color="#E5E5E5"&gt; I think I think really what&lt;/font&gt;</text>
+  <text start="854.84" dur="10.08">what should be we&lt;font color="#CCCCCC"&gt; should focus on is&lt;/font&gt;</text>
+  <text start="857.33" dur="11.22">improving the our ability to tell like</text>
+  <text start="864.92" dur="5.1">what raises&lt;font color="#E5E5E5"&gt; red flags because Flay if&lt;/font&gt;</text>
+  <text start="868.55" dur="4.2">you look at people who&lt;font color="#CCCCCC"&gt; are not like&lt;/font&gt;</text>
+  <text start="870.02" dur="4.89">attacking&lt;font color="#CCCCCC"&gt; the argument we saw this&lt;/font&gt;&lt;font color="#E5E5E5"&gt; we&lt;/font&gt;</text>
+  <text start="872.75" dur="4.59">were kind of&lt;font color="#E5E5E5"&gt; watching David Seaman for&lt;/font&gt;</text>
+  <text start="874.91" dur="5.79">quite some&lt;font color="#CCCCCC"&gt; time and then his sudden like&lt;/font&gt;</text>
+  <text start="877.34" dur="6.02">&lt;font color="#E5E5E5"&gt;fulcrum news&lt;/font&gt;&lt;font color="#CCCCCC"&gt; is something&lt;/font&gt;&lt;font color="#E5E5E5"&gt; like attack on&lt;/font&gt;</text>
+  <text start="880.7" dur="5.4">&lt;font color="#E5E5E5"&gt;cue&lt;/font&gt;&lt;font color="#CCCCCC"&gt; it just didn&amp;#39;t it&lt;/font&gt;&lt;font color="#E5E5E5"&gt; didn&amp;#39;t make sense&lt;/font&gt;</text>
+  <text start="883.36" dur="4.6">&lt;font color="#E5E5E5"&gt;right but there was no logical reason&lt;/font&gt;</text>
+  <text start="886.1" dur="4.32">&lt;font color="#E5E5E5"&gt;than he&lt;/font&gt;&lt;font color="#CCCCCC"&gt; was just attacking saying that&lt;/font&gt;</text>
+  <text start="887.96" dur="5.16">cue was bad for some reason he wasn&amp;#39;t</text>
+  <text start="890.42" dur="4.17">&lt;font color="#CCCCCC"&gt;fully explaining himself yeah he had a&lt;/font&gt;</text>
+  <text start="893.12" dur="4.95">lot of&lt;font color="#E5E5E5"&gt; character attacks like they&amp;#39;re&lt;/font&gt;</text>
+  <text start="894.59" dur="5.7">&lt;font color="#E5E5E5"&gt;doing and&lt;/font&gt;&lt;font color="#CCCCCC"&gt; saying his&lt;/font&gt;&lt;font color="#E5E5E5"&gt; sources in DC were&lt;/font&gt;</text>
+  <text start="898.07" dur="6.69">the best and he&amp;#39;s certain certain</text>
+  <text start="900.29" dur="7.23">certain and all of it was certainly not</text>
+  <text start="904.76" dur="5.19">what I&amp;#39;m looking&lt;font color="#E5E5E5"&gt; for in a compelling&lt;/font&gt;</text>
+  <text start="907.52" dur="4.47">&lt;font color="#E5E5E5"&gt;argument&lt;/font&gt;&lt;font color="#CCCCCC"&gt; oh yeah I&lt;/font&gt;&lt;font color="#E5E5E5"&gt; used to like him I&lt;/font&gt;</text>
+  <text start="909.95" dur="4.08">used&lt;font color="#E5E5E5"&gt; to respect him&lt;/font&gt;&lt;font color="#CCCCCC"&gt; for&lt;/font&gt;&lt;font color="#E5E5E5"&gt; it not not his&lt;/font&gt;</text>
+  <text start="911.99" dur="3.33">personality because you know&lt;font color="#E5E5E5"&gt; just sit&lt;/font&gt;</text>
+  <text start="914.03" dur="3.98">there smoke pot brag about your</text>
+  <text start="915.32" dur="6">&lt;font color="#CCCCCC"&gt;aetherium all day and then insult people&lt;/font&gt;</text>
+  <text start="918.01" dur="6.16">but he was he was on&lt;font color="#E5E5E5"&gt; pedo gay right and&lt;/font&gt;</text>
+  <text start="921.32" dur="6.03">&lt;font color="#CCCCCC"&gt;yeah history yeah I I really appreciated&lt;/font&gt;</text>
+  <text start="924.17" dur="5.16">&lt;font color="#E5E5E5"&gt;his rants against these&lt;/font&gt;&lt;font color="#CCCCCC"&gt; people even&lt;/font&gt;&lt;font color="#E5E5E5"&gt; Liz&lt;/font&gt;</text>
+  <text start="927.35" dur="3.72">croakin yeah&lt;font color="#E5E5E5"&gt; we that was just like&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the&lt;/font&gt;</text>
+  <text start="929.33" dur="2.97">&lt;font color="#E5E5E5"&gt;emotional stuff like even Liz croakin&lt;/font&gt;</text>
+  <text start="931.07" dur="3.33">called him out&lt;font color="#E5E5E5"&gt; basically for not&lt;/font&gt;</text>
+  <text start="932.3" dur="3.3">&lt;font color="#E5E5E5"&gt;actually doing&lt;/font&gt;&lt;font color="#CCCCCC"&gt; a&lt;/font&gt;&lt;font color="#E5E5E5"&gt; lot for pizza gate you&lt;/font&gt;</text>
+  <text start="934.4" dur="3.41">know disclosure</text>
+  <text start="935.6" dur="5.82">but just bitching a lot about&lt;font color="#CCCCCC"&gt; cue&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and uh&lt;/font&gt;</text>
+  <text start="937.81" dur="9.279">you know&lt;font color="#CCCCCC"&gt; he lied about me like I was&lt;/font&gt;</text>
+  <text start="941.42" dur="7.409">&lt;font color="#CCCCCC"&gt;whatever I&amp;#39;m done yeah&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you know&lt;/font&gt;&lt;font color="#CCCCCC"&gt; I don&amp;#39;t&lt;/font&gt;</text>
+  <text start="947.089" dur="3.81">even&lt;font color="#CCCCCC"&gt; think you like like I&amp;#39;ve been in&lt;/font&gt;</text>
+  <text start="948.829" dur="3.81">&lt;font color="#CCCCCC"&gt;other events with&lt;/font&gt;&lt;font color="#E5E5E5"&gt; other people where&lt;/font&gt;</text>
+  <text start="950.899" dur="3.551">there&amp;#39;s like a&lt;font color="#E5E5E5"&gt; multiple thing going on&lt;/font&gt;</text>
+  <text start="952.639" dur="4.041">and he&lt;font color="#E5E5E5"&gt; won&amp;#39;t show because I&amp;#39;m invited&lt;/font&gt;</text>
+  <text start="954.45" dur="5.569">[Laughter]</text>
+  <text start="956.68" dur="5.649">over&lt;font color="#CCCCCC"&gt; on the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; other channel like the the&lt;/font&gt;</text>
+  <text start="960.019" dur="7.141">&lt;font color="#CCCCCC"&gt;uni rock&lt;/font&gt;&lt;font color="#E5E5E5"&gt; channel they call me he who not&lt;/font&gt;</text>
+  <text start="962.329" dur="9.211">who will&lt;font color="#E5E5E5"&gt; not be named&lt;/font&gt;&lt;font color="#CCCCCC"&gt; no I love&lt;/font&gt;&lt;font color="#E5E5E5"&gt; it it&amp;#39;s&lt;/font&gt;</text>
+  <text start="967.16" dur="6.9">&lt;font color="#CCCCCC"&gt;so hilarious but it&amp;#39;s funny a badge of&lt;/font&gt;</text>
+  <text start="971.54" dur="5.099">&lt;font color="#E5E5E5"&gt;honor I guess but assuming and that&lt;/font&gt;</text>
+  <text start="974.06" dur="6.54">whole first attack&lt;font color="#E5E5E5"&gt; sort of illustrates&lt;/font&gt;</text>
+  <text start="976.639" dur="7.051">the the point of you shouldn&amp;#39;t&lt;font color="#E5E5E5"&gt; pay&lt;/font&gt;</text>
+  <text start="980.6" dur="5.359">&lt;font color="#CCCCCC"&gt;attention to just character attack it&amp;#39;s&lt;/font&gt;</text>
+  <text start="983.69" dur="5.579">important when somebody attacks&lt;font color="#CCCCCC"&gt; an idea&lt;/font&gt;</text>
+  <text start="985.959" dur="5.831">it&amp;#39;s not important&lt;font color="#CCCCCC"&gt; if they&lt;/font&gt;&lt;font color="#E5E5E5"&gt; attack just&lt;/font&gt;</text>
+  <text start="989.269" dur="6.151">the character&lt;font color="#E5E5E5"&gt; you can be a horrible&lt;/font&gt;</text>
+  <text start="991.79" dur="8.13">person&lt;font color="#E5E5E5"&gt; but with good ideas&lt;/font&gt;&lt;font color="#CCCCCC"&gt; mm-hmm and&lt;/font&gt;</text>
+  <text start="995.42" dur="6.18">actually&lt;font color="#CCCCCC"&gt; okay some&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I get some ideas but&lt;/font&gt;</text>
+  <text start="999.92" dur="4.169">the part of&lt;font color="#E5E5E5"&gt; what makes you horrible is&lt;/font&gt;</text>
+  <text start="1001.6" dur="5.7">just you have&lt;font color="#E5E5E5"&gt; some bad idea really&lt;/font&gt;&lt;font color="#CCCCCC"&gt; bad&lt;/font&gt;</text>
+  <text start="1004.089" dur="10.951">&lt;font color="#E5E5E5"&gt;idea in music you can be the dumbest man&lt;/font&gt;</text>
+  <text start="1007.3" dur="10.05">&lt;font color="#CCCCCC"&gt;in the world and yeah yeah&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and but yes&lt;/font&gt;</text>
+  <text start="1015.04" dur="5.01">you&lt;font color="#CCCCCC"&gt; can be you can or you can do some&lt;/font&gt;</text>
+  <text start="1017.35" dur="4.739">nefarious&lt;font color="#CCCCCC"&gt; things and have had a had a&lt;/font&gt;</text>
+  <text start="1020.05" dur="5.149">checkered&lt;font color="#CCCCCC"&gt; past and still have good ideas&lt;/font&gt;</text>
+  <text start="1022.089" dur="6.391">can still be of&lt;font color="#E5E5E5"&gt; benefit&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to society and&lt;/font&gt;</text>
+  <text start="1025.199" dur="6.73">to you in&lt;font color="#E5E5E5"&gt; your past so much as it&lt;/font&gt;</text>
+  <text start="1028.48" dur="6">matters what you&amp;#39;re saying&lt;font color="#E5E5E5"&gt; right now I&lt;/font&gt;</text>
+  <text start="1031.929" dur="4.591">would&lt;font color="#CCCCCC"&gt; say rephrase it from so much from&lt;/font&gt;</text>
+  <text start="1034.48" dur="4.14">good ideas to truth&lt;font color="#E5E5E5"&gt; you know or true&lt;/font&gt;</text>
+  <text start="1036.52" dur="5.789">statements or you know as close&lt;font color="#E5E5E5"&gt; as we&lt;/font&gt;</text>
+  <text start="1038.62" dur="5.4">can get&lt;font color="#E5E5E5"&gt; so even even&lt;/font&gt;&lt;font color="#CCCCCC"&gt; a blind&lt;/font&gt;&lt;font color="#E5E5E5"&gt; man can be&lt;/font&gt;</text>
+  <text start="1042.309" dur="5.311">right or even&lt;font color="#E5E5E5"&gt; a dumb man can be right or&lt;/font&gt;</text>
+  <text start="1044.02" dur="6.269">&lt;font color="#E5E5E5"&gt;even a murderer can be right yeah can I&lt;/font&gt;</text>
+  <text start="1047.62" dur="5">can I take&lt;font color="#CCCCCC"&gt; that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; as an opportunity to&lt;/font&gt;</text>
+  <text start="1050.289" dur="6.241">&lt;font color="#E5E5E5"&gt;explain the constraint cycle yeah&lt;/font&gt;</text>
+  <text start="1052.62" dur="5.65">&lt;font color="#E5E5E5"&gt;because you bring up truth so truth is a&lt;/font&gt;</text>
+  <text start="1056.53" dur="6.72">tricky thing&lt;font color="#CCCCCC"&gt; because it&amp;#39;s&lt;/font&gt;&lt;font color="#E5E5E5"&gt; something&lt;/font&gt;&lt;font color="#CCCCCC"&gt; we&lt;/font&gt;</text>
+  <text start="1058.27" dur="6.899">&lt;font color="#CCCCCC"&gt;all want but it has a&lt;/font&gt;&lt;font color="#E5E5E5"&gt; tendency to betray&lt;/font&gt;</text>
+  <text start="1063.25" dur="4.83">a bit because&lt;font color="#E5E5E5"&gt; we&lt;/font&gt;&lt;font color="#CCCCCC"&gt; can feel like something&lt;/font&gt;</text>
+  <text start="1065.169" dur="4">is true and&lt;font color="#CCCCCC"&gt; that feeling is kind&lt;/font&gt;&lt;font color="#E5E5E5"&gt; of a&lt;/font&gt;</text>
+  <text start="1068.08" dur="2.65">&lt;font color="#E5E5E5"&gt;surrogate&lt;/font&gt;</text>
+  <text start="1069.169" dur="4.86">&lt;font color="#E5E5E5"&gt;are&lt;/font&gt;&lt;font color="#CCCCCC"&gt; actually understanding&lt;/font&gt;&lt;font color="#E5E5E5"&gt; what&amp;#39;s going&lt;/font&gt;</text>
+  <text start="1070.73" dur="6.36">&lt;font color="#E5E5E5"&gt;on mm-hmm so people can get&lt;/font&gt;&lt;font color="#CCCCCC"&gt; distracted&lt;/font&gt;</text>
+  <text start="1074.029" dur="6.78">by how confident they are that&lt;font color="#CCCCCC"&gt; they lose&lt;/font&gt;</text>
+  <text start="1077.09" dur="8.85">&lt;font color="#E5E5E5"&gt;track of what the real truth is so the&lt;/font&gt;</text>
+  <text start="1080.809" dur="8.671">constraint cycle is a way to tease the</text>
+  <text start="1085.94" dur="5.729">truth out iteratively&lt;font color="#CCCCCC"&gt; and it&amp;#39;s&lt;/font&gt;&lt;font color="#E5E5E5"&gt; something&lt;/font&gt;</text>
+  <text start="1089.48" dur="5.699">I&amp;#39;ve used&lt;font color="#E5E5E5"&gt; as a programmer&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I&lt;/font&gt;</text>
+  <text start="1091.669" dur="5.671">advocate&lt;font color="#CCCCCC"&gt; in in general for all knowledge&lt;/font&gt;</text>
+  <text start="1095.179" dur="5.401">building because it sets up an&lt;font color="#E5E5E5"&gt; obstacle&lt;/font&gt;</text>
+  <text start="1097.34" dur="7.11">course&lt;font color="#CCCCCC"&gt; for information so you put a&lt;/font&gt;</text>
+  <text start="1100.58" dur="6.809">guess especially an explanatory guess</text>
+  <text start="1104.45" dur="4.62">through&lt;font color="#E5E5E5"&gt; this obstacle course and the&lt;/font&gt;</text>
+  <text start="1107.389" dur="4.86">obstacle course will put it through</text>
+  <text start="1109.07" dur="5.88">certain tests and if it fails&lt;font color="#CCCCCC"&gt; the tests&lt;/font&gt;</text>
+  <text start="1112.249" dur="5.071">it ends&lt;font color="#CCCCCC"&gt; up being a bad guess so the&lt;/font&gt;</text>
+  <text start="1114.95" dur="7.199">tests come in&lt;font color="#E5E5E5"&gt; basically four categories&lt;/font&gt;</text>
+  <text start="1117.32" dur="7.709">and they build on each other&lt;font color="#CCCCCC"&gt; the first&lt;/font&gt;</text>
+  <text start="1122.149" dur="5.85">one is a logical test&lt;font color="#E5E5E5"&gt; you end up&lt;/font&gt;</text>
+  <text start="1125.029" dur="7.02">&lt;font color="#CCCCCC"&gt;searching for logical contradictions&lt;/font&gt;&lt;font color="#E5E5E5"&gt; in&lt;/font&gt;</text>
+  <text start="1127.999" dur="6.481">general&lt;font color="#E5E5E5"&gt; so if you&lt;/font&gt;&lt;font color="#CCCCCC"&gt; ever find that when&lt;/font&gt;</text>
+  <text start="1132.049" dur="5.01">you take this&lt;font color="#CCCCCC"&gt; guessed seriously and you&lt;/font&gt;</text>
+  <text start="1134.48" dur="5.25">look at all the parts&lt;font color="#CCCCCC"&gt; of it&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you&lt;/font&gt;&lt;font color="#CCCCCC"&gt; will&lt;/font&gt;</text>
+  <text start="1137.059" dur="6.511">&lt;font color="#E5E5E5"&gt;find certain contradictions like it&amp;#39;s&lt;/font&gt;</text>
+  <text start="1139.73" dur="5.48">saying on one&lt;font color="#E5E5E5"&gt; hand a is true and then on&lt;/font&gt;</text>
+  <text start="1143.57" dur="3.9">the&lt;font color="#CCCCCC"&gt; other&lt;/font&gt;&lt;font color="#E5E5E5"&gt; hand it&amp;#39;s saying a&lt;/font&gt;&lt;font color="#CCCCCC"&gt; is not true&lt;/font&gt;</text>
+  <text start="1145.21" dur="4.38">&lt;font color="#E5E5E5"&gt;and if you hold them together you can&lt;/font&gt;</text>
+  <text start="1147.47" dur="8.309">reveal&lt;font color="#E5E5E5"&gt; to yourself this objective&lt;/font&gt;</text>
+  <text start="1149.59" dur="8.74">failure to&lt;font color="#CCCCCC"&gt; be&lt;/font&gt;&lt;font color="#E5E5E5"&gt; coherent and then you back&lt;/font&gt;</text>
+  <text start="1155.779" dur="7.22">up&lt;font color="#CCCCCC"&gt; and reevaluate back up and reevaluate&lt;/font&gt;</text>
+  <text start="1158.33" dur="9.77">that&amp;#39;s the cycle so the after&lt;font color="#E5E5E5"&gt; logic&lt;/font&gt;&lt;font color="#CCCCCC"&gt; it&amp;#39;s&lt;/font&gt;</text>
+  <text start="1162.999" dur="7.691">what we call&lt;font color="#E5E5E5"&gt; science in general it&amp;#39;s&lt;/font&gt;</text>
+  <text start="1168.1" dur="5.199">searching&lt;font color="#E5E5E5"&gt; for logical contradictions&lt;/font&gt;</text>
+  <text start="1170.69" dur="6.719">between&lt;font color="#E5E5E5"&gt; what is actual and what is&lt;/font&gt;</text>
+  <text start="1173.299" dur="8.1">expected&lt;font color="#E5E5E5"&gt; so your guess an explanatory&lt;/font&gt;</text>
+  <text start="1177.409" dur="9.781">&lt;font color="#E5E5E5"&gt;guess is a hypothesis in this case that&lt;/font&gt;</text>
+  <text start="1181.399" dur="9.9">has expectations&lt;font color="#CCCCCC"&gt; it says basically&lt;/font&gt;&lt;font color="#E5E5E5"&gt; this&lt;/font&gt;</text>
+  <text start="1187.19" dur="9.479">is a rule that&amp;#39;s&lt;font color="#E5E5E5"&gt; been true in the past&lt;/font&gt;</text>
+  <text start="1191.299" dur="8.22">&lt;font color="#CCCCCC"&gt;and it also expects it to continue to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; be&lt;/font&gt;</text>
+  <text start="1196.669" dur="6.131">true&lt;font color="#CCCCCC"&gt; so for the things that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; we&lt;/font&gt;&lt;font color="#CCCCCC"&gt; will see&lt;/font&gt;</text>
+  <text start="1199.519" dur="5.561">like the results of a future experiment</text>
+  <text start="1202.8" dur="8.67">we will expect this particular&lt;font color="#CCCCCC"&gt; result&lt;/font&gt;</text>
+  <text start="1205.08" dur="10.26">&lt;font color="#E5E5E5"&gt;and when we go into&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; world and test&lt;/font&gt;</text>
+  <text start="1211.47" dur="7.44">&lt;font color="#E5E5E5"&gt;that particular result we have an&lt;/font&gt;</text>
+  <text start="1215.34" dur="5.88">&lt;font color="#CCCCCC"&gt;opportunity&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to falsify that guess so&lt;/font&gt;</text>
+  <text start="1218.91" dur="6.54">it&amp;#39;s yet another logical contradiction</text>
+  <text start="1221.22" dur="5.61">but it&amp;#39;s between&lt;font color="#E5E5E5"&gt; what&amp;#39;s what&amp;#39;s actual&lt;/font&gt;</text>
+  <text start="1225.45" dur="6.44">that is what we&amp;#39;re&lt;font color="#E5E5E5"&gt; seeing&lt;/font&gt;&lt;font color="#CCCCCC"&gt; right in front&lt;/font&gt;</text>
+  <text start="1226.83" dur="7.14">of&lt;font color="#E5E5E5"&gt; us&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and what is expected and that&lt;/font&gt;</text>
+  <text start="1231.89" dur="5.08">&lt;font color="#E5E5E5"&gt;contradiction is yet another&lt;/font&gt;&lt;font color="#CCCCCC"&gt; problem&lt;/font&gt;</text>
+  <text start="1233.97" dur="5.67">that falsifies and again back&lt;font color="#CCCCCC"&gt; to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the&lt;/font&gt;</text>
+  <text start="1236.97" dur="4.77">drawing&lt;font color="#E5E5E5"&gt; board&lt;/font&gt;&lt;font color="#CCCCCC"&gt; if it passes&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that&lt;/font&gt;</text>
+  <text start="1239.64" dur="5.01">particular phase the science phase it</text>
+  <text start="1241.74" dur="6.54">goes on to&lt;font color="#CCCCCC"&gt; engineering phase&lt;/font&gt;&lt;font color="#E5E5E5"&gt; if the&lt;/font&gt;</text>
+  <text start="1244.65" dur="5.97">explanation&lt;font color="#E5E5E5"&gt; covers what we&amp;#39;re building&lt;/font&gt;</text>
+  <text start="1248.28" dur="5.25">&lt;font color="#E5E5E5"&gt;like what kind of world we want or what&lt;/font&gt;</text>
+  <text start="1250.62" dur="6.32">kind of thing we&lt;font color="#E5E5E5"&gt; want in our life if&lt;/font&gt;</text>
+  <text start="1253.53" dur="6.24">&lt;font color="#CCCCCC"&gt;anytime we&amp;#39;re&lt;/font&gt;&lt;font color="#E5E5E5"&gt; building something&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and&lt;/font&gt;</text>
+  <text start="1256.94" dur="6.13">this applies to&lt;font color="#E5E5E5"&gt; knowledge itself because&lt;/font&gt;</text>
+  <text start="1259.77" dur="7.38">knowledge is&lt;font color="#E5E5E5"&gt; built&lt;/font&gt;&lt;font color="#CCCCCC"&gt; but anytime we&amp;#39;re&lt;/font&gt;</text>
+  <text start="1263.07" dur="7.56">building anything&lt;font color="#E5E5E5"&gt; we have logical&lt;/font&gt;</text>
+  <text start="1267.15" dur="5.52">&lt;font color="#CCCCCC"&gt;contradictions&lt;/font&gt;&lt;font color="#E5E5E5"&gt; or potential for logical&lt;/font&gt;</text>
+  <text start="1270.63" dur="7.35">&lt;font color="#E5E5E5"&gt;contradiction between what&lt;/font&gt;&lt;font color="#CCCCCC"&gt; we actually&lt;/font&gt;</text>
+  <text start="1272.67" dur="7.59">&lt;font color="#E5E5E5"&gt;built and what we expected to build so&lt;/font&gt;</text>
+  <text start="1277.98" dur="5.67">this is building&lt;font color="#E5E5E5"&gt; on top of science as&lt;/font&gt;</text>
+  <text start="1280.26" dur="4.77">you&lt;font color="#CCCCCC"&gt; can see but it&amp;#39;s carrying it&lt;/font&gt;&lt;font color="#E5E5E5"&gt; forward&lt;/font&gt;</text>
+  <text start="1283.65" dur="3.72">into&lt;font color="#E5E5E5"&gt; the realm of building things&lt;/font&gt;</text>
+  <text start="1285.03" dur="5.01">because it&amp;#39;s another objective&lt;font color="#E5E5E5"&gt; test in&lt;/font&gt;</text>
+  <text start="1287.37" dur="8.28">that realm&lt;font color="#CCCCCC"&gt; so that&amp;#39;s the engineering&lt;/font&gt;</text>
+  <text start="1290.04" dur="7.89">realm then finally there is&lt;font color="#E5E5E5"&gt; art which is&lt;/font&gt;</text>
+  <text start="1295.65" dur="6.42">&lt;font color="#E5E5E5"&gt;a search for logical contradictions&lt;/font&gt;</text>
+  <text start="1297.93" dur="6.86">between&lt;font color="#CCCCCC"&gt; the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; impression of what you have&lt;/font&gt;</text>
+  <text start="1302.07" dur="7.47">&lt;font color="#E5E5E5"&gt;built what you&amp;#39;ve actually built and&lt;/font&gt;</text>
+  <text start="1304.79" dur="7.15">what impressions we expected to build so</text>
+  <text start="1309.54" dur="4.41">it&amp;#39;s getting&lt;font color="#E5E5E5"&gt; more&lt;/font&gt;&lt;font color="#CCCCCC"&gt; specific&lt;/font&gt;&lt;font color="#E5E5E5"&gt; but&lt;/font&gt;</text>
+  <text start="1311.94" dur="5.78">&lt;font color="#E5E5E5"&gt;essentially as an artist you are&lt;/font&gt;</text>
+  <text start="1313.95" dur="7.08">&lt;font color="#E5E5E5"&gt;building some piece of art and&lt;/font&gt;&lt;font color="#CCCCCC"&gt; you are&lt;/font&gt;</text>
+  <text start="1317.72" dur="4.96">gathering an impression and&lt;font color="#CCCCCC"&gt; you are&lt;/font&gt;</text>
+  <text start="1321.03" dur="5.01">deciding&lt;font color="#CCCCCC"&gt; for yourself if that&amp;#39;s&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the&lt;/font&gt;</text>
+  <text start="1322.68" dur="5.72">impression&lt;font color="#CCCCCC"&gt; you wanted like some kind of&lt;/font&gt;</text>
+  <text start="1326.04" dur="5.12">experience&lt;font color="#E5E5E5"&gt; or feeling or some kind of&lt;/font&gt;</text>
+  <text start="1328.4" dur="6.09">atmosphere you&amp;#39;re trying to strike and</text>
+  <text start="1331.16" dur="5.499">if that is&lt;font color="#CCCCCC"&gt; on-track&lt;/font&gt;</text>
+  <text start="1334.49" dur="3.97">&lt;font color="#CCCCCC"&gt;you can&lt;/font&gt;</text>
+  <text start="1336.659" dur="4.35">&lt;font color="#CCCCCC"&gt;that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; into the world and let it live its&lt;/font&gt;</text>
+  <text start="1338.46" dur="6.439">life&lt;font color="#E5E5E5"&gt; and give other people impressions&lt;/font&gt;</text>
+  <text start="1341.009" dur="7.47">&lt;font color="#CCCCCC"&gt;that go on to give people new ideas and&lt;/font&gt;</text>
+  <text start="1344.899" dur="7.181">those new ideas&lt;font color="#CCCCCC"&gt; can&lt;/font&gt;&lt;font color="#E5E5E5"&gt; then go&lt;/font&gt;&lt;font color="#CCCCCC"&gt; back into&lt;/font&gt;</text>
+  <text start="1348.479" dur="6.591">&lt;font color="#CCCCCC"&gt;this constraint cycle and it begins anew&lt;/font&gt;</text>
+  <text start="1352.08" dur="5.579">&lt;font color="#E5E5E5"&gt;so that&amp;#39;s the constraint cycle it&amp;#39;s&lt;/font&gt;</text>
+  <text start="1355.07" dur="4.63">really just a description of a process</text>
+  <text start="1357.659" dur="5.311">&lt;font color="#E5E5E5"&gt;of how&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to build&lt;/font&gt;&lt;font color="#E5E5E5"&gt; knowledge by employing&lt;/font&gt;</text>
+  <text start="1359.7" dur="5.549">&lt;font color="#E5E5E5"&gt;objective tests and it takes the ego out&lt;/font&gt;</text>
+  <text start="1362.97" dur="3.629">of&lt;font color="#E5E5E5"&gt; it you&lt;/font&gt;&lt;font color="#CCCCCC"&gt; know you&lt;/font&gt;&lt;font color="#E5E5E5"&gt; don&amp;#39;t have to be you&lt;/font&gt;</text>
+  <text start="1365.249" dur="4.35">&lt;font color="#E5E5E5"&gt;know hurt if you&amp;#39;re wrong is kind&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of&lt;/font&gt;</text>
+  <text start="1366.599" dur="6.991">looking at&lt;font color="#E5E5E5"&gt; it like a scientist exactly&lt;/font&gt;</text>
+  <text start="1369.599" dur="6.54">&lt;font color="#CCCCCC"&gt;yeah only expanded because it includes&lt;/font&gt;</text>
+  <text start="1373.59" dur="4.86">things like for science there&amp;#39;s</text>
+  <text start="1376.139" dur="6.811">reproducibility&lt;font color="#E5E5E5"&gt; of experiments but that&lt;/font&gt;</text>
+  <text start="1378.45" dur="6.209">usually&lt;font color="#CCCCCC"&gt; is in terms&lt;/font&gt;&lt;font color="#E5E5E5"&gt; of things that was&lt;/font&gt;</text>
+  <text start="1382.95" dur="4.02">actually there you&amp;#39;re trying&lt;font color="#CCCCCC"&gt; to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; figure&lt;/font&gt;</text>
+  <text start="1384.659" dur="4.59">out&lt;font color="#E5E5E5"&gt; what&amp;#39;s actually there and rather&lt;/font&gt;</text>
+  <text start="1386.97" dur="6.12">than hypothesis is trying to define</text>
+  <text start="1389.249" dur="5.31">what&amp;#39;s&lt;font color="#E5E5E5"&gt; expected yeah and that&amp;#39;s after&lt;/font&gt;</text>
+  <text start="1393.09" dur="3.389">you&amp;#39;ve built&lt;font color="#E5E5E5"&gt; this thing and it&amp;#39;s lit&lt;/font&gt;</text>
+  <text start="1394.559" dur="4.021">it&amp;#39;s going&lt;font color="#E5E5E5"&gt; on to live its&lt;/font&gt;&lt;font color="#CCCCCC"&gt; life in&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the&lt;/font&gt;</text>
+  <text start="1396.479" dur="4.471">real world&lt;font color="#CCCCCC"&gt; you can still gather&lt;/font&gt;</text>
+  <text start="1398.58" dur="5.099">information&lt;font color="#CCCCCC"&gt; about it and you can still&lt;/font&gt;</text>
+  <text start="1400.95" dur="5.64">&lt;font color="#CCCCCC"&gt;be wrong about this or that but like&lt;/font&gt;</text>
+  <text start="1403.679" dur="5.7">like&lt;font color="#E5E5E5"&gt; a bridge that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; eventually degrades&lt;/font&gt;</text>
+  <text start="1406.59" dur="4.409">and and falls&lt;font color="#E5E5E5"&gt; apart in 40 years or&lt;/font&gt;</text>
+  <text start="1409.379" dur="3.93">something&lt;font color="#CCCCCC"&gt; and you ought to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; get it to&lt;/font&gt;</text>
+  <text start="1410.999" dur="4.5">fall apart in 50&lt;font color="#E5E5E5"&gt; or whatever something&lt;/font&gt;</text>
+  <text start="1413.309" dur="3.87">&lt;font color="#E5E5E5"&gt;yeah you can eventually learn that you&lt;/font&gt;</text>
+  <text start="1415.499" dur="4.02">were wrong about something&lt;font color="#CCCCCC"&gt; and that&amp;#39;s&lt;/font&gt;</text>
+  <text start="1417.179" dur="4.47">the attitude&lt;font color="#E5E5E5"&gt; that it takes is that every&lt;/font&gt;</text>
+  <text start="1419.519" dur="4.921">idea that&lt;font color="#CCCCCC"&gt; you pass through&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you&amp;#39;re not&lt;/font&gt;</text>
+  <text start="1421.649" dur="5.7">looking to support&lt;font color="#CCCCCC"&gt; the idea&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you&amp;#39;re&lt;/font&gt;</text>
+  <text start="1424.44" dur="6.059">looking to rule it out&lt;font color="#E5E5E5"&gt; so you&amp;#39;re trying&lt;/font&gt;</text>
+  <text start="1427.349" dur="7.44">to&lt;font color="#E5E5E5"&gt; apply all&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; these tests as&lt;/font&gt;&lt;font color="#CCCCCC"&gt; a measure&lt;/font&gt;</text>
+  <text start="1430.499" dur="7.92">of constraint and that&lt;font color="#E5E5E5"&gt; constraint is&lt;/font&gt;</text>
+  <text start="1434.789" dur="7.37">what gives you an objective&lt;font color="#E5E5E5"&gt; way of&lt;/font&gt;</text>
+  <text start="1438.419" dur="5.97">telling if this is a good guess without</text>
+  <text start="1442.159" dur="5.02">&lt;font color="#CCCCCC"&gt;saying that this is likely&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to be true&lt;/font&gt;</text>
+  <text start="1444.389" dur="5.46">it&amp;#39;s just&lt;font color="#CCCCCC"&gt; a really good&lt;/font&gt;&lt;font color="#E5E5E5"&gt; like way of&lt;/font&gt;</text>
+  <text start="1447.179" dur="5.641">disqualifying or&lt;font color="#E5E5E5"&gt; you know simplified a&lt;/font&gt;</text>
+  <text start="1449.849" dur="7.14">bullshit filter yeah</text>
+  <text start="1452.82" dur="8.599">the there&amp;#39;s a sort of contradiction when</text>
+  <text start="1456.989" dur="8.991">we use the term&lt;font color="#E5E5E5"&gt; truth between being&lt;/font&gt;</text>
+  <text start="1461.419" dur="6.571">looking for truth&lt;font color="#E5E5E5"&gt; and being&lt;/font&gt;&lt;font color="#CCCCCC"&gt; open-minded&lt;/font&gt;</text>
+  <text start="1465.98" dur="6.11">if you believe you have&lt;font color="#E5E5E5"&gt; the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; truth&lt;/font&gt;</text>
+  <text start="1467.99" dur="7.59">&lt;font color="#E5E5E5"&gt;already why would you keep an open mind&lt;/font&gt;</text>
+  <text start="1472.09" dur="6.66">&lt;font color="#E5E5E5"&gt;why would you keep looking for problems&lt;/font&gt;</text>
+  <text start="1475.58" dur="6.78">in&lt;font color="#E5E5E5"&gt; what you know&lt;/font&gt;&lt;font color="#CCCCCC"&gt; well if you honestly&lt;/font&gt;</text>
+  <text start="1478.75" dur="6.34">&lt;font color="#E5E5E5"&gt;believed you were correct&lt;/font&gt;&lt;font color="#CCCCCC"&gt; see&lt;/font&gt;&lt;font color="#E5E5E5"&gt; this is&lt;/font&gt;</text>
+  <text start="1482.36" dur="4.74">the&lt;font color="#CCCCCC"&gt; thing with humans like we we&lt;/font&gt;&lt;font color="#E5E5E5"&gt; we take&lt;/font&gt;</text>
+  <text start="1485.09" dur="4.02">the path of&lt;font color="#E5E5E5"&gt; least resistance&lt;/font&gt;&lt;font color="#CCCCCC"&gt; so we kind&lt;/font&gt;</text>
+  <text start="1487.1" dur="4.14">of&lt;font color="#CCCCCC"&gt; get&lt;/font&gt;&lt;font color="#E5E5E5"&gt; into that like quick summary&lt;/font&gt;</text>
+  <text start="1489.11" dur="5.1">&lt;font color="#E5E5E5"&gt;version and then make a make a&lt;/font&gt;&lt;font color="#CCCCCC"&gt; belief&lt;/font&gt;</text>
+  <text start="1491.24" dur="4.74">decision&lt;font color="#CCCCCC"&gt; tire you go to it&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and then you&lt;/font&gt;</text>
+  <text start="1494.21" dur="4.29">know we just&lt;font color="#CCCCCC"&gt; most of us just go off what&lt;/font&gt;</text>
+  <text start="1495.98" dur="5.55">the common wisdom&lt;font color="#E5E5E5"&gt; is herb or I like&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to&lt;/font&gt;</text>
+  <text start="1498.5" dur="5.52">&lt;font color="#E5E5E5"&gt;call&lt;/font&gt;&lt;font color="#CCCCCC"&gt; it the the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; collective wisdom of&lt;/font&gt;</text>
+  <text start="1501.53" dur="5.13">individual ignorance but prevailing</text>
+  <text start="1504.02" dur="4.23">winds&lt;font color="#E5E5E5"&gt; yeah&lt;/font&gt;&lt;font color="#CCCCCC"&gt; just kind of make&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that&lt;/font&gt;</text>
+  <text start="1506.66" dur="3.48">assessment&lt;font color="#E5E5E5"&gt; and then that&amp;#39;s what they&lt;/font&gt;</text>
+  <text start="1508.25" dur="3.12">stick to&lt;font color="#CCCCCC"&gt; because their egos&lt;/font&gt;&lt;font color="#E5E5E5"&gt; involved and&lt;/font&gt;</text>
+  <text start="1510.14" dur="3.06">then they don&amp;#39;t&lt;font color="#E5E5E5"&gt; go back&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and they don&amp;#39;t&lt;/font&gt;</text>
+  <text start="1511.37" dur="4.35">&lt;font color="#E5E5E5"&gt;really&lt;/font&gt;&lt;font color="#CCCCCC"&gt; don&amp;#39;t&lt;/font&gt;&lt;font color="#E5E5E5"&gt; do any of&lt;/font&gt;&lt;font color="#CCCCCC"&gt; this&lt;/font&gt;&lt;font color="#E5E5E5"&gt; what&amp;#39;s&lt;/font&gt;</text>
+  <text start="1513.2" dur="7.74">interesting is&lt;font color="#CCCCCC"&gt; its relative it&amp;#39;s&lt;/font&gt;</text>
+  <text start="1515.72" dur="9.93">&lt;font color="#E5E5E5"&gt;actually should&lt;/font&gt;&lt;font color="#CCCCCC"&gt; be easier to not tie&lt;/font&gt;</text>
+  <text start="1520.94" dur="6.6">your ego to any such idea&lt;font color="#E5E5E5"&gt; so so we have&lt;/font&gt;</text>
+  <text start="1525.65" dur="4.38">this&lt;font color="#CCCCCC"&gt; idea that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; we should&lt;/font&gt;&lt;font color="#CCCCCC"&gt; have you know&lt;/font&gt;</text>
+  <text start="1527.54" dur="4.53">&lt;font color="#E5E5E5"&gt;like we&lt;/font&gt;&lt;font color="#CCCCCC"&gt; have this view&lt;/font&gt;&lt;font color="#E5E5E5"&gt; of the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; world and&lt;/font&gt;</text>
+  <text start="1530.03" dur="5.19">that view&lt;font color="#CCCCCC"&gt; is bright and anything that&lt;/font&gt;</text>
+  <text start="1532.07" dur="4.77">&lt;font color="#E5E5E5"&gt;messes with that worldview is too much&lt;/font&gt;</text>
+  <text start="1535.22" dur="5.64">for us&lt;font color="#E5E5E5"&gt; to deal&lt;/font&gt;&lt;font color="#CCCCCC"&gt; with we shouldn&amp;#39;t deal&lt;/font&gt;</text>
+  <text start="1536.84" dur="6.15">with it&lt;font color="#CCCCCC"&gt; mm-hmm but it&amp;#39;s easier to say&lt;/font&gt;</text>
+  <text start="1540.86" dur="5.76">well this&lt;font color="#E5E5E5"&gt; is&lt;/font&gt;&lt;font color="#CCCCCC"&gt; how I think&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; world is&lt;/font&gt;</text>
+  <text start="1542.99" dur="9.18">but I&amp;#39;m&lt;font color="#E5E5E5"&gt; not exactly sure and this is&lt;/font&gt;</text>
+  <text start="1546.62" dur="9.66">like I&amp;#39;m pretty agnostic&lt;font color="#E5E5E5"&gt; in terms of my&lt;/font&gt;</text>
+  <text start="1552.17" dur="6">my belief in&lt;font color="#CCCCCC"&gt; God&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and all a theist will&lt;/font&gt;</text>
+  <text start="1556.28" dur="3.99">argue oh well you&amp;#39;re&lt;font color="#CCCCCC"&gt; just being lazy&lt;/font&gt;</text>
+  <text start="1558.17" dur="4.5">&lt;font color="#E5E5E5"&gt;then and that&amp;#39;s and that&amp;#39;s kind of true&lt;/font&gt;</text>
+  <text start="1560.27" dur="4.95">because I&amp;#39;m I&amp;#39;m not&lt;font color="#E5E5E5"&gt; necessarily taking a&lt;/font&gt;</text>
+  <text start="1562.67" dur="5.43">stance&lt;font color="#E5E5E5"&gt; because I don&amp;#39;t need to take a&lt;/font&gt;</text>
+  <text start="1565.22" dur="4.89">stance&lt;font color="#E5E5E5"&gt; and when you get&lt;/font&gt;&lt;font color="#CCCCCC"&gt; your ego&lt;/font&gt;</text>
+  <text start="1568.1" dur="5.37">&lt;font color="#E5E5E5"&gt;involved it&amp;#39;s often more work to try to&lt;/font&gt;</text>
+  <text start="1570.11" dur="5.94">keep that worldview together and be what</text>
+  <text start="1573.47" dur="4.95">you think&lt;font color="#CCCCCC"&gt; is right&lt;/font&gt;&lt;font color="#E5E5E5"&gt; than it&lt;/font&gt;&lt;font color="#CCCCCC"&gt; is to not&lt;/font&gt;</text>
+  <text start="1576.05" dur="5.46">keep the&lt;font color="#E5E5E5"&gt; world be together and be wrong&lt;/font&gt;</text>
+  <text start="1578.42" dur="4.2">sometimes&lt;font color="#E5E5E5"&gt; be wrong often in fact we&amp;#39;re&lt;/font&gt;</text>
+  <text start="1581.51" dur="4.05">&lt;font color="#CCCCCC"&gt;always wrong&lt;/font&gt;</text>
+  <text start="1582.62" dur="5.01">I like being wrong&lt;font color="#E5E5E5"&gt; I liked a proven&lt;/font&gt;</text>
+  <text start="1585.56" dur="4.62">wrong&lt;font color="#CCCCCC"&gt; and I like&lt;/font&gt;&lt;font color="#E5E5E5"&gt; people&lt;/font&gt;&lt;font color="#CCCCCC"&gt; now correct&lt;/font&gt;</text>
+  <text start="1587.63" dur="4.05">and explain why&lt;font color="#E5E5E5"&gt; you&amp;#39;re wrong&lt;/font&gt;&lt;font color="#CCCCCC"&gt; yeah that&amp;#39;s&lt;/font&gt;</text>
+  <text start="1590.18" dur="3.66">the&lt;font color="#E5E5E5"&gt; best because then you get that&amp;#39;s&lt;/font&gt;</text>
+  <text start="1591.68" dur="3.99">correct&lt;font color="#E5E5E5"&gt; your behavior&lt;/font&gt;&lt;font color="#CCCCCC"&gt; they do you a&lt;/font&gt;</text>
+  <text start="1593.84" dur="4.98">favor when&lt;font color="#E5E5E5"&gt; they do that but so many&lt;/font&gt;</text>
+  <text start="1595.67" dur="4.2">people&lt;font color="#CCCCCC"&gt; get angry yeah they feel&lt;/font&gt;</text>
+  <text start="1598.82" dur="2.82">challenged and&lt;font color="#E5E5E5"&gt; then&lt;/font&gt;</text>
+  <text start="1599.87" dur="3.15">&lt;font color="#E5E5E5"&gt;that eco and I don&amp;#39;t&lt;/font&gt;&lt;font color="#CCCCCC"&gt; know yeah I don&amp;#39;t&lt;/font&gt;</text>
+  <text start="1601.64" dur="2.91">I&amp;#39;ve always been trying to&lt;font color="#CCCCCC"&gt; figure out&lt;/font&gt;</text>
+  <text start="1603.02" dur="3.39">&lt;font color="#CCCCCC"&gt;how to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; disassociate people&amp;#39;s egos from&lt;/font&gt;</text>
+  <text start="1604.55" dur="3.63">their views so that&lt;font color="#CCCCCC"&gt; I can I can actually&lt;/font&gt;</text>
+  <text start="1606.41" dur="3.75">get across to them&lt;font color="#E5E5E5"&gt; and debates but&lt;/font&gt;</text>
+  <text start="1608.18" dur="4.11">really you know I actually I&lt;font color="#E5E5E5"&gt; gave up and&lt;/font&gt;</text>
+  <text start="1610.16" dur="4.53">I just decided to&lt;font color="#E5E5E5"&gt; to make use of them&lt;/font&gt;</text>
+  <text start="1612.29" dur="4.08">and and you know do&lt;font color="#E5E5E5"&gt; the useful useful&lt;/font&gt;</text>
+  <text start="1614.69" dur="3.93">debate concept or the useful idiot</text>
+  <text start="1616.37" dur="3.48">concept where I show the&lt;font color="#E5E5E5"&gt; audience that&lt;/font&gt;</text>
+  <text start="1618.62" dur="3.66">this person has no idea what they&amp;#39;re</text>
+  <text start="1619.85" dur="5.31">&lt;font color="#CCCCCC"&gt;talking about&lt;/font&gt;&lt;font color="#E5E5E5"&gt; right yeah it&amp;#39;s an&lt;/font&gt;</text>
+  <text start="1622.28" dur="4.95">important&lt;font color="#E5E5E5"&gt; skill to be able&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to take&lt;/font&gt;</text>
+  <text start="1625.16" dur="5.58">pretty&lt;font color="#E5E5E5"&gt; much an entire&lt;/font&gt;&lt;font color="#CCCCCC"&gt; worldview&lt;/font&gt;</text>
+  <text start="1627.23" dur="8.55">seriously for just a second&lt;font color="#CCCCCC"&gt; just like&lt;/font&gt;&lt;font color="#E5E5E5"&gt; a&lt;/font&gt;</text>
+  <text start="1630.74" dur="7.77">&lt;font color="#CCCCCC"&gt;moment&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to discuss with someone the&lt;/font&gt;</text>
+  <text start="1635.78" dur="4.98">merits or flaws of&lt;font color="#E5E5E5"&gt; it and then and then&lt;/font&gt;</text>
+  <text start="1638.51" dur="3.72">come back&lt;font color="#CCCCCC"&gt; up for error and then come&lt;/font&gt;</text>
+  <text start="1640.76" dur="2.64">back&lt;font color="#E5E5E5"&gt; over to another worldview that&lt;/font&gt;</text>
+  <text start="1642.23" dur="2.91">you&amp;#39;re&lt;font color="#E5E5E5"&gt; more familiar with&lt;/font&gt;</text>
+  <text start="1643.4" dur="3.029">there&amp;#39;s a quote kind of it says</text>
+  <text start="1645.14" dur="2.73">&lt;font color="#E5E5E5"&gt;basically what you just said I don&amp;#39;t&lt;/font&gt;</text>
+  <text start="1646.429" dur="2.731">&lt;font color="#E5E5E5"&gt;remember what it is exactly but it was&lt;/font&gt;</text>
+  <text start="1647.87" dur="3.51">&lt;font color="#E5E5E5"&gt;something along the lines of holding&lt;/font&gt;</text>
+  <text start="1649.16" dur="4.47">&lt;font color="#CCCCCC"&gt;multiple conflicting&lt;/font&gt;&lt;font color="#E5E5E5"&gt; ideas in your head&lt;/font&gt;</text>
+  <text start="1651.38" dur="3.44">&lt;font color="#E5E5E5"&gt;at once is like the mark of a great mind&lt;/font&gt;</text>
+  <text start="1653.63" dur="4.679">or something like&lt;font color="#E5E5E5"&gt; that&lt;/font&gt;</text>
+  <text start="1654.82" dur="6.04">&lt;font color="#CCCCCC"&gt;well it&amp;#39;s not that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you&amp;#39;re holding&lt;/font&gt;</text>
+  <text start="1658.309" dur="5.701">conflicting ideas that&amp;#39;s important it&amp;#39;s</text>
+  <text start="1660.86" dur="6.06">&lt;font color="#CCCCCC"&gt;that you are&lt;/font&gt;&lt;font color="#E5E5E5"&gt; able to Ewing that&amp;#39;s what I&lt;/font&gt;</text>
+  <text start="1664.01" dur="4.56">mean yeah yeah because it would it would</text>
+  <text start="1666.92" dur="5.42">be&lt;font color="#E5E5E5"&gt; conflicting if you held all the&lt;/font&gt;</text>
+  <text start="1668.57" dur="6.66">worldviews in&lt;font color="#E5E5E5"&gt; your head yeah at once&lt;/font&gt;</text>
+  <text start="1672.34" dur="4.36">it&amp;#39;s more like the idea of&lt;font color="#E5E5E5"&gt; being able&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to&lt;/font&gt;</text>
+  <text start="1675.23" dur="3.15">like taste them&lt;font color="#E5E5E5"&gt; without being&lt;/font&gt;</text>
+  <text start="1676.7" dur="4.109">overwhelmed by them and committing&lt;font color="#E5E5E5"&gt; to&lt;/font&gt;</text>
+  <text start="1678.38" dur="4.29">yeah yeah right yeah I&lt;font color="#E5E5E5"&gt; can feel very&lt;/font&gt;</text>
+  <text start="1680.809" dur="4.861">overwhelming&lt;font color="#CCCCCC"&gt; to take on a whole&lt;/font&gt;</text>
+  <text start="1682.67" dur="5.58">&lt;font color="#CCCCCC"&gt;worldview&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Intuit on it for a while&lt;/font&gt;</text>
+  <text start="1685.67" dur="6.66">&lt;font color="#E5E5E5"&gt;we like the term immerse ourselves in a&lt;/font&gt;</text>
+  <text start="1688.25" dur="6.6">&lt;font color="#E5E5E5"&gt;world that&amp;#39;s great a lot&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of people don&amp;#39;t&lt;/font&gt;</text>
+  <text start="1692.33" dur="4.26">like like the feeling of it they get</text>
+  <text start="1694.85" dur="4.89">used to&lt;font color="#CCCCCC"&gt; the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; familiarity of their&lt;/font&gt;</text>
+  <text start="1696.59" dur="5.07">particular&lt;font color="#CCCCCC"&gt; foundation it&amp;#39;s a it&amp;#39;s&lt;/font&gt;&lt;font color="#E5E5E5"&gt; a it&amp;#39;s&lt;/font&gt;</text>
+  <text start="1699.74" dur="5.43">a particularly&lt;font color="#E5E5E5"&gt; like jumping in cold&lt;/font&gt;</text>
+  <text start="1701.66" dur="5.73">water that first second&lt;font color="#CCCCCC"&gt; of shock&lt;/font&gt;&lt;font color="#E5E5E5"&gt; for&lt;/font&gt;</text>
+  <text start="1705.17" dur="3.81">&lt;font color="#CCCCCC"&gt;some&lt;/font&gt;&lt;font color="#E5E5E5"&gt; for once you get like used to&lt;/font&gt;</text>
+  <text start="1707.39" dur="3.84">&lt;font color="#E5E5E5"&gt;jumping in cold water you kind of like&lt;/font&gt;</text>
+  <text start="1708.98" dur="2.85">&lt;font color="#E5E5E5"&gt;it&lt;/font&gt;&lt;font color="#CCCCCC"&gt; because you&amp;#39;re like&lt;/font&gt;&lt;font color="#E5E5E5"&gt; yeah yeah&lt;/font&gt;&lt;font color="#CCCCCC"&gt; it&amp;#39;s&lt;/font&gt;</text>
+  <text start="1711.23" dur="3.18">really good</text>
+  <text start="1711.83" dur="6.3">but then but&lt;font color="#E5E5E5"&gt; the first time you do&lt;/font&gt;&lt;font color="#CCCCCC"&gt; it&lt;/font&gt;</text>
+  <text start="1714.41" dur="5.85">like&lt;font color="#E5E5E5"&gt; this&lt;/font&gt;&lt;font color="#CCCCCC"&gt; is awful I don&amp;#39;t know why&lt;/font&gt;&lt;font color="#E5E5E5"&gt; but&lt;/font&gt;</text>
+  <text start="1718.13" dur="4.47">&lt;font color="#E5E5E5"&gt;this is&lt;/font&gt;&lt;font color="#CCCCCC"&gt; gonna be an even more&lt;/font&gt;&lt;font color="#E5E5E5"&gt; important&lt;/font&gt;</text>
+  <text start="1720.26" dur="5.52">skill as we you&lt;font color="#CCCCCC"&gt; know probably over the&lt;/font&gt;</text>
+  <text start="1722.6" dur="5.73">&lt;font color="#E5E5E5"&gt;next few years&lt;/font&gt;&lt;font color="#CCCCCC"&gt; yeah I think&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I think&lt;/font&gt;</text>
+  <text start="1725.78" dur="5.21">because the&lt;font color="#E5E5E5"&gt; the current foundation&lt;/font&gt;</text>
+  <text start="1728.33" dur="4.349">that&amp;#39;s set up&lt;font color="#E5E5E5"&gt; by the mainstream is&lt;/font&gt;</text>
+  <text start="1730.99" dur="4.96">crumbling</text>
+  <text start="1732.679" dur="5.041">as we speak and people&lt;font color="#CCCCCC"&gt; are&lt;/font&gt;&lt;font color="#E5E5E5"&gt; going&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; have&lt;/font&gt;</text>
+  <text start="1735.95" dur="4.829">to&lt;font color="#E5E5E5"&gt; reevaluate the foundation they were&lt;/font&gt;</text>
+  <text start="1737.72" dur="4.89">given the&lt;font color="#E5E5E5"&gt; entire thing and and the the&lt;/font&gt;</text>
+  <text start="1740.779" dur="3.421">whole economic&lt;font color="#CCCCCC"&gt; system and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; everything&lt;/font&gt;</text>
+  <text start="1742.61" dur="3.659">&lt;font color="#E5E5E5"&gt;else is falling at the same time so&lt;/font&gt;</text>
+  <text start="1744.2" dur="5.28">there is&lt;font color="#E5E5E5"&gt; going&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; be some sort&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of a&lt;/font&gt;</text>
+  <text start="1746.269" dur="4.591">&lt;font color="#E5E5E5"&gt;breaking before there&amp;#39;s a fixing and I&lt;/font&gt;</text>
+  <text start="1749.48" dur="3.419">just don&amp;#39;t&lt;font color="#CCCCCC"&gt; know&lt;/font&gt;&lt;font color="#E5E5E5"&gt; how to get people&lt;/font&gt;&lt;font color="#CCCCCC"&gt; ready&lt;/font&gt;</text>
+  <text start="1750.86" dur="6.11">&lt;font color="#CCCCCC"&gt;for that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and it&amp;#39;s on a personal level&lt;/font&gt;</text>
+  <text start="1752.899" dur="7.65">&lt;font color="#CCCCCC"&gt;that breaking happens in at your head&lt;/font&gt;</text>
+  <text start="1756.97" dur="7.39">not on a societal level necessarily it</text>
+  <text start="1760.549" dur="7.291">was a&lt;font color="#E5E5E5"&gt; very individual thing&lt;/font&gt;&lt;font color="#CCCCCC"&gt; so everyone&lt;/font&gt;</text>
+  <text start="1764.36" dur="6.029">will have&lt;font color="#CCCCCC"&gt; to face it give me one second&lt;/font&gt;</text>
+  <text start="1767.84" dur="4.799">here hey everyone&lt;font color="#CCCCCC"&gt; this is Dustin&lt;/font&gt;&lt;font color="#E5E5E5"&gt; emos&lt;/font&gt;</text>
+  <text start="1770.389" dur="5.311">and briefly I want to take a moment of</text>
+  <text start="1772.639" dur="4.53">&lt;font color="#CCCCCC"&gt;your time&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; discuss carbon&lt;/font&gt;&lt;font color="#E5E5E5"&gt; 60 and some&lt;/font&gt;</text>
+  <text start="1775.7" dur="2.969">&lt;font color="#E5E5E5"&gt;of the other products that we discuss on&lt;/font&gt;</text>
+  <text start="1777.169" dur="2.97">this&lt;font color="#E5E5E5"&gt; show now if you&amp;#39;ve been around the&lt;/font&gt;</text>
+  <text start="1778.669" dur="3.39">show a&lt;font color="#E5E5E5"&gt; while you know I like&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to talk&lt;/font&gt;</text>
+  <text start="1780.139" dur="5.16">&lt;font color="#E5E5E5"&gt;about game changers I like to talk&lt;/font&gt;&lt;font color="#CCCCCC"&gt; about&lt;/font&gt;</text>
+  <text start="1782.059" dur="5.49">high impact&lt;font color="#E5E5E5"&gt; and preferably low costs and&lt;/font&gt;</text>
+  <text start="1785.299" dur="4.71">&lt;font color="#E5E5E5"&gt;often times things that you can di why&lt;/font&gt;</text>
+  <text start="1787.549" dur="4.411">at home to&lt;font color="#E5E5E5"&gt; really change your health I&lt;/font&gt;</text>
+  <text start="1790.009" dur="4.081">&lt;font color="#CCCCCC"&gt;mean health starts with research and&lt;/font&gt;</text>
+  <text start="1791.96" dur="4.5">quality&lt;font color="#E5E5E5"&gt; products now if you&amp;#39;re making&lt;/font&gt;</text>
+  <text start="1794.09" dur="4.65">&lt;font color="#E5E5E5"&gt;your own c60 it&amp;#39;s really imperative to&lt;/font&gt;</text>
+  <text start="1796.46" dur="3.99">&lt;font color="#E5E5E5"&gt;get high quality&lt;/font&gt;&lt;font color="#CCCCCC"&gt; oil&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I&amp;#39;ve done a little&lt;/font&gt;</text>
+  <text start="1798.74" dur="3.45">&lt;font color="#E5E5E5"&gt;bit&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; research on this and you know the&lt;/font&gt;</text>
+  <text start="1800.45" dur="3.78">California&lt;font color="#CCCCCC"&gt; brand is in most stores it&amp;#39;s&lt;/font&gt;</text>
+  <text start="1802.19" dur="4.14">great and&lt;font color="#E5E5E5"&gt; you can do your own&lt;/font&gt;&lt;font color="#CCCCCC"&gt; c60 at&lt;/font&gt;</text>
+  <text start="1804.23" dur="5.37">home for those interested I do also</text>
+  <text start="1806.33" dur="5.459">&lt;font color="#E5E5E5"&gt;produce coconut and olive&lt;/font&gt;&lt;font color="#CCCCCC"&gt; oil&lt;/font&gt;&lt;font color="#E5E5E5"&gt; c60 my&lt;/font&gt;</text>
+  <text start="1809.6" dur="3.63">brain is called apex&lt;font color="#E5E5E5"&gt; but you know we go&lt;/font&gt;</text>
+  <text start="1811.789" dur="3.21">into&lt;font color="#E5E5E5"&gt; a lot&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; other products as well&lt;/font&gt;&lt;font color="#CCCCCC"&gt; in&lt;/font&gt;</text>
+  <text start="1813.23" dur="3.779">the show but&lt;font color="#E5E5E5"&gt; just real briefly I want to&lt;/font&gt;</text>
+  <text start="1814.999" dur="4.14">discuss with&lt;font color="#E5E5E5"&gt; you guys&lt;/font&gt;&lt;font color="#CCCCCC"&gt; kind of some of&lt;/font&gt;</text>
+  <text start="1817.009" dur="4.321">&lt;font color="#CCCCCC"&gt;the benefits of c60 according to self&lt;/font&gt;</text>
+  <text start="1819.139" dur="5.61">&lt;font color="#CCCCCC"&gt;hacked comm no claims but let&amp;#39;s look&lt;/font&gt;&lt;font color="#E5E5E5"&gt; at&lt;/font&gt;</text>
+  <text start="1821.33" dur="5.13">&lt;font color="#E5E5E5"&gt;the research see 60 improves longevity&lt;/font&gt;</text>
+  <text start="1824.749" dur="3.81">&lt;font color="#E5E5E5"&gt;possibly as much as you know doubling&lt;/font&gt;</text>
+  <text start="1826.46" dur="3.299">your&lt;font color="#CCCCCC"&gt; lifespan&lt;/font&gt;&lt;font color="#E5E5E5"&gt; like the rats&lt;/font&gt;&lt;font color="#CCCCCC"&gt; see&lt;/font&gt;&lt;font color="#E5E5E5"&gt; 60&lt;/font&gt;</text>
+  <text start="1828.559" dur="3.151">protects against free radicals</text>
+  <text start="1829.759" dur="3.451">&lt;font color="#E5E5E5"&gt;inflammation kills viruses it protects&lt;/font&gt;</text>
+  <text start="1831.71" dur="3.329">nerves it prevents osteoarthritis</text>
+  <text start="1833.21" dur="4.559">improves obesity and metabolic syndrome</text>
+  <text start="1835.039" dur="3.09">&lt;font color="#CCCCCC"&gt;it kills bacteria&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and&lt;/font&gt;&lt;font color="#CCCCCC"&gt; it prevents UV&lt;/font&gt;</text>
+  <text start="1837.769" dur="3.48">damage</text>
+  <text start="1838.129" dur="5.64">&lt;font color="#CCCCCC"&gt;alright this stuff is fairly&lt;/font&gt;&lt;font color="#E5E5E5"&gt; powerful&lt;/font&gt;</text>
+  <text start="1841.249" dur="5.04">&lt;font color="#E5E5E5"&gt;it&amp;#39;s fairly recent and it&amp;#39;s kind of&lt;/font&gt;</text>
+  <text start="1843.769" dur="5.191">experimental&lt;font color="#CCCCCC"&gt; because of that but&lt;/font&gt;&lt;font color="#E5E5E5"&gt; for&lt;/font&gt;</text>
+  <text start="1846.289" dur="4.59">pennies a day&lt;font color="#E5E5E5"&gt; I mean in theory you can&lt;/font&gt;</text>
+  <text start="1848.96" dur="3.15">double your&lt;font color="#E5E5E5"&gt; lifespan&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and who can beat&lt;/font&gt;</text>
+  <text start="1850.879" dur="3.961">&lt;font color="#CCCCCC"&gt;that for something&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that the head&lt;/font&gt;</text>
+  <text start="1852.11" dur="5.069">researcher&lt;font color="#E5E5E5"&gt; said is safe at high&lt;/font&gt;&lt;font color="#CCCCCC"&gt; doses&lt;/font&gt;</text>
+  <text start="1854.84" dur="4.319">over&lt;font color="#E5E5E5"&gt; long periods of time&lt;/font&gt;&lt;font color="#CCCCCC"&gt; so stay tuned&lt;/font&gt;</text>
+  <text start="1857.179" dur="4.531">there&amp;#39;s definitely some other exciting</text>
+  <text start="1859.159" dur="4.23">&lt;font color="#E5E5E5"&gt;things out there to discuss&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and this is&lt;/font&gt;</text>
+  <text start="1861.71" dur="3.689">the place to hear about it find this and</text>
+  <text start="1863.389" dur="4.37">&lt;font color="#CCCCCC"&gt;much more at dustin emos&lt;/font&gt;&lt;font color="#E5E5E5"&gt; comm slash&lt;/font&gt;</text>
+  <text start="1865.399" dur="2.36">support</text>
+  <text start="1872.71" dur="7.27">good to go&lt;font color="#CCCCCC"&gt; well everyone&amp;#39;s&lt;/font&gt;&lt;font color="#E5E5E5"&gt; alright face&lt;/font&gt;</text>
+  <text start="1876.73" dur="5.17">&lt;font color="#CCCCCC"&gt;the new new world views and have to&lt;/font&gt;</text>
+  <text start="1879.98" dur="4.92">&lt;font color="#E5E5E5"&gt;change their world view over and I I&lt;/font&gt;</text>
+  <text start="1881.9" dur="9.21">have I&lt;font color="#CCCCCC"&gt; think that part of that with that&lt;/font&gt;</text>
+  <text start="1884.9" dur="8.909">&lt;font color="#CCCCCC"&gt;is that we should what what we can do&lt;/font&gt;</text>
+  <text start="1891.11" dur="5.31">what&lt;font color="#E5E5E5"&gt; people can do to help others&lt;/font&gt;</text>
+  <text start="1893.809" dur="4.5">understand it is in part helping them</text>
+  <text start="1896.42" dur="4.35">understand how to immerse oneself in</text>
+  <text start="1898.309" dur="6.951">&lt;font color="#CCCCCC"&gt;world view&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and helping them understand&lt;/font&gt;</text>
+  <text start="1900.77" dur="8.34">how to better build knowledge&lt;font color="#E5E5E5"&gt; and&lt;/font&gt;</text>
+  <text start="1905.26" dur="5.56">&lt;font color="#E5E5E5"&gt;because that&amp;#39;s what&amp;#39;s gonna kind of save&lt;/font&gt;</text>
+  <text start="1909.11" dur="3.949">us I don&amp;#39;t&lt;font color="#CCCCCC"&gt; know&lt;/font&gt;&lt;font color="#E5E5E5"&gt; if that&amp;#39;s the right&lt;/font&gt;&lt;font color="#CCCCCC"&gt; word&lt;/font&gt;</text>
+  <text start="1910.82" dur="6.84">it&amp;#39;s more like&lt;font color="#E5E5E5"&gt; it&amp;#39;s going to help us&lt;/font&gt;</text>
+  <text start="1913.059" dur="8.201">dramatically in what is probably&lt;font color="#E5E5E5"&gt; gonna&lt;/font&gt;</text>
+  <text start="1917.66" dur="6.59">happen&lt;font color="#E5E5E5"&gt; next&lt;/font&gt;&lt;font color="#CCCCCC"&gt; which is&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the shifting and&lt;/font&gt;</text>
+  <text start="1921.26" dur="6.45">&lt;font color="#CCCCCC"&gt;the mass interconnection&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; we have&lt;/font&gt;</text>
+  <text start="1924.25" dur="6.73">where the old school new sources&lt;font color="#E5E5E5"&gt; are&lt;/font&gt;</text>
+  <text start="1927.71" dur="5.969">like CNN and&lt;font color="#CCCCCC"&gt; the mainstream news&lt;/font&gt;&lt;font color="#E5E5E5"&gt; sources&lt;/font&gt;</text>
+  <text start="1930.98" dur="5.97">are dying and it&amp;#39;s gonna be very</text>
+  <text start="1933.679" dur="7.321">&lt;font color="#E5E5E5"&gt;decentralized&lt;/font&gt;&lt;font color="#CCCCCC"&gt; people will probably write&lt;/font&gt;</text>
+  <text start="1936.95" dur="6.6">come and go&lt;font color="#E5E5E5"&gt; you&lt;/font&gt;&lt;font color="#CCCCCC"&gt; know&lt;/font&gt;&lt;font color="#E5E5E5"&gt; relatively quickly&lt;/font&gt;</text>
+  <text start="1941" dur="6.72">&lt;font color="#CCCCCC"&gt;you won&amp;#39;t have that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; stable name quite&lt;/font&gt;</text>
+  <text start="1943.55" dur="7.62">it&amp;#39;ll take a real nimble person to me</text>
+  <text start="1947.72" dur="8.16">remain&lt;font color="#E5E5E5"&gt; on top forever if only because&lt;/font&gt;</text>
+  <text start="1951.17" dur="6.66">&lt;font color="#CCCCCC"&gt;people will be&lt;/font&gt;&lt;font color="#E5E5E5"&gt; more prepared for looking&lt;/font&gt;</text>
+  <text start="1955.88" dur="5.01">at the content rather than&lt;font color="#E5E5E5"&gt; trusting the&lt;/font&gt;</text>
+  <text start="1957.83" dur="5.88">source right&lt;font color="#E5E5E5"&gt; and that&amp;#39;s really the best&lt;/font&gt;</text>
+  <text start="1960.89" dur="4.71">&lt;font color="#E5E5E5"&gt;possible future we have a video called&lt;/font&gt;</text>
+  <text start="1963.71" dur="6.15">the&lt;font color="#CCCCCC"&gt; future is amazing&lt;/font&gt;&lt;font color="#E5E5E5"&gt; where we kind of&lt;/font&gt;</text>
+  <text start="1965.6" dur="6.99">&lt;font color="#CCCCCC"&gt;talked about&lt;/font&gt;&lt;font color="#E5E5E5"&gt; this too&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and and the best&lt;/font&gt;</text>
+  <text start="1969.86" dur="5.88">possible future is one where&lt;font color="#E5E5E5"&gt; people have&lt;/font&gt;</text>
+  <text start="1972.59" dur="7.469">their sort&lt;font color="#E5E5E5"&gt; of ways that they&amp;#39;ve build&lt;/font&gt;</text>
+  <text start="1975.74" dur="6.99">knowledge&lt;font color="#E5E5E5"&gt; is evolved is better&lt;/font&gt;&lt;font color="#CCCCCC"&gt; then&lt;/font&gt;</text>
+  <text start="1980.059" dur="4.531">&lt;font color="#E5E5E5"&gt;using things like&lt;/font&gt;&lt;font color="#CCCCCC"&gt; authority or using&lt;/font&gt;</text>
+  <text start="1982.73" dur="5.73">things like&lt;font color="#E5E5E5"&gt; what the general prevailing&lt;/font&gt;</text>
+  <text start="1984.59" dur="7.43">winds&lt;font color="#E5E5E5"&gt; are and and we see the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; people&lt;/font&gt;</text>
+  <text start="1988.46" dur="5.58">starting to&lt;font color="#E5E5E5"&gt; actually work on&lt;/font&gt;</text>
+  <text start="1992.02" dur="3.7">collectively building a&lt;font color="#E5E5E5"&gt; better&lt;/font&gt;</text>
+  <text start="1994.04" dur="5.28">understanding&lt;font color="#E5E5E5"&gt; of what&amp;#39;s&lt;/font&gt;&lt;font color="#CCCCCC"&gt; happening&lt;/font&gt;</text>
+  <text start="1995.72" dur="6.03">&lt;font color="#E5E5E5"&gt;I you know&lt;/font&gt;&lt;font color="#CCCCCC"&gt; I I know I&amp;#39;m a little&lt;/font&gt;&lt;font color="#E5E5E5"&gt; cynical&lt;/font&gt;</text>
+  <text start="1999.32" dur="4.32">on some people as far&lt;font color="#E5E5E5"&gt; as&lt;/font&gt;</text>
+  <text start="2001.75" dur="5.88">ever being&lt;font color="#E5E5E5"&gt; able to think for&lt;/font&gt;&lt;font color="#CCCCCC"&gt; themselves&lt;/font&gt;</text>
+  <text start="2003.64" dur="5.58">but at the same&lt;font color="#E5E5E5"&gt; point&lt;/font&gt;&lt;font color="#CCCCCC"&gt; there&amp;#39;s gonna&lt;/font&gt;&lt;font color="#E5E5E5"&gt; be&lt;/font&gt;</text>
+  <text start="2007.63" dur="3.48">definitely&lt;font color="#E5E5E5"&gt; some cognitive dissonance&lt;/font&gt;</text>
+  <text start="2009.22" dur="4.53">although&lt;font color="#E5E5E5"&gt; I think the decentralization&lt;/font&gt;</text>
+  <text start="2011.11" dur="5.19">means a much faster&lt;font color="#CCCCCC"&gt; bounce-back I think&lt;/font&gt;</text>
+  <text start="2013.75" dur="4.08">letting that run is gonna is gonna in</text>
+  <text start="2016.3" dur="4.2">the free&lt;font color="#E5E5E5"&gt; market is just&lt;/font&gt;&lt;font color="#CCCCCC"&gt; gonna solve most&lt;/font&gt;</text>
+  <text start="2017.83" dur="5.07">of&lt;font color="#E5E5E5"&gt; our problems&lt;/font&gt;&lt;font color="#CCCCCC"&gt; when this&lt;/font&gt;&lt;font color="#E5E5E5"&gt; whole system&lt;/font&gt;</text>
+  <text start="2020.5" dur="3.78">&lt;font color="#CCCCCC"&gt;crashes but you know for the idea part&lt;/font&gt;</text>
+  <text start="2022.9" dur="3.93">for the for the&lt;font color="#E5E5E5"&gt; cognitive dissonance&lt;/font&gt;</text>
+  <text start="2024.28" dur="5.34">part for the the broken ideologies and</text>
+  <text start="2026.83" dur="4.86">&lt;font color="#E5E5E5"&gt;worldviews&lt;/font&gt;&lt;font color="#CCCCCC"&gt; you know that&amp;#39;s&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that&amp;#39;s gonna&lt;/font&gt;</text>
+  <text start="2029.62" dur="5.25">take some some videos like this&lt;font color="#E5E5E5"&gt; you know&lt;/font&gt;</text>
+  <text start="2031.69" dur="5.46">some some how to&amp;#39;s on on on&lt;font color="#E5E5E5"&gt; reasoning&lt;/font&gt;</text>
+  <text start="2034.87" dur="4.2">abilities well&lt;font color="#CCCCCC"&gt; on&lt;/font&gt;&lt;font color="#E5E5E5"&gt; this and that&amp;#39;s kind&lt;/font&gt;</text>
+  <text start="2037.15" dur="4.56">of why we well that&amp;#39;s&lt;font color="#E5E5E5"&gt; what kind of why&lt;/font&gt;</text>
+  <text start="2039.07" dur="5.22">we started&lt;font color="#E5E5E5"&gt; our channel is we think&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that&lt;/font&gt;</text>
+  <text start="2041.71" dur="5.19">it&amp;#39;s important&lt;font color="#CCCCCC"&gt; to at least start getting&lt;/font&gt;</text>
+  <text start="2044.29" dur="7.5">the word out there&lt;font color="#E5E5E5"&gt; for how to better&lt;/font&gt;</text>
+  <text start="2046.9" dur="7.41">approach the coming future world or the</text>
+  <text start="2051.79" dur="4.08">coming&lt;font color="#E5E5E5"&gt; way that we&amp;#39;re going&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to interact&lt;/font&gt;</text>
+  <text start="2054.31" dur="4.2">&lt;font color="#E5E5E5"&gt;with one another and interact with the&lt;/font&gt;</text>
+  <text start="2055.87" dur="6.87">&lt;font color="#E5E5E5"&gt;world and then how to progress faster&lt;/font&gt;</text>
+  <text start="2058.51" dur="7.2">&lt;font color="#CCCCCC"&gt;there&amp;#39;s no upward&lt;/font&gt;&lt;font color="#E5E5E5"&gt; limit to how much&lt;/font&gt;</text>
+  <text start="2062.74" dur="7.62">progress&lt;font color="#E5E5E5"&gt; can be made in&lt;/font&gt;&lt;font color="#CCCCCC"&gt; enduring any&lt;/font&gt;</text>
+  <text start="2065.71" dur="6.24">&lt;font color="#E5E5E5"&gt;period of&lt;/font&gt;&lt;font color="#CCCCCC"&gt; time so&lt;/font&gt;&lt;font color="#E5E5E5"&gt; we could fly to space&lt;/font&gt;</text>
+  <text start="2070.36" dur="4.02">&lt;font color="#CCCCCC"&gt;tomorrow and we could go to Mars&lt;/font&gt;</text>
+  <text start="2071.95" dur="4.74">tomorrow and set up a colony&lt;font color="#E5E5E5"&gt; if we just&lt;/font&gt;</text>
+  <text start="2074.38" dur="5.58">knew the technology&lt;font color="#E5E5E5"&gt; that it would take&lt;/font&gt;</text>
+  <text start="2076.69" dur="5.85">to go to Mars&lt;font color="#CCCCCC"&gt; and set up a colony yeah&lt;/font&gt;</text>
+  <text start="2079.96" dur="4.14">&lt;font color="#CCCCCC"&gt;we don&amp;#39;t have that knowledge&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and we have&lt;/font&gt;</text>
+  <text start="2082.54" dur="2.879">to&lt;font color="#E5E5E5"&gt; build that knowledge and that&amp;#39;s a&lt;/font&gt;</text>
+  <text start="2084.1" dur="4.02">very&lt;font color="#CCCCCC"&gt; expensive process&lt;/font&gt;</text>
+  <text start="2085.419" dur="6.411">it requires yeah trial and error&lt;font color="#CCCCCC"&gt; all&lt;/font&gt;</text>
+  <text start="2088.12" dur="5.76">knowledge essentially is trial and error</text>
+  <text start="2091.83" dur="4.33">meaning it&amp;#39;s built through that</text>
+  <text start="2093.88" dur="5.7">iterative&lt;font color="#E5E5E5"&gt; yeah&lt;/font&gt;&lt;font color="#CCCCCC"&gt; trial&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and error&lt;/font&gt;</text>
+  <text start="2096.16" dur="7.86">correction&lt;font color="#CCCCCC"&gt; you can you can let the but&lt;/font&gt;</text>
+  <text start="2099.58" dur="6.87">there&amp;#39;s really no upper&lt;font color="#E5E5E5"&gt; bound to the&lt;/font&gt;</text>
+  <text start="2104.02" dur="4.02">rate&lt;font color="#CCCCCC"&gt; of progress&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I think&lt;/font&gt;&lt;font color="#CCCCCC"&gt; what you guys&lt;/font&gt;</text>
+  <text start="2106.45" dur="4.08">have&lt;font color="#CCCCCC"&gt; basically already&lt;/font&gt;&lt;font color="#E5E5E5"&gt; mentioned you&lt;/font&gt;</text>
+  <text start="2108.04" dur="5.46">&lt;font color="#E5E5E5"&gt;know the the the open source nature of&lt;/font&gt;</text>
+  <text start="2110.53" dur="4.38">some of&lt;font color="#CCCCCC"&gt; these some of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; these things that&lt;/font&gt;</text>
+  <text start="2113.5" dur="2.79">&lt;font color="#CCCCCC"&gt;are going&lt;/font&gt;&lt;font color="#E5E5E5"&gt; on in the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; computer design&lt;/font&gt;</text>
+  <text start="2114.91" dur="4.11">&lt;font color="#E5E5E5"&gt;world like those and things like that&lt;/font&gt;</text>
+  <text start="2116.29" dur="4.26">that&lt;font color="#CCCCCC"&gt; I think&lt;/font&gt;&lt;font color="#E5E5E5"&gt; is going&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to start&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you know&lt;/font&gt;</text>
+  <text start="2119.02" dur="3.15">we&amp;#39;ve already seen like you&lt;font color="#CCCCCC"&gt; know thirty&lt;/font&gt;</text>
+  <text start="2120.55" dur="3.72">&lt;font color="#CCCCCC"&gt;years ago what was a&lt;/font&gt;&lt;font color="#E5E5E5"&gt; cell phone and then&lt;/font&gt;</text>
+  <text start="2122.17" dur="4.53">and then they were kind&lt;font color="#E5E5E5"&gt; of clunky and&lt;/font&gt;</text>
+  <text start="2124.27" dur="4.26">then and then&lt;font color="#CCCCCC"&gt; dial-up and then high&lt;/font&gt;</text>
+  <text start="2126.7" dur="3.24">speed internet and then just gets faster</text>
+  <text start="2128.53" dur="4.41">than momentum builds and accelerates</text>
+  <text start="2129.94" dur="4.56">just faster and faster&lt;font color="#CCCCCC"&gt; I think I don&amp;#39;t&lt;/font&gt;</text>
+  <text start="2132.94" dur="2.08">&lt;font color="#CCCCCC"&gt;even&lt;/font&gt;&lt;font color="#E5E5E5"&gt; know what is possible&lt;/font&gt;&lt;font color="#CCCCCC"&gt; I can&amp;#39;t even&lt;/font&gt;</text>
+  <text start="2134.5" dur="2.01">imagine</text>
+  <text start="2135.02" dur="6.63">as&lt;font color="#E5E5E5"&gt; possible&lt;/font&gt;&lt;font color="#CCCCCC"&gt; even&lt;/font&gt;&lt;font color="#E5E5E5"&gt; ten years&lt;/font&gt;&lt;font color="#CCCCCC"&gt; down the road&lt;/font&gt;</text>
+  <text start="2136.51" dur="7.87">&lt;font color="#E5E5E5"&gt;so well yeah well I think one&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of the&lt;/font&gt;</text>
+  <text start="2141.65" dur="4.11">bigger steps and I think it&amp;#39;s not wrong</text>
+  <text start="2144.38" dur="3.93">it&amp;#39;s been we&amp;#39;ve been&lt;font color="#E5E5E5"&gt; waiting for it for&lt;/font&gt;</text>
+  <text start="2145.76" dur="4.5">&lt;font color="#E5E5E5"&gt;quite some&lt;/font&gt;&lt;font color="#CCCCCC"&gt; time&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and is in 3d&lt;/font&gt;&lt;font color="#CCCCCC"&gt; printing&lt;/font&gt;</text>
+  <text start="2148.31" dur="4.26">but&lt;font color="#E5E5E5"&gt; I don&amp;#39;t think it&amp;#39;s quite in the same&lt;/font&gt;</text>
+  <text start="2150.26" dur="4.26">way&lt;font color="#E5E5E5"&gt; that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; people think about 3d printing&lt;/font&gt;</text>
+  <text start="2152.57" dur="4.95">&lt;font color="#E5E5E5"&gt;the thing that they had now is a 3d&lt;/font&gt;</text>
+  <text start="2154.52" dur="6.21">printer&lt;font color="#CCCCCC"&gt; and it does cool things but it&lt;/font&gt;</text>
+  <text start="2157.52" dur="5.61">does one type&lt;font color="#CCCCCC"&gt; of material and it does&lt;/font&gt;</text>
+  <text start="2160.73" dur="6.93">one certain&lt;font color="#CCCCCC"&gt; thing and it builds&lt;/font&gt;&lt;font color="#E5E5E5"&gt; a little&lt;/font&gt;</text>
+  <text start="2163.13" dur="7.08">&lt;font color="#E5E5E5"&gt;statue or whatever it does&lt;/font&gt;&lt;font color="#CCCCCC"&gt; but what&amp;#39;s&lt;/font&gt;</text>
+  <text start="2167.66" dur="4.47">&lt;font color="#E5E5E5"&gt;really going to kick things off is 3d&lt;/font&gt;</text>
+  <text start="2170.21" dur="5.49">printing that can do&lt;font color="#E5E5E5"&gt; build something&lt;/font&gt;</text>
+  <text start="2172.13" dur="5.82">like&lt;font color="#E5E5E5"&gt; a circuit board mm-hmm so so if we&lt;/font&gt;</text>
+  <text start="2175.7" dur="4.53">get if they have metamaterials where</text>
+  <text start="2177.95" dur="4.95">they can and they&lt;font color="#CCCCCC"&gt; have&lt;/font&gt;&lt;font color="#E5E5E5"&gt; something similar&lt;/font&gt;</text>
+  <text start="2180.23" dur="6.72">to that where they&lt;font color="#E5E5E5"&gt; can you&lt;/font&gt;&lt;font color="#CCCCCC"&gt; know print&lt;/font&gt;</text>
+  <text start="2182.9" dur="6.62">out a&lt;font color="#E5E5E5"&gt; metamaterial and sorry have&lt;/font&gt;</text>
+  <text start="2186.95" dur="5.31">multiple materials&lt;font color="#E5E5E5"&gt; at the same printer&lt;/font&gt;</text>
+  <text start="2189.52" dur="4.48">so do you&lt;font color="#E5E5E5"&gt; guys think like I kind of I&lt;/font&gt;</text>
+  <text start="2192.26" dur="3.87">like&lt;font color="#E5E5E5"&gt; to say that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; we&amp;#39;re almost to class&lt;/font&gt;</text>
+  <text start="2194" dur="4.89">one&lt;font color="#E5E5E5"&gt; civilization so we&amp;#39;re almost to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; like&lt;/font&gt;</text>
+  <text start="2196.13" dur="4.77">Star Trek&lt;font color="#E5E5E5"&gt; but do you guys think we&amp;#39;re&lt;/font&gt;</text>
+  <text start="2198.89" dur="3.6">getting pretty&lt;font color="#CCCCCC"&gt; close to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; those uh those&lt;/font&gt;</text>
+  <text start="2200.9" dur="3.24">like&lt;font color="#E5E5E5"&gt; you push the button&lt;/font&gt;&lt;font color="#CCCCCC"&gt; you tell it to&lt;/font&gt;</text>
+  <text start="2202.49" dur="4.74">&lt;font color="#CCCCCC"&gt;give&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you a coffee or a Big&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Mac or&lt;/font&gt;</text>
+  <text start="2204.14" dur="8.73">whatever&lt;font color="#CCCCCC"&gt; and that&amp;#39;s&lt;/font&gt;&lt;font color="#E5E5E5"&gt; it out well there&amp;#39;s&lt;/font&gt;</text>
+  <text start="2207.23" dur="8.1">a lot of technology that&lt;font color="#CCCCCC"&gt; that is out&lt;/font&gt;</text>
+  <text start="2212.87" dur="6.03">there&lt;font color="#E5E5E5"&gt; that people have discovered that&lt;/font&gt;</text>
+  <text start="2215.33" dur="6.69">just doesn&amp;#39;t&lt;font color="#E5E5E5"&gt; have a lot of publicity or&lt;/font&gt;</text>
+  <text start="2218.9" dur="5.85">is kept&lt;font color="#E5E5E5"&gt; secret oh yes and it&amp;#39;s really&lt;/font&gt;</text>
+  <text start="2222.02" dur="7.41">&lt;font color="#E5E5E5"&gt;hard to to understand that the full&lt;/font&gt;</text>
+  <text start="2224.75" dur="9.36">depth&lt;font color="#E5E5E5"&gt; of that because of the of the&lt;/font&gt;</text>
+  <text start="2229.43" dur="10.64">secrecy but&lt;font color="#E5E5E5"&gt; I think the biggest hurdle&lt;/font&gt;</text>
+  <text start="2234.11" dur="5.96">&lt;font color="#E5E5E5"&gt;right now&lt;/font&gt;&lt;font color="#CCCCCC"&gt; because of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; those secrets is to&lt;/font&gt;</text>
+  <text start="2240.91" dur="11.74">bust through&lt;font color="#E5E5E5"&gt; the door basically&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and and&lt;/font&gt;</text>
+  <text start="2245.92" dur="8.71">grab by the horns&lt;font color="#E5E5E5"&gt; the the the right to&lt;/font&gt;</text>
+  <text start="2252.65" dur="5.07">progress we don&amp;#39;t we&lt;font color="#CCCCCC"&gt; shouldn&amp;#39;t&lt;/font&gt;&lt;font color="#E5E5E5"&gt; be&lt;/font&gt;</text>
+  <text start="2254.63" dur="7.59">struggling&lt;font color="#CCCCCC"&gt; in a state of perpetual&lt;/font&gt;</text>
+  <text start="2257.72" dur="6.72">stagnation&lt;font color="#E5E5E5"&gt; because some&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Butthead wants&lt;/font&gt;</text>
+  <text start="2262.22" dur="3.84">to preserve&lt;font color="#E5E5E5"&gt; their&lt;/font&gt;&lt;font color="#CCCCCC"&gt; empire&lt;/font&gt;&lt;font color="#E5E5E5"&gt; yeah you&amp;#39;re&lt;/font&gt;</text>
+  <text start="2264.44" dur="4.53">either growing&lt;font color="#E5E5E5"&gt; or dying in nature and&lt;/font&gt;</text>
+  <text start="2266.06" dur="4.02">you&lt;font color="#CCCCCC"&gt; know one of my biggest things&lt;/font&gt;</text>
+  <text start="2268.97" dur="2.49">and I like to focus&lt;font color="#E5E5E5"&gt; on&lt;/font&gt;&lt;font color="#CCCCCC"&gt; its new&lt;/font&gt;</text>
+  <text start="2270.08" dur="2.61">technology&lt;font color="#CCCCCC"&gt; especially&lt;/font&gt;&lt;font color="#E5E5E5"&gt; in the energy&lt;/font&gt;</text>
+  <text start="2271.46" dur="3.72">sector because that seems&lt;font color="#E5E5E5"&gt; to be where&lt;/font&gt;</text>
+  <text start="2272.69" dur="4.83">the control is the worst&lt;font color="#E5E5E5"&gt; but you know&lt;/font&gt;</text>
+  <text start="2275.18" dur="3.63">also you know holistically speaking</text>
+  <text start="2277.52" dur="3.48">there&amp;#39;s some great new technology</text>
+  <text start="2278.81" dur="3.99">although&lt;font color="#E5E5E5"&gt; I think old wisdom there is&lt;/font&gt;</text>
+  <text start="2281" dur="4.08">&lt;font color="#E5E5E5"&gt;kind of the best you&lt;/font&gt;&lt;font color="#CCCCCC"&gt; know nature&lt;/font&gt;&lt;font color="#E5E5E5"&gt; gives&lt;/font&gt;</text>
+  <text start="2282.8" dur="3.45">us&lt;font color="#E5E5E5"&gt; what we&lt;/font&gt;&lt;font color="#CCCCCC"&gt; need to be healthy although&lt;/font&gt;</text>
+  <text start="2285.08" dur="2.91">&lt;font color="#CCCCCC"&gt;there&amp;#39;s&lt;/font&gt;&lt;font color="#E5E5E5"&gt; some cool breakthroughs like&lt;/font&gt;</text>
+  <text start="2286.25" dur="3.69">&lt;font color="#E5E5E5"&gt;carbon 60 things like that that can&lt;/font&gt;</text>
+  <text start="2287.99" dur="4.83">&lt;font color="#E5E5E5"&gt;extend your life but you know in theory&lt;/font&gt;</text>
+  <text start="2289.94" dur="5.159">&lt;font color="#CCCCCC"&gt;but you know&lt;/font&gt;&lt;font color="#E5E5E5"&gt; energy&lt;/font&gt;&lt;font color="#CCCCCC"&gt; wise that&amp;#39;s really&lt;/font&gt;</text>
+  <text start="2292.82" dur="6.18">what&amp;#39;s&lt;font color="#E5E5E5"&gt; gonna set mankind free from the&lt;/font&gt;</text>
+  <text start="2295.099" dur="6.601">daily&lt;font color="#E5E5E5"&gt; work&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the daily job so long as I&lt;/font&gt;</text>
+  <text start="2299" dur="6.45">&lt;font color="#E5E5E5"&gt;have the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; energy is able&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to provide like&lt;/font&gt;</text>
+  <text start="2301.7" dur="5.61">energy&lt;font color="#E5E5E5"&gt; is a bottleneck and it seems&lt;/font&gt;</text>
+  <text start="2305.45" dur="3.24">right&lt;font color="#E5E5E5"&gt; now it&amp;#39;s because of that like&lt;/font&gt;</text>
+  <text start="2307.31" dur="2.7">you&amp;#39;re&lt;font color="#E5E5E5"&gt; saying in the control you know&lt;/font&gt;</text>
+  <text start="2308.69" dur="4.169">there&amp;#39;s so many&lt;font color="#E5E5E5"&gt; things like the Tesla&lt;/font&gt;</text>
+  <text start="2310.01" dur="4.92">stuff that was able&lt;font color="#CCCCCC"&gt; to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; not make&lt;/font&gt;&lt;font color="#CCCCCC"&gt; energy&lt;/font&gt;</text>
+  <text start="2312.859" dur="3.51">out of nothing but pull it out&lt;font color="#CCCCCC"&gt; of you&lt;/font&gt;</text>
+  <text start="2314.93" dur="4.56">know space or&lt;font color="#E5E5E5"&gt; something or&lt;/font&gt;&lt;font color="#CCCCCC"&gt; just you know&lt;/font&gt;</text>
+  <text start="2316.369" dur="5.701">&lt;font color="#E5E5E5"&gt;find no novel new ways of creating&lt;/font&gt;</text>
+  <text start="2319.49" dur="5.609">&lt;font color="#E5E5E5"&gt;energy for human&lt;/font&gt;&lt;font color="#CCCCCC"&gt; use that that don&amp;#39;t&lt;/font&gt;</text>
+  <text start="2322.07" dur="3.87">&lt;font color="#E5E5E5"&gt;require&lt;/font&gt;&lt;font color="#CCCCCC"&gt; as&lt;/font&gt;&lt;font color="#E5E5E5"&gt; much input and and in raw&lt;/font&gt;</text>
+  <text start="2325.099" dur="4.201">material and things</text>
+  <text start="2325.94" dur="6.57">oh yeah it&amp;#39;s&lt;font color="#E5E5E5"&gt; super interesting&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I&lt;/font&gt;</text>
+  <text start="2329.3" dur="6.45">mean there&amp;#39;s been there&amp;#39;s technology</text>
+  <text start="2332.51" dur="4.29">like have you ever&lt;font color="#E5E5E5"&gt; heard of a Trump TR&lt;/font&gt;</text>
+  <text start="2335.75" dur="5.49">&lt;font color="#CCCCCC"&gt;om PE&lt;/font&gt;</text>
+  <text start="2336.8" dur="7.98">no not in&lt;font color="#E5E5E5"&gt; that sense not a&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Trump it&amp;#39;s a&lt;/font&gt;</text>
+  <text start="2341.24" dur="8.27">&lt;font color="#CCCCCC"&gt;Trump&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and what it is is it&amp;#39;s a method of&lt;/font&gt;</text>
+  <text start="2344.78" dur="8.13">producing compressed air&lt;font color="#E5E5E5"&gt; by without any&lt;/font&gt;</text>
+  <text start="2349.51" dur="7.39">moving mechanical parts essentially a</text>
+  <text start="2352.91" dur="6.11">series&lt;font color="#CCCCCC"&gt; of pipes&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that flows&lt;/font&gt;&lt;font color="#CCCCCC"&gt; into&lt;/font&gt;&lt;font color="#E5E5E5"&gt; one&lt;/font&gt;</text>
+  <text start="2356.9" dur="5.28">another and&lt;font color="#CCCCCC"&gt; it at the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; bottom of it is a&lt;/font&gt;</text>
+  <text start="2359.02" dur="6.61">chamber that&lt;font color="#CCCCCC"&gt; welcome that contains&lt;/font&gt;</text>
+  <text start="2362.18" dur="6.27">compressed&lt;font color="#E5E5E5"&gt; air because of&lt;/font&gt;&lt;font color="#CCCCCC"&gt; how water when&lt;/font&gt;</text>
+  <text start="2365.63" dur="6.6">you have a column&lt;font color="#E5E5E5"&gt; of water&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the deeper&lt;/font&gt;</text>
+  <text start="2368.45" dur="6.81">you go the more&lt;font color="#E5E5E5"&gt; pressure there is so if&lt;/font&gt;</text>
+  <text start="2372.23" dur="5.609">you have 50 feet of water&lt;font color="#E5E5E5"&gt; the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; bottom has&lt;/font&gt;</text>
+  <text start="2375.26" dur="5.04">even if it&amp;#39;s just&lt;font color="#CCCCCC"&gt; in a&lt;/font&gt;&lt;font color="#E5E5E5"&gt; in a pipe the&lt;/font&gt;</text>
+  <text start="2377.839" dur="4.801">bottom has a lot of&lt;font color="#E5E5E5"&gt; pressure and so you&lt;/font&gt;</text>
+  <text start="2380.3" dur="3.9">put bubble run bubbles&lt;font color="#E5E5E5"&gt; through that and&lt;/font&gt;</text>
+  <text start="2382.64" dur="3.69">then that column&lt;font color="#E5E5E5"&gt; of water compresses&lt;/font&gt;</text>
+  <text start="2384.2" dur="3.18">&lt;font color="#CCCCCC"&gt;that air and then brilliant that makes&lt;/font&gt;</text>
+  <text start="2386.33" dur="4.14">perfect&lt;font color="#CCCCCC"&gt; sense&lt;/font&gt;</text>
+  <text start="2387.38" dur="5.34">yeah&lt;font color="#E5E5E5"&gt; into a into a small canister sort&lt;/font&gt;</text>
+  <text start="2390.47" dur="4.41">of thing and yeah you can use compressed</text>
+  <text start="2392.72" dur="4.02">air like for basically for&lt;font color="#CCCCCC"&gt; free like&lt;/font&gt;</text>
+  <text start="2394.88" dur="3.54">that I mean&lt;font color="#CCCCCC"&gt; that that&amp;#39;s useful for so&lt;/font&gt;</text>
+  <text start="2396.74" dur="5.17">many things&lt;font color="#E5E5E5"&gt; I&lt;/font&gt;&lt;font color="#CCCCCC"&gt; mean&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you&lt;/font&gt;&lt;font color="#CCCCCC"&gt; have&lt;/font&gt;&lt;font color="#E5E5E5"&gt; technology&lt;/font&gt;</text>
+  <text start="2398.42" dur="6.46">and and and yeah&lt;font color="#E5E5E5"&gt; it&amp;#39;s great&lt;/font&gt;</text>
+  <text start="2401.91" dur="6.599">and the&lt;font color="#CCCCCC"&gt; hilarious thing about that is&lt;/font&gt;</text>
+  <text start="2404.88" dur="7.319">&lt;font color="#CCCCCC"&gt;for&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that people&lt;/font&gt;&lt;font color="#CCCCCC"&gt; have known about Trump&amp;#39;s&lt;/font&gt;</text>
+  <text start="2408.509" dur="6.121">it was almost&lt;font color="#E5E5E5"&gt; Roman era technology the&lt;/font&gt;</text>
+  <text start="2412.199" dur="5.31">Chinese knew about it and used use them</text>
+  <text start="2414.63" dur="7.439">for doing smelting and kiln kiln fires</text>
+  <text start="2417.509" dur="7.28">to blow air into the virus but they</text>
+  <text start="2422.069" dur="6.03">actually&lt;font color="#E5E5E5"&gt; the Vatican knew about it and&lt;/font&gt;</text>
+  <text start="2424.789" dur="6.22">&lt;font color="#E5E5E5"&gt;they would&lt;/font&gt;&lt;font color="#CCCCCC"&gt; perform miracles using it&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and&lt;/font&gt;</text>
+  <text start="2428.099" dur="4.561">it was a&lt;font color="#CCCCCC"&gt; closely-guarded&lt;/font&gt;&lt;font color="#E5E5E5"&gt; technology by&lt;/font&gt;</text>
+  <text start="2431.009" dur="6.151">the&lt;font color="#E5E5E5"&gt; Vatican&lt;/font&gt;&lt;font color="#CCCCCC"&gt; in like&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the medieval&lt;/font&gt;</text>
+  <text start="2432.66" dur="6.78">medieval era&lt;font color="#E5E5E5"&gt; and so it was something&lt;/font&gt;</text>
+  <text start="2437.16" dur="4.409">&lt;font color="#CCCCCC"&gt;that I always kind of thought because if&lt;/font&gt;</text>
+  <text start="2439.44" dur="3.839">you want you know&lt;font color="#E5E5E5"&gt; evidence of like&lt;/font&gt;</text>
+  <text start="2441.569" dur="4.02">here&amp;#39;s&lt;font color="#E5E5E5"&gt; like this great technology&lt;/font&gt;</text>
+  <text start="2443.279" dur="3.54">compressed air it can&lt;font color="#E5E5E5"&gt; be used for so&lt;/font&gt;</text>
+  <text start="2445.589" dur="2.851">many things&lt;font color="#E5E5E5"&gt; especially if you&amp;#39;re not&lt;/font&gt;</text>
+  <text start="2446.819" dur="4.14">talking&lt;font color="#E5E5E5"&gt; you&amp;#39;re talking&lt;/font&gt;&lt;font color="#CCCCCC"&gt; about a world&lt;/font&gt;</text>
+  <text start="2448.44" dur="4.889">without electricity&lt;font color="#CCCCCC"&gt; and yet&lt;/font&gt;&lt;font color="#E5E5E5"&gt; here it&lt;/font&gt;&lt;font color="#CCCCCC"&gt; is&lt;/font&gt;</text>
+  <text start="2450.959" dur="5.971">being used&lt;font color="#CCCCCC"&gt; to you know open&lt;/font&gt;&lt;font color="#E5E5E5"&gt; big doors&lt;/font&gt;</text>
+  <text start="2453.329" dur="7.98">and and for you know&lt;font color="#E5E5E5"&gt; making the mother&lt;/font&gt;</text>
+  <text start="2456.93" dur="6.649">mother&lt;font color="#E5E5E5"&gt; Mary cry&lt;/font&gt;&lt;font color="#CCCCCC"&gt; really I think&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I&amp;#39;m a big&lt;/font&gt;</text>
+  <text start="2461.309" dur="4.05">believer that any&lt;font color="#E5E5E5"&gt; technology that is not&lt;/font&gt;</text>
+  <text start="2463.579" dur="3.37">&lt;font color="#E5E5E5"&gt;distributed&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to the people in a&lt;/font&gt;</text>
+  <text start="2465.359" dur="3.72">&lt;font color="#E5E5E5"&gt;widespread easy-to-understand manner&lt;/font&gt;</text>
+  <text start="2466.949" dur="6.12">will be&lt;font color="#CCCCCC"&gt; abused against us&lt;/font&gt;</text>
+  <text start="2469.079" dur="6.45">yeah if it can be yeah and that&amp;#39;s and</text>
+  <text start="2473.069" dur="6.93">&lt;font color="#CCCCCC"&gt;that&amp;#39;s sort&lt;/font&gt;&lt;font color="#E5E5E5"&gt; of the the goal of&lt;/font&gt;&lt;font color="#CCCCCC"&gt; open&lt;/font&gt;</text>
+  <text start="2475.529" dur="7.26">source&lt;font color="#CCCCCC"&gt; is that is that we we were&lt;/font&gt;</text>
+  <text start="2479.999" dur="4.98">discussing&lt;font color="#E5E5E5"&gt; before this what the perfect&lt;/font&gt;</text>
+  <text start="2482.789" dur="6.42">&lt;font color="#E5E5E5"&gt;what we would believe the perfect sort&lt;/font&gt;</text>
+  <text start="2484.979" dur="6.75">of&lt;font color="#E5E5E5"&gt; economy would be&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and it would be&lt;/font&gt;</text>
+  <text start="2489.209" dur="5.61">essentially an open&lt;font color="#E5E5E5"&gt; source for all all&lt;/font&gt;</text>
+  <text start="2491.729" dur="5.97">&lt;font color="#E5E5E5"&gt;technology all blueprints all&lt;/font&gt;&lt;font color="#CCCCCC"&gt; ways of&lt;/font&gt;</text>
+  <text start="2494.819" dur="6.15">&lt;font color="#E5E5E5"&gt;making things are shared and then&lt;/font&gt;</text>
+  <text start="2497.699" dur="6.181">&lt;font color="#E5E5E5"&gt;companies have a you know a research&lt;/font&gt;</text>
+  <text start="2500.969" dur="5.79">department&lt;font color="#CCCCCC"&gt; that is constantly trying&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to&lt;/font&gt;</text>
+  <text start="2503.88" dur="6.03">keep secrets&lt;font color="#E5E5E5"&gt; right where they&amp;#39;re they&amp;#39;re&lt;/font&gt;</text>
+  <text start="2506.759" dur="5.431">&lt;font color="#E5E5E5"&gt;trying to make something but but they&lt;/font&gt;</text>
+  <text start="2509.91" dur="4.889">and they have&lt;font color="#E5E5E5"&gt; that thin layer of what we&lt;/font&gt;</text>
+  <text start="2512.19" dur="6.269">call secret sauce sort of that&lt;font color="#E5E5E5"&gt; thin like&lt;/font&gt;</text>
+  <text start="2514.799" dur="5.641">just above the thing&lt;font color="#E5E5E5"&gt; just above the just&lt;/font&gt;</text>
+  <text start="2518.459" dur="3.6">above the mountain of open&lt;font color="#E5E5E5"&gt; source that&lt;/font&gt;</text>
+  <text start="2520.44" dur="4.74">they&amp;#39;re using&lt;font color="#E5E5E5"&gt; that&amp;#39;s out in the public&lt;/font&gt;</text>
+  <text start="2522.059" dur="5.55">&lt;font color="#E5E5E5"&gt;domain they they build on their own thin&lt;/font&gt;</text>
+  <text start="2525.18" dur="6.269">layer&lt;font color="#E5E5E5"&gt; that they can use to make&lt;/font&gt;&lt;font color="#CCCCCC"&gt; money&lt;/font&gt;</text>
+  <text start="2527.609" dur="6.36">&lt;font color="#E5E5E5"&gt;yeah and but we expect that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that layer&lt;/font&gt;</text>
+  <text start="2531.449" dur="4.501">is going to be constantly over eroded</text>
+  <text start="2533.969" dur="4.831">into&lt;font color="#CCCCCC"&gt; the public domain&lt;/font&gt;</text>
+  <text start="2535.95" dur="4.83">&lt;font color="#CCCCCC"&gt;leeks and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; by back-engineering&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and&lt;/font&gt;</text>
+  <text start="2538.8" dur="4.79">basically people taking your your</text>
+  <text start="2540.78" dur="7.44">product spec and implementing it</text>
+  <text start="2543.59" dur="7.18">&lt;font color="#CCCCCC"&gt;themselves in such a way that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; it brings&lt;/font&gt;</text>
+  <text start="2548.22" dur="4.07">it to&lt;font color="#E5E5E5"&gt; the open source&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Mountain and&lt;/font&gt;</text>
+  <text start="2550.77" dur="3.51">&lt;font color="#E5E5E5"&gt;you&amp;#39;re just gonna have&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to innovate&lt;/font&gt;&lt;font color="#E5E5E5"&gt; again&lt;/font&gt;</text>
+  <text start="2552.29" dur="3.79">you know you&amp;#39;re just&lt;font color="#CCCCCC"&gt; gonna have to build&lt;/font&gt;</text>
+  <text start="2554.28" dur="4.02">&lt;font color="#CCCCCC"&gt;another layer on top of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that I think&lt;/font&gt;</text>
+  <text start="2556.08" dur="3.93">&lt;font color="#E5E5E5"&gt;yeah we&lt;/font&gt;&lt;font color="#CCCCCC"&gt; always catch up to the&lt;/font&gt;</text>
+  <text start="2558.3" dur="3.42">&lt;font color="#CCCCCC"&gt;technology like now we&amp;#39;re using the&lt;/font&gt;</text>
+  <text start="2560.01" dur="3.84">technology they created against&lt;font color="#E5E5E5"&gt; them you&lt;/font&gt;</text>
+  <text start="2561.72" dur="3.9">know&lt;font color="#E5E5E5"&gt; but yeah&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the same point I think&lt;/font&gt;</text>
+  <text start="2563.85" dur="5.13">&lt;font color="#CCCCCC"&gt;that this energy bottleneck we talked&lt;/font&gt;</text>
+  <text start="2565.62" dur="5.13">about once&lt;font color="#CCCCCC"&gt; we solve that to the non&lt;/font&gt;</text>
+  <text start="2568.98" dur="5.04">&lt;font color="#E5E5E5"&gt;perfect energy you know but to the&lt;/font&gt;</text>
+  <text start="2570.75" dur="5.79">extent&lt;font color="#CCCCCC"&gt; that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; we can use energy so cheaply&lt;/font&gt;</text>
+  <text start="2574.02" dur="4.56">&lt;font color="#E5E5E5"&gt;that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; it&amp;#39;s like water now and it&amp;#39;s just&lt;/font&gt;</text>
+  <text start="2576.54" dur="4.53">&lt;font color="#CCCCCC"&gt;everywhere and it&amp;#39;s abundant and people&lt;/font&gt;</text>
+  <text start="2578.58" dur="3.96">can&lt;font color="#E5E5E5"&gt; use&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that to basically&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you know that&lt;/font&gt;</text>
+  <text start="2581.07" dur="3.21">would that would get people&lt;font color="#CCCCCC"&gt; free from&lt;/font&gt;</text>
+  <text start="2582.54" dur="3.57">that daily toil&lt;font color="#E5E5E5"&gt; and then they would be&lt;/font&gt;</text>
+  <text start="2584.28" dur="3.99">&lt;font color="#CCCCCC"&gt;able&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to kind of turn their head to the&lt;/font&gt;</text>
+  <text start="2586.11" dur="4.47">&lt;font color="#E5E5E5"&gt;Stars and wonder a little&lt;/font&gt;&lt;font color="#CCCCCC"&gt; bit and a lot&lt;/font&gt;</text>
+  <text start="2588.27" dur="4.83">so long as they could also you&lt;font color="#E5E5E5"&gt; know hook&lt;/font&gt;</text>
+  <text start="2590.58" dur="3.78">that up&lt;font color="#CCCCCC"&gt; to some&lt;/font&gt;&lt;font color="#E5E5E5"&gt; sort of hydrology farm&lt;/font&gt;</text>
+  <text start="2593.1" dur="3.33">or&lt;font color="#CCCCCC"&gt; something like that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; would&lt;/font&gt;</text>
+  <text start="2594.36" dur="3.51">&lt;font color="#CCCCCC"&gt;seasonal&lt;/font&gt;&lt;font color="#E5E5E5"&gt; yeah I mean it would at&lt;/font&gt;&lt;font color="#CCCCCC"&gt; least&lt;/font&gt;</text>
+  <text start="2596.43" dur="3.03">free people up enough to where&lt;font color="#CCCCCC"&gt; they&lt;/font&gt;</text>
+  <text start="2597.87" dur="3.42">&lt;font color="#E5E5E5"&gt;would have more time to like run some&lt;/font&gt;</text>
+  <text start="2599.46" dur="3.45">sort&lt;font color="#CCCCCC"&gt; of food production&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and and I think&lt;/font&gt;</text>
+  <text start="2601.29" dur="4.08">&lt;font color="#CCCCCC"&gt;that we&amp;#39;re gonna&lt;/font&gt;&lt;font color="#E5E5E5"&gt; have more automation&lt;/font&gt;</text>
+  <text start="2602.91" dur="3.69">going on there as&lt;font color="#CCCCCC"&gt; well but you&lt;/font&gt;&lt;font color="#E5E5E5"&gt; know&lt;/font&gt;</text>
+  <text start="2605.37" dur="3">we&amp;#39;re almost at&lt;font color="#E5E5E5"&gt; that point where&lt;/font&gt;</text>
+  <text start="2606.6" dur="3.63">technology&lt;font color="#E5E5E5"&gt; which is responsible for&lt;/font&gt;</text>
+  <text start="2608.37" dur="4.17">&lt;font color="#E5E5E5"&gt;pretty much all freedom you you know we&lt;/font&gt;</text>
+  <text start="2610.23" dur="3.93">we ever enjoy&lt;font color="#E5E5E5"&gt; as a species like the&lt;/font&gt;</text>
+  <text start="2612.54" dur="3.89">&lt;font color="#E5E5E5"&gt;reason that we&amp;#39;re not spending 18 hours&lt;/font&gt;</text>
+  <text start="2614.16" dur="4.17">a day hunting for berries&lt;font color="#CCCCCC"&gt; that&lt;/font&gt;</text>
+  <text start="2616.43" dur="4.41">&lt;font color="#CCCCCC"&gt;technology like the plow and the&lt;/font&gt;</text>
+  <text start="2618.33" dur="4.65">&lt;font color="#CCCCCC"&gt;Internet these things&lt;/font&gt;&lt;font color="#E5E5E5"&gt; have freed us up&lt;/font&gt;</text>
+  <text start="2620.84" dur="4.36">but that we&amp;#39;re almost to&lt;font color="#CCCCCC"&gt; that point&lt;/font&gt;</text>
+  <text start="2622.98" dur="4.35">where&lt;font color="#CCCCCC"&gt; people will hopefully&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and I&amp;#39;m not&lt;/font&gt;</text>
+  <text start="2625.2" dur="4.2">being utopia about this or idealistic</text>
+  <text start="2627.33" dur="3.84">but many more people than&lt;font color="#CCCCCC"&gt; now&lt;/font&gt;&lt;font color="#E5E5E5"&gt; will be&lt;/font&gt;</text>
+  <text start="2629.4" dur="4.77">able&lt;font color="#E5E5E5"&gt; to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; focus on the things that really&lt;/font&gt;</text>
+  <text start="2631.17" dur="4.95">&lt;font color="#E5E5E5"&gt;matter&lt;/font&gt;&lt;font color="#CCCCCC"&gt; like loving passions&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and and&lt;/font&gt;</text>
+  <text start="2634.17" dur="4.41">solving the problems and helping&lt;font color="#CCCCCC"&gt; people&lt;/font&gt;</text>
+  <text start="2636.12" dur="5.19">and pursuing artistic and spiritual</text>
+  <text start="2638.58" dur="4.62">avenues rather than just focusing on the</text>
+  <text start="2641.31" dur="3.39">money&lt;font color="#E5E5E5"&gt; and I think&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that&amp;#39;s why that one&lt;/font&gt;&lt;font color="#E5E5E5"&gt; of&lt;/font&gt;</text>
+  <text start="2643.2" dur="3.06">the biggest reasons obviously&lt;font color="#CCCCCC"&gt; for the&lt;/font&gt;</text>
+  <text start="2644.7" dur="2.82">profit obviously for the control but I</text>
+  <text start="2646.26" dur="4.29">think that&amp;#39;s one of&lt;font color="#E5E5E5"&gt; the biggest reasons&lt;/font&gt;</text>
+  <text start="2647.52" dur="5.13">the elite are&lt;font color="#E5E5E5"&gt; really trying to stop all&lt;/font&gt;</text>
+  <text start="2650.55" dur="6.36">of&lt;font color="#E5E5E5"&gt; those breakthroughs and an energy&lt;/font&gt;</text>
+  <text start="2652.65" dur="6.42">technology maybe&lt;font color="#E5E5E5"&gt; if you great a week if&lt;/font&gt;</text>
+  <text start="2656.91" dur="4.59">&lt;font color="#CCCCCC"&gt;you&lt;/font&gt;&lt;font color="#E5E5E5"&gt; want to see an example&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; open&lt;/font&gt;</text>
+  <text start="2659.07" dur="6.87">&lt;font color="#E5E5E5"&gt;source engineering or open source&lt;/font&gt;</text>
+  <text start="2661.5" dur="7.66">manufacturing&lt;font color="#E5E5E5"&gt; you can look to the open&lt;/font&gt;</text>
+  <text start="2665.94" dur="6.01">source ecology group&lt;font color="#E5E5E5"&gt; if he&amp;#39;s ever&lt;/font&gt;</text>
+  <text start="2669.16" dur="6.27">of them&lt;font color="#CCCCCC"&gt; and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; also their offshoot open&lt;/font&gt;</text>
+  <text start="2671.95" dur="7.46">building&lt;font color="#E5E5E5"&gt; Institute which is focusing on&lt;/font&gt;</text>
+  <text start="2675.43" dur="9.179">building&lt;font color="#E5E5E5"&gt; a house in the open source&lt;/font&gt;</text>
+  <text start="2679.41" dur="8.5">&lt;font color="#CCCCCC"&gt;neurology yeah&lt;/font&gt;&lt;font color="#E5E5E5"&gt; it&amp;#39;s the the problems&lt;/font&gt;</text>
+  <text start="2684.609" dur="6.541">that they&amp;#39;re solving&lt;font color="#E5E5E5"&gt; are many and they&lt;/font&gt;</text>
+  <text start="2687.91" dur="7.98">have lot lots to work through but</text>
+  <text start="2691.15" dur="8.189">&lt;font color="#E5E5E5"&gt;they&amp;#39;re forging ahead&lt;/font&gt;&lt;font color="#CCCCCC"&gt; a path that others&lt;/font&gt;</text>
+  <text start="2695.89" dur="5.969">I don&amp;#39;t&lt;font color="#E5E5E5"&gt; see too much activity&lt;/font&gt;&lt;font color="#CCCCCC"&gt; in&lt;/font&gt;&lt;font color="#E5E5E5"&gt; but I&lt;/font&gt;</text>
+  <text start="2699.339" dur="5.641">think&lt;font color="#CCCCCC"&gt; that&amp;#39;s&lt;/font&gt;&lt;font color="#E5E5E5"&gt; a an example of someone&lt;/font&gt;</text>
+  <text start="2701.859" dur="8.24">who&amp;#39;s really blazing a trail that into</text>
+  <text start="2704.98" dur="8.22">an area&lt;font color="#CCCCCC"&gt; that I expect to be forming&lt;/font&gt;</text>
+  <text start="2710.099" dur="5.561">entire industries in the future&lt;font color="#E5E5E5"&gt; mm-hmm&lt;/font&gt;</text>
+  <text start="2713.2" dur="3.96">and&lt;font color="#CCCCCC"&gt; there&amp;#39;s still waste I mean the&lt;/font&gt;</text>
+  <text start="2715.66" dur="3.419">modern economy works better when&lt;font color="#E5E5E5"&gt; you&lt;/font&gt;</text>
+  <text start="2717.16" dur="4.05">&lt;font color="#CCCCCC"&gt;just give the information away for free&lt;/font&gt;</text>
+  <text start="2719.079" dur="5.04">&lt;font color="#E5E5E5"&gt;and people&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that want to support you&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and&lt;/font&gt;</text>
+  <text start="2721.21" dur="5.909">respect you&lt;font color="#E5E5E5"&gt; they do and you you can&lt;/font&gt;</text>
+  <text start="2724.119" dur="4.531">monetize and earn your&lt;font color="#CCCCCC"&gt; living by&lt;/font&gt;&lt;font color="#E5E5E5"&gt; by your&lt;/font&gt;</text>
+  <text start="2727.119" dur="4.95">reputation and&lt;font color="#CCCCCC"&gt; your integrity rather&lt;/font&gt;</text>
+  <text start="2728.65" dur="7.5">than then your secret sauce&lt;font color="#CCCCCC"&gt; you know&lt;/font&gt;</text>
+  <text start="2732.069" dur="7.76">like you&amp;#39;re talking&lt;font color="#CCCCCC"&gt; about yes yeah&lt;/font&gt;&lt;font color="#E5E5E5"&gt; yeah&lt;/font&gt;</text>
+  <text start="2736.15" dur="6.75">that that&amp;#39;s the sort&lt;font color="#CCCCCC"&gt; of ideal way&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I mean&lt;/font&gt;</text>
+  <text start="2739.829" dur="9.46">for&lt;font color="#CCCCCC"&gt; instance and not&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that Facebook is a&lt;/font&gt;</text>
+  <text start="2742.9" dur="11.25">great&lt;font color="#E5E5E5"&gt; wonderful company but they do have&lt;/font&gt;</text>
+  <text start="2749.289" dur="7.8">a project&lt;font color="#CCCCCC"&gt; called react that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; is an open&lt;/font&gt;</text>
+  <text start="2754.15" dur="4.62">source project&lt;font color="#E5E5E5"&gt; and they what they&lt;/font&gt;</text>
+  <text start="2757.089" dur="4.53">receive out of it because&lt;font color="#CCCCCC"&gt; it&amp;#39;s open&lt;/font&gt;</text>
+  <text start="2758.77" dur="6.24">&lt;font color="#CCCCCC"&gt;source it&amp;#39;s&lt;/font&gt;&lt;font color="#E5E5E5"&gt; not like you know they can&lt;/font&gt;</text>
+  <text start="2761.619" dur="4.71">hide&lt;font color="#CCCCCC"&gt; anything inside of it so they what&lt;/font&gt;</text>
+  <text start="2765.01" dur="5.579">they kind&lt;font color="#E5E5E5"&gt; of receive out of it is&lt;/font&gt;</text>
+  <text start="2766.329" dur="6.21">support for their for their foundational</text>
+  <text start="2770.589" dur="4.26">or sort of&lt;font color="#E5E5E5"&gt; their what&lt;/font&gt;&lt;font color="#CCCCCC"&gt; their what&lt;/font&gt;&lt;font color="#E5E5E5"&gt; they&amp;#39;re&lt;/font&gt;</text>
+  <text start="2772.539" dur="4.8">doing&lt;font color="#E5E5E5"&gt; one of the things&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that&amp;#39;s really&lt;/font&gt;</text>
+  <text start="2774.849" dur="4.621">interesting&lt;font color="#E5E5E5"&gt; about open source is it&amp;#39;s&lt;/font&gt;</text>
+  <text start="2777.339" dur="3.99">often&lt;font color="#E5E5E5"&gt; beneficial for a large company to&lt;/font&gt;</text>
+  <text start="2779.47" dur="3.78">release&lt;font color="#E5E5E5"&gt; their things open source because&lt;/font&gt;</text>
+  <text start="2781.329" dur="4.2">&lt;font color="#CCCCCC"&gt;then&lt;/font&gt;&lt;font color="#E5E5E5"&gt; people will find problems with&lt;/font&gt;</text>
+  <text start="2783.25" dur="5.4">&lt;font color="#E5E5E5"&gt;something and they&amp;#39;ll fix the problem&lt;/font&gt;</text>
+  <text start="2785.529" dur="6.181">and&lt;font color="#CCCCCC"&gt; you&amp;#39;ll upload&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that back into the&lt;/font&gt;</text>
+  <text start="2788.65" dur="7.52">blueprint so they&lt;font color="#CCCCCC"&gt; get the benefits of&lt;/font&gt;</text>
+  <text start="2791.71" dur="8.54">having&lt;font color="#E5E5E5"&gt; things that are you know improved&lt;/font&gt;</text>
+  <text start="2796.17" dur="6.49">&lt;font color="#E5E5E5"&gt;they get a huge team for almost free&lt;/font&gt;</text>
+  <text start="2800.25" dur="4.39">&lt;font color="#E5E5E5"&gt;they&amp;#39;re working us&lt;/font&gt;</text>
+  <text start="2802.66" dur="5.01">working on problems&lt;font color="#E5E5E5"&gt; that they didn&amp;#39;t&lt;/font&gt;</text>
+  <text start="2804.64" dur="6.03">&lt;font color="#E5E5E5"&gt;even know existed the resources that&lt;/font&gt;</text>
+  <text start="2807.67" dur="6">&lt;font color="#CCCCCC"&gt;that contribute to the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; queue and on you&lt;/font&gt;</text>
+  <text start="2810.67" dur="5.99">&lt;font color="#E5E5E5"&gt;know the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; queue researchers that sort&lt;/font&gt;</text>
+  <text start="2813.67" dur="6.03">of&lt;font color="#E5E5E5"&gt; level&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of attention to detail and&lt;/font&gt;</text>
+  <text start="2816.66" dur="5.26">looking for problems&lt;font color="#CCCCCC"&gt; and trying to sell&lt;/font&gt;</text>
+  <text start="2819.7" dur="3.839">&lt;font color="#CCCCCC"&gt;to find solutions is what what big&lt;/font&gt;</text>
+  <text start="2821.92" dur="4.08">companies&lt;font color="#CCCCCC"&gt; get by releasing their stuff&lt;/font&gt;</text>
+  <text start="2823.539" dur="4.411">&lt;font color="#E5E5E5"&gt;open&lt;/font&gt;&lt;font color="#CCCCCC"&gt; source I think if it&amp;#39;s a good&lt;/font&gt;</text>
+  <text start="2826" dur="3.63">&lt;font color="#E5E5E5"&gt;project and it&amp;#39;s interesting&lt;/font&gt;&lt;font color="#CCCCCC"&gt; yeah&lt;/font&gt;&lt;font color="#E5E5E5"&gt; yeah&lt;/font&gt;</text>
+  <text start="2827.95" dur="5.49">and&lt;font color="#CCCCCC"&gt; it makes it makes sense to me that&lt;/font&gt;</text>
+  <text start="2829.63" dur="6.959">that open source&lt;font color="#E5E5E5"&gt; since it&amp;#39;s a few&lt;/font&gt;</text>
+  <text start="2833.44" dur="5.94">decades old now&lt;font color="#E5E5E5"&gt; I I think it just moved&lt;/font&gt;</text>
+  <text start="2836.589" dur="5.96">the Overton&lt;font color="#CCCCCC"&gt; Window to the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; point where&lt;/font&gt;</text>
+  <text start="2839.38" dur="7.409">something like&lt;font color="#CCCCCC"&gt; queuing on could emerge&lt;/font&gt;</text>
+  <text start="2842.549" dur="7.48">&lt;font color="#CCCCCC"&gt;the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; whole bakery&lt;/font&gt;&lt;font color="#CCCCCC"&gt; is going on on the&lt;/font&gt;</text>
+  <text start="2846.789" dur="6.451">chance&lt;font color="#E5E5E5"&gt; yeah such such time and effort in&lt;/font&gt;</text>
+  <text start="2850.029" dur="5.04">the&lt;font color="#CCCCCC"&gt; man-hours and and and and passion&lt;/font&gt;</text>
+  <text start="2853.24" dur="8.4">and intelligence is going&lt;font color="#CCCCCC"&gt; into that and&lt;/font&gt;</text>
+  <text start="2855.069" dur="12.99">it&amp;#39;s&lt;font color="#E5E5E5"&gt; just incredible to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; see so I mean we&lt;/font&gt;</text>
+  <text start="2861.64" dur="8.909">could there&amp;#39;s there is&lt;font color="#E5E5E5"&gt; this hosting&lt;/font&gt;</text>
+  <text start="2868.059" dur="5.101">service that that&lt;font color="#E5E5E5"&gt; Amazon provides called&lt;/font&gt;</text>
+  <text start="2870.549" dur="7.5">Amazon Web Services&lt;font color="#CCCCCC"&gt; which is&lt;/font&gt;&lt;font color="#E5E5E5"&gt; pretty&lt;/font&gt;&lt;font color="#CCCCCC"&gt; much&lt;/font&gt;</text>
+  <text start="2873.16" dur="6.51">&lt;font color="#E5E5E5"&gt;the go-to hosting provider for the cloud&lt;/font&gt;</text>
+  <text start="2878.049" dur="4.26">they pretty much defined what the&lt;font color="#E5E5E5"&gt; cloud&lt;/font&gt;</text>
+  <text start="2879.67" dur="6.29">is&lt;font color="#E5E5E5"&gt; and the cloud is basically just&lt;/font&gt;</text>
+  <text start="2882.309" dur="6.391">marketing for for other&lt;font color="#E5E5E5"&gt; people&amp;#39;s servers&lt;/font&gt;</text>
+  <text start="2885.96" dur="5.109">yeah&lt;font color="#E5E5E5"&gt; you know servers that you don&amp;#39;t own&lt;/font&gt;</text>
+  <text start="2888.7" dur="3.839">&lt;font color="#E5E5E5"&gt;but it didn&amp;#39;t need to go that way it&lt;/font&gt;</text>
+  <text start="2891.069" dur="6.061">could have&lt;font color="#E5E5E5"&gt; been a personal or private&lt;/font&gt;</text>
+  <text start="2892.539" dur="5.911">sir private&lt;font color="#E5E5E5"&gt; cloud that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; you&lt;/font&gt;&lt;font color="#E5E5E5"&gt; maintain they&lt;/font&gt;</text>
+  <text start="2897.13" dur="4.62">could they could&lt;font color="#E5E5E5"&gt; have built a product&lt;/font&gt;</text>
+  <text start="2898.45" dur="5.7">that let you pretty much&lt;font color="#E5E5E5"&gt; infinitely&lt;/font&gt;</text>
+  <text start="2901.75" dur="5.64">expand hardware by adding modules&lt;font color="#E5E5E5"&gt; to it&lt;/font&gt;</text>
+  <text start="2904.15" dur="6.419">in your in your&lt;font color="#CCCCCC"&gt; home&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and it provides&lt;/font&gt;</text>
+  <text start="2907.39" dur="5.189">data storage and&lt;font color="#E5E5E5"&gt; it provides persistent&lt;/font&gt;</text>
+  <text start="2910.569" dur="11.161">network access&lt;font color="#E5E5E5"&gt; that provides all kinds&lt;/font&gt;</text>
+  <text start="2912.579" dur="11.371">&lt;font color="#CCCCCC"&gt;of things&lt;/font&gt;&lt;font color="#E5E5E5"&gt; no sky sky coin box&lt;/font&gt;&lt;font color="#CCCCCC"&gt; I&amp;#39;ve not&lt;/font&gt;</text>
+  <text start="2921.73" dur="3.99">heard&lt;font color="#E5E5E5"&gt; that crypto and they have this&lt;/font&gt;</text>
+  <text start="2923.95" dur="4.589">&lt;font color="#E5E5E5"&gt;little box it&amp;#39;s made up of like 12&lt;/font&gt;</text>
+  <text start="2925.72" dur="4.349">raspberry&lt;font color="#CCCCCC"&gt; PI&amp;#39;s or whatever&lt;/font&gt;&lt;font color="#E5E5E5"&gt; hmm or the&lt;/font&gt;</text>
+  <text start="2928.539" dur="1.8">orange orange&lt;font color="#CCCCCC"&gt; pie or whatever it&amp;#39;s&lt;/font&gt;</text>
+  <text start="2930.069" dur="2.19">called</text>
+  <text start="2930.339" dur="3.45">yeah and it&amp;#39;s&lt;font color="#E5E5E5"&gt; infinitely scalable you&lt;/font&gt;</text>
+  <text start="2932.259" dur="3.961">&lt;font color="#E5E5E5"&gt;could just keep adding units to it and&lt;/font&gt;</text>
+  <text start="2933.789" dur="3.901">stack them&lt;font color="#E5E5E5"&gt; if you need more power&lt;/font&gt;</text>
+  <text start="2936.22" dur="4.11">but it basically&lt;font color="#E5E5E5"&gt; lets you be your&lt;/font&gt;&lt;font color="#CCCCCC"&gt; own&lt;/font&gt;</text>
+  <text start="2937.69" dur="4.409">&lt;font color="#E5E5E5"&gt;internet service provider and that&amp;#39;s&lt;/font&gt;</text>
+  <text start="2940.33" dur="4.23">&lt;font color="#E5E5E5"&gt;amazing broadcast it&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to your neighbor&lt;/font&gt;</text>
+  <text start="2942.099" dur="4.081">through little&lt;font color="#CCCCCC"&gt; antennas on the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; roof link&lt;/font&gt;</text>
+  <text start="2944.56" dur="3.78">it you can you can&lt;font color="#E5E5E5"&gt; chain it to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; a rural&lt;/font&gt;</text>
+  <text start="2946.18" dur="3.48">area&lt;font color="#CCCCCC"&gt; basically&lt;/font&gt;&lt;font color="#E5E5E5"&gt; it&amp;#39;s going to put&lt;/font&gt;</text>
+  <text start="2948.34" dur="3.69">Internet&lt;font color="#E5E5E5"&gt; service providers out of&lt;/font&gt;</text>
+  <text start="2949.66" dur="4.32">business&lt;font color="#E5E5E5"&gt; with a decentralized that&amp;#39;s&lt;/font&gt;</text>
+  <text start="2952.03" dur="3.69">awesome application and there&amp;#39;s awesome</text>
+  <text start="2953.98" dur="3.18">&lt;font color="#CCCCCC"&gt;they&amp;#39;re basically in&lt;/font&gt;&lt;font color="#E5E5E5"&gt; their testing phase&lt;/font&gt;</text>
+  <text start="2955.72" dur="2.55">now you could they&lt;font color="#CCCCCC"&gt; have the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; plans you&lt;/font&gt;</text>
+  <text start="2957.16" dur="1.89">can build one of these&lt;font color="#E5E5E5"&gt; at home for about&lt;/font&gt;</text>
+  <text start="2958.27" dur="4.46">&lt;font color="#E5E5E5"&gt;six hundred bucks&lt;/font&gt;</text>
+  <text start="2959.05" dur="7.74">&lt;font color="#E5E5E5"&gt;hmm that&amp;#39;s really&lt;/font&gt;&lt;font color="#CCCCCC"&gt; cool you can you know&lt;/font&gt;</text>
+  <text start="2962.73" dur="8.74">&lt;font color="#E5E5E5"&gt;have you heard of IP FS interplanetary&lt;/font&gt;</text>
+  <text start="2966.79" dur="9.89">file system no I have it&lt;font color="#E5E5E5"&gt; well it&amp;#39;s this&lt;/font&gt;</text>
+  <text start="2971.47" dur="10.59">distributed&lt;font color="#E5E5E5"&gt; no we&amp;#39;re content delivery&lt;/font&gt;</text>
+  <text start="2976.68" dur="9.07">network in protocol that could&lt;font color="#CCCCCC"&gt; hey or at&lt;/font&gt;</text>
+  <text start="2982.06" dur="6.809">least&lt;font color="#CCCCCC"&gt; its poised to reshape the web d&lt;/font&gt;</text>
+  <text start="2985.75" dur="6.349">tube is an&lt;font color="#E5E5E5"&gt; example&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of a site that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; uses&lt;/font&gt;</text>
+  <text start="2988.869" dur="5.431">it&lt;font color="#CCCCCC"&gt; to establish a&lt;/font&gt;&lt;font color="#E5E5E5"&gt; peer-to-peer network&lt;/font&gt;</text>
+  <text start="2992.099" dur="5.111">&lt;font color="#E5E5E5"&gt;for streaming for streaming video&lt;/font&gt;</text>
+  <text start="2994.3" dur="4.79">content&lt;font color="#CCCCCC"&gt; and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; it&amp;#39;s really interesting how&lt;/font&gt;</text>
+  <text start="2997.21" dur="4.2">&lt;font color="#E5E5E5"&gt;it works from an engineering standpoint&lt;/font&gt;</text>
+  <text start="2999.09" dur="5.249">&lt;font color="#E5E5E5"&gt;because&lt;/font&gt;&lt;font color="#CCCCCC"&gt; they&amp;#39;re&lt;/font&gt;&lt;font color="#E5E5E5"&gt; keeping all that content&lt;/font&gt;</text>
+  <text start="3001.41" dur="7.199">in essentially&lt;font color="#E5E5E5"&gt; two side PFS&lt;/font&gt;&lt;font color="#CCCCCC"&gt; back-end but&lt;/font&gt;</text>
+  <text start="3004.339" dur="7.061">&lt;font color="#CCCCCC"&gt;they&amp;#39;re shipping&lt;/font&gt;&lt;font color="#E5E5E5"&gt; a peer-to-peer node to&lt;/font&gt;</text>
+  <text start="3008.609" dur="4.551">you&lt;font color="#CCCCCC"&gt; javascript&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; runs inside your&lt;/font&gt;</text>
+  <text start="3011.4" dur="4.56">browser&lt;font color="#E5E5E5"&gt; and you don&amp;#39;t even know it&lt;/font&gt;</text>
+  <text start="3013.16" dur="4.54">&lt;font color="#E5E5E5"&gt;so it&amp;#39;s it&amp;#39;s&lt;/font&gt;&lt;font color="#CCCCCC"&gt; peer-to-peer and it&amp;#39;s doing&lt;/font&gt;</text>
+  <text start="3015.96" dur="4.59">all the things&lt;font color="#CCCCCC"&gt; that you&lt;/font&gt;&lt;font color="#E5E5E5"&gt; would&lt;/font&gt;&lt;font color="#CCCCCC"&gt; expect a&lt;/font&gt;</text>
+  <text start="3017.7" dur="5.31">peer-to-peer network&lt;font color="#CCCCCC"&gt; to do what by&lt;/font&gt;</text>
+  <text start="3020.55" dur="4.59">&lt;font color="#CCCCCC"&gt;peer-to-peer like inaho any of the&lt;/font&gt;</text>
+  <text start="3023.01" dur="6.21">torrenting software that&amp;#39;s all&lt;font color="#E5E5E5"&gt; like slow&lt;/font&gt;</text>
+  <text start="3025.14" dur="6.12">down my computer&lt;font color="#E5E5E5"&gt; yeah familiar they they&lt;/font&gt;</text>
+  <text start="3029.22" dur="2.58">&lt;font color="#CCCCCC"&gt;really take advantage&lt;/font&gt;&lt;font color="#E5E5E5"&gt; of that bandwidth&lt;/font&gt;</text>
+  <text start="3031.26" dur="5.31">yes</text>
+  <text start="3031.8" dur="6.27">yeah but any torrenting any those&lt;font color="#CCCCCC"&gt; sorta&lt;/font&gt;</text>
+  <text start="3036.57" dur="2.85">sighs they&amp;#39;re all peer-to-peer programs</text>
+  <text start="3038.07" dur="2.91">meaning&lt;font color="#E5E5E5"&gt; you&amp;#39;re connecting to other&lt;/font&gt;</text>
+  <text start="3039.42" dur="6.36">people within the network&lt;font color="#E5E5E5"&gt; to gather&lt;/font&gt;</text>
+  <text start="3040.98" dur="8.07">files&lt;font color="#E5E5E5"&gt; and so what it does is it&amp;#39;ll is it&lt;/font&gt;</text>
+  <text start="3045.78" dur="5.16">essentially it&amp;#39;s running&lt;font color="#E5E5E5"&gt; not a torrent&lt;/font&gt;</text>
+  <text start="3049.05" dur="5.43">necessarily but&lt;font color="#E5E5E5"&gt; it&amp;#39;s running a note&lt;/font&gt;&lt;font color="#CCCCCC"&gt; on&lt;/font&gt;</text>
+  <text start="3050.94" dur="7.23">&lt;font color="#E5E5E5"&gt;the torrent that allows that network to&lt;/font&gt;</text>
+  <text start="3054.48" dur="8.6">be fully decentralized&lt;font color="#CCCCCC"&gt; so the IP FS&lt;/font&gt;</text>
+  <text start="3058.17" dur="8.73">protocol&lt;font color="#CCCCCC"&gt; will if it had for example&lt;/font&gt;</text>
+  <text start="3063.08" dur="6.09">&lt;font color="#E5E5E5"&gt;users&lt;/font&gt;&lt;font color="#CCCCCC"&gt; across the u.s. it&lt;/font&gt;&lt;font color="#E5E5E5"&gt; would you would&lt;/font&gt;</text>
+  <text start="3066.9" dur="5.09">&lt;font color="#E5E5E5"&gt;be&lt;/font&gt;&lt;font color="#CCCCCC"&gt; able&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; run an&lt;/font&gt;&lt;font color="#E5E5E5"&gt; internet off of it&lt;/font&gt;</text>
+  <text start="3069.17" dur="5.51">is this similar&lt;font color="#E5E5E5"&gt; like it sounds very&lt;/font&gt;</text>
+  <text start="3071.99" dur="7.05">similar&lt;font color="#E5E5E5"&gt; to hash graph is that am i right&lt;/font&gt;</text>
+  <text start="3074.68" dur="8.26">&lt;font color="#E5E5E5"&gt;I&amp;#39;m not familiar with hash graph&lt;/font&gt;&lt;font color="#CCCCCC"&gt; so&lt;/font&gt;</text>
+  <text start="3079.04" dur="5.61">basically as I understand it and you can</text>
+  <text start="3082.94" dur="3.24">go&lt;font color="#E5E5E5"&gt; to the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; mike maloney&lt;/font&gt;&lt;font color="#E5E5E5"&gt; videos about this&lt;/font&gt;</text>
+  <text start="3084.65" dur="4.29">&lt;font color="#E5E5E5"&gt;he talks about crypto and stuff a lot&lt;/font&gt;</text>
+  <text start="3086.18" dur="4.8">but he mentions this it&amp;#39;s some it&amp;#39;s a</text>
+  <text start="3088.94" dur="3.78">&lt;font color="#E5E5E5"&gt;patented technology unfortunately but it&lt;/font&gt;</text>
+  <text start="3090.98" dur="3.389">&lt;font color="#CCCCCC"&gt;uses I think something called the&lt;/font&gt;</text>
+  <text start="3092.72" dur="3.329">whisper protocol and all of the</text>
+  <text start="3094.369" dur="3.48">computers are decentralized&lt;font color="#E5E5E5"&gt; just like&lt;/font&gt;</text>
+  <text start="3096.049" dur="4.831">torrenting and they will talk&lt;font color="#CCCCCC"&gt; to each&lt;/font&gt;</text>
+  <text start="3097.849" dur="4.651">other and it&amp;#39;s&lt;font color="#CCCCCC"&gt; like way way way more&lt;/font&gt;</text>
+  <text start="3100.88" dur="3.63">effective&lt;font color="#E5E5E5"&gt; than what bitcoin&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and Kryptos&lt;/font&gt;</text>
+  <text start="3102.5" dur="3.63">are doing so in a&lt;font color="#CCCCCC"&gt; way it&lt;/font&gt;&lt;font color="#E5E5E5"&gt; could actually&lt;/font&gt;</text>
+  <text start="3104.51" dur="3.599">just destroy all the crypto currently</text>
+  <text start="3106.13" dur="4.77">and be&lt;font color="#E5E5E5"&gt; something&lt;/font&gt;&lt;font color="#CCCCCC"&gt; just like&lt;/font&gt;&lt;font color="#E5E5E5"&gt; a light-years&lt;/font&gt;</text>
+  <text start="3108.109" dur="4.861">beyond like exponential better&lt;font color="#E5E5E5"&gt; orders of&lt;/font&gt;</text>
+  <text start="3110.9" dur="3.87">&lt;font color="#E5E5E5"&gt;magnitude better but you&lt;/font&gt;&lt;font color="#CCCCCC"&gt; know is&lt;/font&gt;</text>
+  <text start="3112.97" dur="3.3">patented and&lt;font color="#CCCCCC"&gt; I&amp;#39;m not sure where where&lt;/font&gt;</text>
+  <text start="3114.77" dur="4.17">that&amp;#39;s kind of&lt;font color="#E5E5E5"&gt; slowing it down right&lt;/font&gt;&lt;font color="#CCCCCC"&gt; now&lt;/font&gt;</text>
+  <text start="3116.27" dur="5.46">&lt;font color="#CCCCCC"&gt;well yeah&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I&amp;#39;d imagine so it&amp;#39;s if not&lt;/font&gt;</text>
+  <text start="3118.94" dur="4.56">those solves&lt;font color="#E5E5E5"&gt; it solves the Byzantine&lt;/font&gt;</text>
+  <text start="3121.73" dur="6.21">generals problem as well which&lt;font color="#CCCCCC"&gt; bitcoin&lt;/font&gt;</text>
+  <text start="3123.5" dur="7.02">can&amp;#39;t quite do interesting&lt;font color="#CCCCCC"&gt; I gotta take&lt;/font&gt;</text>
+  <text start="3127.94" dur="4.07">&lt;font color="#CCCCCC"&gt;a look at that yet&lt;/font&gt;&lt;font color="#E5E5E5"&gt; my favorite way to&lt;/font&gt;</text>
+  <text start="3130.52" dur="3.539">introduce&lt;font color="#E5E5E5"&gt; people&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to that one is the&lt;/font&gt;</text>
+  <text start="3132.01" dur="4.47">&lt;font color="#E5E5E5"&gt;hidden secrets of money I think&lt;/font&gt;&lt;font color="#CCCCCC"&gt; it&amp;#39;s&lt;/font&gt;</text>
+  <text start="3134.059" dur="5.55">&lt;font color="#E5E5E5"&gt;series episode 8 from Mike Maloney&lt;/font&gt;</text>
+  <text start="3136.48" dur="5.41">&lt;font color="#E5E5E5"&gt;because he has a great entry like a&lt;/font&gt;</text>
+  <text start="3139.609" dur="3.391">great animated video he boils it down</text>
+  <text start="3141.89" dur="3.449">&lt;font color="#E5E5E5"&gt;real simple&lt;/font&gt;&lt;font color="#CCCCCC"&gt; it&amp;#39;s really interesting&lt;/font&gt;</text>
+  <text start="3143" dur="3.63">&lt;font color="#E5E5E5"&gt;technology but I kind of gave up messing&lt;/font&gt;</text>
+  <text start="3145.339" dur="3.931">with that when I found&lt;font color="#E5E5E5"&gt; out it was&lt;/font&gt;</text>
+  <text start="3146.63" dur="4.59">&lt;font color="#E5E5E5"&gt;patented and I will see what happens&lt;/font&gt;</text>
+  <text start="3149.27" dur="5.22">with it&lt;font color="#CCCCCC"&gt; you know a&lt;/font&gt;&lt;font color="#E5E5E5"&gt; patent&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; is not&lt;/font&gt;</text>
+  <text start="3151.22" dur="6.78">necessarily&lt;font color="#E5E5E5"&gt; a great&lt;/font&gt;&lt;font color="#CCCCCC"&gt; sign of for open&lt;/font&gt;</text>
+  <text start="3154.49" dur="4.65">people who like open&lt;font color="#E5E5E5"&gt; source but like we&lt;/font&gt;</text>
+  <text start="3158" dur="4.2">were&lt;font color="#CCCCCC"&gt; talking about&lt;/font&gt;&lt;font color="#E5E5E5"&gt; earlier it could&lt;/font&gt;</text>
+  <text start="3159.14" dur="7.409">always be reverse engineered and patents</text>
+  <text start="3162.2" dur="5.73">&lt;font color="#E5E5E5"&gt;were off so then leaked&lt;/font&gt;&lt;font color="#CCCCCC"&gt; er&lt;/font&gt;&lt;font color="#E5E5E5"&gt; yeah enough&lt;/font&gt;</text>
+  <text start="3166.549" dur="3.151">information&lt;font color="#E5E5E5"&gt; can come out that an&lt;/font&gt;</text>
+  <text start="3167.93" dur="3.53">engineer can can figure out how&lt;font color="#E5E5E5"&gt; to build&lt;/font&gt;</text>
+  <text start="3169.7" dur="6.96">&lt;font color="#E5E5E5"&gt;it&lt;/font&gt;</text>
+  <text start="3171.46" dur="6.73">so&lt;font color="#E5E5E5"&gt; no copy it so um well you know we&amp;#39;ve&lt;/font&gt;</text>
+  <text start="3176.66" dur="3.57">covered a&lt;font color="#E5E5E5"&gt; lot of good material do you&lt;/font&gt;</text>
+  <text start="3178.19" dur="5.129">&lt;font color="#E5E5E5"&gt;guys have anything else so we&amp;#39;ve left&lt;/font&gt;</text>
+  <text start="3180.23" dur="7.109">out&lt;font color="#CCCCCC"&gt; that you want to cover I don&amp;#39;t have&lt;/font&gt;</text>
+  <text start="3183.319" dur="5.371">anything yeah well I you know I I&amp;#39;m</text>
+  <text start="3187.339" dur="3.361">&lt;font color="#E5E5E5"&gt;gonna get back to the news at some point&lt;/font&gt;</text>
+  <text start="3188.69" dur="3.51">tonight&lt;font color="#E5E5E5"&gt; but I wanted to sit&lt;/font&gt;&lt;font color="#CCCCCC"&gt; with you&lt;/font&gt;</text>
+  <text start="3190.7" dur="2.669">&lt;font color="#CCCCCC"&gt;guys and talk about&lt;/font&gt;&lt;font color="#E5E5E5"&gt; this&lt;/font&gt;&lt;font color="#CCCCCC"&gt; cuz&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you know&lt;/font&gt;</text>
+  <text start="3192.2" dur="3.06">&lt;font color="#E5E5E5"&gt;you went you put out your video about&lt;/font&gt;</text>
+  <text start="3193.369" dur="4.281">&lt;font color="#CCCCCC"&gt;decentralization and kind&lt;/font&gt;&lt;font color="#E5E5E5"&gt; of&lt;/font&gt;&lt;font color="#CCCCCC"&gt; purge my&lt;/font&gt;</text>
+  <text start="3195.26" dur="2.39">interest</text>
+  <text start="3198.39" dur="5.08">you want to tell&lt;font color="#CCCCCC"&gt; people where they can&lt;/font&gt;</text>
+  <text start="3200.26" dur="7.08">find&lt;font color="#E5E5E5"&gt; you yeah so we&amp;#39;re at the the&lt;/font&gt;</text>
+  <text start="3203.47" dur="7.5">&lt;font color="#E5E5E5"&gt;epistemology is on YouTube and this is&lt;/font&gt;</text>
+  <text start="3207.34" dur="8.73">not&lt;font color="#CCCCCC"&gt; T with underscores&lt;/font&gt;&lt;font color="#E5E5E5"&gt; on Twitter&lt;/font&gt;</text>
+  <text start="3210.97" dur="7.59">between each of the words and&lt;font color="#E5E5E5"&gt; xerath&amp;#39;s&lt;/font&gt;</text>
+  <text start="3216.07" dur="7.62">do you&lt;font color="#CCCCCC"&gt; want to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; throw that a Z&lt;/font&gt;&lt;font color="#CCCCCC"&gt; a er yes&lt;/font&gt;</text>
+  <text start="3218.56" dur="7.71">&lt;font color="#CCCCCC"&gt;Conte went on Twitter&lt;/font&gt;&lt;font color="#E5E5E5"&gt; as well yeah well&lt;/font&gt;</text>
+  <text start="3223.69" dur="4.77">there you know well the main thing&lt;font color="#E5E5E5"&gt; for&lt;/font&gt;</text>
+  <text start="3226.27" dur="5.4">&lt;font color="#CCCCCC"&gt;us is that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; we&amp;#39;re going with D&lt;/font&gt;&lt;font color="#CCCCCC"&gt; an&lt;/font&gt;&lt;font color="#E5E5E5"&gt; on&lt;/font&gt;</text>
+  <text start="3228.46" dur="5.79">thing just just to focus&lt;font color="#E5E5E5"&gt; on the content&lt;/font&gt;</text>
+  <text start="3231.67" dur="5.22">&lt;font color="#CCCCCC"&gt;mm not really trying&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to build up a name&lt;/font&gt;</text>
+  <text start="3234.25" dur="4.95">&lt;font color="#CCCCCC"&gt;just trying&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to put things out yeah we&lt;/font&gt;</text>
+  <text start="3236.89" dur="4.02">want to we&lt;font color="#CCCCCC"&gt; want to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; make you know we&amp;#39;re&lt;/font&gt;</text>
+  <text start="3239.2" dur="4.26">&lt;font color="#E5E5E5"&gt;trying to build the concept&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; people&lt;/font&gt;</text>
+  <text start="3240.91" dur="5.33">who who pay&lt;font color="#CCCCCC"&gt; attention to knowledge and&lt;/font&gt;</text>
+  <text start="3243.46" dur="5.73">who are&lt;font color="#E5E5E5"&gt; looking&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to build knowledge&lt;/font&gt;</text>
+  <text start="3246.24" dur="7.09">better and faster&lt;font color="#CCCCCC"&gt; we&amp;#39;re trying&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to&lt;/font&gt;</text>
+  <text start="3249.19" dur="5.7">improve&lt;font color="#CCCCCC"&gt; our meta knowledge tools&lt;/font&gt;&lt;font color="#E5E5E5"&gt; if you&lt;/font&gt;</text>
+  <text start="3253.33" dur="3.75">build&lt;font color="#E5E5E5"&gt; it they will come I think that&lt;/font&gt;</text>
+  <text start="3254.89" dur="2.97">this&lt;font color="#E5E5E5"&gt; this&lt;/font&gt;&lt;font color="#CCCCCC"&gt; is a time&lt;/font&gt;&lt;font color="#E5E5E5"&gt; this is an idea&lt;/font&gt;</text>
+  <text start="3257.08" dur="3.3">whose&lt;font color="#CCCCCC"&gt; time&lt;/font&gt;&lt;font color="#E5E5E5"&gt; has come&lt;/font&gt;</text>
+  <text start="3257.86" dur="4.8">&lt;font color="#CCCCCC"&gt;so yeah&lt;/font&gt;&lt;font color="#E5E5E5"&gt; internet and with&lt;/font&gt;&lt;font color="#CCCCCC"&gt; cryptos and&lt;/font&gt;</text>
+  <text start="3260.38" dur="6.69">&lt;font color="#E5E5E5"&gt;the precedent set for you know as you&lt;/font&gt;</text>
+  <text start="3262.66" dur="5.94">said&lt;font color="#CCCCCC"&gt; open&lt;/font&gt;&lt;font color="#E5E5E5"&gt; source yeah yeah well thank&lt;/font&gt;</text>
+  <text start="3267.07" dur="4.53">you&lt;font color="#E5E5E5"&gt; guys so much&lt;/font&gt;&lt;font color="#CCCCCC"&gt; for joining me and as&lt;/font&gt;</text>
+  <text start="3268.6" dur="5.55">&lt;font color="#CCCCCC"&gt;always it was it was mentally like being&lt;/font&gt;</text>
+  <text start="3271.6" dur="8.31">&lt;font color="#CCCCCC"&gt;drugged through a horse&lt;/font&gt;&lt;font color="#E5E5E5"&gt; horse track or&lt;/font&gt;</text>
+  <text start="3274.15" dur="7.62">something&lt;font color="#E5E5E5"&gt; already tired but well take a&lt;/font&gt;</text>
+  <text start="3279.91" dur="3.93">rest&lt;font color="#CCCCCC"&gt; we appreciate it&lt;/font&gt;</text>
+  <text start="3281.77" dur="3.99">it&amp;#39;s an honor&lt;font color="#E5E5E5"&gt; to be&lt;/font&gt;&lt;font color="#CCCCCC"&gt; on your show&lt;/font&gt;&lt;font color="#E5E5E5"&gt; so yeah&lt;/font&gt;</text>
+  <text start="3283.84" dur="2.94">&lt;font color="#CCCCCC"&gt;it&amp;#39;s wonderful I I definitely preciate&lt;/font&gt;</text>
+  <text start="3285.76" dur="2.46">&lt;font color="#CCCCCC"&gt;you guys and hopefully&lt;/font&gt;&lt;font color="#E5E5E5"&gt; we&amp;#39;ll get a&lt;/font&gt;</text>
+  <text start="3286.78" dur="4.49">chance&lt;font color="#E5E5E5"&gt; to do this again&lt;/font&gt;&lt;font color="#CCCCCC"&gt; have a great&lt;/font&gt;</text>
+  <text start="3288.22" dur="3.05">night yeah you too</text>
+</transcript>

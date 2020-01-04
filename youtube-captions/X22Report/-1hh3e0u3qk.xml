@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transcript>
+  <text start="30.61" dur="4.83">hi and welcome&lt;font color="#E5E5E5"&gt; you&amp;#39;re listening to the x&lt;/font&gt;</text>
+  <text start="33.79" dur="4.47">22 report my name is dave and this&lt;font color="#E5E5E5"&gt; is&lt;/font&gt;</text>
+  <text start="35.44" dur="5.7">episode 762 a and today&amp;#39;s date&lt;font color="#CCCCCC"&gt; is&lt;/font&gt;</text>
+  <text start="38.26" dur="5.31">September 10th 2015 and&lt;font color="#E5E5E5"&gt; the title this&lt;/font&gt;</text>
+  <text start="41.14" dur="5.52">episode is the economy&lt;font color="#CCCCCC"&gt; is continually&lt;/font&gt;</text>
+  <text start="43.57" dur="4.53">showing signs of collapsing now&lt;font color="#E5E5E5"&gt; before I&lt;/font&gt;</text>
+  <text start="46.66" dur="3.29">&lt;font color="#E5E5E5"&gt;get started I just want to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; make an&lt;/font&gt;</text>
+  <text start="48.1" dur="5.279">announcement&lt;font color="#E5E5E5"&gt; of what happened yesterday&lt;/font&gt;</text>
+  <text start="49.95" dur="6.07">and today with the site&lt;font color="#CCCCCC"&gt; the site was&lt;/font&gt;</text>
+  <text start="53.379" dur="4.491">attacked it started at midnight and went</text>
+  <text start="56.02" dur="5.64">all through the morning&lt;font color="#E5E5E5"&gt; and it really&lt;/font&gt;</text>
+  <text start="57.87" dur="6.249">got really intense around six or seven</text>
+  <text start="61.66" dur="4.26">in the morning or so and the hosting</text>
+  <text start="64.119" dur="3.481">company decided that they didn&amp;#39;t want to</text>
+  <text start="65.92" dur="3.3">have this&lt;font color="#E5E5E5"&gt; interfere with their other&lt;/font&gt;</text>
+  <text start="67.6" dur="4.34">customers so they disconnected the</text>
+  <text start="69.22" dur="5.16">database so the site went down and</text>
+  <text start="71.94" dur="5.26">during that time&lt;font color="#E5E5E5"&gt; they said the site was&lt;/font&gt;</text>
+  <text start="74.38" dur="4.56">compromised yes something has happened</text>
+  <text start="77.2" dur="4.68">they don&amp;#39;t know&lt;font color="#E5E5E5"&gt; exactly what it&lt;/font&gt;&lt;font color="#CCCCCC"&gt; is and&lt;/font&gt;</text>
+  <text start="78.94" dur="5.429">what&lt;font color="#E5E5E5"&gt; I started to do was take the&lt;/font&gt;</text>
+  <text start="81.88" dur="6.42">database and the files and move them to</text>
+  <text start="84.369" dur="6.211">a backup server so this way the site and</text>
+  <text start="88.3" dur="5.4">go back up&lt;font color="#CCCCCC"&gt; and run and this is what I&amp;#39;m&lt;/font&gt;</text>
+  <text start="90.58" dur="4.86">doing I&amp;#39;m creating the primary and a</text>
+  <text start="93.7" dur="3.9">backup server so if&lt;font color="#E5E5E5"&gt; this ever happens&lt;/font&gt;</text>
+  <text start="95.44" dur="4.56">again&lt;font color="#E5E5E5"&gt; I can switch right over to the&lt;/font&gt;</text>
+  <text start="97.6" dur="5.309">&lt;font color="#CCCCCC"&gt;backup server but yes the site was&lt;/font&gt;</text>
+  <text start="100" dur="6">attacked it brought it down and&lt;font color="#E5E5E5"&gt; it took&lt;/font&gt;</text>
+  <text start="102.909" dur="5.221">&lt;font color="#CCCCCC"&gt;me pretty much the entire day to get it&lt;/font&gt;</text>
+  <text start="106" dur="4.56">up and running once again but it looks</text>
+  <text start="108.13" dur="4.47">&lt;font color="#CCCCCC"&gt;like the site is running it looks&lt;/font&gt;&lt;font color="#E5E5E5"&gt; like&lt;/font&gt;</text>
+  <text start="110.56" dur="5.01">everything is back to normal a&lt;font color="#E5E5E5"&gt; couple&lt;/font&gt;</text>
+  <text start="112.6" dur="4.35">&lt;font color="#E5E5E5"&gt;things I need&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to fix the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; forum maybe&lt;/font&gt;</text>
+  <text start="115.57" dur="3.42">some other&lt;font color="#CCCCCC"&gt; little things here and there&lt;/font&gt;</text>
+  <text start="116.95" dur="5.36">but&lt;font color="#E5E5E5"&gt; it looks like everything is back to&lt;/font&gt;</text>
+  <text start="118.99" dur="7.47">normal I know everyone was emailing me</text>
+  <text start="122.31" dur="6.19">commenting&lt;font color="#E5E5E5"&gt; on YouTube and I tried to&lt;/font&gt;</text>
+  <text start="126.46" dur="3.57">answer some people I put&lt;font color="#E5E5E5"&gt; some comments&lt;/font&gt;</text>
+  <text start="128.5" dur="4.049">&lt;font color="#E5E5E5"&gt;on YouTube&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to let you know the site was&lt;/font&gt;</text>
+  <text start="130.03" dur="5.07">attacked the best place I think&lt;font color="#CCCCCC"&gt; to go&lt;/font&gt;</text>
+  <text start="132.549" dur="5.281">when something&lt;font color="#CCCCCC"&gt; like this does occur is&lt;/font&gt;</text>
+  <text start="135.1" dur="6.78">the Twitter account which is Twitter</text>
+  <text start="137.83" dur="6.27">&lt;font color="#E5E5E5"&gt;sports / x 22 report and there I was&lt;/font&gt;</text>
+  <text start="141.88" dur="5.25">updating what was happening so if you</text>
+  <text start="144.1" dur="5.25">wanted to follow&lt;font color="#E5E5E5"&gt; x 20 report on twitter&lt;/font&gt;</text>
+  <text start="147.13" dur="3.78">you can do that&lt;font color="#E5E5E5"&gt; in&lt;/font&gt;&lt;font color="#CCCCCC"&gt; this way i can get&lt;/font&gt;</text>
+  <text start="149.35" dur="4.38">the&lt;font color="#CCCCCC"&gt; message out there of what is&lt;/font&gt;</text>
+  <text start="150.91" dur="5.79">happening&lt;font color="#E5E5E5"&gt; because it was&lt;/font&gt;&lt;font color="#CCCCCC"&gt; just impossible&lt;/font&gt;</text>
+  <text start="153.73" dur="4.92">for me to answer all the emails&lt;font color="#E5E5E5"&gt; that are&lt;/font&gt;</text>
+  <text start="156.7" dur="4.8">coming in and work on the server again</text>
+  <text start="158.65" dur="5.28">I&amp;#39;m a one-man shop here I don&amp;#39;t have a</text>
+  <text start="161.5" dur="5.069">crew of people working</text>
+  <text start="163.93" dur="4.559">it&amp;#39;s just&lt;font color="#CCCCCC"&gt; me so I can&amp;#39;t be in all places&lt;/font&gt;</text>
+  <text start="166.569" dur="4.321">at&lt;font color="#E5E5E5"&gt; once but I do appreciate everyone&lt;/font&gt;</text>
+  <text start="168.489" dur="5.491">everyone&amp;#39;s&lt;font color="#E5E5E5"&gt; concerned what was going on&lt;/font&gt;</text>
+  <text start="170.89" dur="5.489">and I was just&lt;font color="#CCCCCC"&gt; concentrating on getting&lt;/font&gt;</text>
+  <text start="173.98" dur="3.989">everything back to normal let&amp;#39;s get</text>
+  <text start="176.379" dur="4.5">&lt;font color="#E5E5E5"&gt;right&lt;/font&gt;&lt;font color="#CCCCCC"&gt; into the economic collapse&lt;/font&gt;</text>
+  <text start="177.969" dur="5.011">financial news we&amp;#39;re going&lt;font color="#E5E5E5"&gt; to head out&lt;/font&gt;</text>
+  <text start="180.879" dur="4.95">to&lt;font color="#E5E5E5"&gt; Greece and&lt;/font&gt;&lt;font color="#CCCCCC"&gt; talk about what&amp;#39;s been&lt;/font&gt;</text>
+  <text start="182.98" dur="6.36">going on there now the central bankers</text>
+  <text start="185.829" dur="5.401">they got their way they had the</text>
+  <text start="189.34" dur="3.629">government fold they didn&amp;#39;t listen&lt;font color="#E5E5E5"&gt; to&lt;/font&gt;</text>
+  <text start="191.23" dur="5.31">the people the government&lt;font color="#CCCCCC"&gt; didn&amp;#39;t listen&lt;/font&gt;</text>
+  <text start="192.969" dur="7.77">&lt;font color="#E5E5E5"&gt;to the people no one cared and we see&lt;/font&gt;</text>
+  <text start="196.54" dur="8.729">that&lt;font color="#E5E5E5"&gt; this&lt;/font&gt;&lt;font color="#CCCCCC"&gt; entire situation is not going&lt;/font&gt;</text>
+  <text start="200.739" dur="9.06">&lt;font color="#E5E5E5"&gt;to improve him we&amp;#39;re already seeing that&lt;/font&gt;</text>
+  <text start="205.269" dur="7.741">the&lt;font color="#CCCCCC"&gt; economy in Greece is getting worse I&lt;/font&gt;</text>
+  <text start="209.799" dur="6.651">mean unemployment when from&lt;font color="#E5E5E5"&gt; twenty five&lt;/font&gt;</text>
+  <text start="213.01" dur="8.52">percent now it&amp;#39;s at 25.2 percent and</text>
+  <text start="216.45" dur="7.48">this is a slight increase&lt;font color="#CCCCCC"&gt; from&lt;/font&gt;&lt;font color="#E5E5E5"&gt; June well&lt;/font&gt;</text>
+  <text start="221.53" dur="5.549">any little&lt;font color="#E5E5E5"&gt; increase at twenty-five&lt;/font&gt;</text>
+  <text start="223.93" dur="6.63">percent is huge because that means there</text>
+  <text start="227.079" dur="6.75">are even more&lt;font color="#E5E5E5"&gt; people not working in&lt;/font&gt;</text>
+  <text start="230.56" dur="6.359">Greece and Greece is not&lt;font color="#E5E5E5"&gt; the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; only&lt;/font&gt;</text>
+  <text start="233.829" dur="6.33">country we see this in I mean if we</text>
+  <text start="236.919" dur="5.581">really look around and if we look at</text>
+  <text start="240.159" dur="5.881">each one of these&lt;font color="#E5E5E5"&gt; countries Italy France&lt;/font&gt;</text>
+  <text start="242.5" dur="6.87">Portugal Spain unemployment is</text>
+  <text start="246.04" dur="6.539">skyrocketing they have a huge&lt;font color="#E5E5E5"&gt; amount of&lt;/font&gt;</text>
+  <text start="249.37" dur="5.729">debt and if we look back here in the</text>
+  <text start="252.579" dur="5.22">United States we&lt;font color="#E5E5E5"&gt; really see the same&lt;/font&gt;</text>
+  <text start="255.099" dur="4.29">thing there&amp;#39;s really no&lt;font color="#CCCCCC"&gt; difference it&amp;#39;s&lt;/font&gt;</text>
+  <text start="257.799" dur="3.75">just&lt;font color="#E5E5E5"&gt; that the United States government&lt;/font&gt;</text>
+  <text start="259.389" dur="4.861">the central bankers are a little bit</text>
+  <text start="261.549" dur="4.231">&lt;font color="#E5E5E5"&gt;better at covering it up at manipulating&lt;/font&gt;</text>
+  <text start="264.25" dur="5.61">everything and of course we have the</text>
+  <text start="265.78" dur="5.699">ability to create / print money but</text>
+  <text start="269.86" dur="2.809">what&amp;#39;s very interesting about all this</text>
+  <text start="271.479" dur="3.151">and they continually say&lt;font color="#CCCCCC"&gt; oh&lt;/font&gt;</text>
+  <text start="272.669" dur="5.171">manufacturing is coming back&lt;font color="#CCCCCC"&gt; to the&lt;/font&gt;</text>
+  <text start="274.63" dur="8.789">United States we see improvements we see</text>
+  <text start="277.84" dur="8.37">recovery everything&lt;font color="#CCCCCC"&gt; is just fine but&lt;/font&gt;</text>
+  <text start="283.419" dur="6.72">when we really break through all the</text>
+  <text start="286.21" dur="6.179">propaganda we see completely different</text>
+  <text start="290.139" dur="4.551">and opposite things that they&amp;#39;re talking</text>
+  <text start="292.389" dur="4.991">&lt;font color="#CCCCCC"&gt;about I mean let&amp;#39;s take for example&lt;/font&gt;</text>
+  <text start="294.69" dur="5.97">manufacturing</text>
+  <text start="297.38" dur="9.61">&lt;font color="#CCCCCC"&gt;Manufacturing was the driving force here&lt;/font&gt;</text>
+  <text start="300.66" dur="10.11">in America and since the 40s the 50s the</text>
+  <text start="306.99" dur="5.25">60s even going&lt;font color="#E5E5E5"&gt; into the 70s at that&lt;/font&gt;</text>
+  <text start="310.77" dur="2.97">&lt;font color="#E5E5E5"&gt;point it started to it started to&lt;/font&gt;</text>
+  <text start="312.24" dur="5.25">deteriorate it started to break down</text>
+  <text start="313.74" dur="5.88">fall apart and as time&lt;font color="#CCCCCC"&gt; went on it got&lt;/font&gt;</text>
+  <text start="317.49" dur="5.34">worse I mean think about this for a</text>
+  <text start="319.62" dur="5.88">second those employed by the government</text>
+  <text start="322.83" dur="6.87">in the United States in august of this</text>
+  <text start="325.5" dur="7.47">year how numbered the employed in the</text>
+  <text start="329.7" dur="6.15">manufacturing&lt;font color="#CCCCCC"&gt; sector by almost&lt;/font&gt;&lt;font color="#E5E5E5"&gt; 18 to 1&lt;/font&gt;</text>
+  <text start="332.97" dur="8.1">and this&lt;font color="#CCCCCC"&gt; is coming from the bureau of&lt;/font&gt;</text>
+  <text start="335.85" dur="8.04">labor statistics there&lt;font color="#E5E5E5"&gt; were&lt;/font&gt;&lt;font color="#CCCCCC"&gt; 20 1.9&lt;/font&gt;</text>
+  <text start="341.07" dur="4.23">million employed by the federal state</text>
+  <text start="343.89" dur="4.08">and local governments in the united</text>
+  <text start="345.3" dur="7.83">states in august and again this is from</text>
+  <text start="347.97" dur="9.72">the BLS and we had 12.3 million employed</text>
+  <text start="353.13" dur="11.93">in the manufacturing&lt;font color="#CCCCCC"&gt; sector in the first&lt;/font&gt;</text>
+  <text start="357.69" dur="10.92">50 years of the 76 year span sins then</text>
+  <text start="365.06" dur="7">manufacturing out employed government</text>
+  <text start="368.61" dur="7.62">but in&lt;font color="#CCCCCC"&gt; august of 1989 government&lt;/font&gt;</text>
+  <text start="372.06" dur="7.65">overtook manufacturing as&lt;font color="#CCCCCC"&gt; US as&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the US&lt;/font&gt;</text>
+  <text start="376.23" dur="4.56">&lt;font color="#E5E5E5"&gt;employer and this is of course when they&lt;/font&gt;</text>
+  <text start="379.71" dur="4.56">started shipping a lot of the&lt;font color="#CCCCCC"&gt; jobs&lt;/font&gt;</text>
+  <text start="380.79" dur="6.75">overseas when they began and to make up</text>
+  <text start="384.27" dur="8.16">for&lt;font color="#CCCCCC"&gt; those jobs leaving we had government&lt;/font&gt;</text>
+  <text start="387.54" dur="8.91">&lt;font color="#E5E5E5"&gt;jobs in that month of&lt;/font&gt;&lt;font color="#CCCCCC"&gt; August of 1989 the&lt;/font&gt;</text>
+  <text start="392.43" dur="9.69">government employed 17.9 million people</text>
+  <text start="396.45" dur="9.87">and manufacturing employed 17.9 million</text>
+  <text start="402.12" dur="6.83">people since then&lt;font color="#CCCCCC"&gt; the government&lt;/font&gt;</text>
+  <text start="406.32" dur="8.34">employment increased by&lt;font color="#CCCCCC"&gt; 4&lt;/font&gt;&lt;font color="#E5E5E5"&gt; million&lt;/font&gt;</text>
+  <text start="408.95" dur="8.83">manufacturing declined by 5.6 million so</text>
+  <text start="414.66" dur="6.24">what&lt;font color="#E5E5E5"&gt; are we seeing here we&amp;#39;re seeing for&lt;/font&gt;</text>
+  <text start="417.78" dur="5.34">every manufacturing job they add they</text>
+  <text start="420.9" dur="3.96">&lt;font color="#E5E5E5"&gt;added a government job now of&lt;/font&gt;&lt;font color="#CCCCCC"&gt; course&lt;/font&gt;</text>
+  <text start="423.12" dur="3.9">this is why we have&lt;font color="#E5E5E5"&gt; a government&lt;/font&gt;</text>
+  <text start="424.86" dur="5.72">completely bloated the way we see it</text>
+  <text start="427.02" dur="7.26">today they needed to&lt;font color="#E5E5E5"&gt; do this&lt;/font&gt;</text>
+  <text start="430.58" dur="6.46">why well they needed&lt;font color="#E5E5E5"&gt; to keep the job&lt;/font&gt;</text>
+  <text start="434.28" dur="5.73">numbers they got a they have to keep it</text>
+  <text start="437.04" dur="6.06">like everything is fine here we see&lt;font color="#CCCCCC"&gt; the&lt;/font&gt;</text>
+  <text start="440.01" dur="6.39">same thing happening today I mean how</text>
+  <text start="443.1" dur="7.11">much more&lt;font color="#CCCCCC"&gt; can the government take on so&lt;/font&gt;</text>
+  <text start="446.4" dur="5.88">it switched from manufacturing and we</text>
+  <text start="450.21" dur="6.09">talked about this quite often where we</text>
+  <text start="452.28" dur="6.47">had manufacturing declining and waiters</text>
+  <text start="456.3" dur="7.68">and bartenders&lt;font color="#E5E5E5"&gt; the service jobs&lt;/font&gt;</text>
+  <text start="458.75" dur="8.92">increasing at the&lt;font color="#E5E5E5"&gt; same pace so we are&lt;/font&gt;</text>
+  <text start="463.98" dur="7.41">not recovering manufacturing is not</text>
+  <text start="467.67" dur="9.5">improving if we go back over time it</text>
+  <text start="471.39" dur="12.08">&lt;font color="#CCCCCC"&gt;just got worse and worse&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and worse and&lt;/font&gt;</text>
+  <text start="477.17" dur="10.96">we see right now that this economy is</text>
+  <text start="483.47" dur="6.72">completely in collapse mode I mean</text>
+  <text start="488.13" dur="6.36">there&amp;#39;s no other way to explain it I</text>
+  <text start="490.19" dur="7.47">mean if we look at everything retail for</text>
+  <text start="494.49" dur="6.51">example the retail numbers came&lt;font color="#E5E5E5"&gt; out&lt;/font&gt;</text>
+  <text start="497.66" dur="4.84">national chain stores the sales have</text>
+  <text start="501" dur="3.36">fallen by one-point-three percent in the</text>
+  <text start="502.5" dur="3.81">first week of September actually this is</text>
+  <text start="504.36" dur="4.29">normally a&lt;font color="#CCCCCC"&gt; good time for sales because&lt;/font&gt;</text>
+  <text start="506.31" dur="4.26">it&amp;#39;s all back to school now they can&amp;#39;t</text>
+  <text start="508.65" dur="5.61">blame&lt;font color="#CCCCCC"&gt; it on the weather because it&lt;/font&gt;</text>
+  <text start="510.57" dur="7.73">didn&amp;#39;t snow I guess they could say it</text>
+  <text start="514.26" dur="8.16">was too sunny&lt;font color="#E5E5E5"&gt; to warm to sticky outside&lt;/font&gt;</text>
+  <text start="518.3" dur="8.32">but that&amp;#39;s&lt;font color="#E5E5E5"&gt; not going to fly they&amp;#39;ll use&lt;/font&gt;</text>
+  <text start="522.42" dur="9.03">every other excuse except the economy</text>
+  <text start="526.62" dur="6.99">and during this recovery we&amp;#39;ve seen many</text>
+  <text start="531.45" dur="4.44">many many retail stores&lt;font color="#E5E5E5"&gt; closed now&lt;/font&gt;</text>
+  <text start="533.61" dur="8.3">Macy&amp;#39;s just announced they&amp;#39;re&lt;font color="#CCCCCC"&gt; going to&lt;/font&gt;</text>
+  <text start="535.89" dur="11.94">be&lt;font color="#E5E5E5"&gt; closing 35 to 40 stores in early 2016&lt;/font&gt;</text>
+  <text start="541.91" dur="8.71">35 to 40 stores the largest department</text>
+  <text start="547.83" dur="5.43">store now if we&amp;#39;re truly in this</text>
+  <text start="550.62" dur="6.03">recovery unemployment of 5.1 percent</text>
+  <text start="553.26" dur="9.02">near full employment people are making</text>
+  <text start="556.65" dur="6.93">money why is retail contracting so much</text>
+  <text start="562.28" dur="5.4">why</text>
+  <text start="563.58" dur="8.9">is manufacturing declining why our</text>
+  <text start="567.68" dur="8.53">inventories building up think&lt;font color="#E5E5E5"&gt; about this&lt;/font&gt;</text>
+  <text start="572.48" dur="6.61">the&lt;font color="#CCCCCC"&gt; only way to cut through all this is&lt;/font&gt;</text>
+  <text start="576.21" dur="7.41">that&lt;font color="#E5E5E5"&gt; their statistics they&amp;#39;re throwing&lt;/font&gt;</text>
+  <text start="579.09" dur="6.57">at us they&amp;#39;re fake that&amp;#39;s it that&amp;#39;s the</text>
+  <text start="583.62" dur="4.02">only way to look at&lt;font color="#CCCCCC"&gt; this because when we&lt;/font&gt;</text>
+  <text start="585.66" dur="4.59">really look at&lt;font color="#E5E5E5"&gt; this we see yeah this&lt;/font&gt;</text>
+  <text start="587.64" dur="4.53">makes no sense whatsoever&lt;font color="#E5E5E5"&gt; I mean seagate&lt;/font&gt;</text>
+  <text start="590.25" dur="4.53">is going to be laying off a thousand</text>
+  <text start="592.17" dur="7.29">people&lt;font color="#E5E5E5"&gt; Morris and stores international&lt;/font&gt;</text>
+  <text start="594.78" dur="7.56">11 branches 900 jobs&lt;font color="#E5E5E5"&gt; Lockheed Martin 500&lt;/font&gt;</text>
+  <text start="599.46" dur="6.63">Samsung is going to be laying off ten</text>
+  <text start="602.34" dur="5.46">percent of their headquarters staff the</text>
+  <text start="606.09" dur="4.23">Baltic Dry Index which is the raw</text>
+  <text start="607.8" dur="5.4">material they use to use for</text>
+  <text start="610.32" dur="5.73">manufacturing and we know that they&amp;#39;re</text>
+  <text start="613.2" dur="6.15">not manufacturing because we see we tell</text>
+  <text start="616.05" dur="7.89">contracting we see consumers they&amp;#39;re not</text>
+  <text start="619.35" dur="7.38">spending it&amp;#39;s all shrinking so both the</text>
+  <text start="623.94" dur="8.21">Baltic Dry Index is falling and it is</text>
+  <text start="626.73" dur="8.01">falling 25 points it is now down to 830</text>
+  <text start="632.15" dur="7.84">we know&lt;font color="#E5E5E5"&gt; that people aren&amp;#39;t purchasing&lt;/font&gt;</text>
+  <text start="634.74" dur="9.21">homes mortgage applications are down six</text>
+  <text start="639.99" dur="6.51">point two percent if these interest</text>
+  <text start="643.95" dur="6.63">rates take up just a little bit it&lt;font color="#E5E5E5"&gt; is&lt;/font&gt;</text>
+  <text start="646.5" dur="9.45">going to be&lt;font color="#E5E5E5"&gt; a disaster a complete&lt;/font&gt;</text>
+  <text start="650.58" dur="8.31">disaster for real estate it&amp;#39;s going to</text>
+  <text start="655.95" dur="5.22">&lt;font color="#E5E5E5"&gt;be what happened in 2008 actually it&amp;#39;s&lt;/font&gt;</text>
+  <text start="658.89" dur="3.54">going&lt;font color="#E5E5E5"&gt; to be a lot worse because we have&lt;/font&gt;</text>
+  <text start="661.17" dur="3.27">a lot&lt;font color="#CCCCCC"&gt; of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; people out there with&lt;/font&gt;</text>
+  <text start="662.43" dur="4.5">adjustable rate mortgages and if&lt;font color="#E5E5E5"&gt; these&lt;/font&gt;</text>
+  <text start="664.44" dur="5.37">interest rates tick up they will not be</text>
+  <text start="666.93" dur="4.86">able&lt;font color="#E5E5E5"&gt; to afford these homes new people&lt;/font&gt;</text>
+  <text start="669.81" dur="4.98">coming into the&lt;font color="#E5E5E5"&gt; market it will kick them&lt;/font&gt;</text>
+  <text start="671.79" dur="6.03">out of&lt;font color="#E5E5E5"&gt; the market instantly and mortgage&lt;/font&gt;</text>
+  <text start="674.79" dur="6.87">applications are going to take a huge</text>
+  <text start="677.82" dur="9.63">dive they know this the bubble&lt;font color="#CCCCCC"&gt; would pop&lt;/font&gt;</text>
+  <text start="681.66" dur="9.51">in about two seconds we understand</text>
+  <text start="687.45" dur="6.29">Puerto Rico just like Greece&lt;font color="#E5E5E5"&gt; it&amp;#39;s&lt;/font&gt;</text>
+  <text start="691.17" dur="4.55">collapsing</text>
+  <text start="693.74" dur="3.84">they&amp;#39;re going&lt;font color="#E5E5E5"&gt; to run out of cash by the&lt;/font&gt;</text>
+  <text start="695.72" dur="7.02">end of the&lt;font color="#CCCCCC"&gt; year they&amp;#39;re&lt;/font&gt;&lt;font color="#E5E5E5"&gt; going to have a&lt;/font&gt;</text>
+  <text start="697.58" dur="6.39">13 billion dollar shortfall ft reports</text>
+  <text start="702.74" dur="4.02">according to the report of the&lt;font color="#E5E5E5"&gt; so-called&lt;/font&gt;</text>
+  <text start="703.97" dur="4.59">working group the&lt;font color="#CCCCCC"&gt; Treasury&amp;#39;s single cash&lt;/font&gt;</text>
+  <text start="706.76" dur="4.65">account and government development bank</text>
+  <text start="708.56" dur="4.59">would exhaust available liquidity before</text>
+  <text start="711.41" dur="4.74">the end of the&lt;font color="#CCCCCC"&gt; year creating a cash&lt;/font&gt;</text>
+  <text start="713.15" dur="6.63">shortfall in November or December in</text>
+  <text start="716.15" dur="7.67">other words Puerto Rico&lt;font color="#CCCCCC"&gt; is exactly like&lt;/font&gt;</text>
+  <text start="719.78" dur="7.74">Greece the only differences Puerto&lt;font color="#CCCCCC"&gt; Rico&lt;/font&gt;</text>
+  <text start="723.82" dur="6.76">doesn&amp;#39;t have any negotiating leverage to</text>
+  <text start="727.52" dur="6.27">threaten leaving the dollar I mean</text>
+  <text start="730.58" dur="7.89">there&amp;#39;s nothing&lt;font color="#E5E5E5"&gt; there and the government&lt;/font&gt;</text>
+  <text start="733.79" dur="9.33">can&amp;#39;t bail out puerto rico so we have a</text>
+  <text start="738.47" dur="5.58">problem&lt;font color="#E5E5E5"&gt; Puerto Rico is going to default&lt;/font&gt;</text>
+  <text start="743.12" dur="3.18">of course they&amp;#39;re&lt;font color="#E5E5E5"&gt; going to call it a&lt;/font&gt;</text>
+  <text start="744.05" dur="4.41">payment moratorium and then going to say</text>
+  <text start="746.3" dur="3.57">no no no one defaulted we don&amp;#39;t&lt;font color="#E5E5E5"&gt; have to&lt;/font&gt;</text>
+  <text start="748.46" dur="3.42">&lt;font color="#E5E5E5"&gt;make the credit default swap payments&lt;/font&gt;</text>
+  <text start="749.87" dur="5.16">the derivatives are&lt;font color="#E5E5E5"&gt; okay everything is&lt;/font&gt;</text>
+  <text start="751.88" dur="5.15">&lt;font color="#CCCCCC"&gt;fine look&lt;/font&gt;&lt;font color="#E5E5E5"&gt; over&lt;/font&gt;&lt;font color="#CCCCCC"&gt; there we&amp;#39;re pushing&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the&lt;/font&gt;</text>
+  <text start="755.03" dur="7.98">stock market up at least we&amp;#39;re trying&lt;font color="#E5E5E5"&gt; to&lt;/font&gt;</text>
+  <text start="757.03" dur="8.38">and when we look at this market we see</text>
+  <text start="763.01" dur="7.26">it is completely fluctuating up and down</text>
+  <text start="765.41" dur="7.32">like&lt;font color="#E5E5E5"&gt; crazy I mean Japan shot their mark&lt;/font&gt;</text>
+  <text start="770.27" dur="7.32">it up a thousand&lt;font color="#CCCCCC"&gt; points and then it&lt;/font&gt;</text>
+  <text start="772.73" dur="8.55">dropped almost as much I mean these are</text>
+  <text start="777.59" dur="6.96">huge swings but&lt;font color="#E5E5E5"&gt; we experienced all this&lt;/font&gt;</text>
+  <text start="781.28" dur="7.53">before&lt;font color="#E5E5E5"&gt; this&lt;/font&gt;&lt;font color="#CCCCCC"&gt; is nothing new this is&lt;/font&gt;</text>
+  <text start="784.55" dur="8.64">&lt;font color="#CCCCCC"&gt;exactly what you see when we&amp;#39;re&lt;/font&gt;&lt;font color="#E5E5E5"&gt; moving&lt;/font&gt;</text>
+  <text start="788.81" dur="7.2">into a collapsin back in two thousand</text>
+  <text start="793.19" dur="4.56">eight nine of the 20 largest single-day</text>
+  <text start="796.01" dur="5.4">declines in the stock market history</text>
+  <text start="797.75" dur="5.52">happened that year&lt;font color="#CCCCCC"&gt; 9 of the 20 largest&lt;/font&gt;</text>
+  <text start="801.41" dur="5.85">&lt;font color="#E5E5E5"&gt;single-day increases in the stock market&lt;/font&gt;</text>
+  <text start="803.27" dur="8.85">history also&lt;font color="#CCCCCC"&gt; happened in&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that year we&lt;/font&gt;</text>
+  <text start="807.26" dur="6.51">are seeing the same thing we are</text>
+  <text start="812.12" dur="5.94">&lt;font color="#E5E5E5"&gt;definitely moving into another great&lt;/font&gt;</text>
+  <text start="813.77" dur="6.89">financial crisis&lt;font color="#CCCCCC"&gt; and we&amp;#39;re going&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to see&lt;/font&gt;</text>
+  <text start="818.06" dur="7.68">these massive ups and massive downs</text>
+  <text start="820.66" dur="6.53">warning signs red flags everywhere we&amp;#39;ve</text>
+  <text start="825.74" dur="3.42">seen this&lt;font color="#CCCCCC"&gt; before and of course&lt;/font&gt;</text>
+  <text start="827.19" dur="4.77">we already&lt;font color="#E5E5E5"&gt; had Jack Lew the Treasury&lt;/font&gt;</text>
+  <text start="829.16" dur="4.72">head out there saying the economy is</text>
+  <text start="831.96" dur="4.53">absolutely fine Obama coming out saying</text>
+  <text start="833.88" dur="7.14">yes this is&lt;font color="#E5E5E5"&gt; great for the economy this&lt;/font&gt;</text>
+  <text start="836.49" dur="7.32">means we&amp;#39;re recovering but we know this</text>
+  <text start="841.02" dur="7.05">is not&lt;font color="#E5E5E5"&gt; a recovery this is a complete and&lt;/font&gt;</text>
+  <text start="843.81" dur="5.79">utter&lt;font color="#E5E5E5"&gt; collapse of the system now we&amp;#39;re&lt;/font&gt;</text>
+  <text start="848.07" dur="4.38">&lt;font color="#E5E5E5"&gt;going to see this up-and-down movement&lt;/font&gt;</text>
+  <text start="849.6" dur="5.67">unless something else occurs like a</text>
+  <text start="852.45" dur="5.88">Black Swan event maybe&lt;font color="#E5E5E5"&gt; a natural&lt;/font&gt;</text>
+  <text start="855.27" dur="8.01">disaster or maybe more like a terror</text>
+  <text start="858.33" dur="6.48">attack or war this way they can blame</text>
+  <text start="863.28" dur="4.71">this on something else besides</text>
+  <text start="864.81" dur="7.47">themselves because again they do not</text>
+  <text start="867.99" dur="5.67">want to&lt;font color="#E5E5E5"&gt; be blamed for any of this this&lt;/font&gt;</text>
+  <text start="872.28" dur="5.25">is why they&amp;#39;re already pointing the</text>
+  <text start="873.66" dur="6.27">finger at China they&amp;#39;ll point the finger</text>
+  <text start="877.53" dur="4.62">at Russia North Korea they don&amp;#39;t care</text>
+  <text start="879.93" dur="5.67">who&lt;font color="#CCCCCC"&gt; they&amp;#39;re pointing at as long it&amp;#39;s not&lt;/font&gt;</text>
+  <text start="882.15" dur="5.73">as long&lt;font color="#E5E5E5"&gt; as it&amp;#39;s not them so we are&lt;/font&gt;</text>
+  <text start="885.6" dur="7.29">&lt;font color="#CCCCCC"&gt;definitely seeing this whole thing start&lt;/font&gt;</text>
+  <text start="887.88" dur="6.81">to fall apart right now now coming from</text>
+  <text start="892.89" dur="5.58">the World Bank the chief&lt;font color="#CCCCCC"&gt; economist there&lt;/font&gt;</text>
+  <text start="894.69" dur="6.45">he&amp;#39;s putting out a warning that the</text>
+  <text start="898.47" dur="6.06">Federal Reserve will cause panic and</text>
+  <text start="901.14" dur="5.64">turmoil if it raises interest rates and</text>
+  <text start="904.53" dur="4.17">of course we understand that the</text>
+  <text start="906.78" dur="4.08">emerging markets&lt;font color="#E5E5E5"&gt; they&amp;#39;ll be completely&lt;/font&gt;</text>
+  <text start="908.7" dur="4.13">destroyed we know here in&lt;font color="#E5E5E5"&gt; the United&lt;/font&gt;</text>
+  <text start="910.86" dur="5.49">States things will completely</text>
+  <text start="912.83" dur="8.76">deteriorate very very quickly it will</text>
+  <text start="916.35" dur="8.9">not be able&lt;font color="#E5E5E5"&gt; to hold and we know this and&lt;/font&gt;</text>
+  <text start="921.59" dur="6.85">eventually what&amp;#39;s going to happen is</text>
+  <text start="925.25" dur="5.86">this whole system is going&lt;font color="#E5E5E5"&gt; to be coming&lt;/font&gt;</text>
+  <text start="928.44" dur="5.37">down it there&amp;#39;s no other way to look at</text>
+  <text start="931.11" dur="3.87">&lt;font color="#CCCCCC"&gt;this yes they&amp;#39;re&lt;/font&gt;&lt;font color="#E5E5E5"&gt; going to try pumping it&lt;/font&gt;</text>
+  <text start="933.81" dur="3.68">up they&amp;#39;re going&lt;font color="#E5E5E5"&gt; to do their best&lt;/font&gt;</text>
+  <text start="934.98" dur="5.07">they&amp;#39;re going&lt;font color="#E5E5E5"&gt; to do whatever it takes&lt;/font&gt;</text>
+  <text start="937.49" dur="3.79">the&lt;font color="#CCCCCC"&gt; high-frequency&lt;/font&gt;&lt;font color="#E5E5E5"&gt; traders the plunge&lt;/font&gt;</text>
+  <text start="940.05" dur="4.26">protection team I mean&lt;font color="#E5E5E5"&gt; look at the&lt;/font&gt;</text>
+  <text start="941.28" dur="6">market today it barely finished where it</text>
+  <text start="944.31" dur="7.38">was today&lt;font color="#E5E5E5"&gt; I mean yesterday it was&lt;/font&gt;</text>
+  <text start="947.28" dur="6">completely down today they got it&lt;font color="#CCCCCC"&gt; to 77&lt;/font&gt;</text>
+  <text start="951.69" dur="7.83">&lt;font color="#E5E5E5"&gt;points but when we look at Europe and&lt;/font&gt;</text>
+  <text start="953.28" dur="7.5">Asia they were down deep eventually</text>
+  <text start="959.52" dur="3">they&amp;#39;ll going to lose&lt;font color="#CCCCCC"&gt; control&lt;/font&gt;</text>
+  <text start="960.78" dur="7.23">eventually they will not be able&lt;font color="#E5E5E5"&gt; to keep&lt;/font&gt;</text>
+  <text start="962.52" dur="6.84">up with&lt;font color="#CCCCCC"&gt; the selling and this is why each&lt;/font&gt;</text>
+  <text start="968.01" dur="4.5">and every one of you needs to&lt;font color="#E5E5E5"&gt; be&lt;/font&gt;</text>
+  <text start="969.36" dur="6.54">prepared needs to&lt;font color="#E5E5E5"&gt; be ready you don&amp;#39;t&lt;/font&gt;</text>
+  <text start="972.51" dur="6.18">want to go out&lt;font color="#E5E5E5"&gt; at the last minute to get&lt;/font&gt;</text>
+  <text start="975.9" dur="5.73">your supplies not&lt;font color="#CCCCCC"&gt; a good time to do it&lt;/font&gt;</text>
+  <text start="978.69" dur="5.16">&lt;font color="#CCCCCC"&gt;because you&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and about I don&amp;#39;t know a&lt;/font&gt;</text>
+  <text start="981.63" dur="5.52">couple million people are going to be</text>
+  <text start="983.85" dur="6.63">saying what is going on&lt;font color="#CCCCCC"&gt; here why is this&lt;/font&gt;</text>
+  <text start="987.15" dur="5.1">happening I better&lt;font color="#E5E5E5"&gt; go out to the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; market&lt;/font&gt;</text>
+  <text start="990.48" dur="3.2">and get my supplies it&amp;#39;s almost like</text>
+  <text start="992.25" dur="5.76">when a storms coming like a hurricane</text>
+  <text start="993.68" dur="5.92">all of a sudden&lt;font color="#CCCCCC"&gt; people&lt;/font&gt;&lt;font color="#E5E5E5"&gt; run in and they&lt;/font&gt;</text>
+  <text start="998.01" dur="3.9">buy as much water as they possibly can</text>
+  <text start="999.6" dur="3.75">the shelves are completely empty they</text>
+  <text start="1001.91" dur="4.53">buy batteries those shelves are</text>
+  <text start="1003.35" dur="4.59">completely empty they buy milk everyone</text>
+  <text start="1006.44" dur="4.41">buys milk when there&amp;#39;s a disaster coming</text>
+  <text start="1007.94" dur="7.56">they buy tons of milk that is completely</text>
+  <text start="1010.85" dur="6.56">&lt;font color="#E5E5E5"&gt;gone the same things going to happen and&lt;/font&gt;</text>
+  <text start="1015.5" dur="5.04">you don&amp;#39;t want&lt;font color="#E5E5E5"&gt; to be in that situation&lt;/font&gt;</text>
+  <text start="1017.41" dur="7.93">this is why you&lt;font color="#E5E5E5"&gt; need&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to continually prep&lt;/font&gt;</text>
+  <text start="1020.54" dur="9.24">I mean&lt;font color="#E5E5E5"&gt; look how people get when Walmart&lt;/font&gt;</text>
+  <text start="1025.34" dur="8.73">during black friday they put something</text>
+  <text start="1029.78" dur="6.9">on sale people have no&lt;font color="#CCCCCC"&gt; problem pushing&lt;/font&gt;</text>
+  <text start="1034.07" dur="5.25">&lt;font color="#E5E5E5"&gt;people out&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of the way and trampling over&lt;/font&gt;</text>
+  <text start="1036.68" dur="7.29">them just to get what that ridiculous</text>
+  <text start="1039.32" dur="7.11">DVD player the HDTV or the&lt;font color="#E5E5E5"&gt; computer so&lt;/font&gt;</text>
+  <text start="1043.97" dur="4.77">they have&lt;font color="#CCCCCC"&gt; no problem hurting someone to&lt;/font&gt;</text>
+  <text start="1046.43" dur="5.61">get&lt;font color="#E5E5E5"&gt; that product what are they going to&lt;/font&gt;</text>
+  <text start="1048.74" dur="6.72">do when they need food or water&lt;font color="#E5E5E5"&gt; and&lt;/font&gt;</text>
+  <text start="1052.04" dur="4.5">other supplies for their family do you</text>
+  <text start="1055.46" dur="2.73">think they&amp;#39;re going&lt;font color="#E5E5E5"&gt; to be up walking&lt;/font&gt;</text>
+  <text start="1056.54" dur="3.27">down the aisle go and excuse me I&lt;font color="#CCCCCC"&gt; just&lt;/font&gt;</text>
+  <text start="1058.19" dur="5.37">want to&lt;font color="#E5E5E5"&gt; reach over and get that case of&lt;/font&gt;</text>
+  <text start="1059.81" dur="7.68">water no they&amp;#39;re gonna grab it shove you</text>
+  <text start="1063.56" dur="8.97">down and run&lt;font color="#E5E5E5"&gt; and you don&amp;#39;t want to be in&lt;/font&gt;</text>
+  <text start="1067.49" dur="8.37">that situation not at all and this is</text>
+  <text start="1072.53" dur="5.58">why you need&lt;font color="#CCCCCC"&gt; to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; stock up if you haven&amp;#39;t&lt;/font&gt;</text>
+  <text start="1075.86" dur="4.29">stocked up and you want to start you can</text>
+  <text start="1078.11" dur="5.43">go to life reliance&lt;font color="#CCCCCC"&gt; com they have food&lt;/font&gt;</text>
+  <text start="1080.15" dur="5.82">they have prepackaged stuff seeds bug</text>
+  <text start="1083.54" dur="6.15">out bags water water filtration systems</text>
+  <text start="1085.97" dur="7.66">you name it they have it if you&amp;#39;re going</text>
+  <text start="1089.69" dur="6.64">to&lt;font color="#E5E5E5"&gt; sams club&lt;/font&gt;&lt;font color="#CCCCCC"&gt; bjs the supermarket amazon&lt;/font&gt;</text>
+  <text start="1093.63" dur="8.69">and this is your&lt;font color="#E5E5E5"&gt; preference continually&lt;/font&gt;</text>
+  <text start="1096.33" dur="8.28">stock up what you need do not stop even</text>
+  <text start="1102.32" dur="4.72">if the corporate media&lt;font color="#E5E5E5"&gt; tells you&lt;/font&gt;</text>
+  <text start="1104.61" dur="7.8">everything is fine&lt;font color="#E5E5E5"&gt; I wouldn&amp;#39;t believe&lt;/font&gt;</text>
+  <text start="1107.04" dur="10.08">them I&lt;font color="#E5E5E5"&gt; certainly don&amp;#39;t and we all need&lt;/font&gt;</text>
+  <text start="1112.41" dur="7.5">&lt;font color="#CCCCCC"&gt;to continue&lt;/font&gt;&lt;font color="#E5E5E5"&gt; stalking now at this point&lt;/font&gt;</text>
+  <text start="1117.12" dur="5.4">everyone realizes how I feel about</text>
+  <text start="1119.91" dur="4.56">Obamacare I never thought it was a</text>
+  <text start="1122.52" dur="5.16">positive for&lt;font color="#CCCCCC"&gt; the people it was a benefit&lt;/font&gt;</text>
+  <text start="1124.47" dur="6.83">for the people and we&amp;#39;re&lt;font color="#CCCCCC"&gt; starting to see&lt;/font&gt;</text>
+  <text start="1127.68" dur="6.72">that the taxes and the penalties are</text>
+  <text start="1131.3" dur="6.22">really now out way out weighing the</text>
+  <text start="1134.4" dur="6.54">benefits of health insurance because</text>
+  <text start="1137.52" dur="5.22">&lt;font color="#E5E5E5"&gt;when a government is saying this is for&lt;/font&gt;</text>
+  <text start="1140.94" dur="4.62">the&lt;font color="#CCCCCC"&gt; people then it should be&lt;/font&gt;&lt;font color="#E5E5E5"&gt; for the&lt;/font&gt;</text>
+  <text start="1142.74" dur="5.73">people it shouldn&amp;#39;t be with other things</text>
+  <text start="1145.56" dur="4.5">attached to it if you truly wanted to</text>
+  <text start="1148.47" dur="3.51">&lt;font color="#E5E5E5"&gt;give health insurance then just give&lt;/font&gt;</text>
+  <text start="1150.06" dur="4.73">health insurance we don&amp;#39;t need penalties</text>
+  <text start="1151.98" dur="6">because if it&amp;#39;s that good&lt;font color="#E5E5E5"&gt; we&amp;#39;ll take it&lt;/font&gt;</text>
+  <text start="1154.79" dur="6.04">but when it&amp;#39;s terrible&lt;font color="#E5E5E5"&gt; and not a benefit&lt;/font&gt;</text>
+  <text start="1157.98" dur="3.99">to the people we&amp;#39;re&lt;font color="#E5E5E5"&gt; not going to take it&lt;/font&gt;</text>
+  <text start="1160.83" dur="4.11">&lt;font color="#CCCCCC"&gt;and they knew this this is why they&lt;/font&gt;</text>
+  <text start="1161.97" dur="4.95">&lt;font color="#CCCCCC"&gt;needed taxes the penalty you name it&lt;/font&gt;</text>
+  <text start="1164.94" dur="4.56">they had to&lt;font color="#E5E5E5"&gt; put it in there to force&lt;/font&gt;</text>
+  <text start="1166.92" dur="4.5">people into this and we&amp;#39;re seeing the</text>
+  <text start="1169.5" dur="5.94">rates continually go up and something</text>
+  <text start="1171.42" dur="7.86">you might not&lt;font color="#E5E5E5"&gt; know&lt;/font&gt;&lt;font color="#CCCCCC"&gt; twenty two percent of&lt;/font&gt;</text>
+  <text start="1175.44" dur="6.63">Obama care enrollees right now drop</text>
+  <text start="1179.28" dur="6.66">their coverage this year because they</text>
+  <text start="1182.07" dur="8.79">got&lt;font color="#E5E5E5"&gt; their bills and they said whoa this&lt;/font&gt;</text>
+  <text start="1185.94" dur="8.94">is to excite a penalty I mean there are</text>
+  <text start="1190.86" dur="7.08">other reasons why people dropped one&lt;font color="#CCCCCC"&gt; of&lt;/font&gt;</text>
+  <text start="1194.88" dur="4.68">them would&lt;font color="#CCCCCC"&gt; be about half a million&lt;/font&gt;</text>
+  <text start="1197.94" dur="4.92">&lt;font color="#CCCCCC"&gt;people who enrolled they couldn&amp;#39;t prove&lt;/font&gt;</text>
+  <text start="1199.56" dur="6.6">their citizenship and right now</text>
+  <text start="1202.86" dur="7.62">non-citizens are prohibited from</text>
+  <text start="1206.16" dur="7.29">purchasing insurance so we have a mixed</text>
+  <text start="1210.48" dur="5.64">bag here of why&lt;font color="#CCCCCC"&gt; people are dropping the&lt;/font&gt;</text>
+  <text start="1213.45" dur="4.17">health insurance&lt;font color="#CCCCCC"&gt; and more people are&lt;/font&gt;</text>
+  <text start="1216.12" dur="3.6">going to drop because as we know&lt;font color="#CCCCCC"&gt; and&lt;/font&gt;</text>
+  <text start="1217.62" dur="6.84">&lt;font color="#E5E5E5"&gt;what we talked about is these premiums&lt;/font&gt;</text>
+  <text start="1219.72" dur="6.36">are going to skyrocket and the benefit</text>
+  <text start="1224.46" dur="4.29">is not the</text>
+  <text start="1226.08" dur="5.099">&lt;font color="#E5E5E5"&gt;they&amp;#39;re the taxes are the penalties&lt;/font&gt;</text>
+  <text start="1228.75" dur="4.649">which is really the&lt;font color="#E5E5E5"&gt; taxes are all there&lt;/font&gt;</text>
+  <text start="1231.179" dur="10.921">the penalties for the corporations are</text>
+  <text start="1233.399" dur="10.941">there but the benefits really aren&amp;#39;t so</text>
+  <text start="1242.1" dur="7.189">we can see at this point&lt;font color="#CCCCCC"&gt; in time&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that&lt;/font&gt;</text>
+  <text start="1244.34" dur="7.27">this was definitely not for the people</text>
+  <text start="1249.289" dur="4.811">listen everyone thanks a&lt;font color="#CCCCCC"&gt; lot for&lt;/font&gt;</text>
+  <text start="1251.61" dur="5.9">listening be well be safe and especially</text>
+  <text start="1254.1" dur="3.41">be prepared thanks a&lt;font color="#CCCCCC"&gt; lot&lt;/font&gt;</text>
+  <text start="1276.13" dur="2.06">you</text>
+</transcript>

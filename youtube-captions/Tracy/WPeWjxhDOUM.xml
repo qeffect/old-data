@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transcript>
+  <text start="0.03" dur="7.71">good evening hey one more video for</text>
+  <text start="6.029" dur="3.03">everybody tonight before I go this one</text>
+  <text start="7.74" dur="4.109">just really struck me this is from</text>
+  <text start="9.059" dur="7.8">WikiLeaks world 7 and some people wanted</text>
+  <text start="11.849" dur="11.911">me to explain this here I shared a print</text>
+  <text start="16.859" dur="13.611">screen of this today here we go are you</text>
+  <text start="23.76" dur="11.19">ready this is CP 2.0 from Mac OS 10</text>
+  <text start="30.47" dur="9.339">point four to ten point five and what</text>
+  <text start="34.95" dur="6.269">really struck me here was this year and</text>
+  <text start="39.809" dur="6.301">I&amp;#39;m just gonna explain this to everyone</text>
+  <text start="41.219" dur="6.66">so that you guys understand it this</text>
+  <text start="46.11" dur="3.81">install is ideal for supply chain</text>
+  <text start="47.879" dur="4.471">because the first boot state is</text>
+  <text start="49.92" dur="4.529">preserved and an unsuspecting user would</text>
+  <text start="52.35" dur="4.29">think that the OS has never been used in</text>
+  <text start="54.449" dur="3.991">other words the user will be welcomed by</text>
+  <text start="56.64" dur="3.93">all the first time settings when first</text>
+  <text start="58.44" dur="4.02">turning the computer on this can also be</text>
+  <text start="60.57" dur="3.989">used if the root password is not known</text>
+  <text start="62.46" dur="3.6">on the target to conduct this install</text>
+  <text start="64.559" dur="4.56">the hard drive must be mounted without</text>
+  <text start="66.06" dur="5.28">using the host OS thereby avoiding the</text>
+  <text start="69.119" dur="5.61">initial startup sequence or the user</text>
+  <text start="71.34" dur="6.06">login screen to do this boot the OS from</text>
+  <text start="74.729" dur="4.89">the OS X install CD by holding option on</text>
+  <text start="77.4" dur="4.2">startup once the CD boots go to</text>
+  <text start="79.619" dur="4.29">utilities and select the terminal app</text>
+  <text start="81.6" dur="4.11">from the drop down menu insert the USB</text>
+  <text start="83.909" dur="3.78">thumb drive containing the installer</text>
+  <text start="85.71" dur="4.11">copy the install it to the volumes</text>
+  <text start="87.689" dur="3.781">directory run the installer with the</text>
+  <text start="89.82" dur="5.52">parameter as the mount point of the</text>
+  <text start="91.47" dur="7.59">target vs OS I&amp;#39;m sorry for example in</text>
+  <text start="95.34" dur="5.279">the terminal type a command string note</text>
+  <text start="99.06" dur="3.629">the installer script will delete itself</text>
+  <text start="100.619" dur="4.471">upon execution at this time the only way</text>
+  <text start="102.689" dur="6.241">to detect assists X a successful install</text>
+  <text start="105.09" dur="9.09">is to ensure that the log file structure</text>
+  <text start="108.93" dur="6.479">exists CP will remain on the system</text>
+  <text start="114.18" dur="4.369">unless one of the following conditions</text>
+  <text start="115.409" dur="5.49">are met the hard drive is reformatted an</text>
+  <text start="118.549" dur="4.96">upgrade to upgrade to the next major</text>
+  <text start="120.899" dur="4.801">version version G&amp;#39;s tonight with my</text>
+  <text start="123.509" dur="6.36">language an error is encountered at</text>
+  <text start="125.7" dur="5.55">which point CP will remove itself CP has</text>
+  <text start="129.869" dur="3.961">been designed to fail if it encounters</text>
+  <text start="131.25" dur="4.17">problems if CP CP finds that a</text>
+  <text start="133.83" dur="3.63">unable to hide files of directories</text>
+  <text start="135.42" dur="3.48">socket connections or processes it will</text>
+  <text start="137.46" dur="3.48">immediately unload itself and then</text>
+  <text start="138.9" dur="4.23">securely delete itself and all tools</text>
+  <text start="140.94" dur="4.38">from the file system as an option an</text>
+  <text start="143.13" dur="4.26">operator can specify that a tool be left</text>
+  <text start="145.32" dur="4.23">behind to execute in plain sight in</text>
+  <text start="147.39" dur="4.08">order to maintain persistence this last</text>
+  <text start="149.55" dur="4.38">option application will refer to as the</text>
+  <text start="151.47" dur="5.31">failsafe app the failsafe app will</text>
+  <text start="153.93" dur="4.47">persist through reboot and will act in</text>
+  <text start="156.78" dur="4.58">much the same manner as any of the other</text>
+  <text start="158.4" dur="6.63">tools that it will be launched from a</text>
+  <text start="161.36" dur="5.53">pilas file by launch D the failsafe</text>
+  <text start="165.03" dur="7.38">after however will not be able to</text>
+  <text start="166.89" dur="7.08">utilize start over utilize the stealth</text>
+  <text start="172.41" dur="3.66">capabilities provided by the rootkit</text>
+  <text start="173.97" dur="5.22">since CPU will have removed itself from</text>
+  <text start="176.07" dur="4.5">the system due to failure refer to how</text>
+  <text start="179.19" dur="2.91">to create an installer section for more</text>
+  <text start="180.57" dur="4.8">information on how to incorporate the</text>
+  <text start="182.1" dur="4.86">fail sleep app into the Explorer now a</text>
+  <text start="185.37" dur="5.55">couple things striking about this what</text>
+  <text start="186.96" dur="6.57">they&amp;#39;re basically saying up here when</text>
+  <text start="190.92" dur="3.93">they say the first boot state it&amp;#39;s</text>
+  <text start="193.53" dur="3.36">basically when you bring home a new</text>
+  <text start="194.85" dur="4.26">computer you turn it on for the first</text>
+  <text start="196.89" dur="4.14">time and it runs through setup like</text>
+  <text start="199.11" dur="5.15">insert your you know enter your user</text>
+  <text start="201.03" dur="7.08">name choose a password set your timezone</text>
+  <text start="204.26" dur="5.92">this stuff is already on there when you</text>
+  <text start="208.11" dur="4.89">get your computer it&amp;#39;s already there and</text>
+  <text start="210.18" dur="8.09">there&amp;#39;s a process to installing it and</text>
+  <text start="213" dur="6.959">it seems to me by reading this that a</text>
+  <text start="218.27" dur="3.52">manufacturer would have to be</text>
+  <text start="219.959" dur="4.381">responsible for doing this or someone</text>
+  <text start="221.79" dur="4.8">working at a manufacturer and as we know</text>
+  <text start="224.34" dur="6.68">Geek Squad has been infiltrated by the</text>
+  <text start="226.59" dur="7.649">FBI so why not Apple</text>
+  <text start="231.02" dur="4.83">why not Apple so basically when you get</text>
+  <text start="234.239" dur="5.041">your computer home</text>
+  <text start="235.85" dur="8.59">this stuff&amp;#39;s already there it&amp;#39;s already</text>
+  <text start="239.28" dur="6.75">there spying on your every move let&amp;#39;s</text>
+  <text start="244.44" dur="10.5">just take a second let&amp;#39;s see if I can</text>
+  <text start="246.03" dur="12.799">find any if I can find anything yeah ok</text>
+  <text start="254.94" dur="8.499">fine WikiLeaks hired</text>
+  <text start="258.829" dur="10.8">is excuse me if you go to documents here</text>
+  <text start="263.439" dur="11.921">there&amp;#39;s a lot of documents which one</text>
+  <text start="269.629" dur="8.551">that I really like before this was the</text>
+  <text start="275.36" dur="6.269">Broadcom this was the Broadcom ethernet</text>
+  <text start="278.18" dur="6.389">adapter manual and it&amp;#39;s interesting</text>
+  <text start="281.629" dur="5.431">because there was an a non post on I</text>
+  <text start="284.569" dur="4.56">believe it was for Chan who said he</text>
+  <text start="287.06" dur="3.75">worked for Broadcom and he wanted to</text>
+  <text start="289.129" dur="2.91">move up in the organization finally</text>
+  <text start="290.81" dur="3.659">decided he was going to move up in the</text>
+  <text start="292.039" dur="4.141">organization got a position and they&amp;#39;re</text>
+  <text start="294.469" dur="4.5">like ok well the last thing that you</text>
+  <text start="296.18" dur="6.209">have to do is get a security clearance</text>
+  <text start="298.969" dur="5.13">and he was like um why in the hell do I</text>
+  <text start="302.389" dur="8.671">need a security clearance to work for</text>
+  <text start="304.099" dur="15.81">Broadcom well it&amp;#39;s because of this just</text>
+  <text start="311.06" dur="9.84">I still come come back - why why you</text>
+  <text start="319.909" dur="3.331">know I don&amp;#39;t get it</text>
+  <text start="320.9" dur="4.199">I still AM I&amp;#39;m having a hard time you</text>
+  <text start="323.24" dur="3.479">know there&amp;#39;s a gazillion reasons why</text>
+  <text start="325.099" dur="3.75">they could be doing this why they want</text>
+  <text start="326.719" dur="3.901">ordinary Americans information why they</text>
+  <text start="328.849" dur="4.921">want to spy on ordinary people like me</text>
+  <text start="330.62" dur="10.38">and you why I mean are they using it to</text>
+  <text start="333.77" dur="9.709">you know profile to market to trigger to</text>
+  <text start="341" dur="6.419">control I mean there&amp;#39;s so many different</text>
+  <text start="343.479" dur="5.351">things they could be doing but basically</text>
+  <text start="347.419" dur="9.87">in that dock I was just going through</text>
+  <text start="348.83" dur="10.829">with you they install this this software</text>
+  <text start="357.289" dur="4.68">that&amp;#39;ll spy on you on the hard drive</text>
+  <text start="359.659" dur="4.491">before you get the computer and you have</text>
+  <text start="361.969" dur="10.311">no idea it&amp;#39;s there</text>
+  <text start="364.15" dur="8.85">no idea it&amp;#39;s sick Kim</text>
+  <text start="372.28" dur="2.52">was going through all this stuff</text>
+  <text start="373" dur="3.63">following him because this is</text>
+  <text start="374.8" dur="12.39">implications for him too this is</text>
+  <text start="376.63" dur="13.039">implications for everybody there&amp;#39;ll be</text>
+  <text start="387.19" dur="2.479">more guys</text>
+</transcript>

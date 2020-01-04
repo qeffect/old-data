@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transcript>
+  <text start="1.429" dur="5.501">here we go welcome back my friends this</text>
+  <text start="4.35" dur="5.4">is destiny most of destiny most calm and</text>
+  <text start="6.93" dur="5.43">I&amp;#39;m joined today by Alex Skolnick</text>
+  <text start="9.75" dur="5.49">co-founder and CEO of liquid piston and</text>
+  <text start="12.36" dur="4.86">this is an exciting new technology that</text>
+  <text start="15.24" dur="3.949">I heard about because you know it has</text>
+  <text start="17.22" dur="4.83">the ability to among other things</text>
+  <text start="19.189" dur="5.071">greatly enhance the energy efficiency of</text>
+  <text start="22.05" dur="3.389">small engines like you know cars and</text>
+  <text start="24.26" dur="4.3">diesels</text>
+  <text start="25.439" dur="4.291">so Alex I&amp;#39;m gonna kind of let you talk a</text>
+  <text start="28.56" dur="3.929">little bit about yourself and how you</text>
+  <text start="29.73" dur="5.63">came across this if you don&amp;#39;t mind sure</text>
+  <text start="32.489" dur="5.011">thanks a lot for having us here Justin</text>
+  <text start="35.36" dur="5.53">so my father and I started the company</text>
+  <text start="37.5" dur="6.629">almost 10 years ago and my father&amp;#39;s a</text>
+  <text start="40.89" dur="6.93">physicist at the time I was doing my</text>
+  <text start="44.129" dur="6.061">graduate work at MIT studying artificial</text>
+  <text start="47.82" dur="5.489">intelligence and I just kind of started</text>
+  <text start="50.19" dur="4.95">out by helping him and you know he</text>
+  <text start="53.309" dur="5.43">looked at the issues of thermodynamics</text>
+  <text start="55.14" dur="5.7">and looking at your car engine for</text>
+  <text start="58.739" dur="5.611">example you know you&amp;#39;re a typical car</text>
+  <text start="60.84" dur="7.11">converts about 15% of the energy in the</text>
+  <text start="64.35" dur="6.089">fuel into useful work the rest of that</text>
+  <text start="67.95" dur="5.25">energy is wasted as heat either out the</text>
+  <text start="70.439" dur="4.591">exhaust or out the radiator as a</text>
+  <text start="73.2" dur="4.44">physicist this always just really</text>
+  <text start="75.03" dur="5.61">bothered him right why are we leaving so</text>
+  <text start="77.64" dur="5.82">much energy on the table</text>
+  <text start="80.64" dur="4.71">can&amp;#39;t we do better than this so a lot of</text>
+  <text start="83.46" dur="4.979">people have tried to make better engines</text>
+  <text start="85.35" dur="5.43">over the years most people focused on</text>
+  <text start="88.439" dur="5.311">you know mechanisms and kind of just</text>
+  <text start="90.78" dur="5.79">little changes to how we how angels are</text>
+  <text start="93.75" dur="5.189">done our approach was fundamentally</text>
+  <text start="96.57" dur="4.259">different we really started you know</text>
+  <text start="98.939" dur="3.96">back with the physics of how engines</text>
+  <text start="100.829" dur="4.771">operate what an engine is really trying</text>
+  <text start="102.899" dur="6.301">to do how it converts that energy from</text>
+  <text start="105.6" dur="5.339">the fuel into mechanical work and when</text>
+  <text start="109.2" dur="3.959">we when we started from the cycle from</text>
+  <text start="110.939" dur="6.091">the thermodynamics we found a lot of</text>
+  <text start="113.159" dur="6.75">room for improvement so almost 10 years</text>
+  <text start="117.03" dur="5.64">ago we started the company we have a new</text>
+  <text start="119.909" dur="5.911">optimized thermodynamic cycle that we</text>
+  <text start="122.67" dur="5.88">call the high-efficiency hybrid cycle we</text>
+  <text start="125.82" dur="4.34">call it that because in some sense what</text>
+  <text start="128.55" dur="4.769">we&amp;#39;re doing is kind of cherry-picking</text>
+  <text start="130.16" dur="3.71">features from different cycles that</text>
+  <text start="133.319" dur="3.761">already</text>
+  <text start="133.87" dur="5.82">exist you know if somebody asks you</text>
+  <text start="137.08" dur="5.07">what&amp;#39;s more efficient a diesel engine or</text>
+  <text start="139.69" dur="3.57">a gasoline engine it&amp;#39;s kind of a trick</text>
+  <text start="142.15" dur="3.36">question</text>
+  <text start="143.26" dur="4.83">diesel engines in practice are more</text>
+  <text start="145.51" dur="4.53">efficient for one reason only because</text>
+  <text start="148.09" dur="5.25">they get a much higher compression ratio</text>
+  <text start="150.04" dur="5.22">than gasoline engines but if you look at</text>
+  <text start="153.34" dur="3.569">the combustion process of a diesel</text>
+  <text start="155.26" dur="4.5">engine they&amp;#39;re actually really</text>
+  <text start="156.909" dur="5.64">inefficient and the reason for that is</text>
+  <text start="159.76" dur="6.839">because it takes a long time to inject</text>
+  <text start="162.549" dur="7.201">mix and burn all of that fuel and while</text>
+  <text start="166.599" dur="6.36">you&amp;#39;re doing all that your your your</text>
+  <text start="169.75" dur="5.849">piston keeps moving right so your piston</text>
+  <text start="172.959" dur="4.801">is expanding the volume is increasing</text>
+  <text start="175.599" dur="4.591">the pressures are dropping due to the</text>
+  <text start="177.76" dur="4.649">expansion while you&amp;#39;re burning the fuel</text>
+  <text start="180.19" dur="5.85">and those two things kind of fight each</text>
+  <text start="182.409" dur="5.521">other what we really want to do is do</text>
+  <text start="186.04" dur="5.97">our combustion under what&amp;#39;s called</text>
+  <text start="187.93" dur="7.589">constant volume conditions an Otto cycle</text>
+  <text start="192.01" dur="5.339">does that naturally at least the ideal</text>
+  <text start="195.519" dur="3.391">Otto cycle which is how gasoline engines</text>
+  <text start="197.349" dur="3.091">are modeled the reason for that is</text>
+  <text start="198.91" dur="3.63">gasoline engines have a faster</text>
+  <text start="200.44" dur="4.35">combustion process so more of the</text>
+  <text start="202.54" dur="6.87">combustion happens while the piston is</text>
+  <text start="204.79" dur="6.69">near the top dead center position so the</text>
+  <text start="209.41" dur="4.5">bottom line is we really want to kind of</text>
+  <text start="211.48" dur="4.89">constrain the combustion process to be</text>
+  <text start="213.91" dur="4.68">more complete and more thorough before</text>
+  <text start="216.37" dur="5.88">the piston you know moves away during</text>
+  <text start="218.59" dur="5.489">the expansion stroke so we can do things</text>
+  <text start="222.25" dur="3.359">like this on the thermodynamic side and</text>
+  <text start="224.079" dur="5.25">really improve the efficiency of an</text>
+  <text start="225.609" dur="6.69">engine by up to two fold over where</text>
+  <text start="229.329" dur="5.22">gasoline engines are today and the other</text>
+  <text start="232.299" dur="4.5">thing that we did is when you rethink</text>
+  <text start="234.549" dur="4.65">the thermodynamics of the engine we have</text>
+  <text start="236.799" dur="4.711">to completely rethink the entire engine</text>
+  <text start="239.199" dur="5.22">architecture because what we&amp;#39;re trying</text>
+  <text start="241.51" dur="5.939">to do is pretty much impossible to do</text>
+  <text start="244.419" dur="4.861">with a piston but with the rotary type</text>
+  <text start="247.449" dur="4.68">of engine we can play all sorts of</text>
+  <text start="249.28" dur="5.209">geometric tricks with the engine so that</text>
+  <text start="252.129" dur="5.311">we could do this new thermodynamic cycle</text>
+  <text start="254.489" dur="5.321">so what we&amp;#39;ve developed and we&amp;#39;re</text>
+  <text start="257.44" dur="5.49">currently on our fourth generation of</text>
+  <text start="259.81" dur="5.609">the engine the very first one by the way</text>
+  <text start="262.93" dur="4.47">was a true liquid piston whether there</text>
+  <text start="265.419" dur="2.431">were no metal Pistons moving in the</text>
+  <text start="267.4" dur="2.43">engine</text>
+  <text start="267.85" dur="5.25">and you know that that&amp;#39;s why the name of</text>
+  <text start="269.83" dur="6.27">the company but we never built that</text>
+  <text start="273.1" dur="5.91">first one but today we&amp;#39;re in the fourth</text>
+  <text start="276.1" dur="5.04">and final generation of the of the</text>
+  <text start="279.01" dur="5.64">architecture here we call it the X</text>
+  <text start="281.14" dur="5.94">engine it&amp;#39;s a very simple engine it has</text>
+  <text start="284.65" dur="5.1">two moving parts just a rotor and a</text>
+  <text start="287.08" dur="5.73">shaft but it behaves like a three</text>
+  <text start="289.75" dur="5.46">cylinder four-stroke engine it&amp;#39;s</text>
+  <text start="292.81" dur="6.18">actually you know it runs really well on</text>
+  <text start="295.21" dur="6.48">diesel which is a first for for rotary</text>
+  <text start="298.99" dur="8.49">engines were funded currently by the</text>
+  <text start="301.69" dur="7.59">army and by DARPA and not that we can</text>
+  <text start="307.48" dur="2.88">talk more about the military aspect of</text>
+  <text start="309.28" dur="4.44">it</text>
+  <text start="310.36" dur="5.34">I&amp;#39;d like that&amp;#39;s already linked I&amp;#39;m</text>
+  <text start="313.72" dur="3.93">sitting here in my seat kind of excited</text>
+  <text start="315.7" dur="4.59">about just the potential that I see</text>
+  <text start="317.65" dur="4.89">associated with this like you know where</text>
+  <text start="320.29" dur="3.6">were you when when Henry Ford was was</text>
+  <text start="322.54" dur="7.86">struggling to come out with an 8</text>
+  <text start="323.89" dur="8.19">cylinder yeah well you know it&amp;#39;s it&amp;#39;s</text>
+  <text start="330.4" dur="3.33">it&amp;#39;s great because you know what I do</text>
+  <text start="332.08" dur="3.87">get let&amp;#39;s me get to meet some of the</text>
+  <text start="333.73" dur="4.44">most interesting people and and and</text>
+  <text start="335.95" dur="3.63">that&amp;#39;s very exciting so I was actually</text>
+  <text start="338.17" dur="3.6">looking into maybe getting a diesel</text>
+  <text start="339.58" dur="4.47">myself because of the efficiency so you</text>
+  <text start="341.77" dur="3.84">know before we jump into the military</text>
+  <text start="344.05" dur="3.09">stuff I have to ask like are you guys</text>
+  <text start="345.61" dur="2.97">pretty close to getting this thing out</text>
+  <text start="347.14" dur="3.3">on the market or is that something</text>
+  <text start="348.58" dur="6.18">that&amp;#39;s you know down the pipeline</text>
+  <text start="350.44" dur="6.78">somewhere near so engines are pretty</text>
+  <text start="354.76" dur="5.67">hard to develop even a simple-looking</text>
+  <text start="357.22" dur="7.11">engines like ours takes you know a bit</text>
+  <text start="360.43" dur="6.84">of time and and funding to push through</text>
+  <text start="364.33" dur="6.9">to commercialization so we&amp;#39;ve had to</text>
+  <text start="367.27" dur="7.53">very carefully craft a business plan to</text>
+  <text start="371.23" dur="5.61">bring the technology to market a lot of</text>
+  <text start="374.8" dur="4.05">folks out there that want to put a new</text>
+  <text start="376.84" dur="4.05">engine out there they they just</text>
+  <text start="378.85" dur="4.65">immediately jump to the automotive and</text>
+  <text start="380.89" dur="4.65">truck markets those are by far the</text>
+  <text start="383.5" dur="5.52">biggest markets for combustion engines</text>
+  <text start="385.54" dur="4.98">but at the same time the barriers to</text>
+  <text start="389.02" dur="5.73">entry and those markets are also very</text>
+  <text start="390.52" dur="7.29">high if you look at the the period for</text>
+  <text start="394.75" dur="6.39">for technology insertion even good</text>
+  <text start="397.81" dur="3.85">proven technology takes about 15 to 20</text>
+  <text start="401.14" dur="2.44">years</text>
+  <text start="401.66" dur="6.03">to make its way into the automotive</text>
+  <text start="403.58" dur="5.61">sector so for us that&amp;#39;s kind of a kind</text>
+  <text start="407.69" dur="4.77">of a death sentence if we try to do that</text>
+  <text start="409.19" dur="5.55">as a start-up so we&amp;#39;ve had to identify</text>
+  <text start="412.46" dur="4.86">other pathways to get into the market</text>
+  <text start="414.74" dur="4.92">and that that&amp;#39;s kind of why we&amp;#39;re</text>
+  <text start="417.32" dur="6.84">focusing on military and aerospace</text>
+  <text start="419.66" dur="7.56">applications first in these areas you</text>
+  <text start="424.16" dur="6.84">know these are much lower volume areas</text>
+  <text start="427.22" dur="5.97">and in some sense they can be much more</text>
+  <text start="431" dur="3.99">price insensitive that there are some</text>
+  <text start="433.19" dur="4.59">applications where they typically will</text>
+  <text start="434.99" dur="4.89">pay a lot more for engines because these</text>
+  <text start="437.78" dur="7.23">are custom developed you know very low</text>
+  <text start="439.88" dur="8.1">volume production engines so and and the</text>
+  <text start="445.01" dur="6.72">military has a very painful need for</text>
+  <text start="447.98" dur="5.91">what we do right now right you see the</text>
+  <text start="451.73" dur="5.37">US military is a single largest consumer</text>
+  <text start="453.89" dur="5.72">of oil in the entire planet</text>
+  <text start="457.1" dur="7.29">you know single-handedly they burn more</text>
+  <text start="459.61" dur="7.24">well more than anyone else and it can</text>
+  <text start="464.39" dur="5.42">take up to a hundred gallons of fuel to</text>
+  <text start="466.85" dur="6.12">push one gallon to the front line and</text>
+  <text start="469.81" dur="5.65">not only is that really expensive and in</text>
+  <text start="472.97" dur="5.52">consuming a lot but that fuel is</text>
+  <text start="475.46" dur="5.58">protected in in convoys as it makes its</text>
+  <text start="478.49" dur="5.97">journey so it&amp;#39;s literally measured in</text>
+  <text start="481.04" dur="6">soldiers lives so anything that we can</text>
+  <text start="484.46" dur="4.41">do to reduce the fuel consumption at the</text>
+  <text start="487.04" dur="4.44">front line and also to reduce the</text>
+  <text start="488.87" dur="5.61">logistical burden you know right now the</text>
+  <text start="491.48" dur="6.39">military runs everything or wants to run</text>
+  <text start="494.48" dur="6.86">everything on heavy fuel similar to</text>
+  <text start="497.87" dur="5.85">diesel or kerosene it&amp;#39;s called the jp-8</text>
+  <text start="501.34" dur="5.8">these engines that run that stuff is</text>
+  <text start="503.72" dur="5.88">that they&amp;#39;re really big and heavy just</text>
+  <text start="507.14" dur="4.529">for example a 30 kilowatt diesel</text>
+  <text start="509.6" dur="5.58">generator which is standard military</text>
+  <text start="511.669" dur="6.361">issue and you know it&amp;#39;s used kind of</text>
+  <text start="515.18" dur="5.549">across the military and mobile command</text>
+  <text start="518.03" dur="6.12">centers for example that system weighs</text>
+  <text start="520.729" dur="5.701">about 2300 pounds today that&amp;#39;s the state</text>
+  <text start="524.15" dur="5.13">of the art Ford put for that type of</text>
+  <text start="526.43" dur="5.31">generator it&amp;#39;s so big and heavy that</text>
+  <text start="529.28" dur="5.25">it&amp;#39;s generally installed into a trailer</text>
+  <text start="531.74" dur="4.47">so that it can be towed by a truck to</text>
+  <text start="534.53" dur="3.93">wherever it&amp;#39;s going</text>
+  <text start="536.21" dur="5.31">with our technology they can reduce that</text>
+  <text start="538.46" dur="6.15">from 2300 pounds to somewhere between</text>
+  <text start="541.52" dur="5.07">150 and 200 pounds but just imagine that</text>
+  <text start="544.61" dur="3.9">right instead of a truck moving a</text>
+  <text start="546.59" dur="3.99">gentleman magenta around now you have a</text>
+  <text start="548.51" dur="4.32">couple guys that can carry it around and</text>
+  <text start="550.58" dur="5.31">that frees up a whole lot of space for</text>
+  <text start="552.83" dur="6.33">other equipment and and other capability</text>
+  <text start="555.89" dur="5.34">and you know coming back for one second</text>
+  <text start="559.16" dur="4.08">to the commercial side I also just kind</text>
+  <text start="561.23" dur="5.37">of wanted to mention one thing you don&amp;#39;t</text>
+  <text start="563.24" dur="6.15">see a lot of our hybrid diesel cars</text>
+  <text start="566.6" dur="7.38">right everybody wants to kind of start</text>
+  <text start="569.39" dur="6.33">moving towards electric and there&amp;#39;s</text>
+  <text start="573.98" dur="5.16">there there&amp;#39;s some good reasons for that</text>
+  <text start="575.72" dur="5.58">not ready yeah I think but but today&amp;#39;s</text>
+  <text start="579.14" dur="3">batteries that they&amp;#39;re just not not</text>
+  <text start="581.3" dur="6.72">there yet right</text>
+  <text start="582.14" dur="7.86">I consider this 20 pounds of fuel can</text>
+  <text start="588.02" dur="5.52">displace a thousand pounds of battery</text>
+  <text start="590" dur="6.42">today and I&amp;#39;m talking about the the</text>
+  <text start="593.54" dur="5.19">latest and greatest from Tesla okay</text>
+  <text start="596.42" dur="4.62">that&amp;#39;s huge let&amp;#39;s say that batteries</text>
+  <text start="598.73" dur="5.58">improve and get two times better it&amp;#39;s</text>
+  <text start="601.04" dur="5.7">still 40 pounds of fuel can displace a</text>
+  <text start="604.31" dur="4.29">thousand pounds of battery so that&amp;#39;s a</text>
+  <text start="606.74" dur="4.38">really difficult trade-off you&amp;#39;re</text>
+  <text start="608.6" dur="4.8">carrying thousands of pounds of extra</text>
+  <text start="611.12" dur="5.19">weight in order to you know if you want</text>
+  <text start="613.4" dur="7.07">to have sufficient range in a car plus</text>
+  <text start="616.31" dur="6.98">not to mention these are expensive and</text>
+  <text start="620.47" dur="6.7">that they have their own environmental</text>
+  <text start="623.29" dur="6.58">is set up right if you look at the</text>
+  <text start="627.17" dur="6">lifecycle of a battery it&amp;#39;s not exactly</text>
+  <text start="629.87" dur="4.86">a hundred percent green right now they</text>
+  <text start="633.17" dur="3.21">they still get most I mean unless</text>
+  <text start="634.73" dur="3.6">they&amp;#39;re on a full solar system they&amp;#39;re</text>
+  <text start="636.38" dur="3.3">still using you know regular power from</text>
+  <text start="638.33" dur="5.85">the grid anyway which is probably</text>
+  <text start="639.68" dur="6.75">nuclear or or something but well let&amp;#39;s</text>
+  <text start="644.18" dur="7.44">talk about that for for just a minute</text>
+  <text start="646.43" dur="7.29">right the the EPA has developed the mile</text>
+  <text start="651.62" dur="4.409">per gallon equivalent mpge</text>
+  <text start="653.72" dur="4.44">when you go and you buy a electric</text>
+  <text start="656.029" dur="5.331">vehicle you&amp;#39;ll see a rated as an empty</text>
+  <text start="658.16" dur="7.14">GE and that&amp;#39;s supposed to be somehow</text>
+  <text start="661.36" dur="7.13">relatable to miles per gallon right</text>
+  <text start="665.3" dur="7.24">before for for fuel based cars</text>
+  <text start="668.49" dur="8.21">if you look at how they define MPGe it&amp;#39;s</text>
+  <text start="672.54" dur="7.02">defined based on energy from the battery</text>
+  <text start="676.7" dur="5.65">powering the wheels they completely</text>
+  <text start="679.56" dur="5.46">neglect everything that happens before</text>
+  <text start="682.35" dur="4.77">the electrons get into the battery so</text>
+  <text start="685.02" dur="6.03">how you get those electrons into the</text>
+  <text start="687.12" dur="5.67">battery is disregarded and what you just</text>
+  <text start="691.05" dur="3.45">said is really important there right</text>
+  <text start="692.79" dur="3.99">because most of the time when you&amp;#39;re</text>
+  <text start="694.5" dur="4.44">charging your your electric car you&amp;#39;re</text>
+  <text start="696.78" dur="4.68">not plugged into a solar grid you&amp;#39;re</text>
+  <text start="698.94" dur="4.95">plugged into the the u.s. power grid</text>
+  <text start="701.46" dur="7.41">where most of our energy comes from</text>
+  <text start="703.89" dur="7.68">burning coal and gas so if you look at</text>
+  <text start="708.87" dur="5.43">putting something like our engine onto</text>
+  <text start="711.57" dur="5.64">your vehicle and doing a range-extended</text>
+  <text start="714.3" dur="4.53">electric vehicle where you&amp;#39;re driving</text>
+  <text start="717.21" dur="3.66">electrically but you&amp;#39;re just kind of</text>
+  <text start="718.83" dur="4.49">keeping a very small battery pack you&amp;#39;re</text>
+  <text start="720.87" dur="5.37">keeping it charged fully with our engine</text>
+  <text start="723.32" dur="5.47">if you were to do that we could charge</text>
+  <text start="726.24" dur="5.25">that battery more efficiently than</text>
+  <text start="728.79" dur="6.09">today&amp;#39;s u.s. power grid you would have a</text>
+  <text start="731.49" dur="5.19">lower co2 footprint by doing you know a</text>
+  <text start="734.88" dur="3.9">very efficient generator right on your</text>
+  <text start="736.68" dur="3.69">vehicle as compared to the u.s. power</text>
+  <text start="738.78" dur="3.86">grid does that make sense if you</text>
+  <text start="740.37" dur="8.13">actually look at the the overall system</text>
+  <text start="742.64" dur="7.54">so amazing yeah and and I know I want to</text>
+  <text start="748.5" dur="3.42">mention this because I follow all the</text>
+  <text start="750.18" dur="4.86">economic stuff as well on my channel and</text>
+  <text start="751.92" dur="5.01">stuff that I hear out of Tesla I mean it</text>
+  <text start="755.04" dur="4.26">seems like the company&amp;#39;s falling apart</text>
+  <text start="756.93" dur="4.32">and basically putting out like terrible</text>
+  <text start="759.3" dur="4.14">terrible vehicles that need to be</text>
+  <text start="761.25" dur="4.11">recalled I even heard that some of the</text>
+  <text start="763.44" dur="6.72">they just issued like a recall for some</text>
+  <text start="765.36" dur="6.45">of the batteries that were punctured so</text>
+  <text start="770.16" dur="3">I don&amp;#39;t I don&amp;#39;t know what&amp;#39;s going on</text>
+  <text start="771.81" dur="3.42">there but the technology certainly is</text>
+  <text start="773.16" dur="4.47">not quite there yet I&amp;#39;m hoping I&amp;#39;m</text>
+  <text start="775.23" dur="3.89">holding out for you know Jetsons cars</text>
+  <text start="777.63" dur="5.7">where I can kind of zoom or hunt you</text>
+  <text start="779.12" dur="6.19">well what what scares me about Tesla you</text>
+  <text start="783.33" dur="6.21">know the the vehicles really aren&amp;#39;t</text>
+  <text start="785.31" dur="5.94">aren&amp;#39;t aged very much yet but I don&amp;#39;t</text>
+  <text start="789.54" dur="4.95">know about your experience with your</text>
+  <text start="791.25" dur="6.36">cell phone I can tell you my last iPhone</text>
+  <text start="794.49" dur="5.07">died in less than two years and it was</text>
+  <text start="797.61" dur="3.6">the battery that went and I actually</text>
+  <text start="799.56" dur="3.63">replaced the battery and then the new</text>
+  <text start="801.21" dur="4.62">battery went</text>
+  <text start="803.19" dur="5.43">so you know batteries have a certain</text>
+  <text start="805.83" dur="5.93">lifecycle and then they they store less</text>
+  <text start="808.62" dur="7.17">and less charge every single time you do</text>
+  <text start="811.76" dur="6.25">charlie fine for the first year but what</text>
+  <text start="815.79" dur="5.79">happens in your you know two and three</text>
+  <text start="818.01" dur="8.43">and four that&amp;#39;s a little bit scary and I</text>
+  <text start="821.58" dur="8.58">know Tesla is sort of backing their cars</text>
+  <text start="826.44" dur="5.34">with warranties but they&amp;#39;re they&amp;#39;re</text>
+  <text start="830.16" dur="4.41">already losing money and when these</text>
+  <text start="831.78" dur="5.31">batteries start to really go that&amp;#39;s a</text>
+  <text start="834.57" dur="4.32">little bit scary you know I I think</text>
+  <text start="837.09" dur="5.21">personally I think that electric</text>
+  <text start="838.89" dur="6.33">vehicles have a good opportunity but</text>
+  <text start="842.3" dur="6.28">what we can do is we can hybridize and</text>
+  <text start="845.22" dur="6.66">we can take true advantage of something</text>
+  <text start="848.58" dur="5.91">like what we&amp;#39;re offering a fuel burning</text>
+  <text start="851.88" dur="5.55">solution which is extremely compact</text>
+  <text start="854.49" dur="7.59">extremely efficient very low emissions</text>
+  <text start="857.43" dur="7.5">and will will capture the density the</text>
+  <text start="862.08" dur="5.43">energy density of fuel and combine that</text>
+  <text start="864.93" dur="4.38">with an electrical propulsion system so</text>
+  <text start="867.51" dur="5.73">you kind of get the best of all worlds</text>
+  <text start="869.31" dur="5.7">there and if you want to you know you</text>
+  <text start="873.24" dur="2.88">use it all electrically you could do</text>
+  <text start="875.01" dur="3.42">that depending on the size of the</text>
+  <text start="876.12" dur="6.66">battery pack but you get a lot of</text>
+  <text start="878.43" dur="6.81">benefit from from charging that way yeah</text>
+  <text start="882.78" dur="4.83">I mean it it sounds like you could do</text>
+  <text start="885.24" dur="5.88">everything from from revolutionize</text>
+  <text start="887.61" dur="5.07">lawnmowers to revolutionize planes and</text>
+  <text start="891.12" dur="5.58">jets and everything it sounds very</text>
+  <text start="892.68" dur="5.78">promising yeah we appreciate that we</text>
+  <text start="896.7" dur="4.53">were actually recently recognized by</text>
+  <text start="898.46" dur="5.56">Sikorsky which is a helicopter</text>
+  <text start="901.23" dur="5.94">manufacturer so they gave us a an award</text>
+  <text start="904.02" dur="5.7">for innovation well he showed a thousand</text>
+  <text start="907.17" dur="5.91">horsepower concept so the the technology</text>
+  <text start="909.72" dur="6.09">is truly scalable as you said from a</text>
+  <text start="913.08" dur="6.36">couple horsepower up to a thousand or</text>
+  <text start="915.81" dur="5.55">more horsepower Wow man you know if you</text>
+  <text start="919.44" dur="3.24">guys keep this up you were about</text>
+  <text start="921.36" dur="2.58">basically basically we&amp;#39;re at the point</text>
+  <text start="922.68" dur="3">where we&amp;#39;re gonna start exploring space</text>
+  <text start="923.94" dur="3.72">like commercially and stuff soon so you</text>
+  <text start="925.68" dur="5.79">guys might be in some of the like space</text>
+  <text start="927.66" dur="7.68">craft and who knows what you were</text>
+  <text start="931.47" dur="4.68">telling me earlier before we when we</text>
+  <text start="935.34" dur="1.95">spoke</text>
+  <text start="936.15" dur="3.45">about doing the interview you told me</text>
+  <text start="937.29" dur="5.58">about one of the like that big guns that</text>
+  <text start="939.6" dur="6.39">they were using this for yes so that&amp;#39;s</text>
+  <text start="942.87" dur="6.84">our first application we received a</text>
+  <text start="945.99" dur="6.15">contract from the army to develop a</text>
+  <text start="949.71" dur="5.76">hybrid electric power supply for the M</text>
+  <text start="952.14" dur="5.49">triple7 howitzer learning that the</text>
+  <text start="955.47" dur="6.33">howitzer is kind of an old technology</text>
+  <text start="957.63" dur="6.03">it&amp;#39;s basically a big cannon but the the</text>
+  <text start="961.8" dur="4.34">newest versions they have a very</text>
+  <text start="963.66" dur="5.49">powerful computer system on board and</text>
+  <text start="966.14" dur="5.89">right now in order to power the computer</text>
+  <text start="969.15" dur="5.72">system they&amp;#39;re faced with a choice of</text>
+  <text start="972.03" dur="5.19">either lugging around a big heavy diesel</text>
+  <text start="974.87" dur="4.99">generator which they really don&amp;#39;t want</text>
+  <text start="977.22" dur="5.25">to do so what they do today is they&amp;#39;ll</text>
+  <text start="979.86" dur="5.73">take their truck and just idle the truck</text>
+  <text start="982.47" dur="5.46">and siphon a little bit of power for the</text>
+  <text start="985.59" dur="4.05">computer on the gun now when you&amp;#39;re</text>
+  <text start="987.93" dur="4.08">doing that you&amp;#39;re burning one or two</text>
+  <text start="989.64" dur="4.59">gallons of fuel an hour to run this gun</text>
+  <text start="992.01" dur="5.79">which you know that that&amp;#39;s just an</text>
+  <text start="994.23" dur="6.6">incredible waste and that&amp;#39;s an example I</text>
+  <text start="997.8" dur="5.1">think of why the US military is is the</text>
+  <text start="1000.83" dur="4.08">biggest consumer of oil in the planet is</text>
+  <text start="1002.9" dur="5.4">just because their force with these</text>
+  <text start="1004.91" dur="5.76">trade-offs and then in the end you know</text>
+  <text start="1008.3" dur="6.27">they&amp;#39;ll just burn fuel because they have</text>
+  <text start="1010.67" dur="6.39">to to get their mission done so we</text>
+  <text start="1014.57" dur="4.89">received a contract and we&amp;#39;re developing</text>
+  <text start="1017.06" dur="6.48">a prototype unit which is going to start</text>
+  <text start="1019.46" dur="5.67">field testing in March of 2019 so that</text>
+  <text start="1023.54" dur="3.75">that&amp;#39;s basically one of our little</text>
+  <text start="1025.13" dur="4.8">engines if you go to our website you&amp;#39;ll</text>
+  <text start="1027.29" dur="5.76">see the our engine powering a little</text>
+  <text start="1029.93" dur="7.2">go-kart so we we converted that go-kart</text>
+  <text start="1033.05" dur="7.05">engine into something that will run jp-8</text>
+  <text start="1037.13" dur="5.73">jet fuel so that the military can use it</text>
+  <text start="1040.1" dur="5.15">then we integrated it with an alternator</text>
+  <text start="1042.86" dur="4.26">so now it&amp;#39;s basically a generator and</text>
+  <text start="1045.25" dur="5.85">that&amp;#39;s going to be charging a battery</text>
+  <text start="1047.12" dur="6.24">and then the battery runs the computer</text>
+  <text start="1051.1" dur="4.84">runs the power for the computer on the</text>
+  <text start="1053.36" dur="5.25">gun okay Wow</text>
+  <text start="1055.94" dur="5.28">so you know when can people start</text>
+  <text start="1058.61" dur="5.31">expecting and hoping to see this change</text>
+  <text start="1061.22" dur="5.85">their lives you know when can we hope</text>
+  <text start="1063.92" dur="4.99">for at least that Odyssey that really</text>
+  <text start="1067.07" dur="5">depends on</text>
+  <text start="1068.91" dur="5.5">how how well we are funded through our</text>
+  <text start="1072.07" dur="5.31">journey here so we&amp;#39;re sort of starting</text>
+  <text start="1074.41" dur="4.41">in these markets where which are maybe a</text>
+  <text start="1077.38" dur="4.5">little bit more distant for for the</text>
+  <text start="1078.82" dur="6.33">average person but maybe really critical</text>
+  <text start="1081.88" dur="7.04">for for for people that are in defense</text>
+  <text start="1085.15" dur="6.69">and and working for national security</text>
+  <text start="1088.92" dur="5.86">you know we have pretty obvious impact</text>
+  <text start="1091.84" dur="3.45">on things like drones they&amp;#39;re ringing</text>
+  <text start="1094.78" dur="4.65">yeah</text>
+  <text start="1095.29" dur="6.36">that&amp;#39;s big yep being quiet and energy</text>
+  <text start="1099.43" dur="7.38">density and power density all of that is</text>
+  <text start="1101.65" dur="7.5">critical for for for drone capability so</text>
+  <text start="1106.81" dur="6.2">I think we&amp;#39;re going to make a pretty</text>
+  <text start="1109.15" dur="6.2">rapid impact in defense applications</text>
+  <text start="1113.01" dur="5.92">we&amp;#39;re also looking at aerospace</text>
+  <text start="1115.35" dur="6.07">applications so basically anything that</text>
+  <text start="1118.93" dur="4.01">flies and you look at what uber is</text>
+  <text start="1121.42" dur="4.38">trying to do I don&amp;#39;t know if you&amp;#39;re</text>
+  <text start="1122.94" dur="5.08">following this but that they basically</text>
+  <text start="1125.8" dur="7.95">want to take you from you know rooftop</text>
+  <text start="1128.02" dur="8.04">to rooftop in cities by by air okay so</text>
+  <text start="1133.75" dur="4.77">check that out check out ooh BRR elevate</text>
+  <text start="1136.06" dur="5.94">it&amp;#39;s fascinating you can probably do an</text>
+  <text start="1138.52" dur="6.81">entire show just on that yeah but</text>
+  <text start="1142" dur="6.63">they&amp;#39;re ruber is pushing companies to</text>
+  <text start="1145.33" dur="6.3">develop vehicles that are capable of</text>
+  <text start="1148.63" dur="5.73">doing that and you know we could really</text>
+  <text start="1151.63" dur="6.69">help be an enabler for that type of</text>
+  <text start="1154.36" dur="6.54">application Wow and that you know if you</text>
+  <text start="1158.32" dur="3.96">can cut out all of all traffic you know</text>
+  <text start="1160.9" dur="4.23">in the world if you just kind of bypass</text>
+  <text start="1162.28" dur="5.76">it by cutting through the air that&amp;#39;s</text>
+  <text start="1165.13" dur="4.56">that&amp;#39;s a pretty big deal that&amp;#39;s a huge</text>
+  <text start="1168.04" dur="3.27">deal and kind of the first thing that</text>
+  <text start="1169.69" dur="2.64">comes to mind is people bouncing into</text>
+  <text start="1171.31" dur="5.64">each other as they jump across</text>
+  <text start="1172.33" dur="7.92">skyscrapers and is oh oh yeah it&amp;#39;s gonna</text>
+  <text start="1176.95" dur="5.64">be a they&amp;#39;re gonna have their own</text>
+  <text start="1180.25" dur="3.54">hurdles you know facing regulation and</text>
+  <text start="1182.59" dur="3.3">they obviously safety is going to be</text>
+  <text start="1183.79" dur="4.2">number one there so you definitely don&amp;#39;t</text>
+  <text start="1185.89" dur="4.38">want accidents and something has to</text>
+  <text start="1187.99" dur="4.5">track all that but there&amp;#39;s something</text>
+  <text start="1190.27" dur="4.74">like 43 startups in the space and over a</text>
+  <text start="1192.49" dur="4.91">billion dollars of venture capital was</text>
+  <text start="1195.01" dur="7">poured into the space in the last year</text>
+  <text start="1197.4" dur="6.74">so that that&amp;#39;s up-and-coming so for us</text>
+  <text start="1202.01" dur="4.77">you know in terms of range extending</text>
+  <text start="1204.14" dur="6.6">electric vehicles and range extending</text>
+  <text start="1206.78" dur="5.55">these types of flying machines I think</text>
+  <text start="1210.74" dur="5.52">that&amp;#39;s where we can make very</text>
+  <text start="1212.33" dur="6.21">interesting impact it will be you know</text>
+  <text start="1216.26" dur="6.39">some years before we really do that for</text>
+  <text start="1218.54" dur="6.69">the average person but I think we&amp;#39;ll</text>
+  <text start="1222.65" dur="4.71">have a more immediate impact in defense</text>
+  <text start="1225.23" dur="4.31">well yeah I mean either way even if it</text>
+  <text start="1227.36" dur="4.35">takes a while to get out like you guys</text>
+  <text start="1229.54" dur="3.67">it&amp;#39;s an exciting time to be alive you</text>
+  <text start="1231.71" dur="4.56">guys are on the forefront of something</text>
+  <text start="1233.21" dur="5.91">there and you know just seeing the</text>
+  <text start="1236.27" dur="5.01">changes and how fast mankind is evolving</text>
+  <text start="1239.12" dur="4.14">and all the innovation that it&amp;#39;s gonna</text>
+  <text start="1241.28" dur="4.79">solve a lot of our problems right there</text>
+  <text start="1243.26" dur="5.52">so this is a very exciting technology</text>
+  <text start="1246.07" dur="4.09">brother have we covered the main points</text>
+  <text start="1248.78" dur="4.5">is there anything that you you want to</text>
+  <text start="1250.16" dur="5.94">get out there I think we covered most of</text>
+  <text start="1253.28" dur="4.8">what I would have wanted to all right um</text>
+  <text start="1256.1" dur="3.63">well let me ask this then where can</text>
+  <text start="1258.08" dur="4.8">people you know read more about your</text>
+  <text start="1259.73" dur="6.89">work is it liquid piston comm yeah look</text>
+  <text start="1262.88" dur="6.39">with piston comm is where you can go</text>
+  <text start="1266.62" dur="4.81">we&amp;#39;re all so right now we&amp;#39;re</text>
+  <text start="1269.27" dur="5.1">crowdfunding on we funder so you can</text>
+  <text start="1271.43" dur="6.21">also go to we funder comm slash liquid</text>
+  <text start="1274.37" dur="7.44">piston and definitely appreciate people</text>
+  <text start="1277.64" dur="7.26">support there yeah thank you so much</text>
+  <text start="1281.81" dur="4.56">Alex for coming on and you know doing</text>
+  <text start="1284.9" dur="3.66">the show with me and and I really</text>
+  <text start="1286.37" dur="3.75">appreciate your time and and your</text>
+  <text start="1288.56" dur="3.54">innovation and what you&amp;#39;re doing for the</text>
+  <text start="1290.12" dur="3.66">for the whole world I mean obviously</text>
+  <text start="1292.1" dur="3.93">they&amp;#39;re you know everyone gets something</text>
+  <text start="1293.78" dur="4.41">out of it too it&amp;#39;s win-win but you know</text>
+  <text start="1296.03" dur="5.13">this is still a big change for mankind</text>
+  <text start="1298.19" dur="4.53">you know I I see potential and you guys</text>
+  <text start="1301.16" dur="3.09">don&amp;#39;t often get the credit you know the</text>
+  <text start="1302.72" dur="3.36">engineers don&amp;#39;t often get the credit for</text>
+  <text start="1304.25" dur="5.34">these things as far as you know changing</text>
+  <text start="1306.08" dur="5.25">the world and stuff but um yeah I think</text>
+  <text start="1309.59" dur="4.53">that you know we should celebrate those</text>
+  <text start="1311.33" dur="4.56">kind of people more and and I&amp;#39;m big on</text>
+  <text start="1314.12" dur="3.09">the brains rather than the bronze in</text>
+  <text start="1315.89" dur="4.02">society like I don&amp;#39;t watch football</text>
+  <text start="1317.21" dur="5.7">things like that people that are really</text>
+  <text start="1319.91" dur="3.75">doing change but thank you again so much</text>
+  <text start="1322.91" dur="2.7">for your time</text>
+  <text start="1323.66" dur="4.05">well definitely appreciate the</text>
+  <text start="1325.61" dur="3.12">opportunity and yeah thanks for having</text>
+  <text start="1327.71" dur="2.94">us yeah brother</text>
+  <text start="1328.73" dur="5.72">and good luck with your your continuing</text>
+  <text start="1330.65" dur="3.8">innovation thank you</text>
+</transcript>

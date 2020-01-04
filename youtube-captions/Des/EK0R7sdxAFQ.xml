@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transcript>
+  <text start="1.159" dur="5.861">hello and welcome thanks for&lt;font color="#CCCCCC"&gt; joining me&lt;/font&gt;</text>
+  <text start="4.77" dur="5.61">&lt;font color="#CCCCCC"&gt;here&lt;/font&gt;&lt;font color="#E5E5E5"&gt; this is&lt;/font&gt;&lt;font color="#CCCCCC"&gt; gonna be the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; first go-round&lt;/font&gt;</text>
+  <text start="7.02" dur="5.489">of me using&lt;font color="#E5E5E5"&gt; the OBS software to&lt;/font&gt;</text>
+  <text start="10.38" dur="5.7">livestream this and screen&lt;font color="#CCCCCC"&gt; capture and&lt;/font&gt;</text>
+  <text start="12.509" dur="5.641">analyze decode&lt;font color="#CCCCCC"&gt; queues drops we can do it&lt;/font&gt;</text>
+  <text start="16.08" dur="4.5">here live and I think&lt;font color="#CCCCCC"&gt; this is how I&amp;#39;m&lt;/font&gt;</text>
+  <text start="18.15" dur="5.039">&lt;font color="#E5E5E5"&gt;gonna start doing these sorts of&lt;/font&gt;</text>
+  <text start="20.58" dur="5.34">analysis&lt;font color="#E5E5E5"&gt; of queue drops in the future&lt;/font&gt;</text>
+  <text start="23.189" dur="4.531">&lt;font color="#E5E5E5"&gt;you know saves me time on editing and I&lt;/font&gt;</text>
+  <text start="25.92" dur="3.689">can do a lot&lt;font color="#CCCCCC"&gt; more of these videos if I&lt;/font&gt;</text>
+  <text start="27.72" dur="4.859">just do&lt;font color="#CCCCCC"&gt; it live because of course queue&lt;/font&gt;</text>
+  <text start="29.609" dur="4.681">is posting like wildfire lately&lt;font color="#E5E5E5"&gt; so bear&lt;/font&gt;</text>
+  <text start="32.579" dur="4.711">&lt;font color="#CCCCCC"&gt;with me here&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I&amp;#39;m still&lt;/font&gt;&lt;font color="#CCCCCC"&gt; learning the OBS&lt;/font&gt;</text>
+  <text start="34.29" dur="6.48">program still learning how to utilize</text>
+  <text start="37.29" dur="6.96">&lt;font color="#CCCCCC"&gt;multiple streams here&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to go live and do&lt;/font&gt;</text>
+  <text start="40.77" dur="6.6">it from my&lt;font color="#CCCCCC"&gt; laptop rather than on my cell&lt;/font&gt;</text>
+  <text start="44.25" dur="5.19">&lt;font color="#CCCCCC"&gt;phone&lt;/font&gt;&lt;font color="#E5E5E5"&gt; so anyway as you can see got the&lt;/font&gt;</text>
+  <text start="47.37" dur="4.189">screen&lt;font color="#E5E5E5"&gt; here and I might as well update&lt;/font&gt;</text>
+  <text start="49.44" dur="4.77">&lt;font color="#E5E5E5"&gt;this because I think queues even posting&lt;/font&gt;</text>
+  <text start="51.559" dur="5.25">&lt;font color="#E5E5E5"&gt;just this morning so if you guys let me&lt;/font&gt;</text>
+  <text start="54.21" dur="4.86">&lt;font color="#E5E5E5"&gt;know how you like this set up of course&lt;/font&gt;</text>
+  <text start="56.809" dur="5.611">&lt;font color="#E5E5E5"&gt;let me&lt;/font&gt;&lt;font color="#CCCCCC"&gt; know in the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; comments below&lt;/font&gt;</text>
+  <text start="59.07" dur="7.17">got the chat up here so hello&lt;font color="#E5E5E5"&gt; everybody&lt;/font&gt;</text>
+  <text start="62.42" dur="5.53">&lt;font color="#E5E5E5"&gt;thanks for joining me&lt;/font&gt;&lt;font color="#CCCCCC"&gt; alright now in&lt;/font&gt;</text>
+  <text start="66.24" dur="4.23">this one you know I would usually do</text>
+  <text start="67.95" dur="4.32">these&lt;font color="#E5E5E5"&gt; videos chronologically from oldest&lt;/font&gt;</text>
+  <text start="70.47" dur="4.38">&lt;font color="#CCCCCC"&gt;to newest but of course it&amp;#39;s been quite&lt;/font&gt;</text>
+  <text start="72.27" dur="4.41">a few&lt;font color="#E5E5E5"&gt; days since I&amp;#39;ve really done any&lt;/font&gt;</text>
+  <text start="74.85" dur="4.86">&lt;font color="#E5E5E5"&gt;sort of videos on this&lt;/font&gt;&lt;font color="#CCCCCC"&gt; channel so I&amp;#39;m&lt;/font&gt;</text>
+  <text start="76.68" dur="5.07">&lt;font color="#E5E5E5"&gt;gonna go just from latest ones drop&lt;/font&gt;</text>
+  <text start="79.71" dur="4.29">let&amp;#39;s see here half an hour ago&lt;font color="#CCCCCC"&gt; that we&lt;/font&gt;</text>
+  <text start="81.75" dur="5.54">&lt;font color="#E5E5E5"&gt;got and probably go through&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the last&lt;/font&gt;</text>
+  <text start="84" dur="6.299">couple&lt;font color="#CCCCCC"&gt; of days&lt;/font&gt;&lt;font color="#E5E5E5"&gt; so&lt;/font&gt;&lt;font color="#CCCCCC"&gt; latest dropped&lt;/font&gt;&lt;font color="#E5E5E5"&gt; 28 33&lt;/font&gt;</text>
+  <text start="87.29" dur="5.17">&lt;font color="#E5E5E5"&gt;this one is a tweet from&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Jon&lt;/font&gt;&lt;font color="#E5E5E5"&gt; Solomon&lt;/font&gt;</text>
+  <text start="90.299" dur="4.471">John Solomon&lt;font color="#CCCCCC"&gt; who contributes to the hill&lt;/font&gt;</text>
+  <text start="92.46" dur="4.32">&lt;font color="#E5E5E5"&gt;sometimes&lt;/font&gt;&lt;font color="#CCCCCC"&gt; a queue&lt;/font&gt;&lt;font color="#E5E5E5"&gt; is let us&lt;/font&gt;&lt;font color="#CCCCCC"&gt; know is&lt;/font&gt;</text>
+  <text start="94.77" dur="4.47">&lt;font color="#CCCCCC"&gt;trustworthy in the past and his tweet&lt;/font&gt;</text>
+  <text start="96.78" dur="6.119">here from&lt;font color="#CCCCCC"&gt; about 45 minutes&lt;/font&gt;&lt;font color="#E5E5E5"&gt; ago says a&lt;/font&gt;</text>
+  <text start="99.24" dur="5.76">&lt;font color="#E5E5E5"&gt;third dossier&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the family secret Bruce or&lt;/font&gt;</text>
+  <text start="102.899" dur="4.981">told Rob&lt;font color="#E5E5E5"&gt; Rosenstein about the Russia&lt;/font&gt;</text>
+  <text start="105" dur="5.46">case&lt;font color="#E5E5E5"&gt; interesting so a little more news&lt;/font&gt;</text>
+  <text start="107.88" dur="4.23">&lt;font color="#E5E5E5"&gt;breaking there and just letting you guys&lt;/font&gt;</text>
+  <text start="110.46" dur="3.63">&lt;font color="#E5E5E5"&gt;know I mean some of these drops I&amp;#39;m&lt;/font&gt;</text>
+  <text start="112.11" dur="5.34">seeing for the&lt;font color="#CCCCCC"&gt; first time right now so I&lt;/font&gt;</text>
+  <text start="114.09" dur="4.709">&lt;font color="#CCCCCC"&gt;don&amp;#39;t&lt;/font&gt;&lt;font color="#E5E5E5"&gt; have quite that much background&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to&lt;/font&gt;</text>
+  <text start="117.45" dur="3.779">them I&amp;#39;m just&lt;font color="#E5E5E5"&gt; gonna go over them&lt;/font&gt;</text>
+  <text start="118.799" dur="5.46">&lt;font color="#E5E5E5"&gt;basically right&lt;/font&gt;&lt;font color="#CCCCCC"&gt; now keep saying we are&lt;/font&gt;</text>
+  <text start="121.229" dur="5.67">&lt;font color="#CCCCCC"&gt;the news now and that is absolutely the&lt;/font&gt;</text>
+  <text start="124.259" dur="5.45">truth being&lt;font color="#CCCCCC"&gt; is&lt;/font&gt;&lt;font color="#E5E5E5"&gt; how&lt;/font&gt;&lt;font color="#CCCCCC"&gt; many people&lt;/font&gt;&lt;font color="#E5E5E5"&gt; follow&lt;/font&gt;</text>
+  <text start="126.899" dur="6.42">&lt;font color="#CCCCCC"&gt;cue tune&lt;/font&gt;&lt;font color="#E5E5E5"&gt; into the drops I mean just on&lt;/font&gt;</text>
+  <text start="129.709" dur="4.151">&lt;font color="#E5E5E5"&gt;cue map pub here we&amp;#39;ve got&lt;/font&gt;&lt;font color="#CCCCCC"&gt; 250,000&lt;/font&gt;</text>
+  <text start="133.319" dur="4.081">people&lt;font color="#E5E5E5"&gt; on&lt;/font&gt;</text>
+  <text start="133.86" dur="6.2">just this one&lt;font color="#CCCCCC"&gt; website ad&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the other key&lt;/font&gt;</text>
+  <text start="137.4" dur="4.8">websites&lt;font color="#CCCCCC"&gt; @q inaudib ad all the people&lt;/font&gt;</text>
+  <text start="140.06" dur="4.42">&lt;font color="#E5E5E5"&gt;browsing YouTube browsing Twitter&lt;/font&gt;</text>
+  <text start="142.2" dur="6.06">browsing&lt;font color="#E5E5E5"&gt; HN millions millions and&lt;/font&gt;</text>
+  <text start="144.48" dur="6.27">millions this drop here&lt;font color="#CCCCCC"&gt; 23 81 or 2831&lt;/font&gt;</text>
+  <text start="148.26" dur="6.27">excuse me&lt;font color="#E5E5E5"&gt; this is an article from&lt;/font&gt;&lt;font color="#CCCCCC"&gt; The&lt;/font&gt;</text>
+  <text start="150.75" dur="6.39">&lt;font color="#CCCCCC"&gt;Washington&lt;/font&gt;&lt;font color="#E5E5E5"&gt; Post in their paper that was&lt;/font&gt;</text>
+  <text start="154.53" dur="5.82">published today it says&lt;font color="#E5E5E5"&gt; Trump reportedly&lt;/font&gt;</text>
+  <text start="157.14" dur="6.05">growing tired&lt;font color="#E5E5E5"&gt; of copes job on the line&lt;/font&gt;</text>
+  <text start="160.35" dur="8.49">&lt;font color="#CCCCCC"&gt;keep saying what a coincidence&lt;/font&gt;</text>
+  <text start="163.19" dur="7.96">boom&lt;font color="#E5E5E5"&gt; this&lt;/font&gt;&lt;font color="#CCCCCC"&gt; anon on Twitter posting the&lt;/font&gt;</text>
+  <text start="168.84" dur="5.64">&lt;font color="#E5E5E5"&gt;wopo report there how did&lt;/font&gt;&lt;font color="#CCCCCC"&gt; they get that&lt;/font&gt;</text>
+  <text start="171.15" dur="7.32">how did the Washington Post&lt;font color="#E5E5E5"&gt; get that&lt;/font&gt;</text>
+  <text start="174.48" dur="7.71">information&lt;font color="#E5E5E5"&gt; that Trump and Coates&lt;/font&gt;</text>
+  <text start="178.47" dur="7.5">relationship is rocky&lt;font color="#E5E5E5"&gt; there huh&lt;/font&gt;&lt;font color="#CCCCCC"&gt; well&lt;/font&gt;</text>
+  <text start="182.19" dur="5.31">right&lt;font color="#E5E5E5"&gt; here&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Q&lt;/font&gt;&lt;font color="#E5E5E5"&gt; is emphasizing didn&amp;#39;t see&lt;/font&gt;</text>
+  <text start="185.97" dur="2.91">&lt;font color="#E5E5E5"&gt;Dan&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Coates&lt;/font&gt;&lt;font color="#E5E5E5"&gt; in the mainstream media&lt;/font&gt;&lt;font color="#CCCCCC"&gt; these&lt;/font&gt;</text>
+  <text start="187.5" dur="3.33">last couple days&lt;font color="#E5E5E5"&gt; meaning that there&lt;/font&gt;&lt;font color="#CCCCCC"&gt; is&lt;/font&gt;</text>
+  <text start="188.88" dur="4.59">&lt;font color="#E5E5E5"&gt;no other&lt;/font&gt;&lt;font color="#CCCCCC"&gt; logical reason for them to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; post&lt;/font&gt;</text>
+  <text start="190.83" dur="4.47">&lt;font color="#CCCCCC"&gt;outside of being hip I would assume that&lt;/font&gt;</text>
+  <text start="193.47" dur="3.81">means&lt;font color="#E5E5E5"&gt; here hi to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; cue drops hip&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to cue&lt;/font&gt;</text>
+  <text start="195.3" dur="4.68">drops PS did&lt;font color="#CCCCCC"&gt; Haberman stay on the train&lt;/font&gt;</text>
+  <text start="197.28" dur="5.01">so right here&lt;font color="#E5E5E5"&gt; q essentially emphasizing&lt;/font&gt;</text>
+  <text start="199.98" dur="5.069">the idea&lt;font color="#E5E5E5"&gt; that well these mainstream&lt;/font&gt;</text>
+  <text start="202.29" dur="4.56">&lt;font color="#E5E5E5"&gt;media people are breaking&lt;/font&gt;&lt;font color="#CCCCCC"&gt; these reports&lt;/font&gt;</text>
+  <text start="205.049" dur="4.141">that&lt;font color="#E5E5E5"&gt; they&amp;#39;re getting off of&lt;/font&gt;&lt;font color="#CCCCCC"&gt; a chant&lt;/font&gt;</text>
+  <text start="206.85" dur="3.69">&lt;font color="#CCCCCC"&gt;after getting off of cues drops so&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that&lt;/font&gt;</text>
+  <text start="209.19" dur="5.13">was kind of an&lt;font color="#E5E5E5"&gt; interesting way to snuff&lt;/font&gt;</text>
+  <text start="210.54" dur="6.77">them&lt;font color="#E5E5E5"&gt; out from&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Q there and then&lt;/font&gt;&lt;font color="#E5E5E5"&gt; this&lt;/font&gt;</text>
+  <text start="214.32" dur="6.87">dropped&lt;font color="#CCCCCC"&gt; 28:30&lt;/font&gt;</text>
+  <text start="217.31" dur="6.58">posting a&lt;font color="#E5E5E5"&gt; tweet from&lt;/font&gt;&lt;font color="#CCCCCC"&gt; trump back in 2015&lt;/font&gt;</text>
+  <text start="221.19" dur="4.47">&lt;font color="#CCCCCC"&gt;so&lt;/font&gt;&lt;font color="#E5E5E5"&gt; almost four years ago&lt;/font&gt;&lt;font color="#CCCCCC"&gt; it says when&lt;/font&gt;</text>
+  <text start="223.89" dur="4.59">you&lt;font color="#E5E5E5"&gt; can&amp;#39;t make them see the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; light&lt;/font&gt;&lt;font color="#E5E5E5"&gt; make&lt;/font&gt;</text>
+  <text start="225.66" dur="6.299">them feel the heat quoting&lt;font color="#CCCCCC"&gt; Ronald Reagan&lt;/font&gt;</text>
+  <text start="228.48" dur="7.289">there&lt;font color="#E5E5E5"&gt; and who&amp;#39;s that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; prang medic&lt;/font&gt;</text>
+  <text start="231.959" dur="5.25">&lt;font color="#CCCCCC"&gt;shoutout to prang medic&lt;/font&gt;&lt;font color="#E5E5E5"&gt; there so Q then&lt;/font&gt;</text>
+  <text start="235.769" dur="2.791">emphasizing that again when&lt;font color="#E5E5E5"&gt; you can&amp;#39;t&lt;/font&gt;</text>
+  <text start="237.209" dur="3.541">make&lt;font color="#CCCCCC"&gt; them see the light&lt;/font&gt;&lt;font color="#E5E5E5"&gt; make them feel&lt;/font&gt;</text>
+  <text start="238.56" dur="5.989">the heat from&lt;font color="#E5E5E5"&gt; Ronald Reagan with that&lt;/font&gt;</text>
+  <text start="240.75" dur="7.83">meme&lt;font color="#E5E5E5"&gt; there I agree&lt;/font&gt;&lt;font color="#CCCCCC"&gt; I very much agree&lt;/font&gt;</text>
+  <text start="244.549" dur="6.851">then post&lt;font color="#CCCCCC"&gt; 2828 this is still from this&lt;/font&gt;</text>
+  <text start="248.58" dur="6.45">morning about an hour&lt;font color="#E5E5E5"&gt; ago he linking a&lt;/font&gt;</text>
+  <text start="251.4" dur="5.399">tweet from Donald Trump&lt;font color="#E5E5E5"&gt; saying the press&lt;/font&gt;</text>
+  <text start="255.03" dur="3.209">has never been more dishonest&lt;font color="#E5E5E5"&gt; and it is&lt;/font&gt;</text>
+  <text start="256.799" dur="3.69">&lt;font color="#E5E5E5"&gt;today stories are written that have&lt;/font&gt;</text>
+  <text start="258.239" dur="5.031">&lt;font color="#CCCCCC"&gt;absolutely no basis in&lt;/font&gt;&lt;font color="#E5E5E5"&gt; fact&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the writers&lt;/font&gt;</text>
+  <text start="260.489" dur="4.951">&lt;font color="#E5E5E5"&gt;don&amp;#39;t even call asking for verification&lt;/font&gt;</text>
+  <text start="263.27" dur="3.31">that&amp;#39;s fact&lt;font color="#E5E5E5"&gt; they do that in the&lt;/font&gt;</text>
+  <text start="265.44" dur="2.01">&lt;font color="#CCCCCC"&gt;mainstream media they do that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; in the&lt;/font&gt;</text>
+  <text start="266.58" dur="4.14">&lt;font color="#CCCCCC"&gt;alternative&lt;/font&gt;&lt;font color="#E5E5E5"&gt; media&lt;/font&gt;</text>
+  <text start="267.45" dur="6.9">just as much&lt;font color="#E5E5E5"&gt; that was a tweet from&lt;/font&gt;</text>
+  <text start="270.72" dur="5.64">Donald Trump&lt;font color="#CCCCCC"&gt; this morning 4:20 a.m. the&lt;/font&gt;</text>
+  <text start="274.35" dur="4.1">20th of February&lt;font color="#E5E5E5"&gt; stories are written&lt;/font&gt;</text>
+  <text start="276.36" dur="4.77">that&lt;font color="#E5E5E5"&gt; have absolutely&lt;/font&gt;&lt;font color="#CCCCCC"&gt; no basis&lt;/font&gt;&lt;font color="#E5E5E5"&gt; in fact&lt;/font&gt;</text>
+  <text start="278.45" dur="6.97">&lt;font color="#CCCCCC"&gt;hew reiterates their hashtag&lt;/font&gt;&lt;font color="#E5E5E5"&gt; facts&lt;/font&gt;</text>
+  <text start="281.13" dur="6.27">matter going&lt;font color="#E5E5E5"&gt; down the line here&lt;/font&gt;&lt;font color="#CCCCCC"&gt; 28:27&lt;/font&gt;</text>
+  <text start="285.42" dur="4.35">&lt;font color="#E5E5E5"&gt;this is back to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; idea of that dan&lt;/font&gt;</text>
+  <text start="287.4" dur="5.19">&lt;font color="#CCCCCC"&gt;coates news showing&lt;/font&gt;&lt;font color="#E5E5E5"&gt; up in wopo&lt;/font&gt;&lt;font color="#CCCCCC"&gt; queue&lt;/font&gt;</text>
+  <text start="289.77" dur="6.27">gives us a couple&lt;font color="#CCCCCC"&gt; of examples here&lt;/font&gt;&lt;font color="#E5E5E5"&gt; one&lt;/font&gt;</text>
+  <text start="292.59" dur="5.31">from New York Times reporter&lt;font color="#CCCCCC"&gt; a month ago&lt;/font&gt;</text>
+  <text start="296.04" dur="5.16">POTUS told New York Times in Oval Office</text>
+  <text start="297.9" dur="5.97">&lt;font color="#CCCCCC"&gt;that he was happy&lt;/font&gt;&lt;font color="#E5E5E5"&gt; with coats but the&lt;/font&gt;</text>
+  <text start="301.2" dur="4.77">news is breaking somehow that&lt;font color="#E5E5E5"&gt; Dan coats&lt;/font&gt;</text>
+  <text start="303.87" dur="5.76">&lt;font color="#CCCCCC"&gt;could be&lt;/font&gt;&lt;font color="#E5E5E5"&gt; leaving so how did they get&lt;/font&gt;</text>
+  <text start="305.97" dur="7.74">&lt;font color="#E5E5E5"&gt;that news why&lt;/font&gt;&lt;font color="#CCCCCC"&gt; our Senator Susan Collins&lt;/font&gt;</text>
+  <text start="309.63" dur="8.22">&lt;font color="#E5E5E5"&gt;and Maggie Haberman&lt;/font&gt;&lt;font color="#CCCCCC"&gt; on this Love Train&lt;/font&gt;</text>
+  <text start="313.71" dur="6.09">now with&lt;font color="#E5E5E5"&gt; Dan coats trying to attack the&lt;/font&gt;</text>
+  <text start="317.85" dur="5.06">president&lt;font color="#CCCCCC"&gt; that way do you think&lt;/font&gt;&lt;font color="#E5E5E5"&gt; nobody&lt;/font&gt;</text>
+  <text start="319.8" dur="8.73">&lt;font color="#CCCCCC"&gt;is paying attention&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the drops Q says&lt;/font&gt;</text>
+  <text start="322.91" dur="7.6">next&lt;font color="#E5E5E5"&gt; one&lt;/font&gt;&lt;font color="#CCCCCC"&gt; 28 26 so Q says when their&lt;/font&gt;</text>
+  <text start="328.53" dur="4.29">attempts&lt;font color="#CCCCCC"&gt; to silence&lt;/font&gt;&lt;font color="#E5E5E5"&gt; through print fail&lt;/font&gt;</text>
+  <text start="330.51" dur="5.25">&lt;font color="#E5E5E5"&gt;they must now include TV and&lt;/font&gt;&lt;font color="#CCCCCC"&gt; video&lt;/font&gt;</text>
+  <text start="332.82" dur="4.65">because I think&lt;font color="#E5E5E5"&gt; it&amp;#39;s about half and half&lt;/font&gt;</text>
+  <text start="335.76" dur="2.87">these days half the people out&lt;font color="#CCCCCC"&gt; there&lt;/font&gt;</text>
+  <text start="337.47" dur="3.78">like to get their information&lt;font color="#E5E5E5"&gt; from&lt;/font&gt;</text>
+  <text start="338.63" dur="4.36">&lt;font color="#CCCCCC"&gt;written form&lt;/font&gt;&lt;font color="#E5E5E5"&gt; half the people out&lt;/font&gt;&lt;font color="#CCCCCC"&gt; there&lt;/font&gt;</text>
+  <text start="341.25" dur="4.08">like videos they like TV they just like</text>
+  <text start="342.99" dur="4.38">&lt;font color="#E5E5E5"&gt;to listen so TV and&lt;/font&gt;&lt;font color="#CCCCCC"&gt; video that&amp;#39;s why&lt;/font&gt;</text>
+  <text start="345.33" dur="3.93">YouTube&lt;font color="#E5E5E5"&gt; is growing in popularity&lt;/font&gt;&lt;font color="#CCCCCC"&gt; video&lt;/font&gt;</text>
+  <text start="347.37" dur="6.09">sources of news are gaining&lt;font color="#E5E5E5"&gt; in&lt;/font&gt;</text>
+  <text start="349.26" dur="5.58">&lt;font color="#CCCCCC"&gt;popularity&lt;/font&gt;&lt;font color="#E5E5E5"&gt; and that&amp;#39;s why they have&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to&lt;/font&gt;</text>
+  <text start="353.46" dur="3.15">attempt to&lt;font color="#CCCCCC"&gt; silence through&lt;/font&gt;&lt;font color="#E5E5E5"&gt; TV and video&lt;/font&gt;</text>
+  <text start="354.84" dur="7.05">&lt;font color="#E5E5E5"&gt;q gives us this link to a YouTube video&lt;/font&gt;</text>
+  <text start="356.61" dur="7.95">&lt;font color="#E5E5E5"&gt;and this YouTube video is from a Comedy&lt;/font&gt;</text>
+  <text start="361.89" dur="4.2">Central skit the show that this was on</text>
+  <text start="364.56" dur="3.93">was called the opposition&lt;font color="#CCCCCC"&gt; with Jordan&lt;/font&gt;</text>
+  <text start="366.09" dur="4.53">Klepper this is from almost a year&lt;font color="#CCCCCC"&gt; ago&lt;/font&gt;</text>
+  <text start="368.49" dur="6.3">March&lt;font color="#E5E5E5"&gt; 20th 2018 I remember when this&lt;/font&gt;</text>
+  <text start="370.62" dur="5.82">came out&lt;font color="#E5E5E5"&gt; and this is&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the skit here they&lt;/font&gt;</text>
+  <text start="374.79" dur="3.93">have this guy trying&lt;font color="#CCCCCC"&gt; to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; act like he&amp;#39;s&lt;/font&gt;</text>
+  <text start="376.44" dur="5.1">Morpheus and roll through&lt;font color="#E5E5E5"&gt; all this&lt;/font&gt;</text>
+  <text start="378.72" dur="7.14">misinformation on&lt;font color="#E5E5E5"&gt; cues drops&lt;/font&gt;&lt;font color="#CCCCCC"&gt; poke fun at&lt;/font&gt;</text>
+  <text start="381.54" dur="6.21">it mock it ridicule it and they even&lt;font color="#E5E5E5"&gt; use&lt;/font&gt;</text>
+  <text start="385.86" dur="4.2">I love&lt;font color="#E5E5E5"&gt; this part they used Dylan&lt;/font&gt;</text>
+  <text start="387.75" dur="4.2">Monroe&amp;#39;s cue map in it so&lt;font color="#E5E5E5"&gt; check it out&lt;/font&gt;</text>
+  <text start="390.06" dur="5.07">&lt;font color="#E5E5E5"&gt;they&amp;#39;re even using Dylan Monroe&amp;#39;s cube&lt;/font&gt;</text>
+  <text start="391.95" dur="3.66">app you&lt;font color="#E5E5E5"&gt; can see it here that&amp;#39;s it right&lt;/font&gt;</text>
+  <text start="395.13" dur="1.83">there</text>
+  <text start="395.61" dur="3.45">&lt;font color="#E5E5E5"&gt;shout out Dylan Monroe you can see&lt;/font&gt;</text>
+  <text start="396.96" dur="3.6">behind my head they use shots of this</text>
+  <text start="399.06" dur="5.46">map in</text>
+  <text start="400.56" dur="7.17">&lt;font color="#E5E5E5"&gt;their&lt;/font&gt;&lt;font color="#CCCCCC"&gt; piece here but&lt;/font&gt;&lt;font color="#E5E5E5"&gt; hold on I want to&lt;/font&gt;</text>
+  <text start="404.52" dur="5.73">&lt;font color="#E5E5E5"&gt;get to the part&lt;/font&gt;&lt;font color="#CCCCCC"&gt; where I can so they&lt;/font&gt;</text>
+  <text start="407.73" dur="4.05">actually&lt;font color="#CCCCCC"&gt; changed the wording&lt;/font&gt;&lt;font color="#E5E5E5"&gt; so you can&lt;/font&gt;</text>
+  <text start="410.25" dur="3.51">see&lt;font color="#E5E5E5"&gt; right here it&lt;/font&gt;&lt;font color="#CCCCCC"&gt; says secret program&lt;/font&gt;</text>
+  <text start="411.78" dur="4.83">&lt;font color="#E5E5E5"&gt;that&amp;#39;s what Comedy Central put up that&amp;#39;s&lt;/font&gt;</text>
+  <text start="413.76" dur="4.44">&lt;font color="#E5E5E5"&gt;supposed to say secret space program so&lt;/font&gt;</text>
+  <text start="416.61" dur="5.22">they actually&lt;font color="#E5E5E5"&gt; edited out some of the&lt;/font&gt;</text>
+  <text start="418.2" dur="5.04">words from&lt;font color="#E5E5E5"&gt; Dillon&amp;#39;s map because I guess&lt;/font&gt;</text>
+  <text start="421.83" dur="3.6">it was&lt;font color="#CCCCCC"&gt; too much to put out in the public&lt;/font&gt;</text>
+  <text start="423.24" dur="4.74">&lt;font color="#E5E5E5"&gt;domain right&lt;/font&gt;&lt;font color="#CCCCCC"&gt; they don&amp;#39;t want secret&lt;/font&gt;</text>
+  <text start="425.43" dur="4.14">space program being subconsciously</text>
+  <text start="427.98" dur="2.85">embedded into people&amp;#39;s minds they want</text>
+  <text start="429.57" dur="3.42">secret program they&lt;font color="#E5E5E5"&gt; want to water it&lt;/font&gt;</text>
+  <text start="430.83" dur="4.98">&lt;font color="#CCCCCC"&gt;down if they&amp;#39;re gonna put any of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; that&lt;/font&gt;</text>
+  <text start="432.99" dur="4.62">stuff&lt;font color="#E5E5E5"&gt; out there&lt;/font&gt;&lt;font color="#CCCCCC"&gt; so shout&lt;/font&gt;&lt;font color="#E5E5E5"&gt; out&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Dylan they&lt;/font&gt;</text>
+  <text start="435.81" dur="3.54">use your map on Comedy Central&lt;font color="#CCCCCC"&gt; and they&lt;/font&gt;</text>
+  <text start="437.61" dur="3.93">had to&lt;font color="#E5E5E5"&gt; uh you&lt;/font&gt;&lt;font color="#CCCCCC"&gt; know your map is so badass&lt;/font&gt;</text>
+  <text start="439.35" dur="4.92">&lt;font color="#E5E5E5"&gt;they had to water it down and edit it&lt;/font&gt;</text>
+  <text start="441.54" dur="4.83">before&lt;font color="#E5E5E5"&gt; they showed it can you uh can&lt;/font&gt;&lt;font color="#CCCCCC"&gt; you&lt;/font&gt;</text>
+  <text start="444.27" dur="3.869">sue for&lt;font color="#CCCCCC"&gt; that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; are they using your&lt;/font&gt;</text>
+  <text start="446.37" dur="2.94">intellectual property here Dylan&lt;font color="#E5E5E5"&gt; I don&amp;#39;t&lt;/font&gt;</text>
+  <text start="448.139" dur="3.931">know&lt;font color="#CCCCCC"&gt; you might want to&lt;/font&gt;&lt;font color="#E5E5E5"&gt; check into that&lt;/font&gt;</text>
+  <text start="449.31" dur="6.9">&lt;font color="#E5E5E5"&gt;they might be breaking some rules there&lt;/font&gt;</text>
+  <text start="452.07" dur="5.88">but&lt;font color="#E5E5E5"&gt; Q emphasizing why put so much&lt;/font&gt;</text>
+  <text start="456.21" dur="3.57">attention&lt;font color="#E5E5E5"&gt; into a&lt;/font&gt;&lt;font color="#CCCCCC"&gt; so called conspiracy&lt;/font&gt;</text>
+  <text start="457.95" dur="3.39">why is it critically important&lt;font color="#CCCCCC"&gt; for them&lt;/font&gt;</text>
+  <text start="459.78" dur="4.08">to&lt;font color="#E5E5E5"&gt; change your opinion or prevent you&lt;/font&gt;</text>
+  <text start="461.34" dur="6.69">from&lt;font color="#E5E5E5"&gt; opening your mind we know the&lt;/font&gt;</text>
+  <text start="463.86" dur="8">answers&lt;font color="#CCCCCC"&gt; to that one&lt;/font&gt;&lt;font color="#E5E5E5"&gt; down here fake wood&lt;/font&gt;</text>
+  <text start="468.03" dur="7.23">including&lt;font color="#E5E5E5"&gt; Q reference in NCIS&lt;/font&gt;&lt;font color="#CCCCCC"&gt; TV episode&lt;/font&gt;</text>
+  <text start="471.86" dur="5.23">&lt;font color="#E5E5E5"&gt;so thank you for the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; super chats my&lt;/font&gt;</text>
+  <text start="475.26" dur="4.08">friends and and what you&lt;font color="#E5E5E5"&gt; guys&lt;/font&gt;&lt;font color="#CCCCCC"&gt; are doing&lt;/font&gt;</text>
+  <text start="477.09" dur="5.31">in the&lt;font color="#CCCCCC"&gt; chatroom I just don&amp;#39;t have like&lt;/font&gt;</text>
+  <text start="479.34" dur="6.87">&lt;font color="#E5E5E5"&gt;eight eyes to be able to look at that&lt;/font&gt;</text>
+  <text start="482.4" dur="6.06">&lt;font color="#E5E5E5"&gt;over&lt;/font&gt;&lt;font color="#CCCCCC"&gt; there&lt;/font&gt;&lt;font color="#E5E5E5"&gt; but anyway this tweet the Q&lt;/font&gt;</text>
+  <text start="486.21" dur="6.42">links let&amp;#39;s check it out&lt;font color="#E5E5E5"&gt; watching NCIS&lt;/font&gt;</text>
+  <text start="488.46" dur="7.05">New Orleans they are&lt;font color="#E5E5E5"&gt; talking about&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Q&lt;/font&gt;&lt;font color="#E5E5E5"&gt; Wow&lt;/font&gt;</text>
+  <text start="492.63" dur="4.95">NCIS&lt;font color="#E5E5E5"&gt; New Orleans last night put out an&lt;/font&gt;</text>
+  <text start="495.51" dur="3.6">episode where they&lt;font color="#CCCCCC"&gt; actually&lt;/font&gt;&lt;font color="#E5E5E5"&gt; referenced Q&lt;/font&gt;</text>
+  <text start="497.58" dur="5.309">multiple times in it they&lt;font color="#E5E5E5"&gt; also&lt;/font&gt;</text>
+  <text start="499.11" dur="6.33">referenced&lt;font color="#E5E5E5"&gt; made slide remarks&lt;/font&gt;&lt;font color="#CCCCCC"&gt; neide&lt;/font&gt;</text>
+  <text start="502.889" dur="3.981">remarks at&lt;font color="#E5E5E5"&gt; area 51 pizza&lt;/font&gt;&lt;font color="#CCCCCC"&gt; gate and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the&lt;/font&gt;</text>
+  <text start="505.44" dur="3.33">grassy knoll so the JFK&lt;font color="#E5E5E5"&gt; assassination&lt;/font&gt;</text>
+  <text start="506.87" dur="5.56">&lt;font color="#CCCCCC"&gt;sort&lt;/font&gt;&lt;font color="#E5E5E5"&gt; of throwing shade on all those&lt;/font&gt;</text>
+  <text start="508.77" dur="6">&lt;font color="#E5E5E5"&gt;things&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and keep saying&lt;/font&gt;&lt;font color="#E5E5E5"&gt; filters picking&lt;/font&gt;</text>
+  <text start="512.43" dur="6">up many references tonight&lt;font color="#E5E5E5"&gt; desperate to&lt;/font&gt;</text>
+  <text start="514.77" dur="8.25">sway opinion&lt;font color="#E5E5E5"&gt; most definitely now getting&lt;/font&gt;</text>
+  <text start="518.43" dur="8.24">into&lt;font color="#CCCCCC"&gt; Q referencing Ben Garrison&amp;#39;s&lt;/font&gt;</text>
+  <text start="523.02" dur="7.319">artwork here&lt;font color="#E5E5E5"&gt; so one of the anons&lt;/font&gt;&lt;font color="#CCCCCC"&gt; on hn&lt;/font&gt;</text>
+  <text start="526.67" dur="6.73">posting&lt;font color="#CCCCCC"&gt; screen&lt;/font&gt;&lt;font color="#E5E5E5"&gt; capture from Ben&lt;/font&gt;</text>
+  <text start="530.339" dur="3.901">Garrison&amp;#39;s latest animation&lt;font color="#E5E5E5"&gt; there it is&lt;/font&gt;</text>
+  <text start="533.4" dur="3.78">right&lt;font color="#CCCCCC"&gt; there as latest&lt;/font&gt;</text>
+  <text start="534.24" dur="5.969">artwork&lt;font color="#E5E5E5"&gt; and right up there you can see&lt;/font&gt;</text>
+  <text start="537.18" dur="5.279">&lt;font color="#CCCCCC"&gt;as aq Ben Garrison&amp;#39;s been following Q&lt;/font&gt;</text>
+  <text start="540.209" dur="4.291">for a bit&lt;font color="#E5E5E5"&gt; he&amp;#39;s hinted at it on his&lt;/font&gt;</text>
+  <text start="542.459" dur="4.831">Twitter&lt;font color="#E5E5E5"&gt; she follows me he follows a lot&lt;/font&gt;</text>
+  <text start="544.5" dur="7.38">of other people who report about&lt;font color="#CCCCCC"&gt; Q so&lt;/font&gt;</text>
+  <text start="547.29" dur="7.2">Ben garrison&lt;font color="#E5E5E5"&gt; lovely work and in this&lt;/font&gt;</text>
+  <text start="551.88" dur="5.04">drop here&lt;font color="#CCCCCC"&gt; and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; anon says he needs to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; be&lt;/font&gt;</text>
+  <text start="554.49" dur="6.18">invited&lt;font color="#CCCCCC"&gt; to the White House Q Q says all&lt;/font&gt;</text>
+  <text start="556.92" dur="5.64">he needs to&lt;font color="#E5E5E5"&gt; do is ask so I&amp;#39;m sure&lt;/font&gt;</text>
+  <text start="560.67" dur="3.75">that&amp;#39;ll&lt;font color="#E5E5E5"&gt; happen soon&lt;/font&gt;&lt;font color="#CCCCCC"&gt; I would definitely&lt;/font&gt;</text>
+  <text start="562.56" dur="4.5">&lt;font color="#E5E5E5"&gt;take up that opportunity&lt;/font&gt;&lt;font color="#CCCCCC"&gt; if I did I&amp;#39;m&lt;/font&gt;</text>
+  <text start="564.42" dur="6.96">sure&lt;font color="#E5E5E5"&gt; Ben garrison will but uh what if&lt;/font&gt;&lt;font color="#CCCCCC"&gt; I&lt;/font&gt;</text>
+  <text start="567.06" dur="7.92">asked what&lt;font color="#E5E5E5"&gt; if I asked let&amp;#39;s see here&lt;/font&gt;</text>
+  <text start="571.38" dur="7.41">&lt;font color="#CCCCCC"&gt;next drop 2821 we&amp;#39;re getting to last&lt;/font&gt;</text>
+  <text start="574.98" dur="6.54">night&amp;#39;s February 19th here and&lt;font color="#CCCCCC"&gt; Q&lt;/font&gt;</text>
+  <text start="578.79" dur="4.5">response to an anon in&lt;font color="#E5E5E5"&gt; need always&lt;/font&gt;&lt;font color="#CCCCCC"&gt; love&lt;/font&gt;</text>
+  <text start="581.52" dur="4.23">when&lt;font color="#E5E5E5"&gt; Q goes back and&lt;/font&gt;&lt;font color="#CCCCCC"&gt; forth with the&lt;/font&gt;</text>
+  <text start="583.29" dur="3.75">&lt;font color="#E5E5E5"&gt;anons&lt;/font&gt;&lt;font color="#CCCCCC"&gt; offers support from any of&lt;/font&gt;&lt;font color="#E5E5E5"&gt; them&lt;/font&gt;</text>
+  <text start="585.75" dur="5.49">that share their stories&lt;font color="#CCCCCC"&gt; they&amp;#39;re on a&lt;/font&gt;</text>
+  <text start="587.04" dur="10.02">&lt;font color="#CCCCCC"&gt;Chan it&amp;#39;s very good&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to see and let&amp;#39;s see&lt;/font&gt;</text>
+  <text start="591.24" dur="7.14">here&lt;font color="#CCCCCC"&gt; this&lt;/font&gt;&lt;font color="#E5E5E5"&gt; drop 28 29 months ago POTUS&lt;/font&gt;</text>
+  <text start="597.06" dur="4.56">asked for Department&lt;font color="#CCCCCC"&gt; of Justice&lt;/font&gt;</text>
+  <text start="598.38" dur="7.68">&lt;font color="#E5E5E5"&gt;investigation into&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Spygate&lt;/font&gt;&lt;font color="#E5E5E5"&gt; interesting&lt;/font&gt;</text>
+  <text start="601.62" dur="6">&lt;font color="#E5E5E5"&gt;nine months ago and then I hereby demand&lt;/font&gt;</text>
+  <text start="606.06" dur="3.48">&lt;font color="#E5E5E5"&gt;a second investigation after Schumer&lt;/font&gt;</text>
+  <text start="607.62" dur="2.94">Pelosi for&lt;font color="#E5E5E5"&gt; a close ties to&lt;/font&gt;&lt;font color="#CCCCCC"&gt; Russia and&lt;/font&gt;</text>
+  <text start="609.54" dur="5.46">lying about&lt;font color="#E5E5E5"&gt; it&lt;/font&gt;</text>
+  <text start="610.56" dur="5.85">review time&lt;font color="#CCCCCC"&gt; q says review&lt;/font&gt;&lt;font color="#E5E5E5"&gt; time these are&lt;/font&gt;</text>
+  <text start="615" dur="5.01">some new drops to me I&lt;font color="#E5E5E5"&gt; haven&amp;#39;t seen&lt;/font&gt;</text>
+  <text start="616.41" dur="7.65">these ones quite yet&lt;font color="#CCCCCC"&gt; and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; then getting&lt;/font&gt;</text>
+  <text start="620.01" dur="7.13">into&lt;font color="#CCCCCC"&gt; 28:18 reposts the executive basis&lt;/font&gt;</text>
+  <text start="624.06" dur="6.54">for declassifying the&lt;font color="#CCCCCC"&gt; Carter&lt;/font&gt;&lt;font color="#E5E5E5"&gt; page FISA&lt;/font&gt;</text>
+  <text start="627.14" dur="5.86">&lt;font color="#E5E5E5"&gt;you made this drop back in September re&lt;/font&gt;</text>
+  <text start="630.6" dur="4.08">emphasizing it here&lt;font color="#E5E5E5"&gt; today because&lt;/font&gt;</text>
+  <text start="633" dur="4.5">there&amp;#39;s a lot of&lt;font color="#E5E5E5"&gt; stifling there&amp;#39;s a lot&lt;/font&gt;</text>
+  <text start="634.68" dur="5.52">of you know fake news misinformation</text>
+  <text start="637.5" dur="5.339">&lt;font color="#E5E5E5"&gt;going on saying&lt;/font&gt;&lt;font color="#CCCCCC"&gt; them&lt;/font&gt;&lt;font color="#E5E5E5"&gt; there&amp;#39;s no basis&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to&lt;/font&gt;</text>
+  <text start="640.2" dur="4.92">the national emergency&lt;font color="#E5E5E5"&gt; fake national&lt;/font&gt;</text>
+  <text start="642.839" dur="4.62">emergency&lt;font color="#CCCCCC"&gt; I&amp;#39;ve&lt;/font&gt;&lt;font color="#E5E5E5"&gt; seen a lot of deep state&lt;/font&gt;</text>
+  <text start="645.12" dur="4.65">bad actors try and say so here was the</text>
+  <text start="647.459" dur="5.911">executive basis for declassifying&lt;font color="#E5E5E5"&gt; FISA&lt;/font&gt;</text>
+  <text start="649.77" dur="8.64">&lt;font color="#E5E5E5"&gt;and doing what needs to be done there&lt;/font&gt;</text>
+  <text start="653.37" dur="7.74">and then in this long drop&lt;font color="#CCCCCC"&gt; q points out&lt;/font&gt;</text>
+  <text start="658.41" dur="6.419">&lt;font color="#CCCCCC"&gt;typos and&lt;/font&gt;&lt;font color="#E5E5E5"&gt; previous drop&lt;/font&gt;&lt;font color="#CCCCCC"&gt; ever made always&lt;/font&gt;</text>
+  <text start="661.11" dur="5.669">on&lt;font color="#CCCCCC"&gt; the&lt;/font&gt;&lt;font color="#E5E5E5"&gt; move&lt;/font&gt;&lt;font color="#CCCCCC"&gt; so&lt;/font&gt;&lt;font color="#E5E5E5"&gt; q team always&lt;/font&gt;&lt;font color="#CCCCCC"&gt; on&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the move&lt;/font&gt;</text>
+  <text start="664.829" dur="3.121">don&amp;#39;t be so caught up&lt;font color="#CCCCCC"&gt; with every&lt;/font&gt;&lt;font color="#E5E5E5"&gt; single&lt;/font&gt;</text>
+  <text start="666.779" dur="3.541">&lt;font color="#CCCCCC"&gt;little&lt;/font&gt;</text>
+  <text start="667.95" dur="6.18">misspelling that occurs&lt;font color="#E5E5E5"&gt; context is&lt;/font&gt;</text>
+  <text start="670.32" dur="5.49">&lt;font color="#E5E5E5"&gt;always key there but&lt;/font&gt;&lt;font color="#CCCCCC"&gt; 2816 says the&lt;/font&gt;</text>
+  <text start="674.13" dur="4.11">declassification of all requested</text>
+  <text start="675.81" dur="6.18">documents plus more will occur</text>
+  <text start="678.24" dur="5.399">do not let&lt;font color="#CCCCCC"&gt; personal emotional desires do&lt;/font&gt;</text>
+  <text start="681.99" dur="4.05">it now now now what is taking so&lt;font color="#CCCCCC"&gt; long&lt;/font&gt;</text>
+  <text start="683.639" dur="4.32">now take over&lt;font color="#E5E5E5"&gt; logical thinking and&lt;/font&gt;</text>
+  <text start="686.04" dur="5.039">&lt;font color="#E5E5E5"&gt;strategy should always be applied&lt;/font&gt;</text>
+  <text start="687.959" dur="4.771">absolutely game theory though that was</text>
+  <text start="691.079" dur="4.771">&lt;font color="#CCCCCC"&gt;mentioned in&lt;/font&gt;&lt;font color="#E5E5E5"&gt; some&lt;/font&gt;&lt;font color="#CCCCCC"&gt; accuse very first&lt;/font&gt;</text>
+  <text start="692.73" dur="4.77">drops game theory basically&lt;font color="#CCCCCC"&gt; a&lt;/font&gt;&lt;font color="#E5E5E5"&gt; global&lt;/font&gt;</text>
+  <text start="695.85" dur="3.51">game of&lt;font color="#E5E5E5"&gt; risk going on right&lt;/font&gt;&lt;font color="#CCCCCC"&gt; now&lt;/font&gt;&lt;font color="#E5E5E5"&gt; so&lt;/font&gt;</text>
+  <text start="697.5" dur="3.8">there&amp;#39;s always strategy&lt;font color="#CCCCCC"&gt; and play we all&lt;/font&gt;</text>
+  <text start="699.36" dur="4.56">&lt;font color="#E5E5E5"&gt;want to see equal justice under the law&lt;/font&gt;</text>
+  <text start="701.3" dur="4.36">&lt;font color="#CCCCCC"&gt;new threats investigations by the&lt;/font&gt;</text>
+  <text start="703.92" dur="5.82">Southern District New York Attorney</text>
+  <text start="705.66" dur="5.539">&lt;font color="#CCCCCC"&gt;General Adam Schiff Maxine Waters&lt;/font&gt;&lt;font color="#E5E5E5"&gt; in an&lt;/font&gt;</text>
+  <text start="709.74" dur="3.93">effort to delay prevent release</text>
+  <text start="711.199" dur="4.361">insurance extension will fail</text>
+  <text start="713.67" dur="3.21">transparency is the&lt;font color="#CCCCCC"&gt; only way forward to&lt;/font&gt;</text>
+  <text start="715.56" dur="4.139">find the following treason sedition</text>
+  <text start="716.88" dur="3.389">subversion conspiracy to commit dot dot</text>
+  <text start="719.699" dur="2.64">dot</text>
+  <text start="720.269" dur="3.991">do you understand and&lt;font color="#E5E5E5"&gt; fully appreciate&lt;/font&gt;</text>
+  <text start="722.339" dur="2.971">the gravity&lt;font color="#E5E5E5"&gt; of the situation do you&lt;/font&gt;</text>
+  <text start="724.26" dur="2.85">understand and&lt;font color="#E5E5E5"&gt; fully appreciate what&lt;/font&gt;</text>
+  <text start="725.31" dur="4.469">POTUS endures he&amp;#39;s doing every&lt;font color="#CCCCCC"&gt; single&lt;/font&gt;</text>
+  <text start="727.11" dur="5.039">&lt;font color="#E5E5E5"&gt;day&lt;/font&gt;&lt;font color="#CCCCCC"&gt; I can imagine and I was seeing the&lt;/font&gt;</text>
+  <text start="729.779" dur="4.021">all the attacks against him he&amp;#39;s got to</text>
+  <text start="732.149" dur="4.021">wake up&lt;font color="#E5E5E5"&gt; every&lt;/font&gt;&lt;font color="#CCCCCC"&gt; single morning and deal&lt;/font&gt;</text>
+  <text start="733.8" dur="4.05">with&lt;font color="#E5E5E5"&gt; a new barrage he loves this country&lt;/font&gt;</text>
+  <text start="736.17" dur="4.95">&lt;font color="#CCCCCC"&gt;he loves you we&lt;/font&gt;&lt;font color="#E5E5E5"&gt; must stand together and&lt;/font&gt;</text>
+  <text start="737.85" dur="7.59">fight&lt;font color="#E5E5E5"&gt; they want to keep you unaware keep&lt;/font&gt;</text>
+  <text start="741.12" dur="7.77">you blind&lt;font color="#CCCCCC"&gt; keep you sedated&lt;/font&gt;&lt;font color="#E5E5E5"&gt; I&amp;#39;ll to keep&lt;/font&gt;</text>
+  <text start="745.44" dur="4.8">your mind&lt;font color="#E5E5E5"&gt; closed and shut down and I&amp;#39;m&lt;/font&gt;</text>
+  <text start="748.89" dur="6.36">&lt;font color="#CCCCCC"&gt;just gonna&lt;/font&gt;&lt;font color="#E5E5E5"&gt; keep going&lt;/font&gt;&lt;font color="#CCCCCC"&gt; here&lt;/font&gt;&lt;font color="#E5E5E5"&gt; for a few&lt;/font&gt;</text>
+  <text start="750.24" dur="7.01">more minutes&lt;font color="#CCCCCC"&gt; just kind of working&lt;/font&gt;</text>
+  <text start="755.25" dur="5.279">&lt;font color="#E5E5E5"&gt;through figuring out how to do all&lt;/font&gt;&lt;font color="#CCCCCC"&gt; this&lt;/font&gt;</text>
+  <text start="757.25" dur="4.079">thank you guys for hanging out&lt;font color="#E5E5E5"&gt; joining&lt;/font&gt;</text>
+  <text start="760.529" dur="5.341">&lt;font color="#E5E5E5"&gt;me&lt;/font&gt;</text>
+  <text start="761.329" dur="5.771">so let&amp;#39;s see discretion must&lt;font color="#E5E5E5"&gt; be applied&lt;/font&gt;</text>
+  <text start="765.87" dur="3.089">when dealing&lt;font color="#E5E5E5"&gt; with matters&lt;/font&gt;&lt;font color="#CCCCCC"&gt; of national&lt;/font&gt;</text>
+  <text start="767.1" dur="3.87">security&lt;font color="#E5E5E5"&gt; sensitive ongoing&lt;/font&gt;</text>
+  <text start="768.959" dur="3.961">investigations&lt;font color="#CCCCCC"&gt; key referencing this&lt;/font&gt;</text>
+  <text start="770.97" dur="3.39">&lt;font color="#E5E5E5"&gt;tweet&lt;/font&gt;&lt;font color="#CCCCCC"&gt; from Sarah Carter&lt;/font&gt;&lt;font color="#E5E5E5"&gt; another&lt;/font&gt;</text>
+  <text start="772.92" dur="3.419">trustworthy journalist</text>
+  <text start="774.36" dur="4.56">it says exclusive one year later the</text>
+  <text start="776.339" dur="4.171">&lt;font color="#E5E5E5"&gt;President ordered the odni the Office of&lt;/font&gt;</text>
+  <text start="778.92" dur="4.229">the Director of&lt;font color="#E5E5E5"&gt; National Intelligence&lt;/font&gt;&lt;font color="#CCCCCC"&gt; in&lt;/font&gt;</text>
+  <text start="780.51" dur="4.1">the NSA to do it&lt;font color="#E5E5E5"&gt; more than a year&lt;/font&gt;&lt;font color="#CCCCCC"&gt; ago we&lt;/font&gt;</text>
+  <text start="783.149" dur="4.471">have yet to&lt;font color="#E5E5E5"&gt; see&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that implemented&lt;/font&gt;</text>
+  <text start="784.61" dur="5.2">representative&lt;font color="#CCCCCC"&gt; Devon Nunez told Sarah&lt;/font&gt;</text>
+  <text start="787.62" dur="4.74">Carter&lt;font color="#E5E5E5"&gt; it&amp;#39;s basically the odni and the&lt;/font&gt;</text>
+  <text start="789.81" dur="4.55">NSA and taking them a year&lt;font color="#E5E5E5"&gt; to get the&lt;/font&gt;</text>
+  <text start="792.36" dur="5.52">information&lt;font color="#E5E5E5"&gt; that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; noone&lt;/font&gt;&lt;font color="#E5E5E5"&gt; has requested&lt;/font&gt;</text>
+  <text start="794.36" dur="5.53">regarding unmasking&lt;font color="#E5E5E5"&gt; of individuals q&lt;/font&gt;</text>
+  <text start="797.88" dur="3.899">saying&lt;font color="#E5E5E5"&gt; to that discretion must be&lt;/font&gt;</text>
+  <text start="799.89" dur="3.66">applied info&lt;font color="#CCCCCC"&gt; released&lt;/font&gt;&lt;font color="#E5E5E5"&gt; to date was&lt;/font&gt;</text>
+  <text start="801.779" dur="3.12">necessary in&lt;font color="#E5E5E5"&gt; order&lt;/font&gt;&lt;font color="#CCCCCC"&gt; to refute&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the fake&lt;/font&gt;</text>
+  <text start="803.55" dur="4.079">news narrative and provide the public</text>
+  <text start="804.899" dur="5.071">with the taste of&lt;font color="#E5E5E5"&gt; the truth ie future&lt;/font&gt;</text>
+  <text start="807.629" dur="5.7">events confidential sources in the house</text>
+  <text start="809.97" dur="5.34">that&lt;font color="#E5E5E5"&gt; you gain critical info from insert&lt;/font&gt;</text>
+  <text start="813.329" dur="3.87">info between&lt;font color="#CCCCCC"&gt; critical and from critical&lt;/font&gt;</text>
+  <text start="815.31" dur="3.839">&lt;font color="#E5E5E5"&gt;info from is simply one of many vehicles&lt;/font&gt;</text>
+  <text start="817.199" dur="3.51">being used by design controlled at&lt;font color="#CCCCCC"&gt; the&lt;/font&gt;</text>
+  <text start="819.149" dur="3.511">top no leaks for this reason so</text>
+  <text start="820.709" dur="4.98">everything we&amp;#39;re learning&lt;font color="#CCCCCC"&gt; about these&lt;/font&gt;</text>
+  <text start="822.66" dur="4.649">&lt;font color="#E5E5E5"&gt;investigations is&lt;/font&gt;&lt;font color="#CCCCCC"&gt; planned that&amp;#39;s whether&lt;/font&gt;</text>
+  <text start="825.689" dur="5.611">it&amp;#39;s from a journalist or from the house</text>
+  <text start="827.309" dur="5.88">&lt;font color="#E5E5E5"&gt;or whatever the case now I would imagine&lt;/font&gt;</text>
+  <text start="831.3" dur="3.69">discretion must&lt;font color="#E5E5E5"&gt; be applied when&lt;/font&gt;&lt;font color="#CCCCCC"&gt; dealing&lt;/font&gt;</text>
+  <text start="833.189" dur="5.101">&lt;font color="#CCCCCC"&gt;with matters of national security&lt;/font&gt;&lt;font color="#E5E5E5"&gt; means&lt;/font&gt;</text>
+  <text start="834.99" dur="4.86">that yeah it&amp;#39;s taking the od9&lt;font color="#CCCCCC"&gt; NSA a year&lt;/font&gt;</text>
+  <text start="838.29" dur="4.159">to get out this&lt;font color="#E5E5E5"&gt; information&lt;/font&gt;&lt;font color="#CCCCCC"&gt; but that&amp;#39;s&lt;/font&gt;</text>
+  <text start="839.85" dur="5.459">&lt;font color="#E5E5E5"&gt;because even that is quite sensitive and&lt;/font&gt;</text>
+  <text start="842.449" dur="5.231">&lt;font color="#E5E5E5"&gt;I was a very strategic way that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; it&amp;#39;s&lt;/font&gt;</text>
+  <text start="845.309" dur="6.871">info needs to be disseminated&lt;font color="#CCCCCC"&gt; how much&lt;/font&gt;</text>
+  <text start="847.68" dur="6.42">when who how&lt;font color="#E5E5E5"&gt; cetera so info release to&lt;/font&gt;</text>
+  <text start="852.18" dur="5.18">&lt;font color="#E5E5E5"&gt;date was necessary in order to refute&lt;/font&gt;</text>
+  <text start="854.1" dur="6.179">&lt;font color="#CCCCCC"&gt;the fake news the fake news narrative&lt;/font&gt;</text>
+  <text start="857.36" dur="6.909">&lt;font color="#E5E5E5"&gt;Joe digenova discusses McCabe sixty&lt;/font&gt;</text>
+  <text start="860.279" dur="6.331">minutes interview cuelinks us a youtube</text>
+  <text start="864.269" dur="6.36">link to&lt;font color="#E5E5E5"&gt; Joe digenova as recent&lt;/font&gt;</text>
+  <text start="866.61" dur="6">appearance on a radio&lt;font color="#CCCCCC"&gt; show from&lt;/font&gt;&lt;font color="#E5E5E5"&gt; a&lt;/font&gt;&lt;font color="#CCCCCC"&gt; couple&lt;/font&gt;</text>
+  <text start="870.629" dur="6.95">of days ago&lt;font color="#E5E5E5"&gt; talking about McCabe sixty&lt;/font&gt;</text>
+  <text start="872.61" dur="9.209">minutes interview&lt;font color="#E5E5E5"&gt; go watch it&lt;/font&gt;&lt;font color="#CCCCCC"&gt; q&lt;/font&gt;&lt;font color="#E5E5E5"&gt; we are&lt;/font&gt;&lt;font color="#CCCCCC"&gt; q&lt;/font&gt;</text>
+  <text start="877.579" dur="6.851">graphic&lt;font color="#CCCCCC"&gt; dare and I love how&lt;/font&gt;&lt;font color="#E5E5E5"&gt; Q&amp;#39;s putting&lt;/font&gt;</text>
+  <text start="881.819" dur="5.07">a&lt;font color="#E5E5E5"&gt; shill on bout blast here so an anon&lt;/font&gt;</text>
+  <text start="884.43" dur="4.92">&lt;font color="#E5E5E5"&gt;will look to be a shill on a chant&lt;/font&gt;</text>
+  <text start="886.889" dur="5.37">saying in control of what nothing that&amp;#39;s</text>
+  <text start="889.35" dur="6.839">&lt;font color="#E5E5E5"&gt;what Q says are&lt;/font&gt;&lt;font color="#CCCCCC"&gt; you ready shill survival&lt;/font&gt;</text>
+  <text start="892.259" dur="6.151">of the fittest&lt;font color="#E5E5E5"&gt; and links&lt;/font&gt;&lt;font color="#CCCCCC"&gt; a three&lt;/font&gt;&lt;font color="#E5E5E5"&gt; minute&lt;/font&gt;</text>
+  <text start="896.189" dur="6.541">&lt;font color="#CCCCCC"&gt;YouTube video&lt;/font&gt;&lt;font color="#E5E5E5"&gt; basically showing the&lt;/font&gt;</text>
+  <text start="898.41" dur="6.119">&lt;font color="#E5E5E5"&gt;power of the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; military&lt;/font&gt;&lt;font color="#E5E5E5"&gt; it&amp;#39;s entertaining&lt;/font&gt;</text>
+  <text start="902.73" dur="5.219">video&lt;font color="#CCCCCC"&gt; that&amp;#39;s for&lt;/font&gt;&lt;font color="#E5E5E5"&gt; sure I liked it&lt;/font&gt;&lt;font color="#CCCCCC"&gt; I&lt;/font&gt;</text>
+  <text start="904.529" dur="5.4">haven&amp;#39;t&lt;font color="#E5E5E5"&gt; seen it before&lt;/font&gt;&lt;font color="#CCCCCC"&gt; and I love how&lt;/font&gt;&lt;font color="#E5E5E5"&gt; Q&lt;/font&gt;</text>
+  <text start="907.949" dur="4.23">is putting the&lt;font color="#E5E5E5"&gt; shields on blast Patriots&lt;/font&gt;</text>
+  <text start="909.929" dur="4.441">&lt;font color="#E5E5E5"&gt;in control start from the beginning&lt;/font&gt;</text>
+  <text start="912.179" dur="6.541">small sampling of Proops&lt;font color="#E5E5E5"&gt; Patriots in&lt;/font&gt;</text>
+  <text start="914.37" dur="6.959">control&lt;font color="#E5E5E5"&gt; you are&lt;/font&gt;&lt;font color="#CCCCCC"&gt; the news now you are the&lt;/font&gt;</text>
+  <text start="918.72" dur="4.469">news let&amp;#39;s&lt;font color="#E5E5E5"&gt; see down here Trump&lt;/font&gt;</text>
+  <text start="921.329" dur="4.62">&lt;font color="#E5E5E5"&gt;administration launches global effort to&lt;/font&gt;</text>
+  <text start="923.189" dur="7.261">&lt;font color="#E5E5E5"&gt;end criminalization of homosexuality and&lt;/font&gt;</text>
+  <text start="925.949" dur="7.111">yet they&amp;#39;re calling POTUS racist sexist</text>
+  <text start="930.45" dur="5.129">all this slander all these pejorative</text>
+  <text start="933.06" dur="4.35">terms but&lt;font color="#E5E5E5"&gt; the fake news pushes the&lt;/font&gt;</text>
+  <text start="935.579" dur="3.801">narrative the POTUS is what wake up</text>
+  <text start="937.41" dur="4.5">&lt;font color="#E5E5E5"&gt;America&lt;/font&gt;</text>
+  <text start="939.38" dur="4.209">&lt;font color="#CCCCCC"&gt;q1 on is 100% coming&lt;/font&gt;&lt;font color="#E5E5E5"&gt; from the Trump&lt;/font&gt;</text>
+  <text start="941.91" dur="4.59">&lt;font color="#E5E5E5"&gt;administration&lt;/font&gt;&lt;font color="#CCCCCC"&gt; q linking this YouTube&lt;/font&gt;</text>
+  <text start="943.589" dur="5.25">video saying&lt;font color="#CCCCCC"&gt; Thank You Patriot&lt;/font&gt;&lt;font color="#E5E5E5"&gt; in this&lt;/font&gt;</text>
+  <text start="946.5" dur="6.149">video&lt;font color="#CCCCCC"&gt; from&lt;/font&gt;&lt;font color="#E5E5E5"&gt; the&lt;/font&gt;&lt;font color="#CCCCCC"&gt; channel where we go on we&lt;/font&gt;</text>
+  <text start="948.839" dur="7.11">go&lt;font color="#CCCCCC"&gt; wall&lt;/font&gt;&lt;font color="#E5E5E5"&gt; Q is 100% coming from the Trump&lt;/font&gt;</text>
+  <text start="952.649" dur="6.06">&lt;font color="#E5E5E5"&gt;administration you cannot deny&lt;/font&gt;&lt;font color="#CCCCCC"&gt; that&lt;/font&gt;&lt;font color="#E5E5E5"&gt; if&lt;/font&gt;</text>
+  <text start="955.949" dur="5.971">you deny that you&amp;#39;re&lt;font color="#E5E5E5"&gt; either just too&lt;/font&gt;</text>
+  <text start="958.709" dur="4.461">lazy to research or you&amp;#39;ve got some&lt;font color="#CCCCCC"&gt; sort&lt;/font&gt;</text>
+  <text start="961.92" dur="5.31">&lt;font color="#E5E5E5"&gt;of narrative you&amp;#39;re trying to push&lt;/font&gt;</text>
+  <text start="963.17" dur="6.25">compromise for deeper reasons&lt;font color="#CCCCCC"&gt; alright&lt;/font&gt;</text>
+  <text start="967.23" dur="4.289">guys&lt;font color="#E5E5E5"&gt; so that&amp;#39;s all that&lt;/font&gt;&lt;font color="#CCCCCC"&gt; I&amp;#39;m gonna&lt;/font&gt;&lt;font color="#E5E5E5"&gt; do for&lt;/font&gt;</text>
+  <text start="969.42" dur="3.81">this one we went back the past day&lt;font color="#CCCCCC"&gt; I can&lt;/font&gt;</text>
+  <text start="971.519" dur="2.701">go a lot longer but I&amp;#39;ve got to get</text>
+  <text start="973.23" dur="3.93">moving this morning</text>
+  <text start="974.22" dur="4.559">and I&amp;#39;m sure just&lt;font color="#E5E5E5"&gt; like he&amp;#39;s been posting&lt;/font&gt;</text>
+  <text start="977.16" dur="6.09">&lt;font color="#E5E5E5"&gt;like wildfire there&amp;#39;s gonna be a lot&lt;/font&gt;</text>
+  <text start="978.779" dur="6.75">&lt;font color="#CCCCCC"&gt;more later today so I&amp;#39;ll be doing this&lt;/font&gt;</text>
+  <text start="983.25" dur="4.17">&lt;font color="#CCCCCC"&gt;again very&lt;/font&gt;&lt;font color="#E5E5E5"&gt; soon maybe on a daily basis&lt;/font&gt;</text>
+  <text start="985.529" dur="4.981">depending&lt;font color="#CCCCCC"&gt; on how much Q drops&lt;/font&gt;&lt;font color="#E5E5E5"&gt; you let me&lt;/font&gt;</text>
+  <text start="987.42" dur="5.43">&lt;font color="#CCCCCC"&gt;know if you enjoyed this&lt;/font&gt;&lt;font color="#E5E5E5"&gt; sort of style&lt;/font&gt;</text>
+  <text start="990.51" dur="5.689">&lt;font color="#E5E5E5"&gt;in the comments below&lt;/font&gt;&lt;font color="#CCCCCC"&gt; you know I&amp;#39;ll make&lt;/font&gt;</text>
+  <text start="992.85" dur="7.109">&lt;font color="#E5E5E5"&gt;this this&lt;/font&gt;&lt;font color="#CCCCCC"&gt; setup&lt;/font&gt;&lt;font color="#E5E5E5"&gt; prettier here in the box&lt;/font&gt;</text>
+  <text start="996.199" dur="6.58">but fancy isn&amp;#39;t&lt;font color="#E5E5E5"&gt; what I&amp;#39;m looking for&lt;/font&gt;</text>
+  <text start="999.959" dur="6.921">right&lt;font color="#CCCCCC"&gt; now so&lt;/font&gt;&lt;font color="#E5E5E5"&gt; appreciate it guys take&lt;/font&gt;</text>
+  <text start="1002.779" dur="4.101">care&lt;font color="#E5E5E5"&gt; have a great day done for this&lt;/font&gt;</text>
+</transcript>

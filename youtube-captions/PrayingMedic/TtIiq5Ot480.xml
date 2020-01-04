@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transcript>
+  <text start="1.73" dur="6.78">hey everyone how you guys doing it is</text>
+  <text start="4.38" dur="8.31">praying medic and I am here in my office</text>
+  <text start="8.51" dur="7.05">I I&amp;#39;m used to doing Facebook live videos</text>
+  <text start="12.69" dur="8.73">right and occasionally I do periscope</text>
+  <text start="15.56" dur="10.27">but here we are on YouTube and I set up</text>
+  <text start="21.42" dur="8.04">a new website a news website that I hope</text>
+  <text start="25.83" dur="8.84">to be able to use for my friends who are</text>
+  <text start="29.46" dur="7.68">interested in sharing news and opinions</text>
+  <text start="34.67" dur="4.06">who are now on periscope a lot of my</text>
+  <text start="37.14" dur="5.64">friends have been getting throttled on</text>
+  <text start="38.73" dur="6.96">periscope they have been getting show me</text>
+  <text start="42.78" dur="5.849">live chat messages okay guys so you can</text>
+  <text start="45.69" dur="7.5">chat here if you want to so a lot of my</text>
+  <text start="48.629" dur="6.991">friends have been there on periscope</text>
+  <text start="53.19" dur="5.88">they&amp;#39;re trying to do news and opinions</text>
+  <text start="55.62" dur="5.849">and they keep getting banned shadow ban</text>
+  <text start="59.07" dur="3.899">on periscope shadow band on Twitter</text>
+  <text start="61.469" dur="3.72">their alerts aren&amp;#39;t going out</text>
+  <text start="62.969" dur="3.961">notifications aren&amp;#39;t going out so</text>
+  <text start="65.189" dur="8.731">they&amp;#39;ve been having a lot of problems</text>
+  <text start="66.93" dur="8.82">with that and we&amp;#39;ve been I&amp;#39;ve been</text>
+  <text start="73.92" dur="9.949">messing around trying to figure out a</text>
+  <text start="75.75" dur="8.119">way to see if I can come up with a a</text>
+  <text start="84.35" dur="9.309">website that can allow people to do</text>
+  <text start="91.77" dur="5.37">independent news independent</text>
+  <text start="93.659" dur="5.67">broadcasting to put out political</text>
+  <text start="97.14" dur="3.51">commentaries and teach on things like</text>
+  <text start="99.329" dur="3.781">this the people are doing on periscope</text>
+  <text start="100.65" dur="4.2">and Facebook live right now without</text>
+  <text start="103.11" dur="6.75">having to worry about pushback from</text>
+  <text start="104.85" dur="10.07">facebook and twitter so i created this</text>
+  <text start="109.86" dur="7.34">new website and I my vision for this is</text>
+  <text start="114.92" dur="7.54">but periscope is kind of hit and miss</text>
+  <text start="117.2" dur="6.94">Claudia um it&amp;#39;s kind of hit and miss it</text>
+  <text start="122.46" dur="4.38">has some benefits but it has some</text>
+  <text start="124.14" dur="8.069">drawbacks there are political powers</text>
+  <text start="126.84" dur="6.13">that be getting involved with periscope</text>
+  <text start="132.209" dur="4.241">and</text>
+  <text start="132.97" dur="7.74">don&amp;#39;t really care for the agenda that</text>
+  <text start="136.45" dur="6.27">these political people have neither do</text>
+  <text start="140.71" dur="5.52">my friends they don&amp;#39;t really like it</text>
+  <text start="142.72" dur="6.15">much so we&amp;#39;re looking for different</text>
+  <text start="146.23" dur="3.84">outlets looking for different ways and i</text>
+  <text start="148.87" dur="3.33">was doing sir I&amp;#39;ve been doing a lot of</text>
+  <text start="150.07" dur="3.45">research over the last two days and I&amp;#39;m</text>
+  <text start="152.2" dur="4.32">trying to figure out a way to do live</text>
+  <text start="153.52" dur="5.1">video streaming video on a website where</text>
+  <text start="156.52" dur="6.66">we have control over the content I&amp;#39;ve</text>
+  <text start="158.62" dur="7.74">been looking at amazon web services hey</text>
+  <text start="163.18" dur="7.65">man it looks good it&amp;#39;s clear okay cool</text>
+  <text start="166.36" dur="6">hey Andre what&amp;#39;s going on buddy there</text>
+  <text start="170.83" dur="2.85">are a lot of different services out</text>
+  <text start="172.36" dur="3.57">there i&amp;#39;m looking at some pretty</text>
+  <text start="173.68" dur="7.29">high-tech ones the problem is the cost</text>
+  <text start="175.93" dur="9.66">hey shelter of chrome canada thank you</text>
+  <text start="180.97" dur="7.44">is it snowing up there i&amp;#39;ll but it is so</text>
+  <text start="185.59" dur="4.23">i&amp;#39;m looking at different options you</text>
+  <text start="188.41" dur="3.45">know a lot of people using Amazon Web</text>
+  <text start="189.82" dur="5.13">Services problem with that is you have</text>
+  <text start="191.86" dur="5.31">to have not just a server to store the</text>
+  <text start="194.95" dur="5.42">data but you have to have what they call</text>
+  <text start="197.17" dur="7.289">a content delivery network of CDN which</text>
+  <text start="200.37" dur="7.3">broadcasting the the video around the</text>
+  <text start="204.459" dur="5.521">world so people can see it content</text>
+  <text start="207.67" dur="9.72">delivery is expensive that&amp;#39;s the cost</text>
+  <text start="209.98" dur="10.11">prohibitive thing so it&amp;#39;s a sunny and</text>
+  <text start="217.39" dur="4.17">hot in British Columbia I it might be</text>
+  <text start="220.09" dur="3.929">maybe it is I have some friends who live</text>
+  <text start="221.56" dur="3.75">up in Washington in Portland a couple of</text>
+  <text start="224.019" dur="2.491">live in British Columbia and I said it&amp;#39;s</text>
+  <text start="225.31" dur="3.239">pretty warm over there but it&amp;#39;s really</text>
+  <text start="226.51" dur="4.86">cold on the east coast right now they&amp;#39;re</text>
+  <text start="228.549" dur="9.091">getting a lot of snow so I&amp;#39;ve been</text>
+  <text start="231.37" dur="9.48">looking at a way to set up a live video</text>
+  <text start="237.64" dur="7.65">streaming platform where me and my</text>
+  <text start="240.85" dur="6.419">friends can put out content put out</text>
+  <text start="245.29" dur="3.3">video I&amp;#39;m going to show you what i&amp;#39;m</text>
+  <text start="247.269" dur="2.611">doing here just a second i&amp;#39;m going to</text>
+  <text start="248.59" dur="2.82">turn the camera around and show you what</text>
+  <text start="249.88" dur="6.21">might this is an experiment i&amp;#39;ll show</text>
+  <text start="251.41" dur="7.889">you what i&amp;#39;m doing hey ed bombing in 50s</text>
+  <text start="256.09" dur="6.54">in wyoming hey ed is the video and</text>
+  <text start="259.299" dur="5.101">sounded everything ok can you you can</text>
+  <text start="262.63" dur="3.79">hear everything I mean you can compared</text>
+  <text start="264.4" dur="5.61">to like periscope or Facebook</text>
+  <text start="266.42" dur="6.51">because you follow a lot of this stuff</text>
+  <text start="270.01" dur="6.13">when I&amp;#39;m what I&amp;#39;m settled on for now is</text>
+  <text start="272.93" dur="7.86">is YouTube YouTube makes it really easy</text>
+  <text start="276.14" dur="7.77">to do live video i am now I&amp;#39;m now</text>
+  <text start="280.79" dur="5.73">streaming this live on another website</text>
+  <text start="283.91" dur="6.51">that I have control of I created this</text>
+  <text start="286.52" dur="6.54">website I&amp;#39;ve got channels is Jenny on</text>
+  <text start="290.42" dur="5.46">their hey Ginny how you doing well I was</text>
+  <text start="293.06" dur="5.79">just like Facebook live except it&amp;#39;s</text>
+  <text start="295.88" dur="8.58">different it&amp;#39;s due to live I&amp;#39;ve got a</text>
+  <text start="298.85" dur="7.59">website that uh my photo is skinny right</text>
+  <text start="304.46" dur="5.82">this is weird i don&amp;#39;t know why because i</text>
+  <text start="306.44" dur="5.61">have my camera vertical and it&amp;#39;s</text>
+  <text start="310.28" dur="4.29">displaying on the website it&amp;#39;s</text>
+  <text start="312.05" dur="4.95">displaying horizontal i&amp;#39;m not sure what</text>
+  <text start="314.57" dur="4.05">the heck they&amp;#39;re doing there but i&amp;#39;m</text>
+  <text start="317" dur="8.04">going to turn on my video here and</text>
+  <text start="318.62" dur="9.48">listen to myself right so I&amp;#39;m up and</text>
+  <text start="325.04" dur="8.46">down but there&amp;#39;s the black sides on this</text>
+  <text start="328.1" dur="8.82">side there alright so let me show you it</text>
+  <text start="333.5" dur="10.08">be sure what&amp;#39;s going on um you&amp;#39;re now</text>
+  <text start="336.92" dur="9.45">watching me you&amp;#39;re now watching now I</text>
+  <text start="343.58" dur="7.02">have this I have this website and I&amp;#39;ve</text>
+  <text start="346.37" dur="8.34">got channels set up for all my friends</text>
+  <text start="350.6" dur="13.89">who are currently on periscope John wick</text>
+  <text start="354.71" dur="17.39">of politics news Tom luongo Paul Joseph</text>
+  <text start="364.49" dur="11.19">Watson mic closer all right this is a</text>
+  <text start="372.1" dur="6.13">this is a website that I set up where</text>
+  <text start="375.68" dur="5.4">I&amp;#39;m hoping what I can I&amp;#39;m gonna shut my</text>
+  <text start="378.23" dur="6.33">video off your second set up this is a</text>
+  <text start="381.08" dur="7.53">this is a website where I set up I&amp;#39;m yes</text>
+  <text start="384.56" dur="7.44">I&amp;#39;m using my phone i&amp;#39;m using like using</text>
+  <text start="388.61" dur="5.94">my my galaxy smartphone to broadcast</text>
+  <text start="392" dur="5.46">this message what I&amp;#39;m trying to do is</text>
+  <text start="394.55" dur="4.98">I&amp;#39;m doing experiment to see if I can set</text>
+  <text start="397.46" dur="2.61">up something like periscope or Facebook</text>
+  <text start="399.53" dur="3.69">live</text>
+  <text start="400.07" dur="5.55">only on my website that where we can</text>
+  <text start="403.22" dur="4.44">control it where you don&amp;#39;t have to worry</text>
+  <text start="405.62" dur="3.24">about people getting banned and content</text>
+  <text start="407.66" dur="2.52">getting taken down and all that stuff</text>
+  <text start="408.86" dur="3.9">that&amp;#39;s that&amp;#39;s what I&amp;#39;m trying to</text>
+  <text start="410.18" dur="7.35">accomplish is trying to create a news</text>
+  <text start="412.76" dur="7.65">and information website where my friends</text>
+  <text start="417.53" dur="5.67">who want to do live video news</text>
+  <text start="420.41" dur="5.13">information can post it there Ginny and</text>
+  <text start="423.2" dur="4.53">Ed if you guys want to do this I will</text>
+  <text start="425.54" dur="5.01">set up a little channel for you it&amp;#39;s</text>
+  <text start="427.73" dur="10.35">youth the thing is YouTube makes it</text>
+  <text start="430.55" dur="8.7">really simple um ok cool you&amp;#39;re watching</text>
+  <text start="438.08" dur="3.8">on your smartphone and it&amp;#39;s all right</text>
+  <text start="439.25" dur="2.63">all right</text>
+  <text start="449.26" dur="6.66">so what what I&amp;#39;m working with this</text>
+  <text start="454.18" dur="4.77">process I&amp;#39;m trying to figure out the</text>
+  <text start="455.92" dur="4.77">best way to do this there are some there</text>
+  <text start="458.95" dur="4.5">are some ways to do it that are a little</text>
+  <text start="460.69" dur="6.06">more elegant but they cost money for me</text>
+  <text start="463.45" dur="5.76">to set up a dedicated server where I</text>
+  <text start="466.75" dur="5.46">could do this would cost five hundred</text>
+  <text start="469.21" dur="4.5">dollars a month at the outset and if it</text>
+  <text start="472.21" dur="2.84">became really popular it would be more</text>
+  <text start="473.71" dur="6.24">like around a thousand dollars a month</text>
+  <text start="475.05" dur="8.23">to host our own live streaming video to</text>
+  <text start="479.95" dur="5.76">do it on YouTube it&amp;#39;s free youtube has</text>
+  <text start="483.28" dur="5.34">all of the content delivery they&amp;#39;ve got</text>
+  <text start="485.71" dur="5.1">the servers they&amp;#39;ve got the coding and</text>
+  <text start="488.62" dur="4.23">everything set up so it&amp;#39;s just you just</text>
+  <text start="490.81" dur="4.94">flip a little thing on your phone it</text>
+  <text start="492.85" dur="6.18">says start broadcasting I i setup</text>
+  <text start="495.75" dur="7.15">modules on my website that integrate</text>
+  <text start="499.03" dur="6.54">with YouTube and so I&amp;#39;m broadcasting on</text>
+  <text start="502.9" dur="5.25">YouTube now and what will happen on my</text>
+  <text start="505.57" dur="6.06">website when my broadcast is over it</text>
+  <text start="508.15" dur="5.04">will add this to a playlist and when you</text>
+  <text start="511.63" dur="3.09">go to that website if you there&amp;#39;s</text>
+  <text start="513.19" dur="3.81">nothing live you can go through the</text>
+  <text start="514.72" dur="5.509">playlist and see previous videos</text>
+  <text start="517" dur="6.479">something like actually like Facebook or</text>
+  <text start="520.229" dur="7.601">periscope so hey Chris Wilson High do</text>
+  <text start="523.479" dur="7.321">men so I&amp;#39;m this is my experiment that</text>
+  <text start="527.83" dur="5.16">I&amp;#39;m trying to move forward I&amp;#39;ve been</text>
+  <text start="530.8" dur="4.38">talking to Adam Gingrich John wick of</text>
+  <text start="532.99" dur="7.02">politics trying to figure out a way that</text>
+  <text start="535.18" dur="7.32">we can where we can have some way to put</text>
+  <text start="540.01" dur="5.12">out our own information that&amp;#39;s not</text>
+  <text start="542.5" dur="4.41">controlled by Twitter and Facebook I</text>
+  <text start="545.13" dur="4.51">don&amp;#39;t know if we&amp;#39;re going to have the</text>
+  <text start="546.91" dur="5.1">same problem with google or not if</text>
+  <text start="549.64" dur="4.62">Google Google runs those algorithms and</text>
+  <text start="552.01" dur="3.72">if they don&amp;#39;t like your content and they</text>
+  <text start="554.26" dur="2.67">don&amp;#39;t like your keywords and they don&amp;#39;t</text>
+  <text start="555.73" dur="4.29">like the things you&amp;#39;re talking about</text>
+  <text start="556.93" dur="5.64">they could bump it down into search</text>
+  <text start="560.02" dur="6.21">algorithms they could take your videos</text>
+  <text start="562.57" dur="5.91">down completely so I&amp;#39;m messin around</text>
+  <text start="566.23" dur="4.94">here and I&amp;#39;m trying to figure out how</text>
+  <text start="568.48" dur="2.69">this is going to work</text>
+  <text start="573.69" dur="4.53">are you going to keep this channel yes</text>
+  <text start="575.67" dur="5.61">Kelly this is my regular youtube channel</text>
+  <text start="578.22" dur="5.01">i have over 5000 subscribers on my</text>
+  <text start="581.28" dur="4.83">youtube channel that&amp;#39;s actually more</text>
+  <text start="583.23" dur="5.06">friends than i have fun facebook i I&amp;#39;ve</text>
+  <text start="586.11" dur="4.29">had a YouTube channel forever I just</text>
+  <text start="588.29" dur="5.02">haven&amp;#39;t been using it much until</text>
+  <text start="590.4" dur="5.43">recently I started taking my podcasts</text>
+  <text start="593.31" dur="4.11">and taking the audio turning them into</text>
+  <text start="595.83" dur="4.62">videos and putting them on my youtube</text>
+  <text start="597.42" dur="5.19">channel I&amp;#39;ve got lots and lots of videos</text>
+  <text start="600.45" dur="7.35">on there now what I&amp;#39;m thinking of doing</text>
+  <text start="602.61" dur="7.38">is adding a news a news I have a</text>
+  <text start="607.8" dur="4.47">playlist now on there my youtube channel</text>
+  <text start="609.99" dur="6.39">that it&amp;#39;s just news updates its</text>
+  <text start="612.27" dur="5.4">prophetic things that I&amp;#39;ve seen in what</text>
+  <text start="616.38" dur="2.94">the research I&amp;#39;ve done about the Trump</text>
+  <text start="617.67" dur="9.15">administration and politics that&amp;#39;s a</text>
+  <text start="619.32" dur="11.19">separate playlist and yes exactly</text>
+  <text start="626.82" dur="6.72">shelter exactly exactly you guys need to</text>
+  <text start="630.51" dur="5.76">be praying about all the stuff so I</text>
+  <text start="633.54" dur="5.73">didn&amp;#39;t actually anticipate I would have</text>
+  <text start="636.27" dur="5.91">his many people listening to the video</text>
+  <text start="639.27" dur="7.2">but what I would what I would like to do</text>
+  <text start="642.18" dur="5.88">is see what Adam Gingrich John wick of</text>
+  <text start="646.47" dur="7.25">politics and I&amp;#39;ve been talking about is</text>
+  <text start="648.06" dur="5.66">he would like to create on periscope a</text>
+  <text start="654.8" dur="7.54">nightly lineup of people who do</text>
+  <text start="659.31" dur="7.07">periscopes who are friends of his and</text>
+  <text start="662.34" dur="4.04">have them do it at a certain time so</text>
+  <text start="667.49" dur="5.71">pre-recorded videos yeah you can do</text>
+  <text start="670.32" dur="5.37">pre-recorded videos you can upload them</text>
+  <text start="673.2" dur="5.28">ed Firefox I don&amp;#39;t know Firefox is a</text>
+  <text start="675.69" dur="6.54">browser I don&amp;#39;t know what what exactly</text>
+  <text start="678.48" dur="6.81">what you&amp;#39;re asking firefox doesn&amp;#39;t have</text>
+  <text start="682.23" dur="6.26">a certain set up to do live videos that</text>
+  <text start="685.29" dur="6.96">i know of we all get you notifications</text>
+  <text start="688.49" dur="7.03">yeah so what what Adam was talking about</text>
+  <text start="692.25" dur="5.07">is like he does his periscopes 1030</text>
+  <text start="695.52" dur="3.36">Eastern every Saturday night and he&amp;#39;s</text>
+  <text start="697.32" dur="3.12">been doing them on Tuesday nights so</text>
+  <text start="698.88" dur="3.81">tuesday and saturday are usually his</text>
+  <text start="700.44" dur="5.33">nights he gets a little irritated when</text>
+  <text start="702.69" dur="4.68">somebody else comes on and is</text>
+  <text start="705.77" dur="4.36">broadcasting on periscope</text>
+  <text start="707.37" dur="4.5">at the same time he&amp;#39;s broadcasting if</text>
+  <text start="710.13" dur="3.81">you&amp;#39;ve been watching Adams periscopes</text>
+  <text start="711.87" dur="4.02">you know what I&amp;#39;m talking about but</text>
+  <text start="713.94" dur="7.02">thing is like he has friends Jack</text>
+  <text start="715.89" dur="6.96">pasovic who is in DC He Nick disenzo</text>
+  <text start="720.96" dur="5.31">from Jersey is a new guy who&amp;#39;s on</text>
+  <text start="722.85" dur="8.12">periscope there are many other people</text>
+  <text start="726.27" dur="9.33">who are on periscope Carrie kelemen and</text>
+  <text start="730.97" dur="9.49">some of Adam&amp;#39;s friends what what Adam</text>
+  <text start="735.6" dur="10.05">would like to do is create on periscope</text>
+  <text start="740.46" dur="7.5">a nightly series of broadcasters who</text>
+  <text start="745.65" dur="3.48">keep a broadcast somebody on Monday</text>
+  <text start="747.96" dur="2.819">night somebody on Tuesday night</text>
+  <text start="749.13" dur="3.48">Wednesday night Thursday Friday night</text>
+  <text start="750.779" dur="4.441">centered in it where each person has an</text>
+  <text start="752.61" dur="3.87">assigned time and you can go there and</text>
+  <text start="755.22" dur="3.3">know that they&amp;#39;re going to be on there</text>
+  <text start="756.48" dur="4.26">that&amp;#39;s a little hard to do because</text>
+  <text start="758.52" dur="3.83">people like to spontaneously periscope</text>
+  <text start="760.74" dur="7.14">and some people will do two or three</text>
+  <text start="762.35" dur="9.58">scopes a day what I&amp;#39;m trying to develop</text>
+  <text start="767.88" dur="8.52">is a website where I would enlist</text>
+  <text start="771.93" dur="8.659">recruit a whole bunch of us me you guys</text>
+  <text start="776.4" dur="9.48">are friends where we can all broadcast</text>
+  <text start="780.589" dur="9.101">live on to on to this website it would</text>
+  <text start="785.88" dur="6.78">go out onto a live video week depending</text>
+  <text start="789.69" dur="5.82">on what software we use we could put it</text>
+  <text start="792.66" dur="5.61">on YouTube there is a software package</text>
+  <text start="795.51" dur="4.8">that i just installed on my phone and i</text>
+  <text start="798.27" dur="4.23">signed up for their free account you can</text>
+  <text start="800.31" dur="8.25">using this thing if you pay the higher</text>
+  <text start="802.5" dur="8.94">level program you can simulcast your</text>
+  <text start="808.56" dur="7.71">live videos on facebook and periscope</text>
+  <text start="811.44" dur="7.649">and snapchat off of one video it</text>
+  <text start="816.27" dur="5.7">integrates and simulcast everything on</text>
+  <text start="819.089" dur="5.341">all platforms i don&amp;#39;t know if i want to</text>
+  <text start="821.97" dur="6">go that route but what i would like to</text>
+  <text start="824.43" dur="6.029">do is maybe get this website up and</text>
+  <text start="827.97" dur="5.1">running recruit some people like Amy</text>
+  <text start="830.459" dur="4.981">Martin maybe and some other people who</text>
+  <text start="833.07" dur="4.74">are doing videos Jesse berkey who are</text>
+  <text start="835.44" dur="5">already doing videos and maybe get them</text>
+  <text start="837.81" dur="4.52">to do videos on this website and we</text>
+  <text start="840.44" dur="6.54">can drive traffic to the website we can</text>
+  <text start="842.33" dur="6.9">all share each other&amp;#39;s videos and create</text>
+  <text start="846.98" dur="4.26">a new media platform it&amp;#39;s how it&amp;#39;s about</text>
+  <text start="849.23" dur="3.99">new media I&amp;#39;ve been researching this for</text>
+  <text start="851.24" dur="4.14">the last couple of days the number of</text>
+  <text start="853.22" dur="5.82">people watching videos nowadays is crazy</text>
+  <text start="855.38" dur="6.45">there are like 10 billion videos viewed</text>
+  <text start="859.04" dur="8.19">on snapchat right now a year and eight</text>
+  <text start="861.83" dur="9.36">billion on Facebook billion videos video</text>
+  <text start="867.23" dur="7.98">is the future content delivery you know</text>
+  <text start="871.19" dur="5.43">is is moving toward video everybody sees</text>
+  <text start="875.21" dur="6.66">that everybody in the industry knows</text>
+  <text start="876.62" dur="7.26">what&amp;#39;s going on we are going to become</text>
+  <text start="881.87" dur="6.42">irrelevant if we don&amp;#39;t figure out how to</text>
+  <text start="883.88" dur="6.35">do better video and live video is really</text>
+  <text start="888.29" dur="5.22">important that&amp;#39;s why I finally got on</text>
+  <text start="890.23" dur="6.87">facebook did a few periscopes I&amp;#39;m trying</text>
+  <text start="893.51" dur="7.29">to experiment with this video formatting</text>
+  <text start="897.1" dur="6.61">live live video is because is the thing</text>
+  <text start="900.8" dur="4.95">of the future 2017 it&amp;#39;s going to become</text>
+  <text start="903.71" dur="4.35">much more important periscope and</text>
+  <text start="905.75" dur="3.99">Facebook Twitter they&amp;#39;re trying to</text>
+  <text start="908.06" dur="5.28">figure it out they&amp;#39;re going through some</text>
+  <text start="909.74" dur="6.36">growing pains other people are trying to</text>
+  <text start="913.34" dur="5.88">figure it out too what&amp;#39;s the ideal way</text>
+  <text start="916.1" dur="4.89">to do it what&amp;#39;s the best format flash</text>
+  <text start="919.22" dur="4.37">one of the things I found out is flash</text>
+  <text start="920.99" dur="5.04">video is a thing of the past google</text>
+  <text start="923.59" dur="3.7">chrome and a number of other browsers</text>
+  <text start="926.03" dur="4.86">are not even going to be supporting</text>
+  <text start="927.29" dur="7.02">flash video anymore html5 is going to be</text>
+  <text start="930.89" dur="5.49">that is a better video format and that&amp;#39;s</text>
+  <text start="934.31" dur="3.66">what most websites are going to did you</text>
+  <text start="936.38" dur="3.78">know that I didn&amp;#39;t know that until I</text>
+  <text start="937.97" dur="5.64">read this article this morning so I&amp;#39;m</text>
+  <text start="940.16" dur="5.429">learning a lot about video and I&amp;#39;m</text>
+  <text start="943.61" dur="3.83">trying to figure out the best most</text>
+  <text start="945.589" dur="5.821">efficient way to set up a video</text>
+  <text start="947.44" dur="7.149">information platform a new the new media</text>
+  <text start="951.41" dur="6.96">platform so you guys are helping me</text>
+  <text start="954.589" dur="5.821">you&amp;#39;re my you&amp;#39;re my beta testers this is</text>
+  <text start="958.37" dur="3.84">cool this is like periscope because I&amp;#39;m</text>
+  <text start="960.41" dur="3.45">a facebook live I can see all your</text>
+  <text start="962.21" dur="4.14">comments what do you guys leave comments</text>
+  <text start="963.86" dur="3.45">I can see them all right here I was one</text>
+  <text start="966.35" dur="4.31">of the things I was worried about</text>
+  <text start="967.31" dur="5.52">YouTube is if you do a live broadcast</text>
+  <text start="970.66" dur="2.799">can you see the comments because on</text>
+  <text start="972.83" dur="2.759">periscope</text>
+  <text start="973.459" dur="4.401">and Facebook you can see comments I can</text>
+  <text start="975.589" dur="6.151">see all your comments and it can I can I</text>
+  <text start="977.86" dur="6.579">can comment back to you so it has those</text>
+  <text start="981.74" dur="5.099">features the same as Facebook &amp;amp; M</text>
+  <text start="984.439" dur="7.2">periscope so the broadcaster&amp;#39;s can see</text>
+  <text start="986.839" dur="8.641">and get feedback yeah periscope needs a</text>
+  <text start="991.639" dur="6.54">serious upgrade it&amp;#39;s pretty iffy have</text>
+  <text start="995.48" dur="4.769">you guys noticed me breaking going in</text>
+  <text start="998.179" dur="8.01">and out is the video been disconnecting</text>
+  <text start="1000.249" dur="9.39">or anything like that ed you lost the</text>
+  <text start="1006.189" dur="6.09">image and the sound that might be as</text>
+  <text start="1009.639" dur="4.98">anybody else lost the image or this</text>
+  <text start="1012.279" dur="3.99">audio it during this broadcast oh I&amp;#39;m</text>
+  <text start="1014.619" dur="5.731">getting a message here this is poor</text>
+  <text start="1016.269" dur="6.331">connection so it&amp;#39;s probably on my end I</text>
+  <text start="1020.35" dur="4.469">have a bad connection i&amp;#39;m sitting eight</text>
+  <text start="1022.6" dur="4.38">feet away from my wireless router and i</text>
+  <text start="1024.819" dur="6.72">have a good connection but every time i</text>
+  <text start="1026.98" dur="6.63">do live video right i&amp;#39;m seeing a little</text>
+  <text start="1031.539" dur="5.701">orange warning bar at the top of my</text>
+  <text start="1033.61" dur="6.479">screen and it says poor connection ok</text>
+  <text start="1037.24" dur="5.569">now it&amp;#39;s gone that&amp;#39;s that seems to be</text>
+  <text start="1040.089" dur="6.69">the same thing i noticed on facebook is</text>
+  <text start="1042.809" dur="5.951">about every ten minutes or so my signal</text>
+  <text start="1046.779" dur="4.801">will degrade and then it&amp;#39;ll get choppy</text>
+  <text start="1048.76" dur="5.789">people the image will freeze or the</text>
+  <text start="1051.58" dur="4.709">audio will freeze and then the signal</text>
+  <text start="1054.549" dur="3.661">gets better and it takes off and it&amp;#39;s</text>
+  <text start="1056.289" dur="5.191">fine it&amp;#39;s happened now three times</text>
+  <text start="1058.21" dur="4.77">during this video which is 17 minutes so</text>
+  <text start="1061.48" dur="4.59">far three times I&amp;#39;ve seen the little</text>
+  <text start="1062.98" dur="4.439">orange bar where I had a poor signal one</text>
+  <text start="1066.07" dur="3.63">of the things that we have to be aware</text>
+  <text start="1067.419" dur="4.5">of for doing like video you have to have</text>
+  <text start="1069.7" dur="4.62">a strong signal which is why i can write</text>
+  <text start="1071.919" dur="5.01">next to my wireless router because if i</text>
+  <text start="1074.32" dur="7.41">was in my kitchen it wouldn&amp;#39;t be good it</text>
+  <text start="1076.929" dur="7.62">would be not so bad quality breaking in</text>
+  <text start="1081.73" dur="5.13">and out all the time so this for me this</text>
+  <text start="1084.549" dur="6.691">is a demonstration it&amp;#39;s a test it&amp;#39;s</text>
+  <text start="1086.86" dur="6.539">telling me that you do a lot of</text>
+  <text start="1091.24" dur="7.77">broadcasting and periscopes the best mel</text>
+  <text start="1093.399" dur="6.9">toria paris of periscope does um the</text>
+  <text start="1099.01" dur="3.36">thing about periscope is it has a</text>
+  <text start="1100.299" dur="3.961">platform right it&amp;#39;s a social media</text>
+  <text start="1102.37" dur="4.76">platform so you can it goes on twitter</text>
+  <text start="1104.26" dur="4.25">and you can recruit and</text>
+  <text start="1107.13" dur="4.35">sin have hundreds or thousands of</text>
+  <text start="1108.51" dur="4.32">followers youtube but but youtube is the</text>
+  <text start="1111.48" dur="4.47">same that&amp;#39;s one of the problems i&amp;#39;m</text>
+  <text start="1112.83" dur="8.25">working through is if i use a standalone</text>
+  <text start="1115.95" dur="8.34">video software and stream it to the</text>
+  <text start="1121.08" dur="4.77">website people can go to my website and</text>
+  <text start="1124.29" dur="2.49">see the video but they can&amp;#39;t go anywhere</text>
+  <text start="1125.85" dur="3.42">else you&amp;#39;re not going to see it on</text>
+  <text start="1126.78" dur="6.78">facebook or twitter or snapchat or</text>
+  <text start="1129.27" dur="8.67">Instagram or YouTube YouTube is a huge</text>
+  <text start="1133.56" dur="7.62">platform so if what I&amp;#39;m thinking is if</text>
+  <text start="1137.94" dur="5.22">we allow our bra and I and I posted this</text>
+  <text start="1141.18" dur="3.9">on Twitter just to let you guys know</text>
+  <text start="1143.16" dur="4.53">when you start a live broadcast on</text>
+  <text start="1145.08" dur="5.61">youtube if you&amp;#39;re interested in doing is</text>
+  <text start="1147.69" dur="6.26">let me explain how easy it is you if you</text>
+  <text start="1150.69" dur="7.43">have the YouTube app on your phone okay</text>
+  <text start="1153.95" dur="7.66">you can create a channel and you should</text>
+  <text start="1158.12" dur="6.4">you when you look at the youtube app</text>
+  <text start="1161.61" dur="5.4">there&amp;#39;s a little camera icon and it says</text>
+  <text start="1164.52" dur="5.94">you hit the camera the camera gives you</text>
+  <text start="1167.01" dur="7.62">two options record a video and stored on</text>
+  <text start="1170.46" dur="6.84">your phone or record a live broadcast if</text>
+  <text start="1174.63" dur="6.06">you select live broadcast then it sets</text>
+  <text start="1177.3" dur="5.16">up just like facebook live video it&amp;#39;s</text>
+  <text start="1180.69" dur="5.28">going to do a little screen shot where</text>
+  <text start="1182.46" dur="7.23">it&amp;#39;ll do the image that you got that</text>
+  <text start="1185.97" dur="6.18">people are going to see it asks you a</text>
+  <text start="1189.69" dur="6.33">couple of you can put in a text for a</text>
+  <text start="1192.15" dur="6.66">title and then you hit the button to</text>
+  <text start="1196.02" dur="5.46">start the broadcast and it&amp;#39;s live and</text>
+  <text start="1198.81" dur="4.43">all of your subscribers if their sign up</text>
+  <text start="1201.48" dur="5.76">for notifications of get a notification</text>
+  <text start="1203.24" dur="7.24">so i really didn&amp;#39;t expect a whole lot of</text>
+  <text start="1207.24" dur="5.79">people to be on this broadcast I didn&amp;#39;t</text>
+  <text start="1210.48" dur="4.74">tell anybody if I had mentioned on</text>
+  <text start="1213.03" dur="4.32">twitter or facebook that i was going to</text>
+  <text start="1215.22" dur="6.6">be on apparently had more more people i</text>
+  <text start="1217.35" dur="6.36">did in the setup when you take a screen</text>
+  <text start="1221.82" dur="3.39">capture that is going to be the</text>
+  <text start="1223.71" dur="3.48">thumbnail image for the video it allows</text>
+  <text start="1225.21" dur="4.2">you to share that on twitter or any</text>
+  <text start="1227.19" dur="4.79">other social media so i tweeted it out</text>
+  <text start="1229.41" dur="6.39">the the screen capture image in the link</text>
+  <text start="1231.98" dur="6.84">i don&amp;#39;t know how many of you came over</text>
+  <text start="1235.8" dur="5.05">from twitter probably not very many but</text>
+  <text start="1238.82" dur="4.25">actually Jenny might</text>
+  <text start="1240.85" dur="4.76">because Ginny is on my Twitter thing</text>
+  <text start="1243.07" dur="6.81">like crazy I bitches she she might have</text>
+  <text start="1245.61" dur="9.94">seen this on Twitter and joint from the</text>
+  <text start="1249.88" dur="8.07">twitter thing tin foil a design that&amp;#39;s I</text>
+  <text start="1255.55" dur="5.46">yeah okay see because you&amp;#39;re always like</text>
+  <text start="1257.95" dur="6.06">follow me like crazy on Twitter so with</text>
+  <text start="1261.01" dur="4.92">YouTube you can let people know from</text>
+  <text start="1264.01" dur="4.38">facebook and twitter you can let them</text>
+  <text start="1265.93" dur="6.87">know you&amp;#39;re broadcasting on youtube so</text>
+  <text start="1268.39" dur="7.53">if I posted a link on facebook and</text>
+  <text start="1272.8" dur="6.3">twitter that I&amp;#39;m broadcasting on youtube</text>
+  <text start="1275.92" dur="6.03">I could probably get a hundred people on</text>
+  <text start="1279.1" dur="4.32">the broadcast and and let them know or</text>
+  <text start="1281.95" dur="4.14">if I even better if I was doing a</text>
+  <text start="1283.42" dur="4.62">scheduled broadcast like if I&amp;#39;m doing</text>
+  <text start="1286.09" dur="3.66">every monday night at seven o&amp;#39;clock</text>
+  <text start="1288.04" dur="4.14">people are going to know oh hey</text>
+  <text start="1289.75" dur="9.56">paramedics on at seven got to get on on</text>
+  <text start="1292.18" dur="9.63">the channel and watches broadcast it&amp;#39;s</text>
+  <text start="1299.31" dur="6.4">the thing about YouTube is it they do</text>
+  <text start="1301.81" dur="9.45">make it easy to do this it&amp;#39;s free it&amp;#39;s</text>
+  <text start="1305.71" dur="7.74">easy so for now I&amp;#39;m going to be working</text>
+  <text start="1311.26" dur="6.33">with this I may be doing some more live</text>
+  <text start="1313.45" dur="6.54">videos to do some testing and who knows</text>
+  <text start="1317.59" dur="5.1">I may just do some regular some of my</text>
+  <text start="1319.99" dur="6.18">prophetic news updates on youtube as</text>
+  <text start="1322.69" dur="5.4">well as on facebook I haven&amp;#39;t really</text>
+  <text start="1326.17" dur="7.44">gotten unpair Scott much I probably</text>
+  <text start="1328.09" dur="8.7">should it&amp;#39;s it&amp;#39;s just something that I</text>
+  <text start="1333.61" dur="5.25">haven&amp;#39;t gotten around to doing I don&amp;#39;t</text>
+  <text start="1336.79" dur="3.36">have that big a following that&amp;#39;s the</text>
+  <text start="1338.86" dur="3.48">thing is I don&amp;#39;t have really much of a</text>
+  <text start="1340.15" dur="4.8">following on Twitter my Twitter</text>
+  <text start="1342.34" dur="5.27">following is really small and when I do</text>
+  <text start="1344.95" dur="7.44">a periscope maybe eight people watch it</text>
+  <text start="1347.61" dur="6.13">so I&amp;#39;m trying to and trying to figure</text>
+  <text start="1352.39" dur="9.6">out what&amp;#39;s the most efficient way to do</text>
+  <text start="1353.74" dur="15.17">this and now I have a poor connection so</text>
+  <text start="1361.99" dur="6.92">I you guys are still there all right</text>
+  <text start="1369" dur="5.26">Mike you were watching videos on YouTube</text>
+  <text start="1371.32" dur="7.23">and you saw the live link</text>
+  <text start="1374.26" dur="6.15">uh that&amp;#39;s interesting that&amp;#39;s interesting</text>
+  <text start="1378.55" dur="5.13">I&amp;#39;m always curious to know how people</text>
+  <text start="1380.41" dur="4.95">find a live video when it&amp;#39;s going so I&amp;#39;m</text>
+  <text start="1383.68" dur="2.91">trying to figure this process on trying</text>
+  <text start="1385.36" dur="3.95">to learn about it thank you guys for</text>
+  <text start="1386.59" dur="5.58">joining me I&amp;#39;m going to sign off I</text>
+  <text start="1389.31" dur="6.49">appreciate your feedback it&amp;#39;s been very</text>
+  <text start="1392.17" dur="6.78">helpful I guess I&amp;#39;ll have more updates</text>
+  <text start="1395.8" dur="5.01">in the future all right love you guys</text>
+  <text start="1398.95" dur="3.95">I&amp;#39;m going to get out of here talk to you</text>
+  <text start="1400.81" dur="2.09">later</text>
+</transcript>

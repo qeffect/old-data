@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transcript>
+  <text start="8.84" dur="5.259">hi there welcome to my youtube channel</text>
+  <text start="11.88" dur="4.82">I&amp;#39;m your host praying medic here&amp;#39;s</text>
+  <text start="14.099" dur="2.601">today&amp;#39;s message</text>
+  <text start="17.72" dur="5.94">hey there this is pragmatic and I am</text>
+  <text start="21.45" dur="7.94">coming at you today with a little tip on</text>
+  <text start="23.66" dur="10.69">how to set up a divvy for WordPress to</text>
+  <text start="29.39" dur="8.74">keep those annoying large images off of</text>
+  <text start="34.35" dur="5.97">your blog posts so I&amp;#39;m using a Divi</text>
+  <text start="38.13" dur="4.53">theme and I&amp;#39;m going to show you a few</text>
+  <text start="40.32" dur="8.94">things here so I have my landing page</text>
+  <text start="42.66" dur="8.94">set up so that I&amp;#39;ve got a section here</text>
+  <text start="49.26" dur="5.79">which has a three across featured</text>
+  <text start="51.6" dur="9.419">articles as you can see I&amp;#39;ve got fairly</text>
+  <text start="55.05" dur="9.95">narrow previews of six different blog</text>
+  <text start="61.019" dur="6.39">posts if you click on either this button</text>
+  <text start="65" dur="4.9">or if you click on the link to the blog</text>
+  <text start="67.409" dur="4.561">it&amp;#39;ll take you to the actual blog home</text>
+  <text start="69.9" dur="5.91">page and I&amp;#39;m going to do that now I&amp;#39;ll</text>
+  <text start="71.97" dur="8.58">show you where that takes us so on the</text>
+  <text start="75.81" dur="7.61">blog homepage I&amp;#39;ve got my blog posts set</text>
+  <text start="80.55" dur="6.09">up in two across with the right sidebar</text>
+  <text start="83.42" dur="6.58">and I&amp;#39;ve got a total of 10 blog posts</text>
+  <text start="86.64" dur="5.61">set up so you see previews with a read</text>
+  <text start="90" dur="3.87">more of each one and then I&amp;#39;ve got my</text>
+  <text start="92.25" dur="6.84">right sidebar where I&amp;#39;ve got my blog</text>
+  <text start="93.87" dur="7.65">role and my advertising for my books if</text>
+  <text start="99.09" dur="5.93">you click on now you&amp;#39;ll notice in these</text>
+  <text start="101.52" dur="9.68">images it&amp;#39;s just a preview image and</text>
+  <text start="105.02" dur="9.4">this rectangular size is the best size</text>
+  <text start="111.2" dur="7.21">proportion that you can use I would</text>
+  <text start="114.42" dur="7.08">strongly recommend using images that are</text>
+  <text start="118.41" dur="4.89">rectangular in this kind of proportion</text>
+  <text start="121.5" dur="4.2">it just works out best that way I&amp;#39;d</text>
+  <text start="123.3" dur="4.739">really try not to use square images or</text>
+  <text start="125.7" dur="4.529">images that are tall I always try to use</text>
+  <text start="128.039" dur="5.391">rectangular images that is they display</text>
+  <text start="130.229" dur="6.87">the best so when you click on one of the</text>
+  <text start="133.43" dur="7">blog posts it&amp;#39;ll open that in a separate</text>
+  <text start="137.099" dur="6.241">page all its own and what I have now as</text>
+  <text start="140.43" dur="5.97">you&amp;#39;ll see I just have the title no</text>
+  <text start="143.34" dur="5.849">image I&amp;#39;ve got my text I&amp;#39;ve got my right</text>
+  <text start="146.4" dur="4.84">sidebar with my books and the blog world</text>
+  <text start="149.189" dur="4.811">you can go through the blog post</text>
+  <text start="151.24" dur="5.88">and I just decided that I don&amp;#39;t want to</text>
+  <text start="154" dur="6.95">have the actual image the featured image</text>
+  <text start="157.12" dur="6.57">in a blog post I think it&amp;#39;s distracting</text>
+  <text start="160.95" dur="5.95">it it&amp;#39;s just not something that I want</text>
+  <text start="163.69" dur="5.31">in my blog posts if I have a certain</text>
+  <text start="166.9" dur="4.17">image that I want somewhere to appear in</text>
+  <text start="169" dur="3.96">the blog post you can embed that</text>
+  <text start="171.07" dur="3.63">somewhere like let&amp;#39;s say you have an</text>
+  <text start="172.96" dur="3.84">image here you can put in an image</text>
+  <text start="174.7" dur="3.72">between your text and just put your</text>
+  <text start="176.8" dur="3.15">image to the left or Center wherever you</text>
+  <text start="178.42" dur="4.31">want I just don&amp;#39;t like doing that very</text>
+  <text start="179.95" dur="8.43">often that&amp;#39;s just my personal preference</text>
+  <text start="182.73" dur="9.97">so I do embed images into my blog posts</text>
+  <text start="188.38" dur="10.04">usually a link to a book so let me show</text>
+  <text start="192.7" dur="11.64">you under the hood so on my front page</text>
+  <text start="198.42" dur="10">if I go to the Edit Page option you&amp;#39;ll</text>
+  <text start="204.34" dur="5.85">see this is the layout for my page and I</text>
+  <text start="208.42" dur="4.04">just want to show you one thing real</text>
+  <text start="210.19" dur="5.64">quickly I&amp;#39;m going to minimize this</text>
+  <text start="212.46" dur="6.94">sidebar here so we can see this little</text>
+  <text start="215.83" dur="5.61">bit better so I&amp;#39;ve got the if you use</text>
+  <text start="219.4" dur="7.35">the Divi Builder one thing to make note</text>
+  <text start="221.44" dur="8.31">of is the Divi page settings I have the</text>
+  <text start="226.75" dur="5.55">dot navigation off and the hide nav</text>
+  <text start="229.75" dur="6.42">before scroll it&amp;#39;s had that navigation</text>
+  <text start="232.3" dur="7.26">it determines whether the the navigation</text>
+  <text start="236.17" dur="4.8">bar in your menu is hidden when people</text>
+  <text start="239.56" dur="5.03">scroll you can have it hide up if you</text>
+  <text start="240.97" dur="4.98">want so I have that set as a default</text>
+  <text start="244.59" dur="3.67">scrolling down here</text>
+  <text start="245.95" dur="4.29">so for my front page what you can see is</text>
+  <text start="248.26" dur="8.84">I have a full width slider at the top</text>
+  <text start="250.24" dur="12.63">and then I&amp;#39;ve got my I have a PayPal</text>
+  <text start="257.1" dur="7.93">code here for my PayPal button my opt-in</text>
+  <text start="262.87" dur="5.61">email opt-in form here and different</text>
+  <text start="265.03" dur="5.4">things I actually have two of them set</text>
+  <text start="268.48" dur="7.14">up that are redundant one is for the</text>
+  <text start="270.43" dur="7.5">full desktop user view and this one is</text>
+  <text start="275.62" dur="3.91">actually for the mobile user view I had</text>
+  <text start="277.93" dur="4.45">them set up differently</text>
+  <text start="279.53" dur="6.75">when a user I had this one hides on</text>
+  <text start="282.38" dur="6.89">desktop this one hides on mobile and I</text>
+  <text start="286.28" dur="6.72">did that because I wanted a longer</text>
+  <text start="289.27" dur="5.71">opt-in form for people using desktop and</text>
+  <text start="293" dur="4.68">I wanted a taller opt-in form for people</text>
+  <text start="294.98" dur="4.68">using mobile devices so I have two</text>
+  <text start="297.68" dur="4.29">different ones and the option is to hide</text>
+  <text start="299.66" dur="6.87">one and not show you both of them at the</text>
+  <text start="301.97" dur="8.61">same time so down here on my blog post</text>
+  <text start="306.53" dur="6.75">what you&amp;#39;ll see is on the front page I</text>
+  <text start="310.58" dur="4.65">have a featured blog post I have buttons</text>
+  <text start="313.28" dur="3.48">this one will take you to the feature</text>
+  <text start="315.23" dur="5.04">articles this will take you to all of</text>
+  <text start="316.76" dur="6.03">the articles on the home page this is</text>
+  <text start="320.27" dur="4.05">the actual blogs I have posts I have</text>
+  <text start="322.79" dur="3.66">featured I&amp;#39;m gonna show you what that</text>
+  <text start="324.32" dur="6.33">looks like I just use a simple grid</text>
+  <text start="326.45" dur="5.969">layout and I selected six posts so when</text>
+  <text start="330.65" dur="5.97">you looked at that on the front page</text>
+  <text start="332.419" dur="7.201">what you saw is three across and two</text>
+  <text start="336.62" dur="9.42">rows and that is how I set up that</text>
+  <text start="339.62" dur="12.75">segment going back to the I&amp;#39;m going to</text>
+  <text start="346.04" dur="11.52">view the page here now I want to go to</text>
+  <text start="352.37" dur="8.37">the blog page I have something very</text>
+  <text start="357.56" dur="10.65">similar so again got my email opt-in</text>
+  <text start="360.74" dur="9.48">form and if you click on the edit this</text>
+  <text start="368.21" dur="4.55">page I want to show you real quick how</text>
+  <text start="370.22" dur="2.54">that&amp;#39;s set up</text>
+  <text start="376.54" dur="6.33">scroll down and they&amp;#39;ve got this blog</text>
+  <text start="379.77" dur="6.94">module set up here with the right</text>
+  <text start="382.87" dur="7.14">sidebar and again I&amp;#39;ve got them in a</text>
+  <text start="386.71" dur="12.12">grid layout with ten posts so basically</text>
+  <text start="390.01" dur="14.1">I&amp;#39;ve got two across with five rows now I</text>
+  <text start="398.83" dur="13.5">want to show you one more thing well let</text>
+  <text start="404.11" dur="11.75">me show you an individual blog post so</text>
+  <text start="412.33" dur="6.51">if I click on one of these blog posts</text>
+  <text start="415.86" dur="6.64">you&amp;#39;ll see it&amp;#39;s set up all the way</text>
+  <text start="418.84" dur="6.51">across full column and I&amp;#39;ve got my right</text>
+  <text start="422.5" dur="9.99">sidebar all right let me show you how</text>
+  <text start="425.35" dur="11.16">that&amp;#39;s set up the key thing here to have</text>
+  <text start="432.49" dur="6.42">it stretch all the way across is your</text>
+  <text start="436.51" dur="3.84">page layout option over here so your</text>
+  <text start="438.91" dur="3.66">Dibby post settings make sure you have</text>
+  <text start="440.35" dur="3.87">it to show right sidebar unless you want</text>
+  <text start="442.57" dur="5.64">it to be full width if you select full</text>
+  <text start="444.22" dur="6.27">width&amp;#39; it will remove the sidebar so how</text>
+  <text start="448.21" dur="4.38">your you can also do left sidebar right</text>
+  <text start="450.49" dur="5.19">sidebar depends on how you want to it</text>
+  <text start="452.59" dur="4.8">set up so make sure that this option is</text>
+  <text start="455.68" dur="4.29">consistent with how you want it to to</text>
+  <text start="457.39" dur="6.69">display now I&amp;#39;m gonna show you one more</text>
+  <text start="459.97" dur="6.24">thing here real quick and that is how</text>
+  <text start="464.08" dur="4.89">you set up the thumbnail views which</text>
+  <text start="466.21" dur="7.95">determines how the images display go to</text>
+  <text start="468.97" dur="11.31">the Divi section here and scroll up to</text>
+  <text start="474.16" dur="9.33">theme options and what you&amp;#39;re going to</text>
+  <text start="480.28" dur="7.47">want to look at here real quick is your</text>
+  <text start="483.49" dur="6.75">layout section so click on layout and</text>
+  <text start="487.75" dur="6.48">there are three things you need to pay</text>
+  <text start="490.24" dur="6.12">attention to so this is going to</text>
+  <text start="494.23" dur="4.14">determine whether you have comments on</text>
+  <text start="496.36" dur="3.72">your posts this determines whether</text>
+  <text start="498.37" dur="3.27">you&amp;#39;re going to have fun mail images</text>
+  <text start="500.08" dur="4.56">showing on your posts I have that</text>
+  <text start="501.64" dur="5.32">disabled you can choose to enable that</text>
+  <text start="504.64" dur="5.47">or not</text>
+  <text start="506.96" dur="5.189">but the way I have mine display I don&amp;#39;t</text>
+  <text start="510.11" dur="4.559">want thumbnail images on my post so I</text>
+  <text start="512.149" dur="5.971">have that turned off the next one is</text>
+  <text start="514.669" dur="8.011">this is for a single post layout so this</text>
+  <text start="518.12" dur="6.99">is where you have one blog post and this</text>
+  <text start="522.68" dur="5.7">is how the images and comments will</text>
+  <text start="525.11" dur="5.61">display on a single blog post go into</text>
+  <text start="528.38" dur="4.56">the single page layout this is if you</text>
+  <text start="530.72" dur="4.53">have a front page landing page a blog</text>
+  <text start="532.94" dur="6.269">page a podcast maybe this a separate</text>
+  <text start="535.25" dur="5.64">page by itself this will determine how</text>
+  <text start="539.209" dur="4.351">the images on that page are going to</text>
+  <text start="540.89" dur="4.98">display do you want them all to be the</text>
+  <text start="543.56" dur="4.589">large images or thumbnails again place</text>
+  <text start="545.87" dur="5.07">the thumbnails on page show comments on</text>
+  <text start="548.149" dur="3.81">page I have those I disabled because I</text>
+  <text start="550.94" dur="4.44">don&amp;#39;t really want people leaving</text>
+  <text start="551.959" dur="5.25">comments on a page by itself I only want</text>
+  <text start="555.38" dur="4.11">people leaving comments on posts so</text>
+  <text start="557.209" dur="5.221">you&amp;#39;ll see and the previous one when I</text>
+  <text start="559.49" dur="5.49">have a blog post I want comments on that</text>
+  <text start="562.43" dur="5.07">I don&amp;#39;t want comments on a page so I</text>
+  <text start="564.98" dur="3.66">have that shut off again place</text>
+  <text start="567.5" dur="2.67">thumbnails</text>
+  <text start="568.64" dur="4.65">I don&amp;#39;t want thumbnails on pages so I</text>
+  <text start="570.17" dur="6.6">have that disabled general settings is</text>
+  <text start="573.29" dur="6.9">the next tab again with general settings</text>
+  <text start="576.77" dur="7.379">I do not want random thumbnail images</text>
+  <text start="580.19" dur="6.42">showing up on my website I want them I</text>
+  <text start="584.149" dur="6.291">only want them in certain places so I</text>
+  <text start="586.61" dur="9.15">have that disabled so if you go in and</text>
+  <text start="590.44" dur="8.05">disable most of the thumbnail have image</text>
+  <text start="595.76" dur="4.74">options you won&amp;#39;t have those big images</text>
+  <text start="598.49" dur="4.8">showing up randomly on pages it annoys</text>
+  <text start="600.5" dur="4.98">the heck out of you all right well I</text>
+  <text start="603.29" dur="4.37">believe that is all I have for today I</text>
+  <text start="605.48" dur="6.03">hope you found this helpful</text>
+  <text start="607.66" dur="5.65">pragmatics Adam thanks for dropping by I</text>
+  <text start="611.51" dur="2.97">hope you enjoyed today&amp;#39;s message you</text>
+  <text start="613.31" dur="2.88">might consider sharing it with your</text>
+  <text start="614.48" dur="4.26">friends you can do that through the</text>
+  <text start="616.19" dur="4.56">links provided below the video if you</text>
+  <text start="618.74" dur="5.28">have questions or comments my email</text>
+  <text start="620.75" dur="5.25">address is admin at prang Medicom if you</text>
+  <text start="624.02" dur="3.39">haven&amp;#39;t visited my website I have a lot</text>
+  <text start="626" dur="2.31">of articles and videos there that you</text>
+  <text start="627.41" dur="5.46">might want to check out</text>
+  <text start="628.31" dur="6.019">it&amp;#39;s wwp RN Medicom you can also connect</text>
+  <text start="632.87" dur="3.75">with me on Facebook and Twitter</text>
+  <text start="634.329" dur="5.521">thanks for dropping by and I hope you&amp;#39;ll</text>
+  <text start="636.62" dur="3.23">consider subscribing to my channel</text>
+  <text start="644.62" dur="2.06">you</text>
+</transcript>

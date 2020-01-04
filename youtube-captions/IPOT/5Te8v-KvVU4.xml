@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transcript>
+  <text start="4.03" dur="27.59">[Music]</text>
+  <text start="37.16" dur="4.45">in pursuit of truth this is your host</text>
+  <text start="39.45" dur="4.83">Sir Patrick Mack ladies and gentlemen</text>
+  <text start="41.61" dur="4.92">you may have our good boy but we have</text>
+  <text start="44.28" dur="7.129">the very best boy</text>
+  <text start="46.53" dur="4.879">[Music]</text>
+  <text start="53.149" dur="4.621">such a good boy Dutch a good boy you</text>
+  <text start="56.39" dur="4.559">wanna do some cute we got a couple of</text>
+  <text start="57.77" dur="5.699">them we last left you at 36 19 and now</text>
+  <text start="60.949" dur="4.231">we&amp;#39;re at 36 20 I think you&amp;#39;re gonna find</text>
+  <text start="63.469" dur="4.051">this fairly compelling although I don&amp;#39;t</text>
+  <text start="65.18" dur="4.65">have anything conclusive I think we&amp;#39;re</text>
+  <text start="67.52" dur="4.05">starting to dial in on a topic that</text>
+  <text start="69.83" dur="5.49">we&amp;#39;ve been covering here on this channel</text>
+  <text start="71.57" dur="5.79">for a very long time now this one comes</text>
+  <text start="75.32" dur="6.75">in at 48 minutes after the hour 12 post</text>
+  <text start="77.36" dur="6.24">36 20 and cue is adding on to 36 19</text>
+  <text start="82.07" dur="4.17">where they were talking about doing a</text>
+  <text start="83.6" dur="5.45">salt rotation on the Patriots fight</text>
+  <text start="86.24" dur="5.189">board that&amp;#39;s over on 8th Coon and</text>
+  <text start="89.05" dur="4.03">assault rotation and what from what I</text>
+  <text start="91.429" dur="3.271">would understand would probably wipe out</text>
+  <text start="93.08" dur="3.27">cue strip code it looks like Q wants to</text>
+  <text start="94.7" dur="3.029">keep that trip code and they&amp;#39;re kind of</text>
+  <text start="96.35" dur="3.299">going back and forth talking about the</text>
+  <text start="97.729" dur="4.68">possibilities now how that all shakes</text>
+  <text start="99.649" dur="6.39">out I don&amp;#39;t really know but then we get</text>
+  <text start="102.409" dur="6.27">this here this is a BBC link to an older</text>
+  <text start="106.039" dur="5.25">article from about a year ago now it</text>
+  <text start="108.679" dur="3.931">might be a dead link on some browser so</text>
+  <text start="111.289" dur="3.86">we&amp;#39;re gonna go over in a tour and a</text>
+  <text start="112.61" dur="5.879">second Q says publicly known think</text>
+  <text start="115.149" dur="5.53">non-public access granted now the link</text>
+  <text start="118.489" dur="6.63">takes you to this BBC news article from</text>
+  <text start="120.679" dur="7.621">May of 2018 very curious PGP serious</text>
+  <text start="125.119" dur="5.37">flaw found in secure email tech a widely</text>
+  <text start="128.3" dur="4.07">used method of encrypting emails has</text>
+  <text start="130.489" dur="5.22">been found to suffer from a serious</text>
+  <text start="132.37" dur="6.46">vulnerability researchers say PGP</text>
+  <text start="135.709" dur="5.431">remember that pretty good privacy is a</text>
+  <text start="138.83" dur="4.65">data encryption method sometimes added</text>
+  <text start="141.14" dur="4.44">to programs that send and receive email</text>
+  <text start="143.48" dur="4.14">details about the vulnerability were</text>
+  <text start="145.58" dur="4.92">released by the süddeutsche Zeitung</text>
+  <text start="147.62" dur="4.92">newspaper prior to a scheduled embargo</text>
+  <text start="150.5" dur="4.29">previously the electronic found dear</text>
+  <text start="152.54" dur="4.89">foundation the e FF had advised</text>
+  <text start="154.79" dur="6.57">immediately disabling email tools that</text>
+  <text start="157.43" dur="5.91">automatically decrypted PGP the problem</text>
+  <text start="161.36" dur="3.9">had been investigated by Sebastian</text>
+  <text start="163.34" dur="3.99">schnitzel gnome just kidding it&amp;#39;s</text>
+  <text start="165.26" dur="4.89">schenzel at Muenster University of</text>
+  <text start="167.33" dur="4.439">Applied Sciences after the embargo of on</text>
+  <text start="170.15" dur="4.44">releasing details about the</text>
+  <text start="171.769" dur="4.321">vulnerability was lifted mr shinzo and</text>
+  <text start="174.59" dur="4.53">colleagues published their research</text>
+  <text start="176.09" dur="5.039">revealing how the attack on PGP emails</text>
+  <text start="179.12" dur="5.069">worked a website explaining the issue</text>
+  <text start="181.129" dur="5.44">has also now been made public mr. Shinzo</text>
+  <text start="184.189" dur="5.261">has been contacted by the BBC for come</text>
+  <text start="186.569" dur="4.95">there was initially concern among cyber</text>
+  <text start="189.45" dur="4.83">security researchers that the issue</text>
+  <text start="191.519" dur="5.491">affected the core protocol of PGP</text>
+  <text start="194.28" dur="5.61">meaning that all uses of the encryption</text>
+  <text start="197.01" dur="6.03">method including file encryption could</text>
+  <text start="199.89" dur="6.179">be made vulnerable however one provider</text>
+  <text start="203.04" dur="5.52">of software that can encrypt data using</text>
+  <text start="206.069" dur="4.95">PGP explained the problem specifically</text>
+  <text start="208.56" dur="4.89">concerned email programs that fail to</text>
+  <text start="211.019" dur="4.56">check for decryption errors properly</text>
+  <text start="213.45" dur="5.069">before following links in emails that</text>
+  <text start="215.579" dur="5.731">included HTML code the issue had been</text>
+  <text start="218.519" dur="5.851">overblown by the EFS said Werner cult of</text>
+  <text start="221.31" dur="4.739">I don&amp;#39;t know what that is new PG his</text>
+  <text start="224.37" dur="3.269">colleague Robert Hansen said on Twitter</text>
+  <text start="226.049" dur="4.291">that the issue had been known about for</text>
+  <text start="227.639" dur="4.651">some time all right let me take you down</text>
+  <text start="230.34" dur="5.13">here he argued it wasn&amp;#39;t really a</text>
+  <text start="232.29" dur="5.46">vulnerability in the open PGP system but</text>
+  <text start="235.47" dur="4.889">rather in email programs that had been</text>
+  <text start="237.75" dur="4.65">designed without appropriate safeguards</text>
+  <text start="240.359" dur="3.091">all right so this is really really</text>
+  <text start="242.4" dur="3">interesting and I find it very</text>
+  <text start="243.45" dur="5.489">interesting that this is called pretty</text>
+  <text start="245.4" dur="5.579">good privacy yeah now let me just finish</text>
+  <text start="248.939" dur="4.26">you off down here Alan Woodward at the</text>
+  <text start="250.979" dur="4.921">University of Surrey agreed adding it</text>
+  <text start="253.199" dur="5.04">does have some big implications as it</text>
+  <text start="255.9" dur="5.88">could lead to a channel for sneaking</text>
+  <text start="258.239" dur="7.501">data off devices as well as for</text>
+  <text start="261.78" dur="6.75">decrypting messages remember that could</text>
+  <text start="265.74" dur="5.459">lead to a channel for sneaking data off</text>
+  <text start="268.53" dur="4.949">devices as well as for decrypting</text>
+  <text start="271.199" dur="5.551">messages the researchers have said that</text>
+  <text start="273.479" dur="5.761">users of PGP email can disable HTML in</text>
+  <text start="276.75" dur="5.22">their mail programs to stay safe from</text>
+  <text start="279.24" dur="5.37">attacks based on the vulnerability it&amp;#39;s</text>
+  <text start="281.97" dur="4.8">also possible to decrypt emails with PGP</text>
+  <text start="284.61" dur="3.43">decryption tools separate from email</text>
+  <text start="286.77" dur="4.669">programs</text>
+  <text start="288.04" dur="3.399">[Music]</text>
+  <text start="293.96" dur="5.709">okay so I just read you an article in</text>
+  <text start="296.55" dur="4.56">regards to pretty good privacy well that</text>
+  <text start="299.669" dur="4.351">doesn&amp;#39;t sound very good right you want</text>
+  <text start="301.11" dur="5.13">very good privacy and when we think</text>
+  <text start="304.02" dur="3.209">about very good privacy we think about</text>
+  <text start="306.24" dur="3.269">something that I&amp;#39;ve been talking about</text>
+  <text start="307.229" dur="6.361">for well over a year now which is very</text>
+  <text start="309.509" dur="6.361">good boys in regards to dog tweets</text>
+  <text start="313.59" dur="4.049">animal tweets of all sorts but there&amp;#39;s a</text>
+  <text start="315.87" dur="4.65">common theme that we keep seeing which</text>
+  <text start="317.639" dur="4.171">is this term very good boy</text>
+  <text start="320.52" dur="3.329">now if you&amp;#39;ve been following my channel</text>
+  <text start="321.81" dur="3.449">for a while you probably know where I&amp;#39;m</text>
+  <text start="323.849" dur="3.901">going with this but if you are</text>
+  <text start="325.259" dur="5.37">relatively new to my channel I&amp;#39;m gonna</text>
+  <text start="327.75" dur="5.699">back up just a little bit I will leave</text>
+  <text start="330.629" dur="5.22">this down below for you this is a link</text>
+  <text start="333.449" dur="5.791">to my one of my threads that I did back</text>
+  <text start="335.849" dur="7.081">here in June of 2019 and as you can see</text>
+  <text start="339.24" dur="5.97">I&amp;#39;ve referenced a whole bunch of videos</text>
+  <text start="342.93" dur="4.979">here I put an extreme amount of work</text>
+  <text start="345.21" dur="4.979">into this topic and this is why I don&amp;#39;t</text>
+  <text start="347.909" dur="4.111">really entertain the naysayers that are</text>
+  <text start="350.189" dur="3.69">so casual about it because I&amp;#39;ve put in</text>
+  <text start="352.02" dur="3.119">quite a bit as you can see a lot of</text>
+  <text start="353.879" dur="2.701">different videos but the great part</text>
+  <text start="355.139" dur="3.511">about this thread is that you can get</text>
+  <text start="356.58" dur="3.839">all these video links in there and you</text>
+  <text start="358.65" dur="3.329">can kind of see all this work that I&amp;#39;ve</text>
+  <text start="360.419" dur="4.411">done in regards to all these different</text>
+  <text start="361.979" dur="5.041">dog tweets this had to do with the death</text>
+  <text start="364.83" dur="3.899">of John McCain this has to do with Q and</text>
+  <text start="367.02" dur="4.079">on this has to do with James Comey</text>
+  <text start="368.729" dur="4.891">Elizabeth Warren Alyssa Milano Eric&amp;#39;s</text>
+  <text start="371.099" dur="3.831">Smallville all these different kinds of</text>
+  <text start="373.62" dur="3.96">people and I&amp;#39;ve explained it</text>
+  <text start="374.93" dur="5.169">exhaustively in this thread and it will</text>
+  <text start="377.58" dur="3.57">be down below for you but the reason I</text>
+  <text start="380.099" dur="3.511">want to bring it up right now it&amp;#39;s</text>
+  <text start="381.15" dur="3.989">because I think it&amp;#39;s rather relevant we</text>
+  <text start="383.61" dur="4.26">were just talking about pretty good</text>
+  <text start="385.139" dur="5.28">privacy and I&amp;#39;m relating it to very good</text>
+  <text start="387.87" dur="4.62">boy well very good privacy would sound a</text>
+  <text start="390.419" dur="4.92">lot better than pretty good privacy</text>
+  <text start="392.49" dur="4.859">correct well indeed it would we take you</text>
+  <text start="395.339" dur="7.94">over here to medium comm from February</text>
+  <text start="397.349" dur="5.93">of 2019 entitled very good privacy</text>
+  <text start="404.98" dur="4.48">very good privacy a standalone</text>
+  <text start="407.18" dur="4.86">end-to-end encryption library is modeled</text>
+  <text start="409.46" dur="4.62">after the pretty good privacy Ross like</text>
+  <text start="412.04" dur="4.7">we were just talking about that crypto</text>
+  <text start="414.08" dur="4.83">system by using public key cryptography</text>
+  <text start="416.74" dur="5.08">symmetrical encryption diffie-hellman</text>
+  <text start="418.91" dur="5.43">key exchange and hashing for public key</text>
+  <text start="421.82" dur="4.35">fingerprinting duality has made the</text>
+  <text start="424.34" dur="3.69">following huge improvements to PGP</text>
+  <text start="426.17" dur="4.74">developed by Phil Zimmermann all the way</text>
+  <text start="428.03" dur="5.55">back in 1991 then we get into some tech</text>
+  <text start="430.91" dur="5.1">talk here asymmetric key uses curve two</text>
+  <text start="433.58" dur="5.55">five five one nine two five six bit</text>
+  <text start="436.01" dur="6.18">elliptical curve key instead of RSA 2048</text>
+  <text start="439.13" dur="5.67">4096 bit linear key it&amp;#39;s produced by the</text>
+  <text start="442.19" dur="4.59">modal interaction of magneto reluctance</text>
+  <text start="444.8" dur="4.56">and capacitive directed point two five</text>
+  <text start="446.78" dur="4.83">six bit ECC keys are much smaller than</text>
+  <text start="449.36" dur="4.02">two zero four eight bit RSA key the</text>
+  <text start="451.61" dur="3.96">original machine had a base plate of pre</text>
+  <text start="453.38" dur="4.32">family Daniel I surmounted by a</text>
+  <text start="455.57" dur="3.84">malleable logarithmic casing but offer</text>
+  <text start="457.7" dur="3.48">the same level or better security as the</text>
+  <text start="459.41" dur="3.51">two five six bit key operations are</text>
+  <text start="461.18" dur="4.2">faster as well this allows us to save</text>
+  <text start="462.92" dur="5.07">space on the blockchain and DHT okay so</text>
+  <text start="465.38" dur="5.34">we are talking about data encryption and</text>
+  <text start="467.99" dur="5.28">I want to take you back to October 24th</text>
+  <text start="470.72" dur="4.86">of 2019 which wasn&amp;#39;t that long ago from</text>
+  <text start="473.27" dur="5.94">the venture bean this is called very</text>
+  <text start="475.58" dur="5.94">good security raises 35 million dollars</text>
+  <text start="479.21" dur="5.76">to protect companies private customer</text>
+  <text start="481.52" dur="5.64">data very good security a data privacy</text>
+  <text start="484.97" dur="4.23">platform that helps financial and health</text>
+  <text start="487.16" dur="4.98">care service providers and others</text>
+  <text start="489.2" dur="5.34">protect their customers data has raised</text>
+  <text start="492.14" dur="6.03">thirty five million dollars in a Series</text>
+  <text start="494.54" dur="5.94">B round of funding led by goldman sachs</text>
+  <text start="498.17" dur="4.65">merchant banking division with</text>
+  <text start="500.48" dur="5.88">participation from andreessen horowitz</text>
+  <text start="502.82" dur="5.85">and vertex ventures among other existing</text>
+  <text start="506.36" dur="4.68">investors okay so very interesting that</text>
+  <text start="508.67" dur="5.07">goldman sachs which already has a ton</text>
+  <text start="511.04" dur="5.63">year data now has this little platform</text>
+  <text start="513.74" dur="6.6">that&amp;#39;s gonna help protect your data</text>
+  <text start="516.67" dur="5.74">founded out of San Francisco in 2016</text>
+  <text start="520.34" dur="3.69">vgs is built on the notion that most</text>
+  <text start="522.41" dur="4.02">companies don&amp;#39;t actually want to store</text>
+  <text start="524.03" dur="4.35">people&amp;#39;s private data that&amp;#39;s a lie</text>
+  <text start="526.43" dur="5.16">they don&amp;#39;t want to keep Social Security</text>
+  <text start="528.38" dur="6">numbers SSNs or bank card details on</text>
+  <text start="531.59" dur="4.77">file but they have to if they want to</text>
+  <text start="534.38" dur="3.63">check up on customers credit history</text>
+  <text start="536.36" dur="4.08">or collect money for a monthly</text>
+  <text start="538.01" dur="6.06">subscription okay so it&amp;#39;s a necessary</text>
+  <text start="540.44" dur="6.089">evil I guess we&amp;#39;ll keep your data this</text>
+  <text start="544.07" dur="3.93">is where vgs comes into play providing a</text>
+  <text start="546.529" dur="3.661">developer friendly platform so</text>
+  <text start="548" dur="6.5">businesses can offload sensitive data</text>
+  <text start="550.19" dur="7.68">hmm vgs bills itself as a third-party</text>
+  <text start="554.5" dur="6.519">custodian that specializes in protecting</text>
+  <text start="557.87" dur="5.159">data and ensuring regulatory compliance</text>
+  <text start="561.019" dur="5.13">now I thought this was interesting here</text>
+  <text start="563.029" dur="5.461">using vgs companies can leverage the</text>
+  <text start="566.149" dur="4.62">value of data without having access to</text>
+  <text start="568.49" dur="3.719">the data itself for example that can</text>
+  <text start="570.769" dur="2.911">take money from a customer&amp;#39;s bank</text>
+  <text start="572.209" dur="4.38">account without ever knowing their bank</text>
+  <text start="573.68" dur="5.61">account details vgs effectively wraps</text>
+  <text start="576.589" dur="4.891">around company&amp;#39;s systems keeping them</text>
+  <text start="579.29" dur="4.65">for from ever coming into direct contact</text>
+  <text start="581.48" dur="5.099">with private data the platform read acts</text>
+  <text start="583.94" dur="4.139">and token eise&amp;#39;s sensitive information</text>
+  <text start="586.579" dur="3.69">let me say that again the platform read</text>
+  <text start="588.079" dur="4.621">acts and token eise&amp;#39;s sensitive</text>
+  <text start="590.269" dur="5.041">information giving the business a hashed</text>
+  <text start="592.7" dur="6.12">aliased version that consists of random</text>
+  <text start="595.31" dur="5.91">characters okay so I&amp;#39;m not exactly sure</text>
+  <text start="598.82" dur="4.35">where we are but it seems like we&amp;#39;re</text>
+  <text start="601.22" dur="4.619">starting to dial this and it looks like</text>
+  <text start="603.17" dur="4.83">these very good boy tweets could be</text>
+  <text start="605.839" dur="3.921">dealing with information and we&amp;#39;ve</text>
+  <text start="608" dur="3.75">talked about this for quite some time</text>
+  <text start="609.76" dur="3.22">numerous tweets and we&amp;#39;re not gonna go</text>
+  <text start="611.75" dur="2.399">through them all cuz there&amp;#39;s just so</text>
+  <text start="612.98" dur="3.21">many and some of them don&amp;#39;t mean</text>
+  <text start="614.149" dur="3.211">anything some of them do but like I said</text>
+  <text start="616.19" dur="2.79">if you&amp;#39;ve been following my channel for</text>
+  <text start="617.36" dur="3.45">a while please follow the thread if</text>
+  <text start="618.98" dur="3.539">you&amp;#39;re not familiar with this story go</text>
+  <text start="620.81" dur="5.13">back over these videos you&amp;#39;ll see the</text>
+  <text start="622.519" dur="5.281">numerous numerous tweets regarding very</text>
+  <text start="625.94" dur="4.41">good boy and they&amp;#39;re all very very</text>
+  <text start="627.8" dur="3.75">curious now obviously people are dog</text>
+  <text start="630.35" dur="2.97">lovers I&amp;#39;m a dog lover</text>
+  <text start="631.55" dur="2.909">we like to tweet about our dogs we&amp;#39;re</text>
+  <text start="633.32" dur="3.06">not necessarily saying that because a</text>
+  <text start="634.459" dur="3.75">dog is being called a very good boy that</text>
+  <text start="636.38" dur="3.6">it has something to do with this but we</text>
+  <text start="638.209" dur="4.401">do know that some information is going</text>
+  <text start="639.98" dur="5.91">back and forth and we have kind of</text>
+  <text start="642.61" dur="5.8">posited this theory in regards to these</text>
+  <text start="645.89" dur="4.559">dogs referring to some sort of</text>
+  <text start="648.41" dur="4.799">information exchange whether it&amp;#39;s actual</text>
+  <text start="650.449" dur="5.911">chips inside actual dogs we don&amp;#39;t really</text>
+  <text start="653.209" dur="5.011">know but this seems to be some sort of</text>
+  <text start="656.36" dur="4.11">call out by saying hey you can come over</text>
+  <text start="658.22" dur="5.7">to my platform and you&amp;#39;re probably going</text>
+  <text start="660.47" dur="5.55">to get some very good security now I&amp;#39;d</text>
+  <text start="663.92" dur="4.89">also talked about the virtual game boy</text>
+  <text start="666.02" dur="3.61">as a possibility or this vgb driver</text>
+  <text start="668.81" dur="3.37">we&amp;#39;re not</text>
+  <text start="669.63" dur="3.99">sure but we seem to be on to something</text>
+  <text start="672.18" dur="4.2">here it seems to be some sort of</text>
+  <text start="673.62" dur="4.83">encrypted messages going back and forth</text>
+  <text start="676.38" dur="4.38">now it gets really curious because we&amp;#39;re</text>
+  <text start="678.45" dur="5.52">talking about bank account details this</text>
+  <text start="680.76" dur="6.96">very good privacy system this platform</text>
+  <text start="683.97" dur="5.34">works amongst whatsapp so this is</text>
+  <text start="687.72" dur="3.96">definitely in the exchange of</text>
+  <text start="689.31" dur="5.01">information realm how it exactly works</text>
+  <text start="691.68" dur="4.38">I&amp;#39;m not really sure if we&amp;#39;re really onto</text>
+  <text start="694.32" dur="4.41">something here but it seems like you is</text>
+  <text start="696.06" dur="4.47">giving this a little nod that of course</text>
+  <text start="698.73" dur="4.08">got me thinking about this tweet from</text>
+  <text start="700.53" dur="4.11">Elizabeth Warren on the 2nd of November</text>
+  <text start="702.81" dur="4.44">where she actually had a blow-up of her</text>
+  <text start="704.64" dur="4.71">own dog Bailey with two penny stuck to</text>
+  <text start="707.25" dur="2.64">its neck I have no idea why it&amp;#39;s very</text>
+  <text start="709.35" dur="2.93">strange</text>
+  <text start="709.89" dur="5.1">and of course everyone was chanting big</text>
+  <text start="712.28" dur="5.95">structural Bailey what an odd thing to</text>
+  <text start="714.99" dur="5.01">chant big structural Bailey there it is</text>
+  <text start="718.23" dur="3.18">right there and as you can see they&amp;#39;re</text>
+  <text start="720" dur="3.69">chanting this what a weird thing for</text>
+  <text start="721.41" dur="4.8">everybody to chant right so this was all</text>
+  <text start="723.69" dur="4.83">based off of her kind of her slogan big</text>
+  <text start="726.21" dur="3.87">structural change and whatnot but oddly</text>
+  <text start="728.52" dur="3.81">end up this whole Bailey thing with her</text>
+  <text start="730.08" dur="4.35">dog was sort of to combat the whole mean</text>
+  <text start="732.33" dur="3.87">culture and she was gonna participate in</text>
+  <text start="734.43" dur="4.53">it and dominate it and this and that and</text>
+  <text start="736.2" dur="5.58">there&amp;#39;s a big structural baleen alright</text>
+  <text start="738.96" dur="4.59">so we do know that there is some sort of</text>
+  <text start="741.78" dur="3.33">communication going back and forth and</text>
+  <text start="743.55" dur="3.45">we do know that dogs and very good boys</text>
+  <text start="745.11" dur="4.17">or somehow involved now whether I&amp;#39;ve</text>
+  <text start="747" dur="4.68">dialed it in exactly I&amp;#39;m not really sure</text>
+  <text start="749.28" dur="3.96">but it seems like the deep stay and the</text>
+  <text start="751.68" dur="3.93">white hats are kind of going back and</text>
+  <text start="753.24" dur="4.83">forth letting people know either what</text>
+  <text start="755.61" dur="4.44">platforms are ok to use maybe this is a</text>
+  <text start="758.07" dur="3.78">very good boy so this means that this</text>
+  <text start="760.05" dur="3.81">platform is a you know some sort of</text>
+  <text start="761.85" dur="3.99">secure platform that you can weather</text>
+  <text start="763.86" dur="5.22">send communications or maybe even send</text>
+  <text start="765.84" dur="5.88">money this big structural bailey had me</text>
+  <text start="769.08" dur="4.86">wondering if they were talking about BSB</text>
+  <text start="771.72" dur="4.23">which is kind of like a swift code for</text>
+  <text start="773.94" dur="3.69">Australian banks could this be some sort</text>
+  <text start="775.95" dur="4.38">of communication there I don&amp;#39;t really</text>
+  <text start="777.63" dur="5.01">know but if you&amp;#39;ve seen this over the</text>
+  <text start="780.33" dur="4.29">last year so we can definitely know that</text>
+  <text start="782.64" dur="4.59">we&amp;#39;re on to some sort of code now in</text>
+  <text start="784.62" dur="4.32">relation to queuing on as you may know</text>
+  <text start="787.23" dur="2.4">code monkey has been working on this</text>
+  <text start="788.94" dur="2.43">project</text>
+  <text start="789.63" dur="4.7">Odin which is like a companion software</text>
+  <text start="791.37" dur="7.05">like I&amp;#39;m saying right here to a coon and</text>
+  <text start="794.33" dur="5.95">even code monkey had tweeted a dog being</text>
+  <text start="798.42" dur="3.9">free from their leash not too long ago</text>
+  <text start="800.28" dur="3.16">but I wanted to point your attention to</text>
+  <text start="802.32" dur="3.519">this tweet from the</text>
+  <text start="803.44" dur="6.24">in regards to Odin this was actually in</text>
+  <text start="805.839" dur="6.18">regards to a San Francisco CBS local San</text>
+  <text start="809.68" dur="5.76">Francisco article in regards to a dog</text>
+  <text start="812.019" dur="6.36">named Odin who was a goat herding dog</text>
+  <text start="815.44" dur="4.709">during the firestorm in 2017 oh not only</text>
+  <text start="818.379" dur="4.56">protected his flock</text>
+  <text start="820.149" dur="5.821">he also seemingly adopted several baby</text>
+  <text start="822.939" dur="5.34">deer who were huddled around him for</text>
+  <text start="825.97" dur="4.799">safety now this is where things took a</text>
+  <text start="828.279" dur="4.021">weird twist and around late October</text>
+  <text start="830.769" dur="4.5">early November we started to see all</text>
+  <text start="832.3" dur="4.32">these dog tweets turn into deer tweets</text>
+  <text start="835.269" dur="3.24">and now we&amp;#39;re seeing a whole bunch of</text>
+  <text start="836.62" dur="3.6">both now I don&amp;#39;t want to go through all</text>
+  <text start="838.509" dur="3.211">of them because there&amp;#39;s too many to</text>
+  <text start="840.22" dur="3.39">really go through if you&amp;#39;re following me</text>
+  <text start="841.72" dur="3.57">on Twitter you&amp;#39;ve clearly seen the sheer</text>
+  <text start="843.61" dur="3.599">magnitude of all these different tweets</text>
+  <text start="845.29" dur="3.419">but let me just kind of highlight a few</text>
+  <text start="847.209" dur="2.911">here it seemed to I don&amp;#39;t know if it</text>
+  <text start="848.709" dur="4.291">started with this but this was one of</text>
+  <text start="850.12" dur="4.889">the early ones from the CIA themselves</text>
+  <text start="853" dur="6.06">who posted this a rare spotting this</text>
+  <text start="855.009" dur="6.27">evening of hashtag CIA deer on a mission</text>
+  <text start="859.06" dur="4.079">for food under the cover of night like</text>
+  <text start="861.279" dur="3.331">all good CIA officers they completed</text>
+  <text start="863.139" dur="4.26">their task and disappeared without a</text>
+  <text start="864.61" dur="6.12">trace and then we have hashtag it&amp;#39;s in</text>
+  <text start="867.399" dur="5.341">our and nature very odd indeed now it</text>
+  <text start="870.73" dur="3.539">looks like obviously some deer wandered</text>
+  <text start="872.74" dur="3">onto the campus there and they got some</text>
+  <text start="874.269" dur="3.841">pictures of it I understand that there&amp;#39;s</text>
+  <text start="875.74" dur="3.839">nothing nefarious to that and it is deer</text>
+  <text start="878.11" dur="3.089">season so we&amp;#39;re starting to see a lot</text>
+  <text start="879.579" dur="4.051">there but I thought this was very very</text>
+  <text start="881.199" dur="4.2">curious considering the CIA&amp;#39;s history</text>
+  <text start="883.63" dur="4.29">for tweeting out cryptic tweets and</text>
+  <text start="885.399" dur="5.341">their participation in this very good</text>
+  <text start="887.92" dur="5.969">boy stuff but I also want you to note</text>
+  <text start="890.74" dur="6.3">that the CIA D is all capitalized</text>
+  <text start="893.889" dur="4.411">they&amp;#39;re in the hash tag CIA D and of</text>
+  <text start="897.04" dur="3.899">course that got me thinking about the</text>
+  <text start="898.3" dur="6.3">internal audit directors over there at</text>
+  <text start="900.939" dur="7.171">the do e and of course do e as a doe a</text>
+  <text start="904.6" dur="6.959">deer a female deer and then we got this</text>
+  <text start="908.11" dur="6.149">tweet here from November 13th from the</text>
+  <text start="911.559" dur="5.34">POTUS himself this is a phony show trial</text>
+  <text start="914.259" dur="4.351">there is ZERO due process none it is yet</text>
+  <text start="916.899" dur="3.63">another fraudulent hoax conspiracy</text>
+  <text start="918.61" dur="5.37">theory it is another witch-hunt</text>
+  <text start="920.529" dur="5.881">this is what the socialist Democrat</text>
+  <text start="923.98" dur="3.69">Party has become there&amp;#39;s not one thing</text>
+  <text start="926.41" dur="3.779">the Democrats have done in the past</text>
+  <text start="927.67" dur="4.169">three years except try but a lot so we</text>
+  <text start="930.189" dur="3.721">started to see all this mention of dough</text>
+  <text start="931.839" dur="3.151">and deers and articles and whatnot and</text>
+  <text start="933.91" dur="2.15">like I said if you&amp;#39;re following me on</text>
+  <text start="934.99" dur="3.47">Twitter you&amp;#39;ll see</text>
+  <text start="936.06" dur="4.56">how prolific this really really was</text>
+  <text start="938.46" dur="3.66">we&amp;#39;re starting to see this back talk now</text>
+  <text start="940.62" dur="4.02">I have not quite figured out what that</text>
+  <text start="942.12" dur="4.2">truly means but I do have a feeling that</text>
+  <text start="944.64" dur="5.01">we might be talking about the Department</text>
+  <text start="946.32" dur="5.31">of Energy not really sure so I&amp;#39;ve gone</text>
+  <text start="949.65" dur="3.84">off on a bit of a tangent but I really</text>
+  <text start="951.63" dur="4.02">wanted to add a little color to this</text>
+  <text start="953.49" dur="4.35">story and show you especially you newer</text>
+  <text start="955.65" dur="3.81">viewers how pervasive this really is if</text>
+  <text start="957.84" dur="4.65">you want to get caught up more please</text>
+  <text start="959.46" dur="4.59">please please check out my thread which</text>
+  <text start="962.49" dur="2.97">will really be linked down below I will</text>
+  <text start="964.05" dur="3.03">update that thread because I&amp;#39;ve got some</text>
+  <text start="965.46" dur="3.24">more videos but that&amp;#39;s a lot of videos</text>
+  <text start="967.08" dur="3.12">for you to go through if you&amp;#39;ve not seen</text>
+  <text start="968.7" dur="3.45">them many of you have already checked</text>
+  <text start="970.2" dur="4.02">that out and are probably right along</text>
+  <text start="972.15" dur="4.17">with me on this one but it&amp;#39;s very very</text>
+  <text start="974.22" dur="4.41">curious now back to the cue cue says</text>
+  <text start="976.32" dur="4.83">publicly known think non-public well I</text>
+  <text start="978.63" dur="3.99">would imagine if pretty good privacy is</text>
+  <text start="981.15" dur="3.9">available to the public then the very</text>
+  <text start="982.62" dur="4.59">good privacy must be available privately</text>
+  <text start="985.05" dur="4.02">right and that must be some sort of way</text>
+  <text start="987.21" dur="3.45">that they&amp;#39;re passing on information back</text>
+  <text start="989.07" dur="4.26">and forth well it looks like Hugh is on</text>
+  <text start="990.66" dur="7.95">to that too saying access granted</text>
+  <text start="993.33" dur="7.89">cue let&amp;#39;s move on for now post 36:21 Q</text>
+  <text start="998.61" dur="6.36">says coordinated and planned spy inserts</text>
+  <text start="1001.22" dur="5.52">puppets have masters Senate was the</text>
+  <text start="1004.97" dur="3.6">target and the Twitter link takes you to</text>
+  <text start="1006.74" dur="4.23">senator Marsha Blackburn who tweeted</text>
+  <text start="1008.57" dur="4.32">vindictive Veneman is the whistle</text>
+  <text start="1010.97" dur="6.15">blowers handler and of course somewhere</text>
+  <text start="1012.89" dur="7.35">VIN Minh saying it&amp;#39;s nobody cares nobody</text>
+  <text start="1017.12" dur="4.95">cares dude anyway looks like he was</text>
+  <text start="1020.24" dur="5.04">indeed the handler and we&amp;#39;ve suspected</text>
+  <text start="1022.07" dur="6.03">that for some days of this whistleblower</text>
+  <text start="1025.28" dur="6.59">that goes by the name that I can&amp;#39;t say</text>
+  <text start="1028.1" dur="6.27">but it rhymes with Gary sarsparilla</text>
+  <text start="1031.87" dur="5.29">anyway Q says coordinated plans by</text>
+  <text start="1034.37" dur="5.07">inserts puppets have masters Senate was</text>
+  <text start="1037.16" dur="4.2">the target yeah that&amp;#39;s weeded about this</text>
+  <text start="1039.44" dur="3.63">yesterday and I think we are all</text>
+  <text start="1041.36" dur="3.47">starting to see this go on looks like</text>
+  <text start="1043.07" dur="4.65">impeachment was the plan all along</text>
+  <text start="1044.83" dur="4.78">keep in mind if they go through this and</text>
+  <text start="1047.72" dur="4.26">this invents eventually goes into the</text>
+  <text start="1049.61" dur="4.5">Senate then of course Trump can go ahead</text>
+  <text start="1051.98" dur="3.84">and call whomever he&amp;#39;d like and of</text>
+  <text start="1054.11" dur="4.5">course I&amp;#39;m sure he&amp;#39;s going to want to</text>
+  <text start="1055.82" dur="5.07">call our whistleblower right and I</text>
+  <text start="1058.61" dur="3.69">wouldn&amp;#39;t imagine that hunter Biden is</text>
+  <text start="1060.89" dur="3.78">going to be safe from that where is</text>
+  <text start="1062.3" dur="4.41">hunter Biden these days but either way</text>
+  <text start="1064.67" dur="4.5">the truth will have to have to come out</text>
+  <text start="1066.71" dur="2.82">at some point right because the Senate</text>
+  <text start="1069.17" dur="2.34">was</text>
+  <text start="1069.53" dur="3.6">the whole point that was the whole point</text>
+  <text start="1071.51" dur="3.09">of getting the Senate that was the whole</text>
+  <text start="1073.13" dur="3.03">point of getting that target now of</text>
+  <text start="1074.6" dur="4.26">course I&amp;#39;ve talked about the need for</text>
+  <text start="1076.16" dur="4.56">you know appointing judges and there was</text>
+  <text start="1078.86" dur="4.35">a multitude of reasons but really this</text>
+  <text start="1080.72" dur="4.41">was one in particular because it was not</text>
+  <text start="1083.21" dur="3.99">only going to save President Trump from</text>
+  <text start="1085.13" dur="3.99">being impeached but it was likely the</text>
+  <text start="1087.2" dur="4.74">reason we were going to be able to</text>
+  <text start="1089.12" dur="4.74">inject that legal evidence that he was</text>
+  <text start="1091.94" dur="4.2">talked about for so long by essentially</text>
+  <text start="1093.86" dur="4.62">calling witnesses and having the fake</text>
+  <text start="1096.14" dur="4.38">news have to cover it c-span&amp;#39;s gonna</text>
+  <text start="1098.48" dur="4.86">have to cover that and we&amp;#39;re gonna see</text>
+  <text start="1100.52" dur="4.56">it all fall apart on live TV now is that</text>
+  <text start="1103.34" dur="3.42">the way it&amp;#39;s gonna go down I&amp;#39;m not sure</text>
+  <text start="1105.08" dur="3.8">president Trump&amp;#39;s almost warning them</text>
+  <text start="1106.76" dur="5.04">not to do it and it does seem like</text>
+  <text start="1108.88" dur="4.63">nancy-pants Pelosi is a little bit</text>
+  <text start="1111.8" dur="3.33">sketchy about this whole thing probably</text>
+  <text start="1113.51" dur="3.69">because she&amp;#39;s smart enough to at least</text>
+  <text start="1115.13" dur="5.16">know that but a lot of these other other</text>
+  <text start="1117.2" dur="5.76">younger progressives if you will seem to</text>
+  <text start="1120.29" dur="4.5">be going full steam towards impeachment</text>
+  <text start="1122.96" dur="3.27">they are walking themselves right into</text>
+  <text start="1124.79" dur="4.2">that trap because that is how you</text>
+  <text start="1126.23" dur="4.74">legally inject evidence and of course</text>
+  <text start="1128.99" dur="4.11">like I said fake news will be required</text>
+  <text start="1130.97" dur="4.56">to cover it and it would all have to go</text>
+  <text start="1133.1" dur="6.2">down on national TV which would seem to</text>
+  <text start="1135.53" dur="5.49">be the single handed destroyer of the</text>
+  <text start="1139.3" dur="3.52">Democratic Party</text>
+  <text start="1141.02" dur="3.54">all right Patriots those are your cue</text>
+  <text start="1142.82" dur="3.78">post let me share with you a couple of</text>
+  <text start="1144.56" dur="5.34">interesting headlines this is from Tulsa</text>
+  <text start="1146.6" dur="4.98">Oklahoma off of news breaking live.com</text>
+  <text start="1149.9" dur="3.57">the owner of a home in Tulsa Oklahoma</text>
+  <text start="1151.58" dur="3.9">that went up in flames</text>
+  <text start="1153.47" dur="5.28">early Friday morning says that the dog</text>
+  <text start="1155.48" dur="6.27">saved his dog has died says that the dog</text>
+  <text start="1158.75" dur="5.31">that saved his dog has died the blaze</text>
+  <text start="1161.75" dur="4.11">reportedly broke out at 1:00 a.m. Friday</text>
+  <text start="1164.06" dur="3.9">morning after a small fire started</text>
+  <text start="1165.86" dur="4.32">outside the home spreading to a boat and</text>
+  <text start="1167.96" dur="4.74">car in the driveway and then to the</text>
+  <text start="1170.18" dur="4.71">garage and attic five adults and four</text>
+  <text start="1172.7" dur="4.65">children were sleeping at the time five</text>
+  <text start="1174.89" dur="5.22">adults and four children four kids five</text>
+  <text start="1177.35" dur="5.49">adults that&amp;#39;s 45 but were awakened by</text>
+  <text start="1180.11" dur="4.32">the dog who was acting strangely in an</text>
+  <text start="1182.84" dur="3.75">attempt to warn them of the fire in the</text>
+  <text start="1184.43" dur="3.81">Attic the homeowner says all nine</text>
+  <text start="1186.59" dur="5.16">residents were able to escape the home</text>
+  <text start="1188.24" dur="5.88">safely but the dog chaos was unable to</text>
+  <text start="1191.75" dur="4.02">escape the cause of the fire is under</text>
+  <text start="1194.12" dur="3.75">investigation all right well this is</text>
+  <text start="1195.77" dur="3.48">curious indeed and I&amp;#39;d like to find out</text>
+  <text start="1197.87" dur="3.06">more I&amp;#39;m not necessarily saying that</text>
+  <text start="1199.25" dur="3.45">this is any kind of communication just</text>
+  <text start="1200.93" dur="2.37">interesting interesting that a fire</text>
+  <text start="1202.7" dur="2.37">broke</text>
+  <text start="1203.3" dur="3.66">in the Attic while they were all</text>
+  <text start="1205.07" dur="4.11">sleeping and it happened to be for</text>
+  <text start="1206.96" dur="4.62">adults and fire excuse me five adults</text>
+  <text start="1209.18" dur="4.71">and four children but I also thought</text>
+  <text start="1211.58" dur="4.98">that that dog chaos was a little bit</text>
+  <text start="1213.89" dur="4.74">concerning and we got this from ABC fake</text>
+  <text start="1216.56" dur="3.99">news a black lab is hanging up his leash</text>
+  <text start="1218.63" dur="4.52">after nearly a decade on the job with</text>
+  <text start="1220.55" dur="5.16">the National Park Service k-9 officer</text>
+  <text start="1223.15" dur="4.48">boomer who was first recruited by the</text>
+  <text start="1225.71" dur="4.35">Chickasaw National Recreation Area in</text>
+  <text start="1227.63" dur="5.43">Oklahoma fort narcotics detection in</text>
+  <text start="1230.06" dur="4.59">2011 will retire later this month he has</text>
+  <text start="1233.06" dur="4.02">been instrumental in helping detect</text>
+  <text start="1234.65" dur="4.53">illegal drugs in his home park the local</text>
+  <text start="1237.08" dur="4.02">community and on special assignment to</text>
+  <text start="1239.18" dur="3.36">other National Park Service units</text>
+  <text start="1241.1" dur="3.21">the National Park Service said in a</text>
+  <text start="1242.54" dur="3.78">press release about the pups loyal</text>
+  <text start="1244.31" dur="4.05">service all right well maybe nothing</text>
+  <text start="1246.32" dur="3.66">looks like boom room was a very good boy</text>
+  <text start="1248.36" dur="3.06">after all but I thought it was very</text>
+  <text start="1249.98" dur="2.97">interesting that the dog&amp;#39;s name is a</text>
+  <text start="1251.42" dur="3.9">boomer because that&amp;#39;s a term that gets</text>
+  <text start="1252.95" dur="5.01">thrown around a lot right referring to</text>
+  <text start="1255.32" dur="4.59">the boomer generation but I also find it</text>
+  <text start="1257.96" dur="4.17">very interesting because that is a term</text>
+  <text start="1259.91" dur="6">that a lot of people use to people who</text>
+  <text start="1262.13" dur="5.25">are following Q a non just saying anyway</text>
+  <text start="1265.91" dur="3.03">it looks like he&amp;#39;s retired retirement</text>
+  <text start="1267.38" dur="3.63">plans include spending more time with</text>
+  <text start="1268.94" dur="3.78">his family receiving as many belly rubs</text>
+  <text start="1271.01" dur="3.57">as he can guilt them into you and</text>
+  <text start="1272.72" dur="3.18">chasing squirrel now you can see right</text>
+  <text start="1274.58" dur="2.91">there it says read more at and really</text>
+  <text start="1275.9" dur="3.36">all it says it to be at the bottom there</text>
+  <text start="1277.49" dur="5.4">that you miss is that he continues to be</text>
+  <text start="1279.26" dur="6.27">a very good boy finally I will leave you</text>
+  <text start="1282.89" dur="5.28">with this right here from the NSA slash</text>
+  <text start="1285.53" dur="4.86">CSS a pack of therapy dogs looking to</text>
+  <text start="1288.17" dur="4.62">provide a little stress relief visited</text>
+  <text start="1290.39" dur="4.59">Capitol Hill last week yeah there were a</text>
+  <text start="1292.79" dur="4.35">multitude of dog tweets in regards to</text>
+  <text start="1294.98" dur="3.78">this story too evidently some of the</text>
+  <text start="1297.14" dur="3.6">Democrats were a little stressed about</text>
+  <text start="1298.76" dur="3.72">this impeachment hearing so they got</text>
+  <text start="1300.74" dur="2.04">some therapy dogs well this is one of</text>
+  <text start="1302.48" dur="2.37">them</text>
+  <text start="1302.78" dur="4.74">Remi which is a very familiar name we&amp;#39;ve</text>
+  <text start="1304.85" dur="4.62">seen a lot of dogs named Remi one of the</text>
+  <text start="1307.52" dur="4.35">visiting dogs belongs to none other than</text>
+  <text start="1309.47" dur="4.62">a member of our work force we might be</text>
+  <text start="1311.87" dur="5.43">slightly biased but we think he might be</text>
+  <text start="1314.09" dur="6.21">the best boy now if you go on Twitter</text>
+  <text start="1317.3" dur="5.22">and type in Remi and very good boy you</text>
+  <text start="1320.3" dur="4.86">are going to see a ton of different</text>
+  <text start="1322.52" dur="4.2">options come up and I think many of you</text>
+  <text start="1325.16" dur="3.15">have recognized this name before and I</text>
+  <text start="1326.72" dur="3.63">just want to toss this out here that</text>
+  <text start="1328.31" dur="4.26">Remi is a computer program that figures</text>
+  <text start="1330.35" dur="3.08">out how computers can best cooperate to</text>
+  <text start="1332.57" dur="2.44">share an</text>
+  <text start="1333.43" dur="4.14">at work we&amp;#39;ve been talking about</text>
+  <text start="1335.01" dur="4.96">networks Remi creates end-to-end</text>
+  <text start="1337.57" dur="4.95">congestion control algorithms that plug</text>
+  <text start="1339.97" dur="5.58">into the transmission control protocol</text>
+  <text start="1342.52" dur="4.71">TCP these computer generated algorithms</text>
+  <text start="1345.55" dur="3.33">can achieve higher performance and</text>
+  <text start="1347.23" dur="4.26">greater fairness than the most</text>
+  <text start="1348.88" dur="6.06">sophisticated human design schemes well</text>
+  <text start="1351.49" dur="4.44">that would make it a very good program</text>
+  <text start="1354.94" dur="3.15">all right Patriots that&amp;#39;s all the</text>
+  <text start="1355.93" dur="4.56">craziness that I got for you for today</text>
+  <text start="1358.09" dur="4.38">you can let me know am i digging up a</text>
+  <text start="1360.49" dur="5.79">bone with all this very good boy stuff</text>
+  <text start="1362.47" dur="5.61">or am I just chasing my own tail you can</text>
+  <text start="1366.28" dur="4.23">decide but that&amp;#39;s all I got for you for</text>
+  <text start="1368.08" dur="3.75">now if you want to get caught up on more</text>
+  <text start="1370.51" dur="3.18">of this stuff because like I said it&amp;#39;s</text>
+  <text start="1371.83" dur="3.75">very very thorough please check out the</text>
+  <text start="1373.69" dur="4.53">thread down below it&amp;#39;s a thread reader</text>
+  <text start="1375.58" dur="4.74">app thread I&amp;#39;ll just title it i pot dog</text>
+  <text start="1378.22" dur="4.38">thread and you can get up to speed on</text>
+  <text start="1380.32" dur="4.8">that there&amp;#39;s multiple videos within that</text>
+  <text start="1382.6" dur="4.92">thread and so you can check that all out</text>
+  <text start="1385.12" dur="4.89">but incidentally in regards to that CIA</text>
+  <text start="1387.52" dur="4.26">deer tweet I was looking up CI ad</text>
+  <text start="1390.01" dur="3.69">acronyms and came across the Canadian</text>
+  <text start="1391.78" dur="4.11">intervention and assistance dogs</text>
+  <text start="1393.7" dur="3.54">foundation mmm interesting we just sent</text>
+  <text start="1395.89" dur="3.33">some of those to the White House we were</text>
+  <text start="1397.24" dur="3.93">just talking about that anyway that&amp;#39;s</text>
+  <text start="1399.22" dur="3.84">all I got for you for now all my links</text>
+  <text start="1401.17" dur="3.6">are down below I highly suggest joining</text>
+  <text start="1403.06" dur="4.23">at least one of them because I may not</text>
+  <text start="1404.77" dur="4.26">last over here on YouTube my gap my</text>
+  <text start="1407.29" dur="3.96">bitch chute my drop space my bright tea</text>
+  <text start="1409.03" dur="4.95">on comm they&amp;#39;re all linked down below</text>
+  <text start="1411.25" dur="5.58">you might want to check that out hint</text>
+  <text start="1413.98" dur="4.38">hint wink wink and of course that thread</text>
+  <text start="1416.83" dur="3.33">will be down below you can catch up on</text>
+  <text start="1418.36" dur="3.96">all the dog tweets it&amp;#39;ll be entitled i</text>
+  <text start="1420.16" dur="3.78">pot dog thread and it&amp;#39;ll be linked down</text>
+  <text start="1422.32" dur="3.15">below for you if you have any</text>
+  <text start="1423.94" dur="3.72">information for me my email is down</text>
+  <text start="1425.47" dur="4.92">below please do not DM me on social</text>
+  <text start="1427.66" dur="5.16">media I don&amp;#39;t DM on social media you can</text>
+  <text start="1430.39" dur="4.5">email me thank you so much and I&amp;#39;ve got</text>
+  <text start="1432.82" dur="4.29">an old school Pio box there if you are</text>
+  <text start="1434.89" dur="4.23">an old school type and if you&amp;#39;d like to</text>
+  <text start="1437.11" dur="3.99">support the channel my patreon is linked</text>
+  <text start="1439.12" dur="4.02">down below it&amp;#39;s all down below you can</text>
+  <text start="1441.1" dur="5.3">check it on out this is Sir Patrick Mac</text>
+  <text start="1443.14" dur="3.26">and until next time stay</text>
+  <text start="1448.08" dur="17.73">[Music]</text>
+</transcript>

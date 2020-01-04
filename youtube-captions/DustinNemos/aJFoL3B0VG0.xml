@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transcript>
+  <text start="2.32" dur="14.1">[Music]</text>
+  <text start="17.38" dur="5.5">welcome back my friends this is Dustin</text>
+  <text start="19.94" dur="4.74">emos and I&amp;#39;m thinking about a new</text>
+  <text start="22.88" dur="4.16">project I&amp;#39;ve actually been reading a lot</text>
+  <text start="24.68" dur="5.579">more about the cryptocurrency mining</text>
+  <text start="27.04" dur="5.109">situation lately and I ran some numbers</text>
+  <text start="30.259" dur="3.871">and I was actually really impressed know</text>
+  <text start="32.149" dur="2.851">you know we&amp;#39;ve probably heard that it&amp;#39;s</text>
+  <text start="34.13" dur="2.609">not what it once was</text>
+  <text start="35" dur="4.23">you know once upon a time you could get</text>
+  <text start="36.739" dur="5.371">you know multiple bitcoins a day from</text>
+  <text start="39.23" dur="5.63">Krypton mining and now you know many</text>
+  <text start="42.11" dur="6.24">people get a few pennies a day so really</text>
+  <text start="44.86" dur="7.78">the only way that I see to go with it is</text>
+  <text start="48.35" dur="6.27">to build a custom computer or go with</text>
+  <text start="52.64" dur="4.14">one of the super ASIC mining machines</text>
+  <text start="54.62" dur="4.11">which are a little expensive but the ROI</text>
+  <text start="56.78" dur="3.63">does seem to be there and I&amp;#39;m gonna walk</text>
+  <text start="58.73" dur="5.19">you guys through some of what I found</text>
+  <text start="60.41" dur="6.18">and I&amp;#39;m gonna invite you if you&amp;#39;re</text>
+  <text start="63.92" dur="7.32">interested I&amp;#39;m kind of seeing if people</text>
+  <text start="66.59" dur="6.239">would like for me to do a video journal</text>
+  <text start="71.24" dur="3.71">or whatever just talk to you guys</text>
+  <text start="72.829" dur="6.781">sometimes about my experience with a</text>
+  <text start="74.95" dur="5.95">miner if and when I get one if that&amp;#39;s</text>
+  <text start="79.61" dur="2.94">something that&amp;#39;s interesting to enough</text>
+  <text start="80.9" dur="4.92">people out there then I will you know</text>
+  <text start="82.55" dur="5.34">maybe do a separate segment on you know</text>
+  <text start="85.82" dur="4.71">how things are going in the mining</text>
+  <text start="87.89" dur="4.97">industry or how things are going in in</text>
+  <text start="90.53" dur="5.4">my personal experience setting up a</text>
+  <text start="92.86" dur="4.39">cryptocurrency miner with that said let</text>
+  <text start="95.93" dur="2.64">me walk you guys through a few of the</text>
+  <text start="97.25" dur="4.89">numbers I found it&amp;#39;s actually pretty</text>
+  <text start="98.57" dur="7.52">neat I think you&amp;#39;ll like it so in doing</text>
+  <text start="102.14" dur="7.92">my research on this particular issue I</text>
+  <text start="106.09" dur="5.95">discovered that there are a plethora of</text>
+  <text start="110.06" dur="4.47">options out there in the market this is</text>
+  <text start="112.04" dur="6.98">actually a really hotly contested niche</text>
+  <text start="114.53" dur="7.44">market in the tech sector I mean this is</text>
+  <text start="119.02" dur="6.25">specifically built computers almost</text>
+  <text start="121.97" dur="5.55">supercomputers designed for the purpose</text>
+  <text start="125.27" dur="3.57">of mining crypto currencies I&amp;#39;m not even</text>
+  <text start="127.52" dur="5.52">sure they really have much value outside</text>
+  <text start="128.84" dur="7.86">of that and you know they vary wildly in</text>
+  <text start="133.04" dur="6.54">their profitability and also depending</text>
+  <text start="136.7" dur="4.649">on what they mine these algorithms here</text>
+  <text start="139.58" dur="3.48">that they talk about with the weird</text>
+  <text start="141.349" dur="3.84">numbers that kryptonite and the Blake&amp;#39;s</text>
+  <text start="143.06" dur="3.27">and the shah&amp;#39;s and equi hashes and</text>
+  <text start="145.189" dur="5.101">scripts and</text>
+  <text start="146.33" dur="6.75">this is a which of the coins you&amp;#39;re</text>
+  <text start="150.29" dur="7.11">mining so in the case of Bitcoin you&amp;#39;re</text>
+  <text start="153.08" dur="6.42">looking for the sha-256 anyway as you</text>
+  <text start="157.4" dur="4.14">can see some of these machines are doing</text>
+  <text start="159.5" dur="4.08">a different algorithm on the alt coins</text>
+  <text start="161.54" dur="4.38">and making 143 dollars a day</text>
+  <text start="163.58" dur="4.98">that&amp;#39;s incredible I think that&amp;#39;s a</text>
+  <text start="165.92" dur="5.039">$10,000 machine though so you know</text>
+  <text start="168.56" dur="5.85">there&amp;#39;s there&amp;#39;s a lot of price variance</text>
+  <text start="170.959" dur="6.301">as well this is an interesting first</text>
+  <text start="174.41" dur="5.07">glance at some of the different options</text>
+  <text start="177.26" dur="5.43">and then obviously you would want to do</text>
+  <text start="179.48" dur="6.05">your review checks or something I think</text>
+  <text start="182.69" dur="6.6">I&amp;#39;ve settled on this one the dragon mint</text>
+  <text start="185.53" dur="8.65">16 Tara hash is a second and that the</text>
+  <text start="189.29" dur="9.21">the hashing is the is the income the</text>
+  <text start="194.18" dur="7.5">power the efficiency and all that so you</text>
+  <text start="198.5" dur="5.91">want higher hashing powers and over time</text>
+  <text start="201.68" dur="5.52">the hash power goes up as things get</text>
+  <text start="204.41" dur="5.52">more and more advanced and also the</text>
+  <text start="207.2" dur="6.39">difficulty goes up with the mining over</text>
+  <text start="209.93" dur="5.309">time so you know your your results</text>
+  <text start="213.59" dur="4.56">become less and less there&amp;#39;s a</text>
+  <text start="215.239" dur="5.97">diminishing returns effect anyway</text>
+  <text start="218.15" dur="5.49">obviously this is a $1,200 machine is a</text>
+  <text start="221.209" dur="4.53">little expensive they do fortunately</text>
+  <text start="223.64" dur="3.719">have some in stock which is exciting but</text>
+  <text start="225.739" dur="4.231">you know I don&amp;#39;t have that right now</text>
+  <text start="227.359" dur="6.21">when I do get that I am very interested</text>
+  <text start="229.97" dur="7.79">in in buying one of these machines and</text>
+  <text start="233.569" dur="6.871">setting it up on a passive income system</text>
+  <text start="237.76" dur="5.49">but let me tell you kind of the numbers</text>
+  <text start="240.44" dur="6.449">and why I&amp;#39;m thinking that now this is a</text>
+  <text start="243.25" dur="7.209">profitability calculator for nice hash</text>
+  <text start="246.889" dur="6.44">comm you can mine like the Shaw or the</text>
+  <text start="250.459" dur="2.87">the</text>
+  <text start="253.56" dur="4.17">in the script or the Kryptonite whatever</text>
+  <text start="255.69" dur="6.63">you can go mind specific coins set up</text>
+  <text start="257.73" dur="7.95">the program do that and then selectively</text>
+  <text start="262.32" dur="5.7">choose your own things and maybe do</text>
+  <text start="265.68" dur="6.63">better that way or you can let this</text>
+  <text start="268.02" dur="6.69">company do all of the mining using your</text>
+  <text start="272.31" dur="3.75">computer and then they switch around</text>
+  <text start="274.71" dur="2.79">difficult over is paying the most</text>
+  <text start="276.06" dur="3.81">because they&amp;#39;re actually selling the</text>
+  <text start="277.5" dur="6.54">hash power to customers who are then</text>
+  <text start="279.87" dur="6.93">picking specific things and it has a way</text>
+  <text start="284.04" dur="4.35">of being in many cases more profitable</text>
+  <text start="286.8" dur="4.04">and more efficient even though there&amp;#39;s a</text>
+  <text start="288.39" dur="5.01">middleman because they do selectively</text>
+  <text start="290.84" dur="5.98">pick out in the most profitable things</text>
+  <text start="293.4" dur="4.8">to do is you know each day so you save</text>
+  <text start="296.82" dur="3.15">the trouble of having to mess with that</text>
+  <text start="298.2" dur="4.44">by using this nice hash burger you know</text>
+  <text start="299.97" dur="4.62">algorithm and if I had dozens of miners</text>
+  <text start="302.64" dur="4.68">maybe I would want to strive for every</text>
+  <text start="304.59" dur="5.76">tiny bit of efficiency I could get and</text>
+  <text start="307.32" dur="6.75">maybe that is with or without my sash I</text>
+  <text start="310.35" dur="8.28">don&amp;#39;t know yet but currently it is a</text>
+  <text start="314.07" dur="7.05">very simple easy to set up way of</text>
+  <text start="318.63" dur="6.45">turning a computer into a miner now I</text>
+  <text start="321.12" dur="6.48">did it with my personal new computer</text>
+  <text start="325.08" dur="4.649">which is a very basic Dell it&amp;#39;s still</text>
+  <text start="327.6" dur="5.819">you know it&amp;#39;s new but at the same point</text>
+  <text start="329.729" dur="5.641">I got like a couple pennies a day and</text>
+  <text start="333.419" dur="5.31">incomes was really not a very strong</text>
+  <text start="335.37" dur="7.5">video card which kind of gives me the</text>
+  <text start="338.729" dur="6.991">earnings and does the work now I&amp;#39;m</text>
+  <text start="342.87" dur="5.19">looking at when I was doing the math on</text>
+  <text start="345.72" dur="4.38">this I was looking at basically the main</text>
+  <text start="348.06" dur="4.38">thing in the field which is the ant</text>
+  <text start="350.1" dur="4.62">miner s9 that&amp;#39;s kind of the industry</text>
+  <text start="352.44" dur="6.15">standard right now and it&amp;#39;s somewhat</text>
+  <text start="354.72" dur="5.64">recent its advanced and they&amp;#39;re not</text>
+  <text start="358.59" dur="3.24">likely to come up with anything too much</text>
+  <text start="360.36" dur="4.8">more advanced than that in the near</text>
+  <text start="361.83" dur="4.86">future I just like the dragon meant a</text>
+  <text start="365.16" dur="3.15">little bit more it&amp;#39;s a little bit</text>
+  <text start="366.69" dur="3.63">stronger than the price is not that much</text>
+  <text start="368.31" dur="4.05">more and it&amp;#39;s the world&amp;#39;s most efficient</text>
+  <text start="370.32" dur="4.069">there&amp;#39;s a couple of other things down</text>
+  <text start="372.36" dur="4.82">here about it but I like</text>
+  <text start="374.389" dur="4.68">in addition to it just seems like a</text>
+  <text start="377.18" dur="4.56">little bit more premium than the aunt</text>
+  <text start="379.069" dur="5.671">minor s9 that said if I got a deal on a</text>
+  <text start="381.74" dur="6.109">minor I would totally take it still a</text>
+  <text start="384.74" dur="5.639">great product and when you&amp;#39;re looking at</text>
+  <text start="387.849" dur="4.81">making money or calculating how much</text>
+  <text start="390.379" dur="4.29">money could make as a minor on autopilot</text>
+  <text start="392.659" dur="4.35">just letting that thing severe and turn</text>
+  <text start="394.669" dur="4.921">electricity into money you have to</text>
+  <text start="397.009" dur="5.37">consider your electricity costs now I</text>
+  <text start="399.59" dur="4.62">just so happen to have a neighbor who is</text>
+  <text start="402.379" dur="3.331">in the electrical industry and I don&amp;#39;t</text>
+  <text start="404.21" dur="3.48">know what how he&amp;#39;s doing it but he&amp;#39;s got</text>
+  <text start="405.71" dur="4.889">a deal through another one of his</text>
+  <text start="407.69" dur="6.12">businesses at an office where he can get</text>
+  <text start="410.599" dur="5.611">electricity between seven and a half to</text>
+  <text start="413.81" dur="4.71">eight cents per kilowatt hour</text>
+  <text start="416.21" dur="4.91">now that&amp;#39;s about half the price of what</text>
+  <text start="418.52" dur="4.79">I can get it here at about fourteen so</text>
+  <text start="421.12" dur="5.44">this friend of mine actually</text>
+  <text start="423.31" dur="8.229">interestingly already has about eight</text>
+  <text start="426.56" dur="6.18">miners so I&amp;#39;ve asked him and he was</text>
+  <text start="431.539" dur="4.5">thinking about it already with another</text>
+  <text start="432.74" dur="5.039">friend maybe just setting up a farm with</text>
+  <text start="436.039" dur="4.771">his electricity and maybe doing like a</text>
+  <text start="437.779" dur="4.741">small management fee and that is exactly</text>
+  <text start="440.81" dur="3.359">what I would like to do because I really</text>
+  <text start="442.52" dur="4.109">don&amp;#39;t have the time to mess with it I</text>
+  <text start="444.169" dur="5.67">just want to to tap into those profits</text>
+  <text start="446.629" dur="5.491">and with these kind of electrical costs</text>
+  <text start="449.839" dur="5.401">the eight cent you know I like to err on</text>
+  <text start="452.12" dur="5.34">the side of pessimism you know</text>
+  <text start="455.24" dur="3.84">conservative numbers so I might put it</text>
+  <text start="457.46" dur="6.12">at the higher number of what he told me</text>
+  <text start="459.08" dur="7.739">around eight cent in one day that</text>
+  <text start="463.58" dur="6.299">machine would pump out point zero zero</text>
+  <text start="466.819" dur="6.75">zero four three two five three Bitcoin</text>
+  <text start="469.879" dur="4.771">which in today&amp;#39;s prices is around three</text>
+  <text start="473.569" dur="3.96">dollars and 12 cent</text>
+  <text start="474.65" dur="5.16">so in a week it would be about twenty</text>
+  <text start="477.529" dur="3.931">three dollars and in a month it&amp;#39;d be</text>
+  <text start="479.81" dur="3.539">about two hundred and three dollars now</text>
+  <text start="481.46" dur="3.09">you might already be thinking that&amp;#39;s</text>
+  <text start="483.349" dur="2.85">awesome that&amp;#39;s great</text>
+  <text start="484.55" dur="6.329">that&amp;#39;s that&amp;#39;s a cellphone payment or</text>
+  <text start="486.199" dur="6.33">something for this machine and you may</text>
+  <text start="490.879" dur="2.97">have already kind of started to run some</text>
+  <text start="492.529" dur="4.651">of the numbers in your head between the</text>
+  <text start="493.849" dur="7.41">cost of that machine and the actual</text>
+  <text start="497.18" dur="6.209">output and it&amp;#39;s pretty nice so I wanted</text>
+  <text start="501.259" dur="4.59">to kind of walk through some of those</text>
+  <text start="503.389" dur="4.14">numbers with you guys and see if I&amp;#39;ve</text>
+  <text start="505.849" dur="2.111">made some kind of crazy mistake or</text>
+  <text start="507.529" dur="3.73">missed some</text>
+  <text start="507.96" dur="7.709">things stupid or silly or or something</text>
+  <text start="511.259" dur="5.611">maybe even not obvious that might be</text>
+  <text start="515.669" dur="2.851">leading me into some sort of a bad</text>
+  <text start="516.87" dur="6.69">decision you know as I&amp;#39;m new to this</text>
+  <text start="518.52" dur="7.08">field so my plan was to buy s9 miners or</text>
+  <text start="523.56" dur="6.3">or this this other one now that I like</text>
+  <text start="525.6" dur="5.7">more and I did the profitability for the</text>
+  <text start="529.86" dur="4.53">s9 I don&amp;#39;t want to be a little bit</text>
+  <text start="531.3" dur="6.63">better and that&amp;#39;s the same numbers you</text>
+  <text start="534.39" dur="6.59">see there and with a company offering</text>
+  <text start="537.93" dur="6.45">hosting with its reduced ultra costs</text>
+  <text start="540.98" dur="5.109">with smooth steady output 100 and day</text>
+  <text start="544.38" dur="4.44">warranty on the machines when you buy</text>
+  <text start="546.089" dur="4.891">them new and low cost of electricity</text>
+  <text start="548.82" dur="4.74">managed by an expert with previous</text>
+  <text start="550.98" dur="5.49">experience in multi ASIC combining farm</text>
+  <text start="553.56" dur="6.5">management you know he&amp;#39;s had eight plus</text>
+  <text start="556.47" dur="3.59">of them of his own for quite a while</text>
+  <text start="560.27" dur="6.91">with all of that you&amp;#39;re looking at like</text>
+  <text start="564.39" dur="7.259">a hundred percent or more a year ROI</text>
+  <text start="567.18" dur="9.12">which is fairly incredible you know 12</text>
+  <text start="571.649" dur="7.771">times 103 here is basically well over</text>
+  <text start="576.3" dur="5.18">what you would pay for the s9 which is</text>
+  <text start="579.42" dur="4.919">around thousand twelve hundred dollars</text>
+  <text start="581.48" dur="5.44">so get all of your money back in the</text>
+  <text start="584.339" dur="4.531">first year if everything goes as planned</text>
+  <text start="586.92" dur="4.979">obviously I mean that every this</text>
+  <text start="588.87" dur="5.94">business and things always come out of</text>
+  <text start="591.899" dur="4.921">the blue or or you know of the side</text>
+  <text start="594.81" dur="3.12">perspective and hate you from the side I</text>
+  <text start="596.82" dur="4.07">don&amp;#39;t what&amp;#39;s the perspective like</text>
+  <text start="597.93" dur="4.98">sidelined you is that it</text>
+  <text start="600.89" dur="6.75">but basically what I&amp;#39;m getting at here</text>
+  <text start="602.91" dur="7.049">is this is an incredible return and</text>
+  <text start="607.64" dur="4.42">here&amp;#39;s the other thing that you could do</text>
+  <text start="609.959" dur="3.141">if you were like me a very long-term</text>
+  <text start="612.06" dur="4.5">thinker</text>
+  <text start="613.1" dur="5.53">instead of taking this Bitcoin that you</text>
+  <text start="616.56" dur="3.74">earn every day and selling it for that</text>
+  <text start="618.63" dur="4.59">three hundred three dollars and 12 cents</text>
+  <text start="620.3" dur="7.99">which covers your expenses but also is</text>
+  <text start="623.22" dur="7.83">your profit rather than do that my goal</text>
+  <text start="628.29" dur="6.419">would be to hoard all of that Bitcoin</text>
+  <text start="631.05" dur="5.82">that I get and just pay the electrical</text>
+  <text start="634.709" dur="2.711">costs out of pocket or just sell enough</text>
+  <text start="636.87" dur="3.22">to cover the</text>
+  <text start="637.42" dur="4.53">costs if I have to you know if I get</text>
+  <text start="640.09" dur="5.46">more of these machines I may have to do</text>
+  <text start="641.95" dur="5.25">that because I want the big coin because</text>
+  <text start="645.55" dur="5.97">I do believe it&amp;#39;s gonna triple in the</text>
+  <text start="647.2" dur="5.79">next year or two so take that same one</text>
+  <text start="651.52" dur="5.01">hundred and two hundred three dollars a</text>
+  <text start="652.99" dur="6.03">month off of this you know thousand</text>
+  <text start="656.53" dur="5.82">dollar purchase already paying itself</text>
+  <text start="659.02" dur="5.55">back within a year but then you kept the</text>
+  <text start="662.35" dur="5.46">Bitcoin waited till it went up in price</text>
+  <text start="664.57" dur="5.13">like two or three times and then that</text>
+  <text start="667.81" dur="5.4">one thousand twelve hundred dollar</text>
+  <text start="669.7" dur="5.82">machine whatever has now tripled its</text>
+  <text start="673.21" dur="5.25">income for you if you think about it</text>
+  <text start="675.52" dur="7.28">because you&amp;#39;ve waited for the the coin</text>
+  <text start="678.46" dur="8.46">to triple in value so now it&amp;#39;s like a</text>
+  <text start="682.8" dur="10.15">300% return which is fairly incredible</text>
+  <text start="686.92" dur="8.22">so if you did the total it&amp;#39;d be around</text>
+  <text start="692.95" dur="4.89">point fifteen point sixteen point</text>
+  <text start="695.14" dur="5.52">seventeen Bitcoin for the year that&amp;#39;s</text>
+  <text start="697.84" dur="5.82">around eleven hundred forty three</text>
+  <text start="700.66" dur="4.11">dollars an 18th cent in five twenty</text>
+  <text start="703.66" dur="3.15">eight eighteen prices</text>
+  <text start="704.77" dur="5.25">so you&amp;#39;ve recouped your entire upfront</text>
+  <text start="706.81" dur="5.1">cost of equipment in a year or less or</text>
+  <text start="710.02" dur="4.74">like I said you can hobble which is hold</text>
+  <text start="711.91" dur="5.61">on for dear life hold on to your Bitcoin</text>
+  <text start="714.76" dur="4.77">long term and wait for the price to</text>
+  <text start="717.52" dur="3.69">triple quadruple whatever just be</text>
+  <text start="719.53" dur="4.11">patient it keeps going up and there&amp;#39;s a</text>
+  <text start="721.21" dur="5.1">lot of room to the upside because less</text>
+  <text start="723.64" dur="5.1">than one person population uses it it&amp;#39;s</text>
+  <text start="726.31" dur="5.34">a few hundred billion in a few hundred</text>
+  <text start="728.74" dur="4.83">trillion dollar industry which is</text>
+  <text start="731.65" dur="6.51">currency and and other things you know</text>
+  <text start="733.57" dur="7.5">big tech as well so it&amp;#39;s definitely</text>
+  <text start="738.16" dur="4.89">going up in my humble opinion so I&amp;#39;m</text>
+  <text start="741.07" dur="3.9">gonna wait I&amp;#39;m gonna hold on to the</text>
+  <text start="743.05" dur="7.92">Bitcoin that I mine when I get a miner</text>
+  <text start="744.97" dur="7.44">and I&amp;#39;m going to hopefully you know if</text>
+  <text start="750.97" dur="2.28">you guys see anything wrong with this</text>
+  <text start="752.41" dur="5.52">let me know please</text>
+  <text start="753.25" dur="7.92">I definitely don&amp;#39;t mind a little bit</text>
+  <text start="757.93" dur="6.03">of risk everybody considers kryptos to</text>
+  <text start="761.17" dur="4.22">be a very risky market I honestly the</text>
+  <text start="763.96" dur="3.72">more I learn about it the more I think</text>
+  <text start="765.39" dur="3.46">it&amp;#39;s a new market so there&amp;#39;s some</text>
+  <text start="767.68" dur="2.76">pitfalls you have to watch out for</text>
+  <text start="768.85" dur="3.12">there&amp;#39;s security risk things like that</text>
+  <text start="770.44" dur="4.29">but if you know what to do you&amp;#39;re</text>
+  <text start="771.97" dur="4.8">covered and the more I think about it</text>
+  <text start="774.73" dur="3.93">the more I learn about economics and the</text>
+  <text start="776.77" dur="4.74">situation that the fiat currencies and</text>
+  <text start="778.66" dur="4.98">the government&amp;#39;s are in and the unfunded</text>
+  <text start="781.51" dur="6.21">liabilities and the debt and the</text>
+  <text start="783.64" dur="6">corruption honestly I think that the</text>
+  <text start="787.72" dur="3.989">dollar is the riskier investment between</text>
+  <text start="789.64" dur="3.569">the dollar and Bitcoin i I think</text>
+  <text start="791.709" dur="3.661">bitcoins erratic because it&amp;#39;s gonna</text>
+  <text start="793.209" dur="5.13">bounce around it&amp;#39;s such a small market</text>
+  <text start="795.37" dur="4.89">right now 1% or less the population use</text>
+  <text start="798.339" dur="4.711">there&amp;#39;s a bunch of big players when they</text>
+  <text start="800.26" dur="5.639">when they splash their weight around it</text>
+  <text start="803.05" dur="4.229">makes waves markets go up and down when</text>
+  <text start="805.899" dur="4.711">there&amp;#39;s a little bit of bad news it</text>
+  <text start="807.279" dur="6.18">makes waves markets go up and down that</text>
+  <text start="810.61" dur="7.02">is that is the price that you pay for</text>
+  <text start="813.459" dur="5.581">honest money starting out that is the</text>
+  <text start="817.63" dur="2.82">that&amp;#39;s also where you&amp;#39;re going to get</text>
+  <text start="819.04" dur="4.32">all the riches and the wealth and stuff</text>
+  <text start="820.45" dur="4.259">because that volatility can be used to</text>
+  <text start="823.36" dur="5.31">your advantage if you can control your</text>
+  <text start="824.709" dur="5.971">emotion but really down the road when</text>
+  <text start="828.67" dur="3.8">twenty thirty forty percent of the</text>
+  <text start="830.68" dur="4.23">population of the world uses this stuff</text>
+  <text start="832.47" dur="5.59">that will no longer be possible there</text>
+  <text start="834.91" dur="7.38">will not be these massive variations and</text>
+  <text start="838.06" dur="8.25">value overnight so it&amp;#39;s coming fast it&amp;#39;s</text>
+  <text start="842.29" dur="5.73">coming fairly soon if you are interested</text>
+  <text start="846.31" dur="4.08">in the crypto market I think now is the</text>
+  <text start="848.02" dur="4.2">time to get in like that I always say</text>
+  <text start="850.39" dur="4.68">this is not financial advice this is</text>
+  <text start="852.22" dur="6.239">just what I&amp;#39;m gonna do and I always like</text>
+  <text start="855.07" dur="5.22">to get opinions from the hive mind out</text>
+  <text start="858.459" dur="4.771">there and all of the people who may have</text>
+  <text start="860.29" dur="4.41">experience with this I like to get</text>
+  <text start="863.23" dur="3.81">feedback and I like to bounce my ideas</text>
+  <text start="864.7" dur="3.629">around so that&amp;#39;s really what this is and</text>
+  <text start="867.04" dur="4.65">if you guys are interested I might even</text>
+  <text start="868.329" dur="6.441">you know do like a series of segments</text>
+  <text start="871.69" dur="6.27">talking about how that&amp;#39;s going and</text>
+  <text start="874.77" dur="5.65">talking about the setup and</text>
+  <text start="877.96" dur="4.83">and the the returns and the pitfalls and</text>
+  <text start="880.42" dur="3.96">the headaches and all of that at least</text>
+  <text start="882.79" dur="3.6">what I would know of it if he&amp;#39;s managing</text>
+  <text start="884.38" dur="5.34">it for me I may not have to deal with</text>
+  <text start="886.39" dur="5.13">some of them so um I&amp;#39;m gonna include a</text>
+  <text start="889.72" dur="3.51">couple of links for you guys in the</text>
+  <text start="891.52" dur="3.6">description if you&amp;#39;re interested in</text>
+  <text start="893.23" dur="6.54">perusing some of these numbers as well</text>
+  <text start="895.12" dur="6.87">and that&amp;#39;s really it I&amp;#39;ll include all of</text>
+  <text start="899.77" dur="5.31">this stuff as well so you can read over</text>
+  <text start="901.99" dur="4.65">my notes but that&amp;#39;s my thoughts I want</text>
+  <text start="905.08" dur="3.509">to get your thoughts leave it in the</text>
+  <text start="906.64" dur="6.29">comments please like share and subscribe</text>
+  <text start="908.589" dur="4.341">and you guys have a wonderful evening</text>
+  <text start="919.089" dur="2.06">you</text>
+</transcript>

@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transcript>
+  <text start="0.82" dur="8.569">[Applause]</text>
+  <text start="6.3" dur="3.089">[Music]</text>
+  <text start="9.769" dur="5.53">so what are we doing</text>
+  <text start="11.55" dur="5.489">basically this sounds easy but it&amp;#39;s</text>
+  <text start="15.299" dur="4.261">really hard to do we&amp;#39;re pushing down the</text>
+  <text start="17.039" dur="4.32">take news we&amp;#39;re demoting it and we are</text>
+  <text start="19.56" dur="4.62">increasing the authoritative news and</text>
+  <text start="21.359" dur="3.991">promoting it how do we do that we can</text>
+  <text start="24.18" dur="2.79">have a whole system we came up with</text>
+  <text start="25.35" dur="4.11">trashy news where we have build</text>
+  <text start="26.97" dur="4.649">classifiers we identify it we look for</text>
+  <text start="29.46" dur="5.52">salacious for clickbait content that</text>
+  <text start="31.619" dur="5.401">isn&amp;#39;t that we don&amp;#39;t think is you know</text>
+  <text start="34.98" dur="3.63">the authoritative news it&amp;#39;s just kind of</text>
+  <text start="37.02" dur="3.719">encouraging people to look at that it&amp;#39;s</text>
+  <text start="38.61" dur="4.74">not true and we&amp;#39;re training we added</text>
+  <text start="40.739" dur="5.701">these instructions to our readers and</text>
+  <text start="43.35" dur="5.369">with updated our classifiers and we&amp;#39;re</text>
+  <text start="46.44" dur="3.75">working to understand identify that with</text>
+  <text start="48.719" dur="3.901">machine learning and then to push that</text>
+  <text start="50.19" dur="5.49">down this episode of just inform talk I</text>
+  <text start="52.62" dur="5.579">sit down with the Google whistleblow mr.</text>
+  <text start="55.68" dur="5.609">Zack Voorhees and he&amp;#39;s gonna tell us all</text>
+  <text start="58.199" dur="6.6">about Google&amp;#39;s secret projects including</text>
+  <text start="61.289" dur="6.15">their a I projects known as deep mind</text>
+  <text start="64.799" dur="5.82">which Q has told us about that we&amp;#39;re</text>
+  <text start="67.439" dur="5.671">gonna dive even deeper into what it can</text>
+  <text start="70.619" dur="5.371">be used for and how it will eventually</text>
+  <text start="73.11" dur="5.369">be weaponized by these big tech sensors</text>
+  <text start="75.99" dur="4.14">and used against you and me so you guys</text>
+  <text start="78.479" dur="6.481">don&amp;#39;t wanna stick around to check this</text>
+  <text start="80.13" dur="7.32">out and welcome to just informed talk</text>
+  <text start="84.96" dur="4.86">today we have a very special guest you</text>
+  <text start="87.45" dur="5.33">guys don&amp;#39;t need to hear me say his name</text>
+  <text start="89.82" dur="5.759">out loud because there are Google</text>
+  <text start="92.78" dur="4.6">speech-to-text algorithms that could</text>
+  <text start="95.579" dur="4.411">pick it up and might actually take this</text>
+  <text start="97.38" dur="5.97">video offline but he is known as the</text>
+  <text start="99.99" dur="7.29">Google whistleblower and he is here with</text>
+  <text start="103.35" dur="7.199">us today so so let&amp;#39;s get into your</text>
+  <text start="107.28" dur="5.46">knowledge of project deep mind what is</text>
+  <text start="110.549" dur="4.831">deep mind can we get into that because</text>
+  <text start="112.74" dur="3.9">this is relevant to my audience and I</text>
+  <text start="115.38" dur="3.33">think what who&amp;#39;s going to be watching</text>
+  <text start="116.64" dur="4.799">this video we want to know more about</text>
+  <text start="118.71" dur="5.28">where that came from his dragon fly fake</text>
+  <text start="121.439" dur="4.021">was that a head fake by Google to get</text>
+  <text start="123.99" dur="3.72">people looking in one direction when</text>
+  <text start="125.46" dur="4.829">yeah you know it was it was really</text>
+  <text start="127.71" dur="5.52">interesting because I so let&amp;#39;s rewind</text>
+  <text start="130.289" dur="4.681">back to 2018 I had to</text>
+  <text start="133.23" dur="5.52">delivered nine hundred fifty pages to</text>
+  <text start="134.97" dur="8.879">project Veritas explaining how the whole</text>
+  <text start="138.75" dur="6.9">system of censorship worked and you know</text>
+  <text start="143.849" dur="4.681">then nothing can happen for a while but</text>
+  <text start="145.65" dur="7.32">then my handler came back and said yo</text>
+  <text start="148.53" dur="9.06">man what about project dragonfly and my</text>
+  <text start="152.97" dur="7.079">response to him was I have no idea what</text>
+  <text start="157.59" dur="5.52">project dragonfly is I&amp;#39;ve looked for it</text>
+  <text start="160.049" dur="7.111">I can&amp;#39;t find any information on it it</text>
+  <text start="163.11" dur="6.269">doesn&amp;#39;t seem to really exist but I have</text>
+  <text start="167.16" dur="6.299">all this information on machine learning</text>
+  <text start="169.379" dur="6.091">fairness like who made it like how long</text>
+  <text start="173.459" dur="3.78">it was incubating at Stanford for like</text>
+  <text start="175.47" dur="3.739">the contributors like this whole network</text>
+  <text start="177.239" dur="4.441">of people that was involved in this</text>
+  <text start="179.209" dur="7.261">machine learning fairness censorship</text>
+  <text start="181.68" dur="8.01">regime and I said but I can&amp;#39;t find thing</text>
+  <text start="186.47" dur="7.72">about project dragonfly</text>
+  <text start="189.69" dur="6.18">so yeah but then I seek that Q&amp;#39;s been</text>
+  <text start="194.19" dur="5.24">posting about it and said that it was</text>
+  <text start="195.87" dur="6.69">given over to to China or something</text>
+  <text start="199.43" dur="4.75">my personal opinion having worked within</text>
+  <text start="202.56" dur="5.04">the company and researching what its</text>
+  <text start="204.18" dur="6.59">activities were I believe that project</text>
+  <text start="207.6" dur="3.17">dragonfly is fake and</text>
+  <text start="212.17" dur="5.19">the reason and what another clue to this</text>
+  <text start="214.36" dur="5.58">happened after I left the company and</text>
+  <text start="217.36" dur="4.41">that&amp;#39;s that&amp;#39;s a big statement let me</text>
+  <text start="219.94" dur="6.21">just kind out there for a second and say</text>
+  <text start="221.77" dur="6.39">so if project dragonfly is fake let&amp;#39;s go</text>
+  <text start="226.15" dur="3.87">on that premise and just kind of go down</text>
+  <text start="228.16" dur="5.43">there this path with you for a second</text>
+  <text start="230.02" dur="5.16">doesn&amp;#39;t negate the fact that Google was</text>
+  <text start="233.59" dur="4.83">working with the Chinese on a mass</text>
+  <text start="235.18" dur="3.84">censorship search algorithm that&amp;#39;s</text>
+  <text start="238.42" dur="3.72">correct</text>
+  <text start="239.02" dur="5.4">okay so so we&amp;#39;re what we&amp;#39;re talking</text>
+  <text start="242.14" dur="4.56">about is not that the project itself was</text>
+  <text start="244.42" dur="4.38">drafted dragonfly was fake but Q may</text>
+  <text start="246.7" dur="4.14">have obviously used that colloquial term</text>
+  <text start="248.8" dur="4.11">to refer to it because it was the</text>
+  <text start="250.84" dur="6.36">popular term that the people were</text>
+  <text start="252.91" dur="6.78">grasping onto but is there any</text>
+  <text start="257.2" dur="4.77">connection to a project that was also</text>
+  <text start="259.69" dur="3.75">named deep dream and do you know</text>
+  <text start="261.97" dur="3.54">anything about that I think that&amp;#39;s more</text>
+  <text start="263.44" dur="3.45">centered out of Twitter so not a man</text>
+  <text start="265.51" dur="3">that&amp;#39;s it that&amp;#39;s something that we&amp;#39;re</text>
+  <text start="266.89" dur="6.41">researching that my team is researching</text>
+  <text start="268.51" dur="6.69">right now because deep dream</text>
+  <text start="273.3" dur="4.42">deep dream was a really interesting</text>
+  <text start="275.2" dur="4.86">project that made these really trippy</text>
+  <text start="277.72" dur="4.53">LSD like videos that was you know that</text>
+  <text start="280.06" dur="5.12">you can find them on YouTube in fact if</text>
+  <text start="282.25" dur="5.97">you just type a deep dream Google and</text>
+  <text start="285.18" dur="5.02">what it does is it&amp;#39;s a machine learning</text>
+  <text start="288.22" dur="6.63">algorithm that is trained to find</text>
+  <text start="290.2" dur="7.11">certain things and in images so it will</text>
+  <text start="294.85" dur="5.069">tell you how much an image contains a</text>
+  <text start="297.31" dur="4.53">cat like a hundred percent it&amp;#39;s like</text>
+  <text start="299.919" dur="3.541">totally a cat if it&amp;#39;s zero percent it&amp;#39;s</text>
+  <text start="301.84" dur="5.19">definitely not like a cat that it</text>
+  <text start="303.46" dur="8.519">recognizes and so deep dream was able to</text>
+  <text start="307.03" dur="6.3">generate these and to generate these</text>
+  <text start="311.979" dur="3">images because what they would do is</text>
+  <text start="313.33" dur="3.39">that they would they would take the</text>
+  <text start="314.979" dur="3.421">images input they would feed it into the</text>
+  <text start="316.72" dur="5.54">algorithm and then the algorithm would</text>
+  <text start="318.4" dur="3.86">kind of come up with and with a</text>
+  <text start="322.56" dur="3.85">representation in its mind about how the</text>
+  <text start="325" dur="3.15">image looked and how it kind of looked</text>
+  <text start="326.41" dur="4.23">like a cat well you could take that</text>
+  <text start="328.15" dur="4.73">image kind of flatten it into pixels and</text>
+  <text start="330.64" dur="4.74">then add that back to the picture and</text>
+  <text start="332.88" dur="4.12">and if you keep on repeating this</text>
+  <text start="335.38" dur="5.159">process that what happens is that you</text>
+  <text start="337" dur="7.95">get like you know dog faces out of you</text>
+  <text start="340.539" dur="5.161">know what is essentially noise and as it</text>
+  <text start="344.95" dur="3.36">keeps</text>
+  <text start="345.7" dur="5.19">through that the image of a dog face</text>
+  <text start="348.31" dur="5.31">gets like more stronger and stronger and</text>
+  <text start="350.89" dur="5.3">stronger and then people do things like</text>
+  <text start="353.62" dur="5.07">they can like zoom in on the video now</text>
+  <text start="356.19" dur="5.92">to get even deeper what do you think</text>
+  <text start="358.69" dur="4.62">about the AI Manhattan Project what do</text>
+  <text start="362.11" dur="2.4">you think that they&amp;#39;re talking about</text>
+  <text start="363.31" dur="3.6">when they talk about this we&amp;#39;ve talked</text>
+  <text start="364.51" dur="4.53">about the the ability that the abilities</text>
+  <text start="366.91" dur="4.2">of deep dream and how can we use for</text>
+  <text start="369.04" dur="4.37">these deep fakes what do you think this</text>
+  <text start="371.11" dur="8.49">Manhattan Project is referring to</text>
+  <text start="373.41" dur="10.87">so this Manhattan Project known as deep</text>
+  <text start="379.6" dur="7.35">mind has produced the best go and chess</text>
+  <text start="384.28" dur="4.95">players in the world and it has</text>
+  <text start="386.95" dur="3.48">developed as one of its many</text>
+  <text start="389.23" dur="5.55">technologies something called</text>
+  <text start="390.43" dur="7.62">transferable AI so usually when you grow</text>
+  <text start="394.78" dur="5.82">an AI to solve a particular problem it</text>
+  <text start="398.05" dur="5.34">is only going to solve that problem so</text>
+  <text start="400.6" dur="5.31">for example your AI that can play chess</text>
+  <text start="403.39" dur="5.67">can&amp;#39;t play checkers</text>
+  <text start="405.91" dur="6.33">it just doesn&amp;#39;t know how to do it will</text>
+  <text start="409.06" dur="5.01">make the wrong moves and so one of the</text>
+  <text start="412.24" dur="3.78">key technologies that they have is hey</text>
+  <text start="414.07" dur="6.51">let&amp;#39;s build a neuro net and then retrain</text>
+  <text start="416.02" dur="8.1">it for a related problem you know and so</text>
+  <text start="420.58" dur="5.91">that was one of their key technologies</text>
+  <text start="424.12" dur="5.91">that they have been able to do they&amp;#39;re</text>
+  <text start="426.49" dur="6.39">experts in these neuro networks so so</text>
+  <text start="430.03" dur="4.95">here&amp;#39;s a great question then you know as</text>
+  <text start="432.88" dur="4.2">for what I do you know I&amp;#39;m on YouTube</text>
+  <text start="434.98" dur="3.9">creating content and I&amp;#39;m very aware that</text>
+  <text start="437.08" dur="3.99">their algorithms I know there&amp;#39;s</text>
+  <text start="438.88" dur="3.84">speech-to-text I know they&amp;#39;re combing</text>
+  <text start="441.07" dur="3.54">through all of that the content that&amp;#39;s</text>
+  <text start="442.72" dur="3.48">created and they&amp;#39;re looking for keywords</text>
+  <text start="444.61" dur="4.38">they looking for</text>
+  <text start="446.2" dur="4.62">all of these different markers is the</text>
+  <text start="448.99" dur="3.75">machine because I used to get these</text>
+  <text start="450.82" dur="3.72">emails when I used to talk to group it</text>
+  <text start="452.74" dur="3.15">say YouTube all the time I&amp;#39;d write to</text>
+  <text start="454.54" dur="3.12">Google basically and we&amp;#39;d be having</text>
+  <text start="455.89" dur="3.66">these conversations and this is</text>
+  <text start="457.66" dur="3.33">happening on YouTube they&amp;#39;re taking my</text>
+  <text start="459.55" dur="2.58">videos they&amp;#39;re not suggesting them</text>
+  <text start="460.99" dur="3.51">they&amp;#39;re doing this or doing that it&amp;#39;s</text>
+  <text start="462.13" dur="4.62">not fair and they would always say it&amp;#39;s</text>
+  <text start="464.5" dur="4.11">it&amp;#39;s the machine learning you know you</text>
+  <text start="466.75" dur="4.83">we don&amp;#39;t know it&amp;#39;s the machine learning</text>
+  <text start="468.61" dur="4.56">yeah so they taught a lot of this off on</text>
+  <text start="471.58" dur="3.75">the machine learning as if ya know</text>
+  <text start="473.17" dur="4.2">control over the like creating it</text>
+  <text start="475.33" dur="4.149">they&amp;#39;re obviously creating it but to</text>
+  <text start="477.37" dur="5.769">what extent do you think that we&amp;#39;re</text>
+  <text start="479.479" dur="5.37">- this kind of threshold where it&amp;#39;s it&amp;#39;s</text>
+  <text start="483.139" dur="3.691">like you&amp;#39;re talking about with I think</text>
+  <text start="484.849" dur="3.9">we talked about earlier with chess I</text>
+  <text start="486.83" dur="5.669">don&amp;#39;t know if it was here or not but and</text>
+  <text start="488.749" dur="6.51">how the AI is it goes and it does all</text>
+  <text start="492.499" dur="4.32">the the scenarios on its own and then it</text>
+  <text start="495.259" dur="3.69">goes and plays the world&amp;#39;s top player</text>
+  <text start="496.819" dur="4.62">and it beats them because it&amp;#39;s already</text>
+  <text start="498.949" dur="5.761">gone and played a bajillion games of</text>
+  <text start="501.439" dur="6.241">chess and it knows every scenario right</text>
+  <text start="504.71" dur="5.819">and so what point do they really</text>
+  <text start="507.68" dur="5.909">fine-tune enough and have they done that</text>
+  <text start="510.529" dur="4.8">I think with YouTube yet I don&amp;#39;t think</text>
+  <text start="513.589" dur="3.33">they fine-tune it perfectly but I mean</text>
+  <text start="515.329" dur="4.921">they&amp;#39;re definitely working on this as</text>
+  <text start="516.919" dur="6.99">far as you know giving it some sort of</text>
+  <text start="520.25" dur="6.69">scope to go out and actually be more</text>
+  <text start="523.909" dur="5.43">autonomous and to just act as it will I</text>
+  <text start="526.94" dur="3.93">mean you saw the videos I mentioned the</text>
+  <text start="529.339" dur="3.661">whistleblowers they were my video gets</text>
+  <text start="530.87" dur="4.019">taken down you told me I mentioned your</text>
+  <text start="533" dur="4.26">name and who knows what it&amp;#39;ll happen I&amp;#39;m</text>
+  <text start="534.889" dur="5.31">sure my computer will blow up so I&amp;#39;m</text>
+  <text start="537.26" dur="5.4">just I&amp;#39;m trying to figure out how bad is</text>
+  <text start="540.199" dur="3.87">it and and how where does it go from</text>
+  <text start="542.66" dur="7.31">here I mean it&amp;#39;s a form of liability</text>
+  <text start="544.069" dur="5.901">laundering so you know it&amp;#39;s like</text>
+  <text start="551.29" dur="5.83">Google had blacklists and they&amp;#39;re gonna</text>
+  <text start="554.51" dur="4.31">continue to have black lists but these</text>
+  <text start="557.12" dur="4.02">black lists are gonna be hidden in</text>
+  <text start="558.82" dur="5.35">convoluted machine learning networks</text>
+  <text start="561.14" dur="5.52">that no one can decipher how they</text>
+  <text start="564.17" dur="6.69">actually work it will be almost like a</text>
+  <text start="566.66" dur="6.3">mystical you know you know Mechanical</text>
+  <text start="570.86" dur="4.68">Turk the Oracle of Google says you are</text>
+  <text start="572.96" dur="5.61">not allowed exactly right like we don&amp;#39;t</text>
+  <text start="575.54" dur="4.77">know how the box works right and good</text>
+  <text start="578.57" dur="3.6">luck trying to convicting algorithm of</text>
+  <text start="580.31" dur="5.91">discrimination there has to be like a</text>
+  <text start="582.17" dur="6.45">person behind the thing doing it for you</text>
+  <text start="586.22" dur="3.84">to have an actual cause because you can</text>
+  <text start="588.62" dur="3.3">bring that person into court you can be</text>
+  <text start="590.06" dur="3.6">like are you racist and like hell yeah a</text>
+  <text start="591.92" dur="4.41">racist and then it&amp;#39;s like why I rest my</text>
+  <text start="593.66" dur="4.5">case but you can&amp;#39;t do that with like an</text>
+  <text start="596.33" dur="4.98">algorithm it&amp;#39;s much harder you can&amp;#39;t</text>
+  <text start="598.16" dur="5.46">cross examine an algorithm hell people</text>
+  <text start="601.31" dur="4.47">don&amp;#39;t even know how it works if it&amp;#39;s a</text>
+  <text start="603.62" dur="4.56">machine learning neural network because</text>
+  <text start="605.78" dur="4.65">like as a software engineer I can&amp;#39;t even</text>
+  <text start="608.18" dur="3.78">tell you how a neural network works well</text>
+  <text start="610.43" dur="3.51">and if you think about it I mean most</text>
+  <text start="611.96" dur="3.24">neurologists have a very limited</text>
+  <text start="613.94" dur="3.48">understanding of how the brain works</text>
+  <text start="615.2" dur="5.04">they say they&amp;#39;ve mapped the whole brain</text>
+  <text start="617.42" dur="4.35">but to understand how each neuron</text>
+  <text start="620.24" dur="3.66">interacts with one another is almost</text>
+  <text start="621.77" dur="5.43">impossible and it seems if we&amp;#39;re talking</text>
+  <text start="623.9" dur="5.64">about neurons and these pathways that AI</text>
+  <text start="627.2" dur="6.03">is basically building these these brains</text>
+  <text start="629.54" dur="7.86">right and the brains themselves seem to</text>
+  <text start="633.23" dur="6.78">be evolving on their own I mean this is</text>
+  <text start="637.4" dur="4.05">crazy this is this is this may be the</text>
+  <text start="640.01" dur="3.54">end of humanity what do you think about</text>
+  <text start="641.45" dur="4.62">that it literally could be the end of</text>
+  <text start="643.55" dur="4.14">humanity like your water pay that&amp;#39;s just</text>
+  <text start="646.07" dur="4.02">why I blow the whistle I was being</text>
+  <text start="647.69" dur="5.94">facetious but no no I&amp;#39;m seriously I&amp;#39;m</text>
+  <text start="650.09" dur="7.89">seriously yeah but not really like you</text>
+  <text start="653.63" dur="6.81">know we have an AI system now it</text>
+  <text start="657.98" dur="7.62">probably exists somewhere in you know</text>
+  <text start="660.44" dur="7.32">skunkworks somewhere and it is going to</text>
+  <text start="665.6" dur="6.33">be able to outsmart anyone and</text>
+  <text start="667.76" dur="5.49">everything that they do and what are we</text>
+  <text start="671.93" dur="4.38">gonna do it that like who&amp;#39;s going to be</text>
+  <text start="673.25" dur="8.09">the first to habit now according to you</text>
+  <text start="676.31" dur="8.13">know Google&amp;#39;s cloud AI % VP Lee who&amp;#39;s</text>
+  <text start="681.34" dur="6.55">coincidentally building the AI research</text>
+  <text start="684.44" dur="6.87">Center in Beijing right</text>
+  <text start="687.89" dur="6.9">she said that Google&amp;#39;s when it comes to</text>
+  <text start="691.31" dur="7.94">google&amp;#39;s AI technology they the company</text>
+  <text start="694.79" dur="9.84">doesn&amp;#39;t have borders or boundaries okay</text>
+  <text start="699.25" dur="9.16">whoa haha like you know no no we will</text>
+  <text start="704.63" dur="7.44">all be slaves to this global hedge body</text>
+  <text start="708.41" dur="6.54">of AI gods who live in their surface in</text>
+  <text start="712.07" dur="6.84">protected bunkers here at Utica Hall</text>
+  <text start="714.95" dur="4.44">places right out of China I don&amp;#39;t know</text>
+  <text start="718.91" dur="3.03">man</text>
+  <text start="719.39" dur="4.92">I mean look it sounds dystopian it</text>
+  <text start="721.94" dur="5.73">sounds Orwellian it sounds like some</text>
+  <text start="724.31" dur="6.42">bleak future but we are here it is today</text>
+  <text start="727.67" dur="5.28">and there has to be some sort of</text>
+  <text start="730.73" dur="4.11">pushback so I&amp;#39;m glad that you&amp;#39;re coming</text>
+  <text start="732.95" dur="4.56">forward I mean let&amp;#39;s be honest what</text>
+  <text start="734.84" dur="5.94">you&amp;#39;re doing is important the the fact</text>
+  <text start="737.51" dur="5.64">is this is a fight for Humanity as we</text>
+  <text start="740.78" dur="7.17">know it it will change drastically and</text>
+  <text start="743.15" dur="7.38">and almost on you know we won&amp;#39;t be able</text>
+  <text start="747.95" dur="4.74">to go back after this the horse won&amp;#39;t go</text>
+  <text start="750.53" dur="4.35">back in the barn everything will be out</text>
+  <text start="752.69" dur="5.49">there and it seems like we&amp;#39;re really</text>
+  <text start="754.88" dur="5.04">heading down a dark path so no no no no</text>
+  <text start="758.18" dur="4.38">no don&amp;#39;t don&amp;#39;t don&amp;#39;t don&amp;#39;t be</text>
+  <text start="759.92" dur="4.77">pessimistic well that&amp;#39;s about the</text>
+  <text start="762.56" dur="3.84">pendant to is that it seems like we&amp;#39;re</text>
+  <text start="764.69" dur="4.89">heading down the right path what do you</text>
+  <text start="766.4" dur="5.13">think ways we can we can kind of stand</text>
+  <text start="769.58" dur="3.56">up to this fight it because I know what</text>
+  <text start="771.53" dur="4.14">what we&amp;#39;re doing here on this channel is</text>
+  <text start="773.14" dur="5.11">we&amp;#39;re standing up against censorship and</text>
+  <text start="775.67" dur="4.53">oppression and we&amp;#39;re actually bringing</text>
+  <text start="778.25" dur="3.18">up putting a light on a lot of these</text>
+  <text start="780.2" dur="4.08">dark issues that people don&amp;#39;t want to</text>
+  <text start="781.43" dur="4.14">talk about and you know I know you&amp;#39;re</text>
+  <text start="784.28" dur="3.24">doing the same thing you&amp;#39;ve been working</text>
+  <text start="785.57" dur="3.96">with Project Veritas you got your own</text>
+  <text start="787.52" dur="4.14">things going on and you&amp;#39;re really</text>
+  <text start="789.53" dur="4.17">focused on health it and that&amp;#39;s great we</text>
+  <text start="791.66" dur="4.38">want to get people healthy and so let&amp;#39;s</text>
+  <text start="793.7" dur="4.44">talk about some positive things you know</text>
+  <text start="796.04" dur="3.9">kind of wrap this all up you know how</text>
+  <text start="798.14" dur="6.27">they can be positive thing yeah you got</text>
+  <text start="799.94" dur="8.73">all right so it turns out that I caught</text>
+  <text start="804.41" dur="7.17">Google hiding a website devoted to a new</text>
+  <text start="808.67" dur="5.04">form of clean nuclear energy you&amp;#39;ve</text>
+  <text start="811.58" dur="5.88">probably heard it named as cold fusion</text>
+  <text start="813.71" dur="4.65">or you know chemical assisted nuclear</text>
+  <text start="817.46" dur="4.26">reaction or</text>
+  <text start="818.36" dur="7.05">energy nuclear reaction but there&amp;#39;s a</text>
+  <text start="821.72" dur="6.66">device by made by a engineer by the name</text>
+  <text start="825.41" dur="6.239">of Andre Rossi he&amp;#39;s been working on it</text>
+  <text start="828.38" dur="8.09">for over a decade he has had this</text>
+  <text start="831.649" dur="7.021">machine tested by a third-party analyst</text>
+  <text start="836.47" dur="4.51">who&amp;#39;s internationally known and the</text>
+  <text start="838.67" dur="6.33">results of this positive confirmation of</text>
+  <text start="840.98" dur="6.049">a 30 day test was posted at Cornell</text>
+  <text start="845" dur="2.029">University</text>
+  <text start="847.22" dur="8.929">this guy has discovered and engineered a</text>
+  <text start="851.89" dur="8.41">reactor type that works off a</text>
+  <text start="856.149" dur="6.841">combination of gladium and a heavy form</text>
+  <text start="860.3" dur="8.969">of hydrogen known as duta</text>
+  <text start="862.99" dur="8.77">deuterium or deuterium and a website</text>
+  <text start="869.269" dur="5.19">that follows his technology is called</text>
+  <text start="871.76" dur="4.71">eat cat WorldCom now they don&amp;#39;t just</text>
+  <text start="874.459" dur="6.021">post about Rossi&amp;#39;s machine actually post</text>
+  <text start="876.47" dur="8.97">about a bunch of different cold fusion</text>
+  <text start="880.48" dur="7.33">related startups but Audrey Ross sees</text>
+  <text start="885.44" dur="4.62">you know the one they talked the most</text>
+  <text start="887.81" dur="7.23">about and Audrey Rossi seems to be the</text>
+  <text start="890.06" dur="10.68">most advanced in this field and so when</text>
+  <text start="895.04" dur="9.03">I was at Google I noticed that around</text>
+  <text start="900.74" dur="5.4">November this website was delisted</text>
+  <text start="904.07" dur="5.85">account world was delisted from the</text>
+  <text start="906.14" dur="7.02">Google search index and they relisted at</text>
+  <text start="909.92" dur="5.01">dot org and they made it like a note</text>
+  <text start="913.16" dur="3.45">saying hey we&amp;#39;ve been delisted off of</text>
+  <text start="914.93" dur="3.75">Google we don&amp;#39;t understand what&amp;#39;s going</text>
+  <text start="916.61" dur="5.339">on but we&amp;#39;re trying to get it resolved</text>
+  <text start="918.68" dur="6.56">well I work at Google so I can get an</text>
+  <text start="921.949" dur="6.441">inside look at what is really going on</text>
+  <text start="925.24" dur="8.409">so I find out that they&amp;#39;ve been</text>
+  <text start="928.39" dur="8.139">blacklisted from Google&amp;#39;s search index</text>
+  <text start="933.649" dur="5.281">because according to a bug that I saw</text>
+  <text start="936.529" dur="4.831">and by the way this has been disclosed</text>
+  <text start="938.93" dur="7.529">as part of my 950 pages at Project</text>
+  <text start="941.36" dur="8.11">Veritas that this website was censored</text>
+  <text start="946.459" dur="7.151">on October 1st</text>
+  <text start="949.47" dur="8.48">I&amp;#39;m sorry October 2nd 2017 now let me</text>
+  <text start="953.61" dur="4.34">ask you what happened October 1st 2017</text>
+  <text start="959.48" dur="8.77">Las Vegas shooting massacre Wow okay so</text>
+  <text start="963.99" dur="7.56">on the 2nd October 2nd the CEO of</text>
+  <text start="968.25" dur="5.64">YouTube Susan with chief ski says oh my</text>
+  <text start="971.55" dur="4.86">god Code Red emergency there&amp;#39;s a whole</text>
+  <text start="973.89" dur="4.29">bunch of fake news that&amp;#39;s out there on</text>
+  <text start="976.41" dur="4.5">the internet and we&amp;#39;ve got to like block</text>
+  <text start="978.18" dur="5.31">it from people because it&amp;#39;s just so bad</text>
+  <text start="980.91" dur="5.88">right so they created this block list</text>
+  <text start="983.49" dur="6.02">October 2nd what do they put on that</text>
+  <text start="986.79" dur="6.72">they put they put on a whole bunch of</text>
+  <text start="989.51" dur="6.87">links to Isis claiming that they were</text>
+  <text start="993.51" dur="5.61">responsible for you know the shooting</text>
+  <text start="996.38" dur="6.34">they they did a whole bunch of other</text>
+  <text start="999.12" dur="5.4">stuff like multiple shooters stuff</text>
+  <text start="1002.72" dur="6.48">talking about stephen paddock but then</text>
+  <text start="1004.52" dur="5.76">also ecat world which doesn&amp;#39;t ever talk</text>
+  <text start="1009.2" dur="4.47">about current events</text>
+  <text start="1010.28" dur="6.93">other than this cold fusion well someone</text>
+  <text start="1013.67" dur="6.54">had put in a fake URL where this cold</text>
+  <text start="1017.21" dur="6.12">fusion website was mistakenly as if it</text>
+  <text start="1020.21" dur="5.43">was talking about stephen paddock in the</text>
+  <text start="1023.33" dur="3.78">Las Vegas shooting so it got entered</text>
+  <text start="1025.64" dur="5.939">onto that blacklist</text>
+  <text start="1027.11" dur="7.979">and it got taken off of the internet for</text>
+  <text start="1031.579" dur="7.99">this reason was that permanent was that</text>
+  <text start="1035.089" dur="7.15">permanent it was permanent I found it</text>
+  <text start="1039.569" dur="8.511">out of them I used the word this could</text>
+  <text start="1042.239" dur="8.07">be corporate espionage and the someone a</text>
+  <text start="1048.08" dur="3.61">lawyer got mad at me for saying that by</text>
+  <text start="1050.309" dur="3.48">the way but someone within the company</text>
+  <text start="1051.69" dur="5.579">was able to correct the problem and eke</text>
+  <text start="1053.789" dur="6.541">out worldcom is now again on the</text>
+  <text start="1057.269" dur="5.84">internet and listed by the Google search</text>
+  <text start="1060.33" dur="5.729">index and so I&amp;#39;m sitting here going</text>
+  <text start="1063.109" dur="5.711">limit why would somebody go to this</text>
+  <text start="1066.059" dur="5.881">sophisticated hack to take down what you</text>
+  <text start="1068.82" dur="6.089">know Wikipedia says is a debunked theory</text>
+  <text start="1071.94" dur="5.159">of you know fraudulent scientists and</text>
+  <text start="1074.909" dur="4.32">I&amp;#39;m like Wyatt why are they so like</text>
+  <text start="1077.099" dur="4.64">constant like why did someone put so</text>
+  <text start="1079.229" dur="5.221">much energy to take this website down</text>
+  <text start="1081.739" dur="5.05">then I started to realize wait a minute</text>
+  <text start="1084.45" dur="4.679">like as I started my research whoa whoa</text>
+  <text start="1086.789" dur="5.161">whoa baby this ColdFusion isn&amp;#39;t actually</text>
+  <text start="1089.129" dur="6.841">like a fake concept maybe it&amp;#39;s actually</text>
+  <text start="1091.95" dur="5.729">like a real concept and as I started</text>
+  <text start="1095.97" dur="3.99">going further and further further</text>
+  <text start="1097.679" dur="5.521">further I realized no no no ColdFusion</text>
+  <text start="1099.96" dur="4.769">is actually real I mean and conceptually</text>
+  <text start="1103.2" dur="3.839">it&amp;#39;s it&amp;#39;s definitely been something</text>
+  <text start="1104.729" dur="3.75">that&amp;#39;s been around for a while yeah I&amp;#39;d</text>
+  <text start="1107.039" dur="3.21">be interested to learn more about this</text>
+  <text start="1108.479" dur="4.29">but that is a positive thing to take</text>
+  <text start="1110.249" dur="4.831">away that you know we&amp;#39;re at least</text>
+  <text start="1112.769" dur="4.441">shining a light on this stuff because it</text>
+  <text start="1115.08" dur="3.99">happens in all different forms and</text>
+  <text start="1117.21" dur="4.769">fashions whether it&amp;#39;s with the new</text>
+  <text start="1119.07" dur="5.669">technology that could help us and or its</text>
+  <text start="1121.979" dur="5.55">with censoring our free speech in other</text>
+  <text start="1124.739" dur="5.67">ways I mean ultimately what you did is a</text>
+  <text start="1127.529" dur="4.921">service and I thank you for that and I</text>
+  <text start="1130.409" dur="4.561">just I guess we&amp;#39;re gonna go ahead and</text>
+  <text start="1132.45" dur="5.159">wrap it up there cuz we&amp;#39;re kind of</text>
+  <text start="1134.97" dur="6.35">hitting that mark but let me just tell</text>
+  <text start="1137.609" dur="6.63">you thank you so much for your</text>
+  <text start="1141.32" dur="4.63">contribution to all this I hope that</text>
+  <text start="1144.239" dur="3.87">you&amp;#39;ll come on the show again and I want</text>
+  <text start="1145.95" dur="4.5">ya take a second to go ahead and plug</text>
+  <text start="1148.109" dur="4.111">anything that you want your social media</text>
+  <text start="1150.45" dur="3.539">any websites whatever you want to get</text>
+  <text start="1152.22" dur="2.279">out there let the people know what</text>
+  <text start="1153.989" dur="3.151">you&amp;#39;re doing</text>
+  <text start="1154.499" dur="5.791">Thank You Craig yeah</text>
+  <text start="1157.14" dur="6.72">mob what I say is that I hope that your</text>
+  <text start="1160.29" dur="8.4">audience will follow me on twitter my</text>
+  <text start="1163.86" dur="6.93">handle is perpetual maniac I am fighting</text>
+  <text start="1168.69" dur="4.82">the deep state and the way that I&amp;#39;m</text>
+  <text start="1170.79" dur="5.19">doing that is I&amp;#39;m bringing attention to</text>
+  <text start="1173.51" dur="4.63">Google which I believe in that is an</text>
+  <text start="1175.98" dur="4.38">asset of the deep state and I&amp;#39;m exposing</text>
+  <text start="1178.14" dur="4.919">what Google is doing I believe that</text>
+  <text start="1180.36" dur="5.64">they&amp;#39;re going to rig the 2020 election</text>
+  <text start="1183.059" dur="6.661">they&amp;#39;re going to hide information</text>
+  <text start="1186" dur="4.89">they&amp;#39;re going to you know and and you</text>
+  <text start="1189.72" dur="5.01">can already see this with twitter</text>
+  <text start="1190.89" dur="6.659">twitter now just canceled all political</text>
+  <text start="1194.73" dur="5.4">ads that&amp;#39;s platform google is going to</text>
+  <text start="1197.549" dur="4.38">do something similar so is facebook i&amp;#39;ve</text>
+  <text start="1200.13" dur="5.46">been bringing this attention to this</text>
+  <text start="1201.929" dur="6.99">issue since you know the summer of 2019</text>
+  <text start="1205.59" dur="7.56">here because I saw what was going to</text>
+  <text start="1208.919" dur="7.591">happen with these social media giants I</text>
+  <text start="1213.15" dur="5.519">knew that they were going to interfere</text>
+  <text start="1216.51" dur="4.32">with the will of the people they were</text>
+  <text start="1218.669" dur="6.361">going to engage in election interference</text>
+  <text start="1220.83" dur="6.89">and so I&amp;#39;m here I am exposing this you</text>
+  <text start="1225.03" dur="5.34">too can come follow me</text>
+  <text start="1227.72" dur="4.6">tweet very specific tweets that I&amp;#39;m</text>
+  <text start="1230.37" dur="5.67">making in order to expose us to a wider</text>
+  <text start="1232.32" dur="7.08">audience and it&amp;#39;s working people are</text>
+  <text start="1236.04" dur="5.67">waking up the media is changing its</text>
+  <text start="1239.4" dur="3.899">wording and the words that they choose</text>
+  <text start="1241.71" dur="5">to use the different articles that they</text>
+  <text start="1243.299" dur="7.351">post people are becoming aware of</text>
+  <text start="1246.71" dur="7.15">Google&amp;#39;s systemic censorship and so for</text>
+  <text start="1250.65" dur="7.14">those of you that want to help me we you</text>
+  <text start="1253.86" dur="7.92">know keep America safe from this you</text>
+  <text start="1257.79" dur="6.54">know tech fascism I invite you to follow</text>
+  <text start="1261.78" dur="6.75">me on Twitter comm slash perpetual</text>
+  <text start="1264.33" dur="7.53">maniac and like and retweet the tweets</text>
+  <text start="1268.53" dur="5.94">that are important to helping disclose</text>
+  <text start="1271.86" dur="4.53">that yeah and I&amp;#39;ll put links to all that</text>
+  <text start="1274.47" dur="3.8">it in the description of this video that</text>
+  <text start="1276.39" dur="4.98">you guys should go check out because</text>
+  <text start="1278.27" dur="4.27">everyone knows our friend Zach here who</text>
+  <text start="1281.37" dur="3.809">I&amp;#39;m not going to say his full name</text>
+  <text start="1282.54" dur="5.22">because of Google&amp;#39;s algorithms he is the</text>
+  <text start="1285.179" dur="3.141">man he is awesome thank you so much for</text>
+  <text start="1287.76" dur="3.77">coming</text>
+  <text start="1288.32" dur="5.28">remember that&amp;#39;s at perpetual maniac go</text>
+  <text start="1291.53" dur="4.41">find him on Twitter and start the</text>
+  <text start="1293.6" dur="3.69">conversation over there as well but I</text>
+  <text start="1295.94" dur="3.3">will look forward to hearing what you</text>
+  <text start="1297.29" dur="4.92">guys have to say in the comments down</text>
+  <text start="1299.24" dur="5.46">below but that&amp;#39;s gonna be it for us here</text>
+  <text start="1302.21" dur="4.11">Thank You Zach so much we wish you the</text>
+  <text start="1304.7" dur="3.75">best and you are welcome on this show</text>
+  <text start="1306.32" dur="3.81">anytime my friend we&amp;#39;re definitely gonna</text>
+  <text start="1308.45" dur="3.45">have you on again especially in the</text>
+  <text start="1310.13" dur="4.35">run-up to the 2020 election you get more</text>
+  <text start="1311.9" dur="4.38">coverage of what&amp;#39;s going on with Google</text>
+  <text start="1314.48" dur="2.73">but thank you so much have a great</text>
+  <text start="1316.28" dur="4.52">evening</text>
+  <text start="1317.21" dur="3.59">Thank You Craig you see</text>
+  <text start="1323.41" dur="2.06">you</text>
+  <text start="1328.24" dur="9.75">[Music]</text>
+</transcript>

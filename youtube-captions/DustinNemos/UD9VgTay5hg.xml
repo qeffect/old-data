@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transcript>
+  <text start="2.32" dur="11.83">[Music]</text>
+  <text start="14.73" dur="6.34">welcome back my friends so I&amp;#39;ve had some</text>
+  <text start="17.47" dur="6.27">requests for trying to explain how</text>
+  <text start="21.07" dur="3.93">blockchain works so bear with me I&amp;#39;m</text>
+  <text start="23.74" dur="3.749">gonna do my best here</text>
+  <text start="25" dur="5.849">I am NOT what you would consider to be a</text>
+  <text start="27.489" dur="6.631">technical person that said I grew up on</text>
+  <text start="30.849" dur="5.46">the Internet I from basically mid-teens</text>
+  <text start="34.12" dur="4.53">got my first computer and then I threw</text>
+  <text start="36.309" dur="3.901">away my old Nintendo 64 and I never</text>
+  <text start="38.65" dur="4.29">looked back to consoles and you know I</text>
+  <text start="40.21" dur="4.14">grew up as if as a gamer obviously</text>
+  <text start="42.94" dur="4.049">didn&amp;#39;t have a lot of friends when I was</text>
+  <text start="44.35" dur="4.62">growing up because I&amp;#39;m kind of out there</text>
+  <text start="46.989" dur="4.231">in eccentric I mean I&amp;#39;m into stuff like</text>
+  <text start="48.97" dur="5.04">this and as many of you already know it</text>
+  <text start="51.22" dur="6.089">can be kind of lonely most people are</text>
+  <text start="54.01" dur="6.149">not into this these kind of topics so as</text>
+  <text start="57.309" dur="4.021">soon as you start talking about poison</text>
+  <text start="60.159" dur="3.481">in the water and they&amp;#39;re trying to kill</text>
+  <text start="61.33" dur="5.91">us with GMOs you tend to not make as</text>
+  <text start="63.64" dur="5.61">many friends I said I am kind of a loner</text>
+  <text start="67.24" dur="4.26">anyway so the video game life was great</text>
+  <text start="69.25" dur="3.45">for me so I grew up on the Internet I&amp;#39;m</text>
+  <text start="71.5" dur="4.29">pretty comfortable with getting rid of</text>
+  <text start="72.7" dur="5.16">viruses and pretty comfortable with most</text>
+  <text start="75.79" dur="3.6">software I&amp;#39;m not great with building a</text>
+  <text start="77.86" dur="5.48">computer or anything else I&amp;#39;m not like</text>
+  <text start="79.39" dur="6.48">super nerd I&amp;#39;m not like Geek Squad but</text>
+  <text start="83.34" dur="4.21">I&amp;#39;m gonna do my best to break this down</text>
+  <text start="85.87" dur="6.72">because it is kind of a complicated</text>
+  <text start="87.55" dur="7.14">topic the blockchain as they call it but</text>
+  <text start="92.59" dur="5.46">to understand the blockchain you have to</text>
+  <text start="94.69" dur="5.61">understand a ledger okay now a ledger is</text>
+  <text start="98.05" dur="5.94">like in the old movies where you&amp;#39;ve got</text>
+  <text start="100.3" dur="5.19">the clerk or like a Scrooge type and</text>
+  <text start="103.99" dur="4.32">they have this little leather-bound</text>
+  <text start="105.49" dur="4.38">journal and in it they&amp;#39;re keeping up</text>
+  <text start="108.31" dur="4.11">with all of their business numbers and</text>
+  <text start="109.87" dur="4.26">it&amp;#39;s basically we paid this for this we</text>
+  <text start="112.42" dur="3.3">paid this for this you know just like a</text>
+  <text start="114.13" dur="4.41">spreadsheet but before they had</text>
+  <text start="115.72" dur="5.97">computers and you would he would record</text>
+  <text start="118.54" dur="6">what you paid who it was - how much what</text>
+  <text start="121.69" dur="4.859">the date was kind of just the basics of</text>
+  <text start="124.54" dur="3.93">a transaction everybody understands a</text>
+  <text start="126.549" dur="3.871">ledger they just many of us in these</text>
+  <text start="128.47" dur="5.129">days don&amp;#39;t remember the word because you</text>
+  <text start="130.42" dur="5.58">no one ever uses it anymore so you have</text>
+  <text start="133.599" dur="6.241">your spreadsheet ledger thing all right</text>
+  <text start="136" dur="6.959">and blockchain is what&amp;#39;s considered a</text>
+  <text start="139.84" dur="5.7">distributed ledger technology so what</text>
+  <text start="142.959" dur="6.331">that means is you have ten</text>
+  <text start="145.54" dur="6.69">clerks in a room and they&amp;#39;re all writing</text>
+  <text start="149.29" dur="6.33">their transactions like I sold this to</text>
+  <text start="152.23" dur="6.81">Bob and you know Sally sold this to me</text>
+  <text start="155.62" dur="7.649">or or I bought this from blah blah blah</text>
+  <text start="159.04" dur="7.619">so each of them every hour they meet up</text>
+  <text start="163.269" dur="5.011">and they compare notes and then they</text>
+  <text start="166.659" dur="3.151">record each other&amp;#39;s transactions too</text>
+  <text start="168.28" dur="5.73">they have a separate page for each</text>
+  <text start="169.81" dur="8.579">person and by doing that they all have</text>
+  <text start="174.01" dur="6.149">an exact copy of their own even down to</text>
+  <text start="178.389" dur="4.8">the handwriting it&amp;#39;s perfectly the same</text>
+  <text start="180.159" dur="4.86">they basically just Xerox copy of each</text>
+  <text start="183.189" dur="7.741">other&amp;#39;s notes and then they all have a</text>
+  <text start="185.019" dur="7.53">copy now the concern or the the fear</text>
+  <text start="190.93" dur="5.429">that people who don&amp;#39;t understand the</text>
+  <text start="192.549" dur="6.75">blockchain have is is twofold can it be</text>
+  <text start="196.359" dur="6.541">manipulated by like a government to</text>
+  <text start="199.299" dur="8.64">control what we see or can it be happen</text>
+  <text start="202.9" dur="6.66">to and my money stolen from me now what</text>
+  <text start="207.939" dur="4.38">would have to happen for that to work</text>
+  <text start="209.56" dur="5.669">mathematically speaking is that one of</text>
+  <text start="212.319" dur="4.89">those ten people would would have to</text>
+  <text start="215.229" dur="4.201">well it wouldn&amp;#39;t even work but they</text>
+  <text start="217.209" dur="3.78">would have to start trying to to cheat</text>
+  <text start="219.43" dur="4.019">they would start changing numbers around</text>
+  <text start="220.989" dur="4.951">they would start editing things right</text>
+  <text start="223.449" dur="5.1">well as soon as those ten people go meet</text>
+  <text start="225.94" dur="4.229">up again and they compare notes the</text>
+  <text start="228.549" dur="3.81">other nine are gonna realize hey dude</text>
+  <text start="230.169" dur="6.391">something&amp;#39;s wrong with your notes fix</text>
+  <text start="232.359" dur="6.12">that so the only way theoretically that</text>
+  <text start="236.56" dur="5.609">he could actually hack into the</text>
+  <text start="238.479" dur="5.671">blockchain to manipulate it is if you</text>
+  <text start="242.169" dur="3.841">had the majority of those votes if you</text>
+  <text start="244.15" dur="4.86">had already gotten like six or seven of</text>
+  <text start="246.01" dur="7.259">those people all of them working</text>
+  <text start="249.01" dur="6">together seeing the exact same lie would</text>
+  <text start="253.269" dur="5.58">then overrule the others because it&amp;#39;s</text>
+  <text start="255.01" dur="5.55">sort of a consensus algorithm that&amp;#39;s</text>
+  <text start="258.849" dur="6.181">kind of how it works with blockchain</text>
+  <text start="260.56" dur="7.74">times Millions all of the computers that</text>
+  <text start="265.03" dur="6.229">run these things compare notes every</text>
+  <text start="268.3" dur="2.959">couple seconds and</text>
+  <text start="272.12" dur="6.15">reject any kind of manipulation or lie</text>
+  <text start="275.27" dur="7.27">so you always have a consensus driven</text>
+  <text start="278.27" dur="5.89">round table peer-to-peer there&amp;#39;s no no</text>
+  <text start="282.54" dur="5.19">one can go in and manipulate it or</text>
+  <text start="284.16" dur="7.05">change it or print more or steal like</text>
+  <text start="287.73" dur="5.01">that there are you can absolutely steal</text>
+  <text start="291.21" dur="3">Bitcoin from people there are hackers</text>
+  <text start="292.74" dur="2.82">that can get a keylogger on your</text>
+  <text start="294.21" dur="3.12">computer you should get an ant if you</text>
+  <text start="295.56" dur="3.51">have a lot of money and you leave it on</text>
+  <text start="297.33" dur="6.54">your computer you should get an anti key</text>
+  <text start="299.07" dur="7.5">logger program not just a antivirus it&amp;#39;s</text>
+  <text start="303.87" dur="4.74">better to store it offline for example</text>
+  <text start="306.57" dur="4.5">on a laptop that never touches the</text>
+  <text start="308.61" dur="5.1">internet or on a hardware wallet which</text>
+  <text start="311.07" dur="6.51">is kind of like a flash drive but for</text>
+  <text start="313.71" dur="5.58">your Bitcoin or crypto there&amp;#39;s plenty of</text>
+  <text start="317.58" dur="3.03">options to be safe about it but</text>
+  <text start="319.29" dur="3.27">theoretically they can happen to your</text>
+  <text start="320.61" dur="3.51">computer and still your Bitcoin and have</text>
+  <text start="322.56" dur="3.21">your computer send it to someone else</text>
+  <text start="324.12" dur="4.98">and that would not the blockchain</text>
+  <text start="325.77" dur="6.39">wouldn&amp;#39;t help you but as far as hacking</text>
+  <text start="329.1" dur="4.53">into the system this is the most secure</text>
+  <text start="332.16" dur="3.33">system on the planet now they&amp;#39;re putting</text>
+  <text start="333.63" dur="6.66">them in Portia&amp;#39;s blockchain is it now in</text>
+  <text start="335.49" dur="6.6">Portia&amp;#39;s so understand that even though</text>
+  <text start="340.29" dur="3.44">it&amp;#39;s new and it&amp;#39;s scary and most people</text>
+  <text start="342.09" dur="4.71">don&amp;#39;t understand yeah and it&amp;#39;s not</text>
+  <text start="343.73" dur="5.71">widely used we&amp;#39;re in that we&amp;#39;re in that</text>
+  <text start="346.8" dur="4.56">face we&amp;#39;re going from like 1% to 3% of</text>
+  <text start="349.44" dur="4.02">the population that really early adopter</text>
+  <text start="351.36" dur="4.92">phase and those are the people like the</text>
+  <text start="353.46" dur="3.96">first 1% the first 2 3 % there those are</text>
+  <text start="356.28" dur="2.61">the people are gonna make the most money</text>
+  <text start="357.42" dur="2.97">the millions of dollars you know they&amp;#39;re</text>
+  <text start="358.89" dur="4.23">the ones that bought it at a penny and</text>
+  <text start="360.39" dur="4.65">then they got to $18,000 or they&amp;#39;re the</text>
+  <text start="363.12" dur="4.11">ones that bought it at $18,000 and then</text>
+  <text start="365.04" dur="3.27">theoretically I I have complete</text>
+  <text start="367.23" dur="3.09">confidence and it&amp;#39;s gonna go to a</text>
+  <text start="368.31" dur="6.78">hundred thousand dollars if not Bitcoin</text>
+  <text start="370.32" dur="5.76">something will so and that doesn&amp;#39;t mean</text>
+  <text start="375.09" dur="2.22">you have to buy a hundred thousand</text>
+  <text start="376.08" dur="3.06">dollars or if you can buy a Penny&amp;#39;s</text>
+  <text start="377.31" dur="3.51">worth because you can just go down to</text>
+  <text start="379.14" dur="3.78">point zero zero zoos or whatever</text>
+  <text start="380.82" dur="3.48">okay that&amp;#39;s a neat thing about it is</text>
+  <text start="382.92" dur="5.76">they&amp;#39;re called Satoshi&amp;#39;s this little</text>
+  <text start="384.3" dur="6.71">point percentages at least with Bitcoin</text>
+  <text start="388.68" dur="6.71">they&amp;#39;re called Satoshi&amp;#39;s based on the</text>
+  <text start="391.01" dur="6.66">the creator Satoshi so</text>
+  <text start="395.39" dur="5.07">to break into this system you would have</text>
+  <text start="397.67" dur="6.21">to hack most of the internet most of the</text>
+  <text start="400.46" dur="6.09">world at once theoretically it&amp;#39;s</text>
+  <text start="403.88" dur="4.41">possible to theoretically some space</text>
+  <text start="406.55" dur="4.08">aliens with hyper advanced technology</text>
+  <text start="408.29" dur="5.76">could come and virus us all up and and</text>
+  <text start="410.63" dur="5.7">everything but practically it&amp;#39;s never</text>
+  <text start="414.05" dur="4.43">been done never even been close to being</text>
+  <text start="416.33" dur="2.15">done</text>
+  <text start="419.68" dur="6.01">you know so nothing&amp;#39;s perfect but it you</text>
+  <text start="423.5" dur="4.68">know this is a this is this is one of</text>
+  <text start="425.69" dur="5.67">those like theoretical fears it&amp;#39;s not</text>
+  <text start="428.18" dur="7.86">it&amp;#39;s not really that much of a concern</text>
+  <text start="431.36" dur="6.63">for those who are using the stuff so you</text>
+  <text start="436.04" dur="4.71">have this this round table and let&amp;#39;s</text>
+  <text start="437.99" dur="5.58">compare that to money dollar money fiat</text>
+  <text start="440.75" dur="5.88">currency money euros of whatever rubles</text>
+  <text start="443.57" dur="5.79">whatever you want to use these are</text>
+  <text start="446.63" dur="4.2">pretty much all paper fiat currencies</text>
+  <text start="449.36" dur="4.25">issued by central banks which are</text>
+  <text start="450.83" dur="4.98">private central banks for-profit</text>
+  <text start="453.61" dur="4.84">basically all of the money that you pay</text>
+  <text start="455.81" dur="4.68">and in taxes on your income tax for</text>
+  <text start="458.45" dur="3.18">example goes to the central bank the</text>
+  <text start="460.49" dur="3.48">Federal Reserve doesn&amp;#39;t go to the</text>
+  <text start="461.63" dur="6.75">government they&amp;#39;re not the same goes to</text>
+  <text start="463.97" dur="7.59">the Rothschilds so please don&amp;#39;t comment</text>
+  <text start="468.38" dur="4.77">saying that that Kryptos are scams if</text>
+  <text start="471.56" dur="6.66">you still use dollars because it&amp;#39;s</text>
+  <text start="473.15" dur="7.32">hypocritical dollars by the Rothschild</text>
+  <text start="478.22" dur="4.92">family and other big banking families</text>
+  <text start="480.47" dur="4.35">can be printed it will as you&amp;#39;ve seen</text>
+  <text start="483.14" dur="5.22">with quantitative easing and then our</text>
+  <text start="484.82" dur="5.64">debt has done this number okay we have</text>
+  <text start="488.36" dur="3.54">like 200 trillion dollars and unfunded</text>
+  <text start="490.46" dur="3">liabilities we cannot even</text>
+  <text start="491.9" dur="5.43">mathematically pay it back it&amp;#39;s</text>
+  <text start="493.46" dur="5.4">impossible and you can&amp;#39;t you can never</text>
+  <text start="497.33" dur="3.03">get rid of debt with this system it&amp;#39;s</text>
+  <text start="498.86" dur="3.81">actually based in debt because every</text>
+  <text start="500.36" dur="4.05">dollar printed comes with a debt</text>
+  <text start="502.67" dur="3.51">attached to it so if you paid back if</text>
+  <text start="504.41" dur="3.6">every single person just gave up all of</text>
+  <text start="506.18" dur="3.69">their money and paid back everything and</text>
+  <text start="508.01" dur="3.72">all they&amp;#39;re all there were no dollars</text>
+  <text start="509.87" dur="3.96">left they had them all back we would</text>
+  <text start="511.73" dur="5.22">still owe like a quarter of what we had</text>
+  <text start="513.83" dur="6.14">put back in so you cannot pay it back</text>
+  <text start="516.95" dur="5.75">it&amp;#39;s a debt based slavery money</text>
+  <text start="519.97" dur="4.8">and you know they can they can play with</text>
+  <text start="522.7" dur="4.23">interest rates create boom and bust</text>
+  <text start="524.77" dur="4.41">cycles and that&amp;#39;s what they historically</text>
+  <text start="526.93" dur="3.99">do it&amp;#39;s like fleecing sheep they will</text>
+  <text start="529.18" dur="4.5">they will play with interest rates</text>
+  <text start="530.92" dur="5.22">create a boom they&amp;#39;ll sell out all their</text>
+  <text start="533.68" dur="5.31">assets and they&amp;#39;ll get all this all this</text>
+  <text start="536.14" dur="7.02">wealth and then they&amp;#39;ll create a bust</text>
+  <text start="538.99" dur="7.35">which everybody goes into a depression</text>
+  <text start="543.16" dur="5.13">mode and asset prices go way down and</text>
+  <text start="546.34" dur="4.29">then they just buy it all up and then</text>
+  <text start="548.29" dur="6.3">they boom it up again this is how you</text>
+  <text start="550.63" dur="5.99">this is how you farm humans folks we&amp;#39;re</text>
+  <text start="554.59" dur="5.91">all familiar with the concept of animals</text>
+  <text start="556.62" dur="6.22">you know being farmed for for productive</text>
+  <text start="560.5" dur="4.19">profit you know you you may have sheep</text>
+  <text start="562.84" dur="6.75">then you share them and make to make</text>
+  <text start="564.69" dur="6.97">fabric you may have you know a herd of</text>
+  <text start="569.59" dur="5.01">meat animals that you you take from</text>
+  <text start="571.66" dur="5.43">every so often and then the herd you may</text>
+  <text start="574.6" dur="3.89">have chickens that give you eggs and you</text>
+  <text start="577.09" dur="3.09">eat some of the Roosters sometimes</text>
+  <text start="578.49" dur="10">because otherwise they&amp;#39;ll kill each</text>
+  <text start="580.18" dur="10.32">other this is how you farm humans you</text>
+  <text start="588.49" dur="4.23">make a complicated math situation then</text>
+  <text start="590.5" dur="4.71">you make it difficult to resist too much</text>
+  <text start="592.72" dur="4.08">for people to want to look into its make</text>
+  <text start="595.21" dur="7.2">it seem like it&amp;#39;s too hard it&amp;#39;s really</text>
+  <text start="596.8" dur="7.86">not that difficult so you have all of</text>
+  <text start="602.41" dur="5.04">these these corrupt practices and it</text>
+  <text start="604.66" dur="5.31">innit that system is shaped like a</text>
+  <text start="607.45" dur="5.31">pyramid there&amp;#39;s people at the top of the</text>
+  <text start="609.97" dur="4.53">pyramid manipulating all the strings and</text>
+  <text start="612.76" dur="3.5">affecting everyone down below them that</text>
+  <text start="614.5" dur="4.4">is impossible</text>
+  <text start="616.26" dur="4.57">outside of the theoretical that&amp;#39;s</text>
+  <text start="618.9" dur="5.05">effectively that&amp;#39;s impossible with</text>
+  <text start="620.83" dur="5.94">cryptocurrencies now it&amp;#39;s important to</text>
+  <text start="623.95" dur="5.75">distinguish because some kryptos are our</text>
+  <text start="626.77" dur="5.28">newer kryptos and they have basically</text>
+  <text start="629.7" dur="3.91">bankster backing like the ripple coin</text>
+  <text start="632.05" dur="5.85">which is one of the most popular coins</text>
+  <text start="633.61" dur="6.48">now is not a decentralized bitcoin style</text>
+  <text start="637.9" dur="4.05">cryptocurrency it is a banksters</text>
+  <text start="640.09" dur="4.04">centralized cryptocurrency they can just</text>
+  <text start="641.95" dur="4.98">make more of them when they want okay</text>
+  <text start="644.13" dur="6.34">inflate your value away okay this is not</text>
+  <text start="646.93" dur="5.97">good so when you&amp;#39;re doing your crypto is</text>
+  <text start="650.47" dur="3.36">you have to research okay and generally</text>
+  <text start="652.9" dur="3.18">speaking there&amp;#39;s plenty</text>
+  <text start="653.83" dur="4.77">people out there that are willing to to</text>
+  <text start="656.08" dur="5.37">break down these topics okay right now</text>
+  <text start="658.6" dur="4.83">my favorite Kryptos bitcoin is a classic</text>
+  <text start="661.45" dur="5.22">it&amp;#39;s it&amp;#39;s a little older it&amp;#39;s a little</text>
+  <text start="663.43" dur="6.12">slower the fees are not that great there</text>
+  <text start="666.67" dur="5.88">is a battle going on to change it which</text>
+  <text start="669.55" dur="6.24">you can do with consensus into more of a</text>
+  <text start="672.55" dur="5.4">store value rather than a a currency of</text>
+  <text start="675.79" dur="3.63">exchange and that would mean that it</text>
+  <text start="677.95" dur="3.48">would be kind of more expensive and</text>
+  <text start="679.42" dur="3.63">harder to trade and that would kind of</text>
+  <text start="681.43" dur="5.34">destroy its value as a medium of</text>
+  <text start="683.05" dur="6.15">exchange and that&amp;#39;s why they have the</text>
+  <text start="686.77" dur="4.65">new Bitcoin cache which is everything</text>
+  <text start="689.2" dur="5.34">Bitcoin should be and that&amp;#39;s why it&amp;#39;s</text>
+  <text start="691.42" dur="5.28">gaining value so quickly so Bitcoin is</text>
+  <text start="694.54" dur="4.26">being drained into Bitcoin cash you</text>
+  <text start="696.7" dur="4.29">might say by people that understand the</text>
+  <text start="698.8" dur="3.27">concepts behind it of course bitcoin is</text>
+  <text start="700.99" dur="2.64">still a contender they could always</text>
+  <text start="702.07" dur="3.77">change it back they could they could fix</text>
+  <text start="703.63" dur="5.46">the problem</text>
+  <text start="705.84" dur="6.13">but Bitcoin cash is basically the same</text>
+  <text start="709.09" dur="4.98">technology but it was improved upon it</text>
+  <text start="711.97" dur="4.41">they forked away because if there&amp;#39;s a</text>
+  <text start="714.07" dur="4.23">big major disagreement in crypto they</text>
+  <text start="716.38" dur="3.54">can fork you have two versions to go</text>
+  <text start="718.3" dur="4.53">with and you can pick it&amp;#39;s the ultimate</text>
+  <text start="719.92" dur="4.26">system vote with your money both vote</text>
+  <text start="722.83" dur="4.26">which one you&amp;#39;re gonna support with your</text>
+  <text start="724.18" dur="4.44">wallet and everybody gets what they want</text>
+  <text start="727.09" dur="4.44">basically there&amp;#39;s no need for violence</text>
+  <text start="728.62" dur="5.49">at all in this system so there&amp;#39;s other</text>
+  <text start="731.53" dur="4.98">kryptos that are major aetherium has</text>
+  <text start="734.11" dur="4.8">great promise it could take out that</text>
+  <text start="736.51" dur="4.74">coin as the number one even this year</text>
+  <text start="738.91" dur="4.2">who knows it&amp;#39;s a major one and it has a</text>
+  <text start="741.25" dur="4.92">better technology underlying it it has</text>
+  <text start="743.11" dur="4.95">more use it&amp;#39;s not just a currency it can</text>
+  <text start="746.17" dur="4.02">actually create smart contracts and</text>
+  <text start="748.06" dur="4.53">other other technologies are being built</text>
+  <text start="750.19" dur="4.32">on aetherium platform there&amp;#39;s a lot of</text>
+  <text start="752.59" dur="4.56">cool things there I don&amp;#39;t understand all</text>
+  <text start="754.51" dur="4.76">of it but some you know a lot of that</text>
+  <text start="757.15" dur="5.12">stuff is like very good for businesses</text>
+  <text start="759.27" dur="5.77">like the smart contracts you can have a</text>
+  <text start="762.27" dur="6.07">contract on paper that is absolutely</text>
+  <text start="765.04" dur="9.63">locked in agreement and it takes kind of</text>
+  <text start="768.34" dur="8.07">the trust factor out so other good ones</text>
+  <text start="774.67" dur="5.44">are like Manero which is the privacy</text>
+  <text start="776.41" dur="5.679">coin no one can ever track or trace it</text>
+  <text start="780.11" dur="3.96">that&amp;#39;s why it&amp;#39;s so popular on the dark</text>
+  <text start="782.089" dur="3.331">web you know Bitcoin used to be now</text>
+  <text start="784.07" dur="3.09">Manero is the number one thing that</text>
+  <text start="785.42" dur="3.3">people would be probably using to buy</text>
+  <text start="787.16" dur="3.48">the legal stuff that that doesn&amp;#39;t mean</text>
+  <text start="788.72" dur="3.89">it&amp;#39;s a bad money that means it&amp;#39;s an</text>
+  <text start="790.64" dur="7.949">anonymous money and Anonymous is</text>
+  <text start="792.61" dur="8.52">synonymous with freedom so I mean</text>
+  <text start="798.589" dur="5.131">there&amp;#39;s an absolute reason that the</text>
+  <text start="801.13" dur="5.949">first American Revolution was started by</text>
+  <text start="803.72" dur="4.859">anonymous people posting board messages</text>
+  <text start="807.079" dur="3.841">you know they would do write up a</text>
+  <text start="808.579" dur="4.681">message and post it on the board for</text>
+  <text start="810.92" dur="3.93">people to read and copy and that&amp;#39;s why</text>
+  <text start="813.26" dur="3.84">we are involved in the second American</text>
+  <text start="814.85" dur="4.77">Revolution right now and most of us stay</text>
+  <text start="817.1" dur="4.02">anonymous not all of us are gonna get on</text>
+  <text start="819.62" dur="5.31">YouTube and show our face and risk</text>
+  <text start="821.12" dur="6.12">retaliation you know we&amp;#39;re dealing with</text>
+  <text start="824.93" dur="5.149">some legitimate threats out there people</text>
+  <text start="827.24" dur="5.52">people go missing people die people get</text>
+  <text start="830.079" dur="6.781">harassed they get Docs they get their</text>
+  <text start="832.76" dur="4.1">dogs killed you know things like that I</text>
+  <text start="836.92" dur="3.789">I could go for hours about the stuff</text>
+  <text start="839.42" dur="9.479">I&amp;#39;ve heard happen to people that are</text>
+  <text start="840.709" dur="10.651">fighting for the truth so this why is it</text>
+  <text start="848.899" dur="4.651">important like why is Bitcoin so</text>
+  <text start="851.36" dur="3.33">important like we have this rigged</text>
+  <text start="853.55" dur="2.22">dollar everybody knows the dollars</text>
+  <text start="854.69" dur="2.66">rigged do you guys already know that I</text>
+  <text start="855.77" dur="5.509">don&amp;#39;t I don&amp;#39;t have to preach that to you</text>
+  <text start="857.35" dur="5.859">why why crypto why not gold and silver I</text>
+  <text start="861.279" dur="3.881">love gold and silver by the way I</text>
+  <text start="863.209" dur="4.141">actually screwed myself out of all the</text>
+  <text start="865.16" dur="4.56">the profit from crypto going way through</text>
+  <text start="867.35" dur="5.28">the roof because I was I was a dedicated</text>
+  <text start="869.72" dur="4.619">silver bug you know I was like nope man</text>
+  <text start="872.63" dur="3.18">I should stick to my silver eventually</text>
+  <text start="874.339" dur="4.56">that&amp;#39;s gonna go through the roof</text>
+  <text start="875.81" dur="4.56">it&amp;#39;s still will eventually and you know</text>
+  <text start="878.899" dur="2.911">we&amp;#39;ve made progress the banks have been</text>
+  <text start="880.37" dur="3.74">caught some of the banksters have even</text>
+  <text start="881.81" dur="5.279">been arrested for recently for</text>
+  <text start="884.11" dur="5.83">manipulating the market whenever that</text>
+  <text start="887.089" dur="5.101">you see the price of silver going up</text>
+  <text start="889.94" dur="4.649">which is still at it&amp;#39;s like 1913 prices</text>
+  <text start="892.19" dur="4.62">ridiculous what else is that it&amp;#39;s 1913</text>
+  <text start="894.589" dur="4.651">prices nothing so whenever you see the</text>
+  <text start="896.81" dur="5.1">price is silver going up they&amp;#39;ll print</text>
+  <text start="899.24" dur="4.409">paper silver contracts called ETFs and</text>
+  <text start="901.91" dur="4.14">they&amp;#39;ll flood the market with it because</text>
+  <text start="903.649" dur="4.171">most people that buy gold and silver do</text>
+  <text start="906.05" dur="3.599">it in a portfolio they don&amp;#39;t own the</text>
+  <text start="907.82" dur="4.23">physical metal they just buy the paper</text>
+  <text start="909.649" dur="4.111">contracts well there are hundreds of</text>
+  <text start="912.05" dur="4.62">times the actual physical and</text>
+  <text start="913.76" dur="5.82">lying metal so if those people wanted</text>
+  <text start="916.67" dur="7.38">their actual silver only 1% of them are</text>
+  <text start="919.58" dur="7.46">gonna get it first 1% that is when the</text>
+  <text start="924.05" dur="5.85">price will go up but until we hit that</text>
+  <text start="927.04" dur="4.42">crisis in the physical market of metals</text>
+  <text start="929.9" dur="4.05">because the physical market is the real</text>
+  <text start="931.46" dur="6.33">market for gold absorb but until we hit</text>
+  <text start="933.95" dur="5.1">that that cliff where we run out we</text>
+  <text start="937.79" dur="3.15">don&amp;#39;t have enough to give people anymore</text>
+  <text start="939.05" dur="4.86">like everybody that wants the physical</text>
+  <text start="940.94" dur="4.89">there&amp;#39;s not enough then the price will</text>
+  <text start="943.91" dur="3.27">go up but until that they&amp;#39;re gonna be</text>
+  <text start="945.83" dur="2.39">able to play this manipulation game</text>
+  <text start="947.18" dur="3.27">forever</text>
+  <text start="948.22" dur="4.96">so you don&amp;#39;t know about gold and silver</text>
+  <text start="950.45" dur="5.28">it&amp;#39;s a great long-term asset get it for</text>
+  <text start="953.18" dur="4.83">your kids get it for bartering in a grid</text>
+  <text start="955.73" dur="8.58">down situation or an emergency</text>
+  <text start="958.01" dur="7.59">you know shtf situation but and</text>
+  <text start="964.31" dur="5.55">obviously I think silver is better than</text>
+  <text start="965.6" dur="5.61">gold even because the scared will you</text>
+  <text start="969.86" dur="3">would think gold is more more valuable</text>
+  <text start="971.21" dur="3.99">in terms of scarcity but silver is</text>
+  <text start="972.86" dur="3.6">actually running out Gold&amp;#39;s not we&amp;#39;re</text>
+  <text start="975.2" dur="3.15">using it faster than we can mine it</text>
+  <text start="976.46" dur="5.04">there&amp;#39;s a there&amp;#39;s a supply crisis coming</text>
+  <text start="978.35" dur="5.91">up there&amp;#39;s a lot of reasons I won&amp;#39;t go</text>
+  <text start="981.5" dur="4.98">into all of the reasons for silver but</text>
+  <text start="984.26" dur="4.53">the big thing is that it&amp;#39;s manipulated</text>
+  <text start="986.48" dur="4.41">it&amp;#39;s also difficult to trade with and</text>
+  <text start="988.79" dur="3.63">it&amp;#39;s difficult to especially</text>
+  <text start="990.89" dur="3.42">conveniently like over the internet</text>
+  <text start="992.42" dur="4.68">things like that you can&amp;#39;t travel with a</text>
+  <text start="994.31" dur="4.32">lot of silver if you want to travel</text>
+  <text start="997.1" dur="2.94">across you know out of the country with</text>
+  <text start="998.63" dur="3.99">precious metals you have to do it as</text>
+  <text start="1000.04" dur="4.35">jewellery which is an option you can</text>
+  <text start="1002.62" dur="4.41">actually buy you know bullion gold</text>
+  <text start="1004.39" dur="6.81">jewelry it&amp;#39;s kind of cool but it&amp;#39;s</text>
+  <text start="1007.03" dur="5.76">expensive compared to just the metal you</text>
+  <text start="1011.2" dur="3.26">have to pay a big markup for it which I</text>
+  <text start="1012.79" dur="4.17">wish I had some of that stuff&amp;#39;s awesome</text>
+  <text start="1014.46" dur="4.99">but you don&amp;#39;t want to walk around</text>
+  <text start="1016.96" dur="4.71">wearing a target on you either with</text>
+  <text start="1019.45" dur="3.8">crypto currencies it&amp;#39;s more secure no</text>
+  <text start="1021.67" dur="3.96">one can take it from you if they see it</text>
+  <text start="1023.25" dur="6.1">you can take it any country you want</text>
+  <text start="1025.63" dur="7.29">lock it in your memory you just have to</text>
+  <text start="1029.35" dur="5.46">remember your code you have all of these</text>
+  <text start="1032.92" dur="3.51">options online to be able to instantly</text>
+  <text start="1034.81" dur="3.66">trade money and even if you don&amp;#39;t like</text>
+  <text start="1036.43" dur="3.24">the idea of crypto well it&amp;#39;s still</text>
+  <text start="1038.47" dur="2.46">better than a credit card if you&amp;#39;re</text>
+  <text start="1039.67" dur="2.55">buying things on the internet or sending</text>
+  <text start="1040.93" dur="2.82">money because you don&amp;#39;t have to put in</text>
+  <text start="1042.22" dur="3.27">your private information which is very</text>
+  <text start="1043.75" dur="2.689">easy to hack we&amp;#39;ve all heard the stories</text>
+  <text start="1045.49" dur="1.909">of millions of</text>
+  <text start="1046.439" dur="3.21">summers getting their credit card</text>
+  <text start="1047.399" dur="4.221">information hacked you know that stuff</text>
+  <text start="1049.649" dur="4.23">is credit card fraud it&amp;#39;s rampant</text>
+  <text start="1051.62" dur="3.61">because you have to basically put in all</text>
+  <text start="1053.879" dur="4.65">of your private details for your credit</text>
+  <text start="1055.23" dur="4.649">card just to be able to buy something if</text>
+  <text start="1058.529" dur="2.88">you look into it they were actually</text>
+  <text start="1059.879" dur="3.691">never really made for that you know</text>
+  <text start="1061.409" dur="5.161">they&amp;#39;re not really designed for secure</text>
+  <text start="1063.57" dur="5.52">online transactions Kryptos are Kryptos</text>
+  <text start="1066.57" dur="4.559">you just have to send to an address you</text>
+  <text start="1069.09" dur="3.719">know and they see your public address</text>
+  <text start="1071.129" dur="4.29">which is just a string of codes and</text>
+  <text start="1072.809" dur="4.2">digits no one has to know when these</text>
+  <text start="1075.419" dur="4.85">private information nobody has to know</text>
+  <text start="1077.009" dur="7.831">your your pen or anything like that</text>
+  <text start="1080.269" dur="8.5">there&amp;#39;s no pen so there are advantages</text>
+  <text start="1084.84" dur="5.88">to crypto even over gold and silver now</text>
+  <text start="1088.769" dur="4.53">there is some advantage to silver and</text>
+  <text start="1090.72" dur="4.62">gold over crypto like if power is out or</text>
+  <text start="1093.299" dur="3.72">we get hit by an EMP you won&amp;#39;t be able</text>
+  <text start="1095.34" dur="8.03">to use your crypto at least not till</text>
+  <text start="1097.019" dur="8.91">power goes back up so there&amp;#39;s that but</text>
+  <text start="1103.37" dur="4.659">when I&amp;#39;m looking at what I&amp;#39;m trying to</text>
+  <text start="1105.929" dur="6.24">do with my money that is not my first</text>
+  <text start="1108.029" dur="7.291">concern it&amp;#39;s possible and obviously I</text>
+  <text start="1112.169" dur="6.931">would have some silver backup but I want</text>
+  <text start="1115.32" dur="7.199">to tap into the anonymous factor I want</text>
+  <text start="1119.1" dur="7.1">to tap into the untaken and find the</text>
+  <text start="1122.519" dur="6.931">bull factors and I want to tap into the</text>
+  <text start="1126.2" dur="5.26">convenience factors because these are</text>
+  <text start="1129.45" dur="3.9">the things that will and here&amp;#39;s why we</text>
+  <text start="1131.46" dur="3.299">want to use crypto this is there&amp;#39;s a lot</text>
+  <text start="1133.35" dur="5.25">of reasons for it some people just want</text>
+  <text start="1134.759" dur="6.03">to get rich some people just want to not</text>
+  <text start="1138.6" dur="4.409">get you know handled paper money there&amp;#39;s</text>
+  <text start="1140.789" dur="4.201">a ton of reasons for using crypto my</text>
+  <text start="1143.009" dur="7.231">reason is hopefully what your reason</text>
+  <text start="1144.99" dur="7.25">will be to kill the banks because with</text>
+  <text start="1150.24" dur="4.439">crypto you no longer need banks at all</text>
+  <text start="1152.24" dur="4.98">and I don&amp;#39;t mean just the central bank&amp;#39;s</text>
+  <text start="1154.679" dur="5.071">I mean all banks you are your own bank</text>
+  <text start="1157.22" dur="4.959">Obama said it when he was trying to to</text>
+  <text start="1159.75" dur="4.409">disc cryptos he said it would be like</text>
+  <text start="1162.179" dur="4.021">walking around with a Swiss bank account</text>
+  <text start="1164.159" dur="3.451">in your pocket he was betting he was</text>
+  <text start="1166.2" dur="6.079">basically saying how are we gonna tax</text>
+  <text start="1167.61" dur="4.669">people I guess you won&amp;#39;t</text>
+  <text start="1173.77" dur="7.81">so in doing this we have an honest money</text>
+  <text start="1179.18" dur="5.58">system one based on math not trusting</text>
+  <text start="1181.58" dur="6.75">and bankster families not not not</text>
+  <text start="1184.76" dur="8.61">interest debt money from the Rothschild</text>
+  <text start="1188.33" dur="8.13">family that seeks to farm us and that is</text>
+  <text start="1193.37" dur="8.07">the key benefit of currencies like</text>
+  <text start="1196.46" dur="7.38">crypto like Bitcoin it takes their power</text>
+  <text start="1201.44" dur="4.32">away it takes their monopoly on money</text>
+  <text start="1203.84" dur="4.65">away the money masters are no longer the</text>
+  <text start="1205.76" dur="6.51">master it becomes a decentralized system</text>
+  <text start="1208.49" dur="5.16">where there are no masters it doesn&amp;#39;t</text>
+  <text start="1212.27" dur="4.77">matter how much money you have in crypto</text>
+  <text start="1213.65" dur="5.85">you can&amp;#39;t change the math you can&amp;#39;t you</text>
+  <text start="1217.04" dur="6.81">can&amp;#39;t go into that room of ten people</text>
+  <text start="1219.5" dur="7.17">sharing their ledger and then take the</text>
+  <text start="1223.85" dur="5.61">majority of them and change their notes</text>
+  <text start="1226.67" dur="5.28">to rig this system just because you have</text>
+  <text start="1229.46" dur="7.8">money you can&amp;#39;t even you don&amp;#39;t even know</text>
+  <text start="1231.95" dur="7.2">who those people are necessarily so</text>
+  <text start="1237.26" dur="3.84">hopefully this has given those who are</text>
+  <text start="1239.15" dur="3.81">still doubting the crypto stuff a little</text>
+  <text start="1241.1" dur="3.69">incentive to look into it because if it</text>
+  <text start="1242.96" dur="3.57">can potentially possibly kill the</text>
+  <text start="1244.79" dur="3.51">banksters I hope that you would consider</text>
+  <text start="1246.53" dur="5.94">looking into it obviously I mean their</text>
+  <text start="1248.3" dur="6.33">concept not physically kill them the</text>
+  <text start="1252.47" dur="3.84">central bank concept which has taken</text>
+  <text start="1254.63" dur="7.86">over almost every country on the planet</text>
+  <text start="1256.31" dur="10.65">now is perhaps the most great the most</text>
+  <text start="1262.49" dur="7.32">evil harmful thing ever thought of on on</text>
+  <text start="1266.96" dur="4.65">the planet in its insidious because</text>
+  <text start="1269.81" dur="3.66">people don&amp;#39;t understand money they&amp;#39;re</text>
+  <text start="1271.61" dur="4.11">not taught money in school and therefore</text>
+  <text start="1273.47" dur="5.58">they don&amp;#39;t understand just how evil this</text>
+  <text start="1275.72" dur="7.29">is if you want an example you know just</text>
+  <text start="1279.05" dur="6.24">a rough estimation without central banks</text>
+  <text start="1283.01" dur="4.5">with an honest money system we would</text>
+  <text start="1285.29" dur="5.16">eliminate ninety to ninety nine percent</text>
+  <text start="1287.51" dur="4.2">of poverty now if we eliminated ninety</text>
+  <text start="1290.45" dur="3.45">to ninety nine percent of poverty we</text>
+  <text start="1291.71" dur="5.57">would eliminate 90 to 99 percent of</text>
+  <text start="1293.9" dur="5.7">crime his most crime is based on poverty</text>
+  <text start="1297.28" dur="4.51">not all there&amp;#39;s still crimes of passion</text>
+  <text start="1299.6" dur="3.72">things like that you&amp;#39;re still gonna have</text>
+  <text start="1301.79" dur="2.83">people cheating on each other and being</text>
+  <text start="1303.32" dur="2.56">bad people sometimes</text>
+  <text start="1304.62" dur="3.689">but you&amp;#39;re not gonna have people</text>
+  <text start="1305.88" dur="4.65">breaking into stores to feed their</text>
+  <text start="1308.309" dur="3.811">families things like that or or to even</text>
+  <text start="1310.53" dur="3.24">even to buy drugs because they&amp;#39;re gonna</text>
+  <text start="1312.12" dur="4.53">have tons of money if they want to buy</text>
+  <text start="1313.77" dur="4.47">drugs whatever to be to be poor in that</text>
+  <text start="1316.65" dur="9.39">system you would have to be like trying</text>
+  <text start="1318.24" dur="10.62">okay and by eliminating ninety nine</text>
+  <text start="1326.04" dur="6.99">percent or ninety percent or even fifty</text>
+  <text start="1328.86" dur="5.94">percent of of poverty and crime and also</text>
+  <text start="1333.03" dur="3.59">about ninety to ninety nine percent of</text>
+  <text start="1334.8" dur="4.2">government size all that all that</text>
+  <text start="1336.62" dur="3.55">bureaucracy all of that over bloated</text>
+  <text start="1339" dur="2.91">bureaucracy they&amp;#39;re not gonna be able to</text>
+  <text start="1340.17" dur="4.38">afford that unless they can use the debt</text>
+  <text start="1341.91" dur="4.71">money okay they can&amp;#39;t just print up</text>
+  <text start="1344.55" dur="3.33">money to pay for things so they&amp;#39;re gonna</text>
+  <text start="1346.62" dur="3.93">actually have to live within their</text>
+  <text start="1347.88" dur="3.99">budgets now with Kryptos their budget is</text>
+  <text start="1350.55" dur="2.61">gonna be whatever the people decide to</text>
+  <text start="1351.87" dur="7.86">give them because they won&amp;#39;t know what</text>
+  <text start="1353.16" dur="7.89">we have but beyond that even if they</text>
+  <text start="1359.73" dur="6.81">knew everything that we had and we paid</text>
+  <text start="1361.05" dur="8.04">fair taxes with it you&amp;#39;re not going to</text>
+  <text start="1366.54" dur="4.65">be able to to live outside of your means</text>
+  <text start="1369.09" dur="4.589">on a debt system like on a credit card</text>
+  <text start="1371.19" dur="5.58">if you can&amp;#39;t print more money up we&amp;#39;ll</text>
+  <text start="1373.679" dur="5.161">all right so this forces the government</text>
+  <text start="1376.77" dur="5.909">to live within its means which would</text>
+  <text start="1378.84" dur="5.36">shrink it by about ninety percent you</text>
+  <text start="1382.679" dur="7.201">would no longer have to deal with</text>
+  <text start="1384.2" dur="7.09">bureaucracy at every level and I mean</text>
+  <text start="1389.88" dur="2.85">this would help Trump to accomplish his</text>
+  <text start="1391.29" dur="4.769">goals too he&amp;#39;s trying to cut back on</text>
+  <text start="1392.73" dur="4.38">government you know when we had sixty</text>
+  <text start="1396.059" dur="5.551">percent of the world&amp;#39;s wealth in this</text>
+  <text start="1397.11" dur="7.35">country as a new nation we were dealing</text>
+  <text start="1401.61" dur="5.37">with a very small very small government</text>
+  <text start="1404.46" dur="5.31">and a constitutionally restrained</text>
+  <text start="1406.98" dur="4.74">Republic form of government you know let</text>
+  <text start="1409.77" dur="4.56">no more be heard of the confidence and</text>
+  <text start="1411.72" dur="4.47">man but bind him down by the chains of</text>
+  <text start="1414.33" dur="3.39">the Constitution from mischief right</text>
+  <text start="1416.19" dur="4.1">that&amp;#39;s one of the quotes from the</text>
+  <text start="1417.72" dur="2.57">founding fathers</text>
+  <text start="1422.33" dur="7.24">this this idea this crypto-currency idea</text>
+  <text start="1427.159" dur="4">digital money can be very evil if it&amp;#39;s</text>
+  <text start="1429.57" dur="3.41">controlled in a central location</text>
+  <text start="1431.159" dur="4.65">I&amp;#39;m with those people I don&amp;#39;t want a</text>
+  <text start="1432.98" dur="5.11">centralized digital money that they can</text>
+  <text start="1435.809" dur="4.2">track trace and control that is that is</text>
+  <text start="1438.09" dur="4.74">the total slavery system that is the the</text>
+  <text start="1440.009" dur="6.061">grid that is the matrix but a</text>
+  <text start="1442.83" dur="4.829">decentralized cryptocurrency and and</text>
+  <text start="1446.07" dur="4.76">whichever one wins is gonna be up to us</text>
+  <text start="1447.659" dur="6.291">to pick by voting with our dollars</text>
+  <text start="1450.83" dur="5.469">voting the which ones that we use a</text>
+  <text start="1453.95" dur="6.309">decentralized cryptocurrency will allow</text>
+  <text start="1456.299" dur="7.791">us to break away from the large</text>
+  <text start="1460.259" dur="6.3">government corruption central bank</text>
+  <text start="1464.09" dur="7.319">fleecing of mankind&amp;#39;s profit and</text>
+  <text start="1466.559" dur="7.051">productivity for the the wealth of a few</text>
+  <text start="1471.409" dur="7.331">it will help us move away from that</text>
+  <text start="1473.61" dur="9.96">elitism model into a more fair sort of a</text>
+  <text start="1478.74" dur="8.039">decentralized free-market democracy and</text>
+  <text start="1483.57" dur="4.469">that means voting with your dollar for</text>
+  <text start="1486.779" dur="3.24">what things that you support or don&amp;#39;t</text>
+  <text start="1488.039" dur="3.36">support that means the things that you</text>
+  <text start="1490.019" dur="6.211">don&amp;#39;t choose to get money to will not</text>
+  <text start="1491.399" dur="6.961">will not flourish so it is a much more</text>
+  <text start="1496.23" dur="8.429">moral system a much more fair system a</text>
+  <text start="1498.36" dur="9.259">much more honest system and I hope that</text>
+  <text start="1504.659" dur="6.12">this has helped you guys to understand</text>
+  <text start="1507.619" dur="5.68">the technology behind it&amp;#39;s not the</text>
+  <text start="1510.779" dur="4.311">technology itself is is a bunch of</text>
+  <text start="1513.299" dur="3.84">digits codes all that stuff at the</text>
+  <text start="1515.09" dur="3.429">mathematical stuff you know if you if</text>
+  <text start="1517.139" dur="2.79">you can read code then you can verify</text>
+  <text start="1518.519" dur="3.841">all of this because it&amp;#39;s open source</text>
+  <text start="1519.929" dur="4.46">it&amp;#39;s like the book everyone gets to read</text>
+  <text start="1522.36" dur="4.71">it&amp;#39;s not some kind of private program</text>
+  <text start="1524.389" dur="3.941">you can go in there and as a coder or</text>
+  <text start="1527.07" dur="5.489">learn and check and make sure</text>
+  <text start="1528.33" dur="6.78">everything&amp;#39;s safe and many have but the</text>
+  <text start="1532.559" dur="5.31">the concept is not that complicated the</text>
+  <text start="1535.11" dur="4.5">concept is we the people comparing notes</text>
+  <text start="1537.869" dur="5.331">to make sure that there is no funny</text>
+  <text start="1539.61" dur="8.49">business going on in the mine system and</text>
+  <text start="1543.2" dur="6.46">that is what makes it so powerful</text>
+  <text start="1548.1" dur="4.14">because none of us have the power to</text>
+  <text start="1549.66" dur="4.02">change it but we can keep each other</text>
+  <text start="1552.24" dur="2.22">honest we can keep each other</text>
+  <text start="1553.68" dur="2.73">accountable</text>
+  <text start="1554.46" dur="3.08">the Rothschilds aren&amp;#39;t gonna print 500</text>
+  <text start="1556.41" dur="3.45">trillion dollars to Bitcoin</text>
+  <text start="1557.54" dur="4.84">they&amp;#39;re not gonna quantitative ease it</text>
+  <text start="1559.86" dur="5.31">they&amp;#39;re not gonna reverse interest rate</text>
+  <text start="1562.38" dur="8.79">they&amp;#39;re not going to boom and bust it</text>
+  <text start="1565.17" dur="10.32">they&amp;#39;re not going to live outside of</text>
+  <text start="1571.17" dur="7.41">their means to be able to go into all of</text>
+  <text start="1575.49" dur="5.43">these Wars and create this massive</text>
+  <text start="1578.58" dur="3.81">government that&amp;#39;s just over bloated and</text>
+  <text start="1580.92" dur="2.88">- you know at one point in this country</text>
+  <text start="1582.39" dur="3.12">you could live your entire life and</text>
+  <text start="1583.8" dur="4.41">never even meet someone that worked for</text>
+  <text start="1585.51" dur="4.38">the federal government and at one point</text>
+  <text start="1588.21" dur="5.31">in this country we had 60% of the</text>
+  <text start="1589.89" dur="6.03">world&amp;#39;s wealth now we&amp;#39;re behind most</text>
+  <text start="1593.52" dur="4.56">first world nations in many categories</text>
+  <text start="1595.92" dur="6.93">including education and infrastructure</text>
+  <text start="1598.08" dur="8.01">we are a crumbling remnant of a nation</text>
+  <text start="1602.85" dur="8.43">we have fallen into moral decadence we</text>
+  <text start="1606.09" dur="7.14">are losing our our values our culture</text>
+  <text start="1611.28" dur="4.19">we&amp;#39;re under attack from every angle</text>
+  <text start="1613.23" dur="7.67">chemically culturally socially</text>
+  <text start="1615.47" dur="5.43">intellectually financially</text>
+  <text start="1623.66" dur="5.52">this is our probably our only chance to</text>
+  <text start="1627.49" dur="4.84">take that back</text>
+  <text start="1629.18" dur="6.45">q and on can do a lot Trump can do a lot</text>
+  <text start="1632.33" dur="6.3">they can help hold those bad guys to</text>
+  <text start="1635.63" dur="4.77">justice but how are we gonna prevent</text>
+  <text start="1638.63" dur="3.57">those bad guys from getting backwards or</text>
+  <text start="1640.4" dur="3.69">other similar bad guys from getting back</text>
+  <text start="1642.2" dur="4.68">into power folks they&amp;#39;re not gonna</text>
+  <text start="1644.09" dur="4.92">arrest the whole Rothschild family and</text>
+  <text start="1646.88" dur="4.89">the whole rush no they&amp;#39;re massive they</text>
+  <text start="1649.01" dur="8.61">have power all over the world they&amp;#39;re in</text>
+  <text start="1651.77" dur="9.41">both sides of every war so they always</text>
+  <text start="1657.62" dur="8.43">win whoever wins the war is a Rothschild</text>
+  <text start="1661.18" dur="7.15">so at the end of the day after Trump is</text>
+  <text start="1666.05" dur="5.55">long gone after the white hats in the</text>
+  <text start="1668.33" dur="7.34">military are long gone and we have won</text>
+  <text start="1671.6" dur="5.28">this this battle they&amp;#39;re gonna come back</text>
+  <text start="1675.67" dur="2.65">all right</text>
+  <text start="1676.88" dur="3.03">and the reason that they&amp;#39;re gonna come</text>
+  <text start="1678.32" dur="3.6">back is because people don&amp;#39;t pay</text>
+  <text start="1679.91" dur="5.1">attention to the economics the money</text>
+  <text start="1681.92" dur="5.67">stuff and if we don&amp;#39;t learn the money</text>
+  <text start="1685.01" dur="6.63">stuff we will we are doomed to repeat</text>
+  <text start="1687.59" dur="5.52">the mistake so please you know get</text>
+  <text start="1691.64" dur="3.6">educated about this educate your</text>
+  <text start="1693.11" dur="4.89">children I can recommend some some great</text>
+  <text start="1695.24" dur="5.7">places to start if you&amp;#39;re if you want</text>
+  <text start="1698" dur="5.55">some financial literacy Robert Kiyosaki</text>
+  <text start="1700.94" dur="3.66">did like a 40 minute series of videos I</text>
+  <text start="1703.55" dur="3.08">think there&amp;#39;s seven or eight of them</text>
+  <text start="1704.6" dur="5.16">called new rules of money on YouTube</text>
+  <text start="1706.63" dur="5.17">download that keepvid.com and download</text>
+  <text start="1709.76" dur="4.94">that show it to everyone show to your</text>
+  <text start="1711.8" dur="7.08">kids that&amp;#39;s a very very simple</text>
+  <text start="1714.7" dur="8.17">easy-to-understand explanation into kind</text>
+  <text start="1718.88" dur="7.41">of investment financial literacy check</text>
+  <text start="1722.87" dur="4.83">out Mike Melones works I think it&amp;#39;s</text>
+  <text start="1726.29" dur="3.63">called the secrets of money or the</text>
+  <text start="1727.7" dur="4.23">something like that he has a series on</text>
+  <text start="1729.92" dur="3.9">YouTube as well and he goes into crypto</text>
+  <text start="1731.93" dur="4.13">as well he&amp;#39;s a big gold silver guy as</text>
+  <text start="1733.82" dur="2.24">well</text>
+  <text start="1738.48" dur="4.54">I&amp;#39;m sure I can think of some other stuff</text>
+  <text start="1740.59" dur="4.08">to tell people kind of get started I</text>
+  <text start="1743.02" dur="2.82">don&amp;#39;t agree with everything in the</text>
+  <text start="1744.67" dur="4.23">zeitgeist film but they did a wonderful</text>
+  <text start="1745.84" dur="5.13">breakdown of the money system how the</text>
+  <text start="1748.9" dur="6.66">Federal Reserve works and how its rigged</text>
+  <text start="1750.97" dur="9.17">that section is worth it that&amp;#39;s actually</text>
+  <text start="1755.56" dur="8.49">how I learned about them originally and</text>
+  <text start="1760.14" dur="7.86">there are great documentaries on YouTube</text>
+  <text start="1764.05" dur="7.08">there&amp;#39;s a little cartoon one called the</text>
+  <text start="1768" dur="4.96">American dream</text>
+  <text start="1771.13" dur="3.09">it&amp;#39;s got this little cartoon character</text>
+  <text start="1772.96" dur="3.99">he looks kind of like Leonidas from</text>
+  <text start="1774.22" dur="6.15">Sparta so you&amp;#39;ll know you&amp;#39;re at the</text>
+  <text start="1776.95" dur="5.13">right one that one&amp;#39;s pretty good the</text>
+  <text start="1780.37" dur="3.39">history of your enslavement I think was</text>
+  <text start="1782.08" dur="3.95">by stefan molyneux that was pretty good</text>
+  <text start="1783.76" dur="2.27">too</text>
+  <text start="1786.31" dur="3.9">the creature from Jekyll I LIF you want</text>
+  <text start="1788.17" dur="4.5">to get into some reading or there are</text>
+  <text start="1790.21" dur="4.41">video presentations about that from G</text>
+  <text start="1792.67" dur="2.81">Edward Griffin talks about the Federal</text>
+  <text start="1794.62" dur="3.3">Reserve</text>
+  <text start="1795.48" dur="4.11">remember our country actually has been</text>
+  <text start="1797.92" dur="4.08">in a long battle with central banks</text>
+  <text start="1799.59" dur="4.15">Andrew Jackson was I killed the bank</text>
+  <text start="1802" dur="3.03">Jackson but he actually ran on the</text>
+  <text start="1803.74" dur="3.51">platform of getting rid of the first</text>
+  <text start="1805.03" dur="4.44">form of the Federal Reserve they tried</text>
+  <text start="1807.25" dur="5.1">to kill him he&amp;#39;d beat the guy down with</text>
+  <text start="1809.47" dur="7.56">a cane they tried to shoot him that&amp;#39;s my</text>
+  <text start="1812.35" dur="6.51">hero right there so we have been in a</text>
+  <text start="1817.03" dur="4.23">battle with these elite families the</text>
+  <text start="1818.86" dur="3.81">whole history of our country folks we</text>
+  <text start="1821.26" dur="3.3">actually broke away from England because</text>
+  <text start="1822.67" dur="5.85">of central banks like the Federal</text>
+  <text start="1824.56" dur="6.72">Reserve the Central Bank of England what</text>
+  <text start="1828.52" dur="5.34">was it Benjamin Franklin said the prime</text>
+  <text start="1831.28" dur="4.62">cause of the revolution was in the</text>
+  <text start="1833.86" dur="3.66">refusal of King George to allow the</text>
+  <text start="1835.9" dur="5.76">colonies to operate an honest money</text>
+  <text start="1837.52" dur="6.96">system I think that was it so honest</text>
+  <text start="1841.66" dur="4.55">money system means let us use our own</text>
+  <text start="1844.48" dur="4.32">currency like the colonies wanted to do</text>
+  <text start="1846.21" dur="6.43">because that bat-crap over there is</text>
+  <text start="1848.8" dur="5.28">rigged and you&amp;#39;re manipulating it the</text>
+  <text start="1852.64" dur="3.44">same thing we&amp;#39;re doing right now folks</text>
+  <text start="1854.08" dur="4.56">this is what crypto is gonna do for us</text>
+  <text start="1856.08" dur="5.59">except with crypto they can&amp;#39;t track and</text>
+  <text start="1858.64" dur="6.06">trace us and we may come to our battle</text>
+  <text start="1861.67" dur="5.13">with the king over this they&amp;#39;re not</text>
+  <text start="1864.7" dur="5.31">gonna let go of the fiat the power of</text>
+  <text start="1866.8" dur="4.62">the fiat currency like the Rothschild</text>
+  <text start="1870.01" dur="3.57">said give me control of a nation&amp;#39;s</text>
+  <text start="1871.42" dur="4.86">money supply and I care not who makes</text>
+  <text start="1873.58" dur="6.96">the laws obviously they can just buy</text>
+  <text start="1876.28" dur="5.94">whoever they want to make the laws so we</text>
+  <text start="1880.54" dur="5.37">have to take that power the greatest</text>
+  <text start="1882.22" dur="5.1">power on earth the ability to print and</text>
+  <text start="1885.91" dur="3.96">control the money supply we have to take</text>
+  <text start="1887.32" dur="2.91">that away from them and crypto can do</text>
+  <text start="1889.87" dur="4.8">that</text>
+  <text start="1890.23" dur="7.56">so please please look into it with an</text>
+  <text start="1894.67" dur="4.98">open mind and heart because this yes</text>
+  <text start="1897.79" dur="3.54">digital currency can be used for evil</text>
+  <text start="1899.65" dur="2.97">but that is there is a massive</text>
+  <text start="1901.33" dur="3.54">difference you have to understand</text>
+  <text start="1902.62" dur="4.17">between decentralized and centralized</text>
+  <text start="1904.87" dur="4.02">between Bitcoin and something like a</text>
+  <text start="1906.79" dur="3.6">ripple or digital dollars or something</text>
+  <text start="1908.89" dur="4.68">like most dollars are digital now</text>
+  <text start="1910.39" dur="7.74">they&amp;#39;re just ones and zeros in a banks</text>
+  <text start="1913.57" dur="6.72">computer which can be hacked and stolen</text>
+  <text start="1918.13" dur="5.7">from a lot easier than crypto currencies</text>
+  <text start="1920.29" dur="6.27">by the way so the world is adopting this</text>
+  <text start="1923.83" dur="6.12">technology the world is moving toward it</text>
+  <text start="1926.56" dur="5.46">it&amp;#39;s not going to be stopped and I want</text>
+  <text start="1929.95" dur="3.81">the people that are viewing me to be on</text>
+  <text start="1932.02" dur="3.78">the forefront of this when it comes to</text>
+  <text start="1933.76" dur="4.17">making all of that money because all of</text>
+  <text start="1935.8" dur="5.96">the value that the dollar seems to have</text>
+  <text start="1937.93" dur="6.48">that perceived value is going to be lost</text>
+  <text start="1941.76" dur="4.54">about the same portion that the cryptos</text>
+  <text start="1944.41" dur="3.99">are going to be gained and gold and</text>
+  <text start="1946.3" dur="3.81">silver is gonna benefit as well but it&amp;#39;s</text>
+  <text start="1948.4" dur="4.58">still manipulated we don&amp;#39;t know when and</text>
+  <text start="1950.11" dur="5.7">this is more convenient and untrackable</text>
+  <text start="1952.98" dur="4.57">do both whatever do one of the other I</text>
+  <text start="1955.81" dur="5.22">don&amp;#39;t care but just def definitely don&amp;#39;t</text>
+  <text start="1957.55" dur="6.93">stay in the dollar not financial advice</text>
+  <text start="1961.03" dur="5">I don&amp;#39;t go to prison or something this</text>
+  <text start="1964.48" dur="4.28">is just what I&amp;#39;ve learned about</text>
+  <text start="1966.03" dur="6.85">economics and thirteen years of study I</text>
+  <text start="1968.76" dur="5.79">highly recommend taking some time to</text>
+  <text start="1972.88" dur="6.09">learn about the difference between</text>
+  <text start="1974.55" dur="7.83">Keynesian and Austrian economics a good</text>
+  <text start="1978.97" dur="8.7">place to start with these some mises.org</text>
+  <text start="1982.38" dur="7.75">Ludwig von Mises was a survivor of I</text>
+  <text start="1987.67" dur="5.12">believe it was the Holocaust and he came</text>
+  <text start="1990.13" dur="6.09">to the America and started teaching</text>
+  <text start="1992.79" dur="6.55">Austrian economics which is the</text>
+  <text start="1996.22" dur="5.01">free-market laissez-faire stuff whereas</text>
+  <text start="1999.34" dur="3.6">Keynesian economics is the big</text>
+  <text start="2001.23" dur="3.289">government control everything and rigged</text>
+  <text start="2002.94" dur="3.349">the market for the</text>
+  <text start="2004.519" dur="4.88">the winners and losers and central</text>
+  <text start="2006.289" dur="6.33">bank&amp;#39;s stuff and almost every economist</text>
+  <text start="2009.399" dur="6.58">that is considered to be like a</text>
+  <text start="2012.619" dur="4.711">mainstream official economist or</text>
+  <text start="2015.979" dur="3.75">whatever almost all of them are</text>
+  <text start="2017.33" dur="3.929">Keynesian which is why they keep having</text>
+  <text start="2019.729" dur="3.78">terrible predictions and keep having</text>
+  <text start="2021.259" dur="3.691">mistakes and everything else they&amp;#39;ll</text>
+  <text start="2023.509" dur="3.571">never admit it just like a doctor won&amp;#39;t</text>
+  <text start="2024.95" dur="5.429">admit that cancer secured and vaccines</text>
+  <text start="2027.08" dur="4.5">will kill you because it&amp;#39;s their</text>
+  <text start="2030.379" dur="7.29">livelihood it&amp;#39;s what they were taught</text>
+  <text start="2031.58" dur="8.279">their egos are involved anyway that&amp;#39;s it</text>
+  <text start="2037.669" dur="3.69">I think I&amp;#39;ve covered the bases I just</text>
+  <text start="2039.859" dur="2.91">wanted you guys to have a breakdown I</text>
+  <text start="2041.359" dur="3.66">didn&amp;#39;t mean to go as long as I did I&amp;#39;m</text>
+  <text start="2042.769" dur="4.71">gonna go for a walk with the wife baby&amp;#39;s</text>
+  <text start="2045.019" dur="5.37">coming soon she can tell she says she</text>
+  <text start="2047.479" dur="4.86">thinks is gonna be Tuesday we&amp;#39;ll see you</text>
+  <text start="2050.389" dur="4.02">guys I hope you&amp;#39;ve enjoyed this please</text>
+  <text start="2052.339" dur="3.601">like share subscribe share this with</text>
+  <text start="2054.409" dur="3.361">people especially that are on the fence</text>
+  <text start="2055.94" dur="5.129">about cryptos who don&amp;#39;t understand how</text>
+  <text start="2057.77" dur="4.68">it works maybe you know this is not I</text>
+  <text start="2061.069" dur="4.11">don&amp;#39;t have charts I don&amp;#39;t have all the</text>
+  <text start="2062.45" dur="5.25">technical stuff usually that&amp;#39;s not my</text>
+  <text start="2065.179" dur="4.47">style anyway I&amp;#39;m just trying to be</text>
+  <text start="2067.7" dur="3.81">person-to-person and give you kind of an</text>
+  <text start="2069.649" dur="3.9">assessment you know and a place to start</text>
+  <text start="2071.51" dur="4.619">and then you can do your own research</text>
+  <text start="2073.549" dur="6.151">and make up your own mind but please go</text>
+  <text start="2076.129" dur="5.22">into this with an open mind because it&amp;#39;s</text>
+  <text start="2079.7" dur="4.02">good to be fearful of change it&amp;#39;s good</text>
+  <text start="2081.349" dur="4.32">to be skeptical of new things it&amp;#39;s it</text>
+  <text start="2083.72" dur="3.209">that&amp;#39;s what keeps us alive that&amp;#39;s what</text>
+  <text start="2085.669" dur="5.37">keeps us from falling into the like</text>
+  <text start="2086.929" dur="6.2">liberal mind traps the brainwashing but</text>
+  <text start="2091.039" dur="4.02">sometimes a new technology comes along</text>
+  <text start="2093.129" dur="4.301">imagine if the conservative movement</text>
+  <text start="2095.059" dur="3.871">hadn&amp;#39;t adopted the Internet imagine if</text>
+  <text start="2097.43" dur="3.06">we still thought that was just best</text>
+  <text start="2098.93" dur="3.72">crazy internet stuff we don&amp;#39;t do we</text>
+  <text start="2100.49" dur="4.02">don&amp;#39;t do that we would not have the</text>
+  <text start="2102.65" dur="5.31">alternate media we would not have the</text>
+  <text start="2104.51" dur="5.579">massive resistance on the Internet to</text>
+  <text start="2107.96" dur="4.44">the fake news that we do now okay the</text>
+  <text start="2110.089" dur="4.561">internet changed the world for</text>
+  <text start="2112.4" dur="2.939">information you don&amp;#39;t have to go to the</text>
+  <text start="2114.65" dur="2.55">library anymore</text>
+  <text start="2115.339" dur="3.181">you don&amp;#39;t have to go to like meetup</text>
+  <text start="2117.2" dur="3.599">groups you don&amp;#39;t have to try to like</text>
+  <text start="2118.52" dur="4.23">convince just the local people you can</text>
+  <text start="2120.799" dur="3.631">now reach the entire world like I&amp;#39;m</text>
+  <text start="2122.75" dur="4.859">doing now with a camera and a microphone</text>
+  <text start="2124.43" dur="5.609">you can find every bit of information in</text>
+  <text start="2127.609" dur="4.831">human knowledge and human existence and</text>
+  <text start="2130.039" dur="6.861">the whole body of the human experience</text>
+  <text start="2132.44" dur="10.71">on the Internet with a couple clicks</text>
+  <text start="2136.9" dur="9.699">almost everything so this there&amp;#39;s no</text>
+  <text start="2143.15" dur="5.55">excuse anymore to be ignorant about this</text>
+  <text start="2146.599" dur="3.87">stuff the internet changed the way we do</text>
+  <text start="2148.7" dur="3.75">information it gave us the chance for</text>
+  <text start="2150.469" dur="2.88">freedom we wouldn&amp;#39;t have this revolution</text>
+  <text start="2152.45" dur="4.799">right now if it wasn&amp;#39;t for the internet</text>
+  <text start="2153.349" dur="6.27">folks and crypto currencies are gonna</text>
+  <text start="2157.249" dur="4.141">change the way we do money it&amp;#39;s gonna</text>
+  <text start="2159.619" dur="5.011">change our relationship with government</text>
+  <text start="2161.39" dur="5.28">and the corrupt elite better than even</text>
+  <text start="2164.63" dur="4.679">the Internet did for money okay it&amp;#39;s the</text>
+  <text start="2166.67" dur="6.569">new Internet these two technologies are</text>
+  <text start="2169.309" dur="5.55">gonna set us free so let me know if</text>
+  <text start="2173.239" dur="3.211">thoughts are in the comments thank you</text>
+  <text start="2174.859" dur="3.36">guys for sitting through this I realize</text>
+  <text start="2176.45" dur="5.01">it was kind of a longer video I try to</text>
+  <text start="2178.219" dur="5.84">keep them short and let me know we think</text>
+  <text start="2181.46" dur="2.599">I appreciate it</text>
+</transcript>
